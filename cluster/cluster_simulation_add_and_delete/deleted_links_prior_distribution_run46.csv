@@ -1,0 +1,61 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2094,FOS (Fructooligosaccharide),338,Coprococcus comes,2,0.000950768986265782,10,6081
+1,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0021443163671894805,17,9025
+2,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.027581187450477884,32,980
+3,2157,Lactose,812,Parabacteroides distasonis,2,7.854320433453577e-05,34,10204
+4,2093,Formate,159,Bilophila wadsworthia,2,0.0005171921167220761,49,6001
+5,2105,Guanine,965,Ruminococcus flavefaciens,3,0.00010075949993648692,76,22670
+6,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-9.527005487086626e-05,89,13057
+7,2161,Maltose,964,Ruminococcus bromii,2,-0.0005874529680782725,95,10501
+8,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.001532487594947507,287,10631
+9,2055,CO2,126,Bacteroides fragilis,2,0.00012628994048569098,290,3396
+10,2061,D-Fructose (Fructose),1064,Streptococcus salivarius,2,0.0009330090907960775,313,3813
+11,2093,Formate,968,Ruminococcus obeum,2,0.010455214002273117,353,6040
+12,2076,D-Tagatose,880,Prevotella timonensis,3,-0.0010000000000000009,422,20793
+13,2049,Cholic acid (Cholate),314,Clostridium leptum,2,7.358019912562241e-05,500,3125
+14,2098,Glycerol,454,Eubacterium eligens,3,-0.00030374556958867593,524,22142
+15,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.000981126382452846,567,3688
+16,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00031357581681767943,587,3757
+17,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,0.00029784402839716506,794,11454
+18,2079,D-Xylose (Xylose),134,Bacteroides thetaiotaomicron,2,0.0003694484662603026,802,5056
+19,2201,Propanoate (Propionate),75,Anaerostipes caccae,2,0.00010243968138390347,806,12964
+20,2065,D-Galacturonate,126,Bacteroides fragilis,2,-0.0011033648216065561,842,4044
+21,2167,Methylamine (Monomethylamine),895,Pseudoflavonifractor capillosus,2,-0.00020953798044609506,847,10930
+22,2217,Succinate,1065,Streptococcus sanguinis,2,0.00021263656507342077,861,14110
+23,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",1064,Streptococcus salivarius,3,-0.0006519929399566582,870,25557
+24,2107,H2 (Hydrogen),339,Coprococcus eutactus,3,-0.0009999999999998899,1006,22786
+25,2240,"Valerate (Pentanoic acid, Pentanoate)",125,Bacteroides finegoldii (Alistipes finegoldii),2,-0.0001987059187429363,1016,15635
+26,2055,CO2,129,Bacteroides ovatus,2,0.0008962737491746697,1017,3397
+27,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0003716230469601456,1022,6217
+28,2064,D-Galactose,338,Coprococcus comes,2,-0.00024087481930901156,1094,3993
+29,2093,Formate,968,Ruminococcus obeum,2,0.0012482054919800145,1110,6040
+30,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,9.879510802912606e-05,1131,5279
+31,2201,Propanoate (Propionate),75,Anaerostipes caccae,2,0.0002909078315029845,1155,12964
+32,2055,CO2,131,Bacteroides plebeius,2,0.00034458513632085186,1170,3398
+33,2105,Guanine,965,Ruminococcus flavefaciens,3,3.609822401795526e-05,1311,22670
+34,2157,Lactose,1064,Streptococcus salivarius,2,3.140286918801305e-05,1350,10221
+35,2226,"Thiamine (Vitamin B1, Thiamin)",1007,Shigella sonnei,2,-0.0006294970938597322,1379,14754
+36,2223,Taurocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1386,14497
+37,2240,"Valerate (Pentanoic acid, Pentanoate)",125,Bacteroides finegoldii (Alistipes finegoldii),2,0.0014286602965016826,1393,15635
+38,2206,Raffinose,126,Bacteroides fragilis,2,-0.0005302747077056136,1404,13332
+39,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-1.0369843384649968e-05,1437,11460
+40,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0001739544600938281,1495,3976
+41,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00014131591204558092,1563,2968
+42,2130,L-Carnitine (D-Carnitine),1007,Shigella sonnei,2,-0.0010000000000000009,1678,8274
+43,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",1064,Streptococcus salivarius,3,0.0012482937728280907,1723,25557
+44,2167,Methylamine (Monomethylamine),895,Pseudoflavonifractor capillosus,2,0.000890980240963124,1794,10930
+45,2130,L-Carnitine (D-Carnitine),1007,Shigella sonnei,2,0.0010000000000000009,1864,8274
+46,2098,Glycerol,137,Bacteroides xylanisolvens,2,-0.0005597045077679885,1987,6210
+47,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0008597431975626568,2075,6866
+48,2061,D-Fructose (Fructose),149,Bifidobacterium adolescentis,2,-0.0004265378156658173,2098,3763
+49,2035,Biotin (Vitamin B7),1064,Streptococcus salivarius,2,0.0004090321618631654,2200,2373
+50,2074,D-Ribose (Ribose),551,Holdemania filiformis,2,0.0001574726404933724,2216,4728
+51,2098,Glycerol,454,Eubacterium eligens,3,0.0008843537105674981,2304,22142
+52,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,2.6515594590992286e-05,2305,15784
+53,2226,"Thiamine (Vitamin B1, Thiamin)",1007,Shigella sonnei,2,0.0003918810155234542,2483,14754
+54,2076,D-Tagatose,880,Prevotella timonensis,3,0.0010000000000000009,2750,20793
+55,2228,Thymidine,952,Roseburia intestinalis,3,0.00025369776474215566,2769,30803
+56,2206,Raffinose,161,Blautia hansenii (Ruminococcus hansenii),2,-0.0005134314387909011,2775,13346
+57,2217,Succinate,1065,Streptococcus sanguinis,2,0.0007111993112425274,2909,14110
+58,2205,Pyruvate,159,Bilophila wadsworthia,2,-0.0007924253696579564,2982,13273
+59,2228,Thymidine,952,Roseburia intestinalis,3,-9.3690020299797e-05,3081,30803

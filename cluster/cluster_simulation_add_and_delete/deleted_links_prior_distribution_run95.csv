@@ -1,0 +1,39 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,0.0025576921661628615,8,2306
+1,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0036975762500432996,64,10631
+2,2055,CO2,131,Bacteroides plebeius,2,0.0033556698718888445,97,3398
+3,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,2.9562129533200476e-05,143,5272
+4,2217,Succinate,159,Bilophila wadsworthia,2,0.01173038061561027,211,14065
+5,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,9.797693345270364e-05,259,3976
+6,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.00263265088978748,299,15784
+7,2157,Lactose,812,Parabacteroides distasonis,2,0.0008259956434543136,300,10204
+8,2055,CO2,129,Bacteroides ovatus,2,0.0008207216987945465,315,3397
+9,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007666453235244397,364,3973
+10,2157,Lactose,870,Prevotella copri,2,1.6132981395799995e-05,383,10207
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00011363752279269779,407,11460
+12,2222,Taurochenodeoxycholate,149,Bifidobacterium adolescentis,2,0.0005599760392177577,437,14419
+13,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.001361097004998868,447,3760
+14,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.00021637001284557922,449,11509
+15,2081,Deoxycholic acid,461,Eubacterium ventriosum,2,-0.00011101975962557464,530,5227
+16,2089,Ethanol,159,Bilophila wadsworthia,2,-6.944973840461444e-07,556,5713
+17,2093,Formate,159,Bilophila wadsworthia,2,0.003011773063284484,574,6001
+18,2222,Taurochenodeoxycholate,126,Bacteroides fragilis,2,0.0002620128499797314,621,14412
+19,2206,Raffinose,457,Eubacterium rectale,2,-8.209863244679205e-05,661,13361
+20,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0021360679002337957,678,6865
+21,2081,Deoxycholic acid,461,Eubacterium ventriosum,2,3.556006148430768e-06,707,5227
+22,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,0.0003645157463261217,824,4264
+23,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-2.467688890783748e-06,837,11104
+24,2065,D-Galacturonate,126,Bacteroides fragilis,2,-0.0007211810432263821,918,4044
+25,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0001596048021561547,1005,5279
+26,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,-5.250950992174985e-05,1028,10603
+27,2014,Acetate,455,Eubacterium hallii,2,0.0009285078552668802,1038,975
+28,2205,Pyruvate,159,Bilophila wadsworthia,2,-0.0007475133410609347,1183,13273
+29,2055,CO2,457,Eubacterium rectale,2,0.0019207750282387304,1273,3425
+30,2055,CO2,119,Bacteroides caccae,2,0.0008291694492891244,1386,3390
+31,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.0009548977759800126,1454,3400
+32,2206,Raffinose,338,Coprococcus comes,2,-0.0008933682105350949,1474,13353
+33,2041,Caproate (Hexanoate),75,Anaerostipes caccae,3,8.452576775197507e-05,1571,18580
+34,2014,Acetate,401,Desulfovibrio piger,3,-0.0010000000000000009,1793,16883
+35,2041,Caproate (Hexanoate),75,Anaerostipes caccae,3,-7.919497799513397e-05,1906,18580
+36,2055,CO2,126,Bacteroides fragilis,2,0.0008834823715507811,1960,3396
+37,2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,0.0006667824281590962,2040,2306

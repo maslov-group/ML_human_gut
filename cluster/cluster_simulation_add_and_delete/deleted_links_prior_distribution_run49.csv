@@ -1,0 +1,53 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-0.0004644354712506349,29,11101
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0006845102351260568,51,11509
+2,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0015647779636497328,109,9025
+3,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00030859621634138357,134,3760
+4,2217,Succinate,159,Bilophila wadsworthia,2,0.011562619071846858,164,14065
+5,2064,D-Galactose,129,Bacteroides ovatus,2,0.0005782526418197653,169,3973
+6,2093,Formate,159,Bilophila wadsworthia,2,0.002463181781086732,187,6001
+7,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0015926168936120089,241,10603
+8,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.003348571457063465,261,10631
+9,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.005590948296764542,308,6866
+10,2068,D-Glucose (Glucose),952,Roseburia intestinalis,2,-0.0006398723804500461,312,4307
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.0003280506250177284,321,11500
+12,2081,Deoxycholic acid,1065,Streptococcus sanguinis,3,-0.0010021983594589168,337,21166
+13,2225,Taurolithocholate,55,Alistipes shahii,3,-0.0007486367667582927,386,30531
+14,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.00013931683220735902,389,12995
+15,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0008307836565085713,398,11460
+16,2055,CO2,131,Bacteroides plebeius,2,0.0007587528288067746,457,3398
+17,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0003204889954441237,465,11104
+18,2011,4-Aminobutyrate (GABA),870,Prevotella copri,3,0.00028122267328356543,495,16687
+19,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0001849584552828798,507,3112
+20,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.000931298469115327,525,6064
+21,2072,D-Mannose (Mannose),964,Ruminococcus bromii,3,0.0005056843458387528,529,20509
+22,2065,D-Galacturonate,129,Bacteroides ovatus,2,-0.0006504322337769208,572,4045
+23,2041,Caproate (Hexanoate),1064,Streptococcus salivarius,3,0.0006227980196024108,643,18645
+24,2011,4-Aminobutyrate (GABA),870,Prevotella copri,3,0.0021161937513727302,660,16687
+25,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-7.090675209431296e-06,667,13336
+26,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.002225585274171049,694,6865
+27,2221,Taurine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0033345164647080594,704,14351
+28,2225,Taurolithocholate,55,Alistipes shahii,3,-9.326173633894541e-05,709,30531
+29,2167,Methylamine (Monomethylamine),454,Eubacterium eligens,2,0.00024348665038287365,827,10910
+30,2217,Succinate,137,Bacteroides xylanisolvens,3,-0.001000000000000112,840,29970
+31,2136,L-Histidine (Histidine),309,Clostridium difficile,2,-0.0010000000000000009,981,8668
+32,2221,Taurine,159,Bilophila wadsworthia,2,-0.00038375688021552445,1097,14353
+33,2014,Acetate,455,Eubacterium hallii,2,-0.0009628418372965575,1159,975
+34,2036,Butanol,159,Bilophila wadsworthia,2,-0.0010000000000000009,1233,2401
+35,2221,Taurine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0003090615093064297,1248,14351
+36,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.00025807204242667137,1267,3688
+37,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",149,Bifidobacterium adolescentis,2,0.000296730890493313,1454,5275
+38,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,-8.656842258925046e-06,1470,11461
+39,2061,D-Fructose (Fructose),1064,Streptococcus salivarius,2,-0.0004894226600353768,1524,3813
+40,2014,Acetate,457,Eubacterium rectale,2,0.0004806226413855974,1610,977
+41,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",126,Bacteroides fragilis,2,-0.00016047307206201733,1706,1308
+42,2041,Caproate (Hexanoate),1064,Streptococcus salivarius,3,0.001101359825245396,1710,18645
+43,2049,Cholic acid (Cholate),126,Bacteroides fragilis,2,0.0006871848140118653,1711,3108
+44,2167,Methylamine (Monomethylamine),454,Eubacterium eligens,2,-0.0004091040104419186,1765,10910
+45,2055,CO2,126,Bacteroides fragilis,2,0.0005268025267841647,1775,3396
+46,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-0.0003118702498791093,1798,13057
+47,2157,Lactose,812,Parabacteroides distasonis,2,-4.534410604373207e-05,1961,10204
+48,2061,D-Fructose (Fructose),131,Bacteroides plebeius,2,0.000534779193773316,2196,3758
+49,2081,Deoxycholic acid,1065,Streptococcus sanguinis,3,0.0010069047013653298,2270,21166
+50,2072,D-Mannose (Mannose),964,Ruminococcus bromii,3,0.0006224086337613954,2436,20509
+51,2178,"NH3 (Ammonia, NH4+, Ammonium)",1065,Streptococcus sanguinis,3,-0.0010000000000000009,2555,27430

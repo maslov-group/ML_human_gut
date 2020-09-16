@@ -1,0 +1,62 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",54,Alistipes putredinis,2,0.03417730950282383,22,9002
+1,2065,D-Galacturonate,814,Parabacteroides merdae,3,0.007880668614998254,23,19998
+2,2161,Maltose,966,Ruminococcus gnavus,2,0.0062429769747643915,45,10503
+3,2122,Isovalerate (3-Methylbutanoic acid),952,Roseburia intestinalis,3,0.015795299812139785,67,23675
+4,2134,"L-Glutamine (D-Glutamine, Glutamine)",1007,Shigella sonnei,3,0.00022381360764511804,76,24474
+5,2049,Cholic acid (Cholate),968,Ruminococcus obeum,3,0.0007900673324748864,87,19072
+6,2178,"NH3 (Ammonia, NH4+, Ammonium)",314,Clostridium leptum,2,0.00021338589031683064,95,11477
+7,2122,Isovalerate (3-Methylbutanoic acid),968,Ruminococcus obeum,2,0.009915853000162733,115,7768
+8,2212,Spermidine,880,Prevotella timonensis,2,-0.0001839080445718011,117,13809
+9,2122,Isovalerate (3-Methylbutanoic acid),137,Bacteroides xylanisolvens,3,0.004045284318912268,121,23634
+10,2032,beta-alanine (3-Aminopropionate),137,Bacteroides xylanisolvens,3,0.007787340337640725,124,18018
+11,2129,"L-Aspartate (Aspartate, D-Aspartate)",161,Blautia hansenii (Ruminococcus hansenii),3,0.03230173938221026,155,24074
+12,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",953,Roseburia inulinivorans,3,0.003274778885819396,165,24396
+13,2122,Isovalerate (3-Methylbutanoic acid),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.017819210074561886,166,7727
+14,2011,4-Aminobutyrate (GABA),133,Bacteroides stercoris,3,0.0033507839108433135,198,16647
+15,2122,Isovalerate (3-Methylbutanoic acid),456,Eubacterium limosum,3,-0.00042930346774783246,200,23656
+16,2233,Trimethylamine,878,Prevotella salivae,2,0.0015824891344278225,205,15176
+17,2122,Isovalerate (3-Methylbutanoic acid),124,Bacteroides eggerthii,3,0.0015596980217754686,265,23626
+18,2233,Trimethylamine,969,Ruminococcus torques,2,2.8817107861178748e-05,269,15185
+19,2203,Putrescine,121,Bacteroides coprocola,3,8.46608192627274e-05,348,29023
+20,2136,L-Histidine (Histidine),119,Bacteroides caccae,3,0.00472244024072932,373,24558
+21,2143,"L-Lysine (Lysine, D-Lysine)",161,Blautia hansenii (Ruminococcus hansenii),3,0.013037739308999652,374,25082
+22,2122,Isovalerate (3-Methylbutanoic acid),126,Bacteroides fragilis,3,0.0006883468620962896,382,23628
+23,2176,N2,137,Bacteroides xylanisolvens,3,-7.630356564092278e-05,414,27306
+24,2122,Isovalerate (3-Methylbutanoic acid),119,Bacteroides caccae,2,0.004378199858488752,418,7710
+25,2122,Isovalerate (3-Methylbutanoic acid),123,Bacteroides dorei,3,0.0003130923464006452,425,23625
+26,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",314,Clostridium leptum,3,0.0005237113886610301,473,27245
+27,2122,Isovalerate (3-Methylbutanoic acid),966,Ruminococcus gnavus,3,3.399570608786373e-05,477,23679
+28,2125,"L-Alanine (D-Alanine, Alanine)",135,Bacteroides uniformis,3,0.00481774675993818,537,23777
+29,2240,"Valerate (Pentanoic acid, Pentanoate)",123,Bacteroides dorei,3,0.01879722813551421,550,31545
+30,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.00020416032301706633,571,11500
+31,2240,"Valerate (Pentanoic acid, Pentanoate)",55,Alistipes shahii,2,-0.0004934348557913415,594,15627
+32,2122,Isovalerate (3-Methylbutanoic acid),326,Clostridium symbiosum,2,0.00018344931639069362,613,7735
+33,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",314,Clostridium leptum,2,0.00024627055709292023,614,9029
+34,2122,Isovalerate (3-Methylbutanoic acid),551,Holdemania filiformis,3,-0.00029039171209155334,640,23664
+35,2006,2-Aminobutyric acid (2-Aminobutyrate),137,Bacteroides xylanisolvens,3,0.0021697989851630073,666,16290
+36,2178,"NH3 (Ammonia, NH4+, Ammonium)",953,Roseburia inulinivorans,2,0.0027046312367194902,668,11508
+37,2122,Isovalerate (3-Methylbutanoic acid),135,Bacteroides uniformis,2,0.0007412856423274494,669,7721
+38,2011,4-Aminobutyrate (GABA),1099,Sutterella wadsworthensis,2,9.124312883912467e-06,684,791
+39,2134,"L-Glutamine (D-Glutamine, Glutamine)",149,Bifidobacterium adolescentis,3,8.458367549779577e-05,690,24427
+40,2012,5-Aminovalerate,54,Alistipes putredinis,3,0.002124137163852624,696,16706
+41,2238,Urea,966,Ruminococcus gnavus,3,0.0009540387346546053,700,31455
+42,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",158,Bifidobacterium pseudocatenulatum,2,0.0003238500928914867,709,9024
+43,2122,Isovalerate (3-Methylbutanoic acid),339,Coprococcus eutactus,3,-0.0005854619331380206,787,23650
+44,2238,Urea,55,Alistipes shahii,3,0.0017830603431671088,815,31395
+45,2101,Glycodeoxycholate,814,Parabacteroides merdae,3,-5.4053660788699887e-05,825,22374
+46,2011,4-Aminobutyrate (GABA),129,Bacteroides ovatus,3,0.0014311236165224228,869,16645
+47,2155,L-Tyrosine (Tyrosine),952,Roseburia intestinalis,3,0.004756603168686091,886,25979
+48,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",123,Bacteroides dorei,3,0.007586128631068223,918,24345
+49,2240,"Valerate (Pentanoic acid, Pentanoate)",454,Eubacterium eligens,3,0.0016691878404979654,969,31574
+50,2101,Glycodeoxycholate,454,Eubacterium eligens,3,0.0017326949189298002,972,22358
+51,2238,Urea,608,Lactococcus lactis,3,0.0004058008312103345,1076,31441
+52,2238,Urea,338,Coprococcus comes,2,-0.0003543935749256155,1081,15513
+53,2233,Trimethylamine,813,Parabacteroides johnsonii,2,-0.0003631857837185226,1118,15173
+54,2122,Isovalerate (3-Methylbutanoic acid),814,Parabacteroides merdae,3,-0.0009031798504403055,1155,23670
+55,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",461,Eubacterium ventriosum,3,-0.000367585778784596,1186,19411
+56,2107,H2 (Hydrogen),1052,Streptococcus gallolyticus,2,-0.00017441528691042318,1192,6907
+57,2081,Deoxycholic acid,953,Roseburia inulinivorans,2,0.002115283405412005,1199,5244
+58,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.0003327518751579106,1236,11500
+59,2041,Caproate (Hexanoate),131,Bacteroides plebeius,2,-0.0010000000000000009,1293,2678
+60,2201,Propanoate (Propionate),55,Alistipes shahii,3,0.00041860690517436794,1329,28875

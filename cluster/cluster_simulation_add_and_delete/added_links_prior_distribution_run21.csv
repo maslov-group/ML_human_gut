@@ -1,0 +1,44 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2203,Putrescine,54,Alistipes putredinis,2,0.008557038426254548,7,13106
+1,2233,Trimethylamine,878,Prevotella salivae,2,-5.1162928629500115e-05,61,15176
+2,2239,Uridine,119,Bacteroides caccae,3,0.008483966615128624,91,31470
+3,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",969,Ruminococcus torques,2,0.00021146754883982766,92,8489
+4,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",338,Coprococcus comes,3,0.013112675031680787,127,16521
+5,2242,XOS (Xylooligosaccharide),966,Ruminococcus gnavus,2,0.0036196103621863873,143,15831
+6,2122,Isovalerate (3-Methylbutanoic acid),969,Ruminococcus torques,2,-1.8141342151722917e-05,173,7769
+7,2099,Glycochenodeoxycholate,964,Ruminococcus bromii,3,-0.00020457052644262674,178,22237
+8,2070,D-Lyxose (L-Lyxose),126,Bacteroides fragilis,3,0.002071526829914183,186,20316
+9,2153,L-Threonine (Threonine),456,Eubacterium limosum,3,0.002597678540747994,189,25816
+10,2122,Isovalerate (3-Methylbutanoic acid),54,Alistipes putredinis,2,0.0007606946909688439,206,7706
+11,2064,D-Galactose,1099,Sutterella wadsworthensis,2,0.0015932660463684467,224,4031
+12,2160,Malonate,420,Dorea formicigenerans,3,0.0030611988741550133,228,26316
+13,2122,Isovalerate (3-Methylbutanoic acid),814,Parabacteroides merdae,3,0.0004280875345238355,300,23670
+14,2122,Isovalerate (3-Methylbutanoic acid),456,Eubacterium limosum,3,0.0033733516739360425,316,23656
+15,2238,Urea,121,Bacteroides coprocola,3,-0.00017407003813862953,352,31399
+16,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",1007,Shigella sonnei,2,0.0003871176635229512,361,9066
+17,2122,Isovalerate (3-Methylbutanoic acid),457,Eubacterium rectale,3,0.022812544085004105,393,23657
+18,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",326,Clostridium symbiosum,3,-0.00010258761512083048,396,24943
+19,2070,D-Lyxose (L-Lyxose),551,Holdemania filiformis,2,-3.0471137854481967e-05,399,4440
+20,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),796,Odoribacter splanchnicus,2,0.007139719266607947,411,15242
+21,2125,"L-Alanine (D-Alanine, Alanine)",123,Bacteroides dorei,3,0.0123491728158871,421,23769
+22,2122,Isovalerate (3-Methylbutanoic acid),137,Bacteroides xylanisolvens,2,0.0003149433385424283,423,7722
+23,2203,Putrescine,46,Akkermansia muciniphila,2,0.0006157881425785661,428,13105
+24,2038,Butyrate,75,Anaerostipes caccae,2,0.0005921580992517272,444,2524
+25,2122,Isovalerate (3-Methylbutanoic acid),965,Ruminococcus flavefaciens,3,-0.00020048429706209792,453,23678
+26,2238,Urea,339,Coprococcus eutactus,3,0.0008597591509059699,541,31426
+27,2143,"L-Lysine (Lysine, D-Lysine)",401,Desulfovibrio piger,3,-8.789086947491587e-05,602,25091
+28,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",968,Ruminococcus obeum,2,0.00025726009111670667,626,9064
+29,2122,Isovalerate (3-Methylbutanoic acid),425,Eggerthella lenta,2,0.0005817583600625786,636,7741
+30,2221,Taurine,796,Odoribacter splanchnicus,3,5.871732420437148e-05,698,30290
+31,2233,Trimethylamine,123,Bacteroides dorei,2,0.003543127432587667,705,15129
+32,2098,Glycerol,455,Eubacterium hallii,3,-0.00013974678719896882,790,22143
+33,2238,Urea,953,Roseburia inulinivorans,3,0.005717750964464252,833,31452
+34,2238,Urea,125,Bacteroides finegoldii (Alistipes finegoldii),2,0.001294996146607108,854,15491
+35,2140,L-Isoleucine (Isoleucine),135,Bacteroides uniformis,3,0.0042006801507384894,867,24857
+36,2108,H2O2,814,Parabacteroides merdae,2,5.641665923672434e-05,868,6966
+37,2202,"Propanol (n-propanol, 1-Propanol)",314,Clostridium leptum,3,-0.00015237539118717613,907,28973
+38,2122,Isovalerate (3-Methylbutanoic acid),161,Blautia hansenii (Ruminococcus hansenii),3,4.1206795093895465e-06,969,23642
+39,2041,Caproate (Hexanoate),134,Bacteroides thetaiotaomicron,3,0.002482948795621831,1115,18592
+40,2240,"Valerate (Pentanoic acid, Pentanoate)",964,Ruminococcus bromii,2,0.0004114574479590072,1127,15685
+41,2240,"Valerate (Pentanoic acid, Pentanoate)",1064,Streptococcus salivarius,2,0.00015274136167109376,1129,15693
+42,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",456,Eubacterium limosum,3,0.0003549541296764547,1254,25384

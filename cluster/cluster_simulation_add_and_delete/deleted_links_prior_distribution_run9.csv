@@ -1,0 +1,41 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,126,Bacteroides fragilis,2,0.0003569622223645874,11,3396
+1,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0016695239088453384,30,3976
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.00230221084392479,34,11509
+3,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.015589651150350048,47,6866
+4,2055,CO2,123,Bacteroides dorei,2,0.012758903050556714,50,3393
+5,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.002239192878309759,130,6865
+6,2036,Butanol,159,Bilophila wadsworthia,2,-0.0010000000000000009,137,2401
+7,2055,CO2,135,Bacteroides uniformis,2,0.006509751456671653,138,3401
+8,2055,CO2,401,Desulfovibrio piger,2,-0.00018160351881979508,151,3419
+9,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",870,Prevotella copri,2,0.0003539496817941412,158,9631
+10,2180,Nitrate,159,Bilophila wadsworthia,3,0.0008307356400617527,181,27529
+11,2206,Raffinose,878,Prevotella salivae,2,0.000692600652145825,275,13376
+12,2188,"p-Cresol (4-methylphenol, 4-cresol)",159,Bilophila wadsworthia,3,0.002076915742925234,303,28105
+13,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",870,Prevotella copri,2,0.0003333870262819394,404,3727
+14,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,4.599570318120083e-05,422,15780
+15,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0018812280727835695,443,10603
+16,2130,L-Carnitine (D-Carnitine),153,Bifidobacterium breve,2,-0.0010000000000000009,461,8230
+17,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0005438073796604215,632,11462
+18,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,-7.30172821101771e-05,653,10631
+19,2231,Trehalose,137,Bacteroides xylanisolvens,2,-0.0010000000000000009,747,15066
+20,2055,CO2,129,Bacteroides ovatus,2,0.0003157832603902788,775,3397
+21,2206,Raffinose,137,Bacteroides xylanisolvens,2,-0.0010652163782968183,886,13338
+22,2205,Pyruvate,134,Bacteroides thetaiotaomicron,3,-0.0010000000000000009,932,29176
+23,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.000712346044272838,977,3760
+24,2067,D-Glucosamine (Glucosamine),158,Bifidobacterium pseudocatenulatum,2,-2.0293741426868905e-05,988,4200
+25,2217,Succinate,159,Bilophila wadsworthia,2,0.00027457845983669404,1001,14065
+26,2130,L-Carnitine (D-Carnitine),153,Bifidobacterium breve,2,0.0009999999999998899,1005,8230
+27,2094,FOS (Fructooligosaccharide),135,Bacteroides uniformis,2,-0.0007766259996360159,1210,6065
+28,2206,Raffinose,878,Prevotella salivae,2,2.518847464383356e-06,1273,13376
+29,2188,"p-Cresol (4-methylphenol, 4-cresol)",159,Bilophila wadsworthia,3,0.0008908429158704934,1306,28105
+30,2093,Formate,159,Bilophila wadsworthia,2,4.134278586032103e-05,1596,6001
+31,2217,Succinate,401,Desulfovibrio piger,2,0.00043138839006107155,1697,14075
+32,2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,-0.001200995666981619,1830,15625
+33,2180,Nitrate,159,Bilophila wadsworthia,3,0.001006168638188476,1897,27529
+34,2157,Lactose,457,Eubacterium rectale,2,-0.0008891236743249209,2007,10193
+35,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-3.3921997463104425e-05,2020,11460
+36,2161,Maltose,338,Coprococcus comes,2,-0.0008392970787757248,2070,10473
+37,2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,0.001144069758826638,2106,15625
+38,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,-0.00044449466981555386,2179,4588
+39,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,-0.0002600483037920043,2199,4696

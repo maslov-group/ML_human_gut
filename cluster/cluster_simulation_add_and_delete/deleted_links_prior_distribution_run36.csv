@@ -1,0 +1,35 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,126,Bacteroides fragilis,2,0.00035824083460778144,22,3396
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0004267812663251158,27,11460
+2,2217,Succinate,159,Bilophila wadsworthia,2,0.014958028556234293,32,14065
+3,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",870,Prevotella copri,2,0.00043646610950176523,88,9631
+4,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.00597243824233662,115,10631
+5,2014,Acetate,455,Eubacterium hallii,2,0.0001253884758883883,254,975
+6,2055,CO2,135,Bacteroides uniformis,2,0.0014309565354614362,347,3401
+7,2157,Lactose,812,Parabacteroides distasonis,2,-3.0193019075142047e-05,372,10204
+8,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-2.2623797432230752e-05,414,6064
+9,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0012982473592344501,420,3760
+10,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.0005434981747282075,450,3688
+11,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0018012981907249426,475,4552
+12,2224,Taurodeoxycholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,479,14569
+13,2093,Formate,159,Bilophila wadsworthia,2,0.004874221381616528,530,6001
+14,2055,CO2,123,Bacteroides dorei,2,0.012025340695968945,543,3393
+15,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0010232458212019457,552,15784
+16,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,-0.0001602109785043826,678,6865
+17,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0005353876672804514,689,10603
+18,2089,Ethanol,159,Bilophila wadsworthia,2,0.0013413418032934832,712,5713
+19,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0011928565862691087,928,6866
+20,2035,Biotin (Vitamin B7),1064,Streptococcus salivarius,2,0.00016706198980720455,940,2373
+21,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,0.00015345334998473348,949,4549
+22,2222,Taurochenodeoxycholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0009999999999998899,1035,14423
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",309,Clostridium difficile,3,-0.001000000000000112,1131,27388
+24,2071,D-Mannitol (Mannitol),137,Bacteroides xylanisolvens,2,-0.001000000000000112,1328,4482
+25,2242,XOS (Xylooligosaccharide),457,Eubacterium rectale,2,-9.640188656634407e-05,1379,15809
+26,2094,FOS (Fructooligosaccharide),952,Roseburia intestinalis,2,-0.0011048698217951403,1542,6107
+27,2094,FOS (Fructooligosaccharide),129,Bacteroides ovatus,2,-0.0005980775628307011,1696,6061
+28,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00041311094404261617,1828,11104
+29,2155,L-Tyrosine (Tyrosine),134,Bacteroides thetaiotaomicron,2,2.831222250332388e-05,1916,10024
+30,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,-0.00038189650111364326,2050,2981
+31,2178,"NH3 (Ammonia, NH4+, Ammonium)",134,Bacteroides thetaiotaomicron,2,-0.00024189909071714588,2212,11464
+32,2107,H2 (Hydrogen),401,Desulfovibrio piger,2,-0.0007744251680116276,2223,6875
+33,2136,L-Histidine (Histidine),309,Clostridium difficile,2,-0.0009987009413285897,2238,8668

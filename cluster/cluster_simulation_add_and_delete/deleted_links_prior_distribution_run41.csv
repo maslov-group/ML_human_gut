@@ -1,0 +1,43 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2093,Formate,159,Bilophila wadsworthia,2,0.0031769812427624444,0,6001
+1,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",134,Bacteroides thetaiotaomicron,2,-0.0009654919572441578,2,9592
+2,2217,Succinate,796,Odoribacter splanchnicus,2,0.04714600998008822,8,14090
+3,2218,Sucrose,133,Bacteroides stercoris,3,0.0001731346726082661,20,30039
+4,2225,Taurolithocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,39,14641
+5,2014,Acetate,953,Roseburia inulinivorans,2,0.0022343235053627897,132,996
+6,2007,2-methylbutyrate (2-methylbutanoic acid),159,Bilophila wadsworthia,3,0.0006024303982686829,226,16369
+7,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-2.2013864553693807e-05,261,4552
+8,2083,Dichloromethane (Methylene chloride),161,Blautia hansenii (Ruminococcus hansenii),3,0.004855644404504034,330,21266
+9,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0016033461500570834,347,3976
+10,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0005609275955016368,435,6064
+11,2202,"Propanol (n-propanol, 1-Propanol)",969,Ruminococcus torques,2,0.00042606024501190554,455,13097
+12,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,7.143050261582129e-05,491,6865
+13,2007,2-methylbutyrate (2-methylbutanoic acid),964,Ruminococcus bromii,2,2.3991943817969208e-05,513,493
+14,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0019409609562595076,514,10603
+15,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00026988366816926845,526,3760
+16,2217,Succinate,796,Odoribacter splanchnicus,2,0.0021241854038281938,539,14090
+17,2055,CO2,129,Bacteroides ovatus,2,-0.00011049603462864876,607,3397
+18,2055,CO2,126,Bacteroides fragilis,2,0.0002621951553150037,655,3396
+19,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",964,Ruminococcus bromii,2,-3.491805798194747e-05,662,5317
+20,2202,"Propanol (n-propanol, 1-Propanol)",969,Ruminococcus torques,2,0.00019707973555938008,683,13097
+21,2055,CO2,124,Bacteroides eggerthii,2,0.0014944294654534174,725,3394
+22,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",135,Bacteroides uniformis,2,0.0005616141340195613,748,13193
+23,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0006470183644875505,829,6866
+24,2157,Lactose,812,Parabacteroides distasonis,2,0.0008517324518548808,845,10204
+25,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,3,0.0034393810745017017,960,31542
+26,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0018942270185122734,1058,2968
+27,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",135,Bacteroides uniformis,2,0.0003333228642249386,1154,13193
+28,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",134,Bacteroides thetaiotaomicron,2,-0.0008312122013541812,1224,1312
+29,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.0003474185542464703,1396,13057
+30,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,-0.0010000000000000009,1450,9501
+31,2217,Succinate,159,Bilophila wadsworthia,2,0.004005736412658889,1495,14065
+32,2223,Taurocholate,126,Bacteroides fragilis,2,-0.0010000000000000009,1572,14484
+33,2218,Sucrose,133,Bacteroides stercoris,3,0.0011687754562432762,1580,30039
+34,2064,D-Galactose,129,Bacteroides ovatus,2,-0.0004700737857969983,1652,3973
+35,2091,"Folic acid (Folate, Vitamin B9)",608,Lactococcus lactis,2,-0.0005071433179418827,1764,5881
+36,2055,CO2,123,Bacteroides dorei,2,0.00042012911529720753,1859,3393
+37,2007,2-methylbutyrate (2-methylbutanoic acid),159,Bilophila wadsworthia,3,0.0007098434514181129,1867,16369
+38,2178,"NH3 (Ammonia, NH4+, Ammonium)",401,Desulfovibrio piger,2,-0.00012850899227856427,1918,11483
+39,2083,Dichloromethane (Methylene chloride),161,Blautia hansenii (Ruminococcus hansenii),3,0.0010246146383430244,1943,21266
+40,2225,Taurolithocholate,149,Bifidobacterium adolescentis,2,-0.0010000000000000009,1947,14635
+41,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,3,0.0004353007556661126,1976,31542

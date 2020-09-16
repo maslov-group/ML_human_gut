@@ -1,0 +1,48 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2210,Riboflavin (Vitamin B2),54,Alistipes putredinis,2,0.00016432963419465985,2,13610
+1,2088,Erythritol,54,Alistipes putredinis,2,-0.0010000000000000009,8,5618
+2,2055,CO2,135,Bacteroides uniformis,2,0.0020500433783710026,20,3401
+3,2093,Formate,149,Bifidobacterium adolescentis,3,-0.0010000000000000009,22,21907
+4,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,0.003521404904001657,24,2981
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.003419971131032762,38,11462
+6,2055,CO2,123,Bacteroides dorei,2,0.016558934882236587,59,3393
+7,2055,CO2,126,Bacteroides fragilis,2,0.002831351116700298,69,3396
+8,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-0.0002920532482642013,86,5272
+9,2073,D-Psicose,964,Ruminococcus bromii,2,0.0002416309849164744,127,4669
+10,2093,Formate,964,Ruminococcus bromii,3,-0.0010000000000000009,303,21949
+11,2064,D-Galactose,129,Bacteroides ovatus,2,-0.000252835926992212,334,3973
+12,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.000783523688219212,396,3112
+13,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",965,Ruminococcus flavefaciens,3,-0.00018629924832958,406,24398
+14,2014,Acetate,455,Eubacterium hallii,2,-0.00010069329574391439,427,975
+15,2088,Erythritol,54,Alistipes putredinis,2,0.0010000000000000009,514,5618
+16,2055,CO2,133,Bacteroides stercoris,2,-0.00015623705814638011,521,3399
+17,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0010570176196825765,611,3760
+18,2158,Linoleic acid (Omega-6 fatty acid),952,Roseburia intestinalis,2,-0.00024326383951922548,642,10283
+19,2073,D-Psicose,149,Bifidobacterium adolescentis,2,0.0011683822380121889,658,4627
+20,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,4.6622141247176785e-05,724,11509
+21,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.00035613543531165526,832,4552
+22,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.00014987387983178557,889,11500
+23,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0006519254986714351,999,3976
+24,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,3.8317880820648575e-05,1089,11460
+25,2069,D-Glucuronic acid (D-Glucuronate),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.000781024456480095,1107,4343
+26,2073,D-Psicose,152,Bifidobacterium bifidum,2,0.00014583065330198153,1115,4629
+27,2127,L-Arginine (Arginine),339,Coprococcus eutactus,3,0.0002186098239715939,1128,23938
+28,2064,D-Galactose,124,Bacteroides eggerthii,2,-0.00015391760120953002,1199,3970
+29,2161,Maltose,870,Prevotella copri,2,-0.00022380835862800819,1253,10495
+30,2093,Formate,159,Bilophila wadsworthia,2,8.777795294057089e-05,1282,6001
+31,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",968,Ruminococcus obeum,2,-0.0008265652001383517,1299,9640
+32,2055,CO2,131,Bacteroides plebeius,2,0.0009851740816451127,1337,3398
+33,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.0014706604283505342,1424,3400
+34,2055,CO2,129,Bacteroides ovatus,2,-0.00013134634164158054,1681,3397
+35,2210,Riboflavin (Vitamin B2),54,Alistipes putredinis,2,0.0007433294177017213,1749,13610
+36,2053,Citrate,119,Bacteroides caccae,3,0.00023341864947745705,1759,19230
+37,2073,D-Psicose,134,Bacteroides thetaiotaomicron,2,8.858329796790354e-05,1835,4624
+38,2064,D-Galactose,420,Dorea formicigenerans,2,-0.00014182404338425325,1886,3996
+39,2053,Citrate,119,Bacteroides caccae,3,0.00016364606662366832,2003,19230
+40,2107,H2 (Hydrogen),796,Odoribacter splanchnicus,3,-0.0010000000000000009,2045,22802
+41,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",965,Ruminococcus flavefaciens,3,0.0010001048959568104,2064,24398
+42,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",314,Clostridium leptum,2,-5.20720990557777e-05,2071,5285
+43,2061,D-Fructose (Fructose),152,Bifidobacterium bifidum,2,-0.00023630151933751176,2114,3765
+44,2201,Propanoate (Propionate),54,Alistipes putredinis,3,-0.0010000000000000009,2125,28874
+45,2127,L-Arginine (Arginine),339,Coprococcus eutactus,3,0.0005981885318631086,2193,23938
+46,2068,D-Glucose (Glucose),513,Haemophilus parainfluenzae,2,-0.0007143686484807343,2394,4295

@@ -1,0 +1,55 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.015503943049458568,12,6866
+1,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.002801561651412876,71,6865
+2,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,-0.00046803402286610396,86,4549
+3,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,1.687875542488726e-05,87,11463
+4,2188,"p-Cresol (4-methylphenol, 4-cresol)",1099,Sutterella wadsworthensis,2,-0.0010000000000000009,92,12239
+5,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",134,Bacteroides thetaiotaomicron,2,-0.00023849280557286523,135,1312
+6,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.00017216006880027557,136,3688
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00022190453379078434,137,11460
+8,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004427134435879387,155,10631
+9,2093,Formate,159,Bilophila wadsworthia,2,0.0036204064197523644,189,6001
+10,2064,D-Galactose,129,Bacteroides ovatus,2,0.0003983699290304177,230,3973
+11,2157,Lactose,812,Parabacteroides distasonis,2,0.0014864794762420308,282,10204
+12,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0017232219668554816,370,3976
+13,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",964,Ruminococcus bromii,2,-0.0010000000000000009,391,12373
+14,2217,Succinate,159,Bilophila wadsworthia,2,0.011032104493900796,393,14065
+15,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,0.001046175825949236,427,4333
+16,2089,Ethanol,159,Bilophila wadsworthia,2,0.00010990057449689061,451,5713
+17,2055,CO2,126,Bacteroides fragilis,2,0.0018117095646242865,455,3396
+18,2108,H2O2,1054,Streptococcus infantarius,3,-0.0010000000000000009,462,22892
+19,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.0009595456731482654,464,13057
+20,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",870,Prevotella copri,2,-0.0005626416387626287,516,3727
+21,2238,Urea,121,Bacteroides coprocola,3,0.0005394858852555418,538,31399
+22,2055,CO2,123,Bacteroides dorei,2,0.005774879864435034,545,3393
+23,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,0.0005679482541628422,555,4336
+24,2055,CO2,131,Bacteroides plebeius,2,0.0009811037949576384,617,3398
+25,2161,Maltose,137,Bacteroides xylanisolvens,2,0.0008152874370953578,619,10458
+26,2055,CO2,401,Desulfovibrio piger,2,-0.0004165992507787486,650,3419
+27,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.004164652916986311,692,980
+28,2014,Acetate,455,Eubacterium hallii,2,0.0001786950846573987,746,975
+29,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00034627899625183645,815,2968
+30,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",870,Prevotella copri,3,-0.000599678992495245,871,16039
+31,2055,CO2,129,Bacteroides ovatus,2,0.0007710383928885012,903,3397
+32,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",870,Prevotella copri,3,0.0008434241321375602,906,16039
+33,2098,Glycerol,159,Bilophila wadsworthia,2,-1.3629092083800032e-06,911,6217
+34,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.001919840401846784,949,10603
+35,2188,"p-Cresol (4-methylphenol, 4-cresol)",1099,Sutterella wadsworthensis,2,0.0010000000000000009,1062,12239
+36,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0001352793158018173,1115,15784
+37,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.0003263910080661958,1165,12995
+38,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0012052920415804858,1222,3760
+39,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.0003713927583349763,1227,13336
+40,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00015632030707257716,1301,11104
+41,2068,D-Glucose (Glucose),152,Bifidobacterium bifidum,2,-0.0010154368894300658,1526,4269
+42,2122,Isovalerate (3-Methylbutanoic acid),964,Ruminococcus bromii,2,0.0022680403883811318,1556,7765
+43,2055,CO2,457,Eubacterium rectale,2,0.001151490280806411,1584,3425
+44,2055,CO2,121,Bacteroides coprocola,2,0.00038779079363104874,1725,3391
+45,2238,Urea,121,Bacteroides coprocola,3,0.0002863655642639795,1731,31399
+46,2132,L-Fucose,126,Bacteroides fragilis,2,-0.0010000000000000009,1775,8364
+47,2069,D-Glucuronic acid (D-Glucuronate),126,Bacteroides fragilis,2,0.0010672617674805096,1799,4332
+48,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.00037910920882155974,1899,3112
+49,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,-3.593856008143881e-05,1937,9501
+50,2061,D-Fructose (Fructose),133,Bacteroides stercoris,2,-0.0007192946645253606,1987,3759
+51,2089,Ethanol,964,Ruminococcus bromii,3,-0.0010000000000000009,2008,21661
+52,2206,Raffinose,812,Parabacteroides distasonis,2,-6.937939358875322e-05,2009,13372
+53,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",129,Bacteroides ovatus,2,-0.001278556372596218,2107,5269

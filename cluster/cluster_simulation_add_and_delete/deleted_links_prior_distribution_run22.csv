@@ -1,0 +1,23 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2202,"Propanol (n-propanol, 1-Propanol)",966,Ruminococcus gnavus,2,0.00038913832915499214,0,13095
+1,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0007218738916262568,35,15784
+2,2064,D-Galactose,129,Bacteroides ovatus,2,0.00042113109159147566,122,3973
+3,2055,CO2,126,Bacteroides fragilis,2,0.0003032587335816128,137,3396
+4,2055,CO2,129,Bacteroides ovatus,2,0.0011340816906894036,141,3397
+5,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",870,Prevotella copri,2,0.002388571065599643,230,9631
+6,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0009461539144657305,237,10631
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,5.4186064564754055e-05,256,11500
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,3.389338150250332e-05,283,11460
+9,2242,XOS (Xylooligosaccharide),953,Roseburia inulinivorans,2,0.00022821734913158753,292,15828
+10,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.000677294256759331,387,3760
+11,2217,Succinate,159,Bilophila wadsworthia,2,0.002179707875606174,412,14065
+12,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",129,Bacteroides ovatus,2,-0.0006244702873358099,428,9589
+13,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00203027067780448,586,2968
+14,2161,Maltose,457,Eubacterium rectale,2,0.00030342472378230845,656,10481
+15,2107,H2 (Hydrogen),455,Eubacterium hallii,3,-0.001000000000000112,984,22791
+16,2202,"Propanol (n-propanol, 1-Propanol)",966,Ruminococcus gnavus,2,-0.00026475473441300856,1021,13095
+17,2068,D-Glucose (Glucose),126,Bacteroides fragilis,2,-0.00046727829846293645,1029,4260
+18,2157,Lactose,812,Parabacteroides distasonis,2,0.0006382128216824157,1136,10204
+19,2055,CO2,123,Bacteroides dorei,2,0.004972792184155805,1173,3393
+20,2129,"L-Aspartate (Aspartate, D-Aspartate)",457,Eubacterium rectale,2,-0.0010000000000000009,1202,8177
+21,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,7.39934844262713e-05,1229,6064

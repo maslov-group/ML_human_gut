@@ -1,0 +1,49 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0156563842310814,15,6866
+1,2014,Acetate,953,Roseburia inulinivorans,2,0.00042971201786679014,54,996
+2,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00016657345213111352,102,3760
+3,2014,Acetate,420,Dorea formicigenerans,3,-0.0010000000000000009,104,16884
+4,2023,alpha-Linolenic acid (Omega-3 fatty acid),870,Prevotella copri,3,0.002654667972184388,118,17479
+5,2221,Taurine,159,Bilophila wadsworthia,2,-0.0010000000000000009,124,14353
+6,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.0007588011271865147,187,11101
+7,2049,Cholic acid (Cholate),608,Lactococcus lactis,3,0.0003593025749430989,261,19057
+8,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0027392778768018378,292,10631
+9,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,6.931795459708123e-05,309,3757
+10,2107,H2 (Hydrogen),158,Bifidobacterium pseudocatenulatum,3,-0.001160307890504475,327,22776
+11,2224,Taurodeoxycholate,133,Bacteroides stercoris,3,0.0037591115829440636,340,30471
+12,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0004460014445096805,355,15784
+13,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00019269405108690574,363,11460
+14,2227,Thiosulfate,159,Bilophila wadsworthia,2,-0.0010000000000000009,374,14785
+15,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00043113867213340207,515,2968
+16,2064,D-Galactose,129,Bacteroides ovatus,2,0.0004519970431799969,550,3973
+17,2055,CO2,126,Bacteroides fragilis,2,0.0003058886267297556,577,3396
+18,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,-1.7319967137163772e-05,592,11461
+19,2238,Urea,1007,Shigella sonnei,2,0.0017380424623698598,700,15546
+20,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.0002478529677381047,721,3400
+21,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0011133481771667952,785,11104
+22,2107,H2 (Hydrogen),158,Bifidobacterium pseudocatenulatum,3,0.001031309808911418,861,22776
+23,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-6.769911661086425e-05,890,6064
+24,2014,Acetate,339,Coprococcus eutactus,2,0.00019716936006641816,911,970
+25,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,-0.00040069792177144237,985,3976
+26,2187,Oxaloacetate,129,Bacteroides ovatus,3,-0.00030287289287111996,987,28021
+27,2055,CO2,131,Bacteroides plebeius,3,-0.0010000000000000009,1080,19310
+28,2187,Oxaloacetate,129,Bacteroides ovatus,3,0.00041317709372445943,1102,28021
+29,2224,Taurodeoxycholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.00021347116658299026,1116,14567
+30,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,7.939928292843845e-05,1171,4696
+31,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0003148522739897519,1251,3112
+32,2023,alpha-Linolenic acid (Omega-3 fatty acid),870,Prevotella copri,3,0.0010076692280933663,1294,17479
+33,2157,Lactose,870,Prevotella copri,2,0.00039696823930823744,1309,10207
+34,2093,Formate,159,Bilophila wadsworthia,2,0.00262730756851548,1322,6001
+35,2238,Urea,1007,Shigella sonnei,2,0.0006829539341953739,1352,15546
+36,2089,Ethanol,159,Bilophila wadsworthia,2,0.00022352477480525046,1364,5713
+37,2049,Cholic acid (Cholate),608,Lactococcus lactis,3,0.00039856553941952644,1382,19057
+38,2118,Isethionate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1525,7441
+39,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.001225474473148247,1534,6865
+40,2098,Glycerol,401,Desulfovibrio piger,2,-0.0007665743791563928,1566,6227
+41,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0007480896234872692,1580,3756
+42,2073,D-Psicose,152,Bifidobacterium bifidum,2,-0.0010000000000000009,1581,4629
+43,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,-0.00038629380734045426,1618,1348
+44,2163,Menaquinone (Vitamin K2),152,Bifidobacterium bifidum,2,0.00018938063933382487,1664,10605
+45,2224,Taurodeoxycholate,133,Bacteroides stercoris,3,0.0010043046637978614,1776,30471
+46,2064,D-Galactose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-8.409314015644931e-05,1795,3983
+47,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",326,Clostridium symbiosum,2,-0.0010000000000000009,1808,12343

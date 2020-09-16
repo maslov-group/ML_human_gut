@@ -1,0 +1,35 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,126,Bacteroides fragilis,2,0.0003573315628623286,5,3396
+1,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.01591582776573186,50,6866
+2,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,7.360297791147996e-05,85,5272
+3,2157,Lactose,812,Parabacteroides distasonis,2,-2.4511821822836843e-05,130,10204
+4,2188,"p-Cresol (4-methylphenol, 4-cresol)",966,Ruminococcus gnavus,2,-4.3046370119426136e-05,171,12231
+5,2093,Formate,159,Bilophila wadsworthia,2,0.004798562929821171,228,6001
+6,2107,H2 (Hydrogen),326,Clostridium symbiosum,3,-0.0010000000000000009,235,22783
+7,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0017192541340750322,245,3976
+8,2014,Acetate,455,Eubacterium hallii,2,0.00010822082262829102,252,975
+9,2109,H2S (HS-),159,Bilophila wadsworthia,3,-0.0010000000000000009,304,22921
+10,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,0.00044789504938458347,340,3757
+11,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.005322072700098213,368,6865
+12,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.00314668011416519,421,10631
+13,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",401,Desulfovibrio piger,2,0.00020196817343631768,570,9035
+14,2197,Phylloquinone (Vitamin K1),159,Bilophila wadsworthia,3,-1.1649906504596075e-05,796,28681
+15,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0005128164976928584,839,11104
+16,2055,CO2,129,Bacteroides ovatus,2,0.00014897837771021827,840,3397
+17,2217,Succinate,159,Bilophila wadsworthia,2,0.0062166037754215475,867,14065
+18,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0003201332035530635,872,11460
+19,2014,Acetate,119,Bacteroides caccae,3,-0.0010000000000000009,898,16854
+20,2188,"p-Cresol (4-methylphenol, 4-cresol)",966,Ruminococcus gnavus,2,0.0010002565742035507,974,12231
+21,2117,"Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)",54,Alistipes putredinis,3,-4.6585782561558986e-05,1034,23258
+22,2088,Erythritol,551,Holdemania filiformis,2,-0.0010000000000000009,1061,5664
+23,2154,L-Tryptophan (Tryptophan),309,Clostridium difficile,2,-0.0010000000000000009,1096,9964
+24,2061,D-Fructose (Fructose),121,Bacteroides coprocola,2,-0.0005999474548763484,1155,3751
+25,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0007598357767002462,1284,4552
+26,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",126,Bacteroides fragilis,2,0.0016816410424216333,1373,9012
+27,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0016134920995612978,1439,2968
+28,2142,L-Leucine (Leucine),134,Bacteroides thetaiotaomicron,2,0.006973399636643229,1444,9088
+29,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1064,Streptococcus salivarius,2,0.0012010904512520515,1461,11589
+30,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0011345759588385906,1730,6064
+31,2227,Thiosulfate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1867,14785
+32,2197,Phylloquinone (Vitamin K1),159,Bilophila wadsworthia,3,0.0012026733590095873,1987,28681
+33,2117,"Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)",54,Alistipes putredinis,3,0.0005258677375545862,2182,23258

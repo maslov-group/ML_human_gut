@@ -1,0 +1,51 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2093,Formate,159,Bilophila wadsworthia,2,0.0033473845531407642,23,6001
+1,2055,CO2,126,Bacteroides fragilis,2,0.0004674778245751243,34,3396
+2,2206,Raffinose,812,Parabacteroides distasonis,2,-9.758033312445846e-05,40,13372
+3,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.0002658096193444148,80,3688
+4,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0002337924269554259,94,11461
+5,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.00010264300153517425,115,11104
+6,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.02741392388440589,163,980
+7,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,0.0031746212447484323,177,2981
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.00027884532580746413,196,11500
+9,2055,CO2,133,Bacteroides stercoris,2,-7.66640196091517e-05,254,3399
+10,2217,Succinate,159,Bilophila wadsworthia,2,0.005942285873116737,275,14065
+11,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.0013082914624091835,294,9047
+12,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.01707303331411225,297,6866
+13,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0036616087053029656,313,6865
+14,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,0.0017050377499603364,341,13336
+15,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0014670595502318529,351,11462
+16,2089,Ethanol,159,Bilophila wadsworthia,2,-0.0002486008486989322,358,5713
+17,2055,CO2,129,Bacteroides ovatus,2,0.0009232258737001953,370,3397
+18,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),134,Bacteroides thetaiotaomicron,2,0.0011637218003504035,480,11248
+19,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.000783673295927434,505,15784
+20,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00047197962195533183,554,3760
+21,2157,Lactose,329,Collinsella aerofaciens (Eubacterium aerofaciens),2,2.1961516570634387e-05,561,10184
+22,2157,Lactose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0008447957576884768,753,10175
+23,2134,"L-Glutamine (D-Glutamine, Glutamine)",457,Eubacterium rectale,2,4.9204461305407676e-05,764,8537
+24,2038,Butyrate,456,Eubacterium limosum,2,-0.00018493957430121277,818,2560
+25,2035,Biotin (Vitamin B7),964,Ruminococcus bromii,2,-0.00029572425281942927,860,2365
+26,2055,CO2,457,Eubacterium rectale,2,0.0031109339934016766,868,3425
+27,2076,D-Tagatose,870,Prevotella copri,3,0.0008981642193817141,871,20791
+28,2178,"NH3 (Ammonia, NH4+, Ammonium)",134,Bacteroides thetaiotaomicron,2,-0.00017484683261814737,877,11464
+29,2125,"L-Alanine (D-Alanine, Alanine)",870,Prevotella copri,2,0.0003394835623571346,959,7903
+30,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.001420220255720972,965,10631
+31,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00014017755454931446,1039,2968
+32,2074,D-Ribose (Ribose),796,Odoribacter splanchnicus,2,0.0005016537122207732,1130,4730
+33,2025,Anthranilate (o-amino-benzoic acid),133,Bacteroides stercoris,3,-0.0008339169992421791,1185,17583
+34,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",870,Prevotella copri,2,9.80035193415274e-05,1297,9631
+35,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,-0.00017612293945812318,1304,15780
+36,2238,Urea,149,Bifidobacterium adolescentis,2,-0.0007694867459842047,1353,15499
+37,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",134,Bacteroides thetaiotaomicron,2,0.0002552781510117841,1429,9448
+38,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0013596344148767425,1491,10603
+39,2061,D-Fructose (Fructose),338,Coprococcus comes,2,-0.0003490477901764155,1741,3777
+40,2074,D-Ribose (Ribose),796,Odoribacter splanchnicus,2,0.0010707237031862826,1779,4730
+41,2025,Anthranilate (o-amino-benzoic acid),133,Bacteroides stercoris,3,0.0007016394800675174,1791,17583
+42,2088,Erythritol,551,Holdemania filiformis,2,-0.0010000000000000009,1829,5664
+43,2129,"L-Aspartate (Aspartate, D-Aspartate)",1064,Streptococcus salivarius,2,-0.0010000000000000009,1877,8205
+44,2156,"L-Valine (Valine, D-Valine)",134,Bacteroides thetaiotaomicron,2,0.00027734139007307146,1892,10096
+45,2125,"L-Alanine (D-Alanine, Alanine)",870,Prevotella copri,2,0.0034492517243295273,1897,7903
+46,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,-0.0003153561928774806,1907,4048
+47,2038,Butyrate,456,Eubacterium limosum,2,0.0002101315034156448,2082,2560
+48,2094,FOS (Fructooligosaccharide),135,Bacteroides uniformis,2,-0.000656672636872857,2092,6065
+49,2076,D-Tagatose,870,Prevotella copri,3,0.0005667886050400028,2121,20791

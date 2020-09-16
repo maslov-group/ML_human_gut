@@ -1,0 +1,50 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,0.0010410482351527195,6,4549
+1,2055,CO2,126,Bacteroides fragilis,2,0.0005791887524417838,11,3396
+2,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.015916268178094772,36,6866
+3,2014,Acetate,953,Roseburia inulinivorans,2,0.0006606089390269743,46,996
+4,2014,Acetate,455,Eubacterium hallii,2,0.00011821482486917834,116,975
+5,2093,Formate,159,Bilophila wadsworthia,2,0.0011345787487048176,121,6001
+6,2157,Lactose,339,Coprococcus eutactus,2,1.6105855651038503e-05,133,10186
+7,2043,Cellobiose,137,Bacteroides xylanisolvens,2,-0.0010000000000000009,137,2826
+8,2107,H2 (Hydrogen),260,Catenibacterium mitsuokai,2,0.00024066185002380447,172,6867
+9,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.00091790137681802,191,3976
+10,2055,CO2,457,Eubacterium rectale,2,0.003325336722050487,220,3425
+11,2055,CO2,129,Bacteroides ovatus,2,0.0005024391944039586,227,3397
+12,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0007489224871831679,261,3760
+13,2132,L-Fucose,158,Bifidobacterium pseudocatenulatum,2,-0.0010000000000000009,290,8376
+14,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",133,Bacteroides stercoris,2,2.9926015327363942e-05,332,5271
+15,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0015612792705241851,387,2968
+16,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0025988612181915283,405,15784
+17,2076,D-Tagatose,461,Eubacterium ventriosum,2,-0.0010000000000000009,442,4867
+18,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.001076126647944875,548,10603
+19,2076,D-Tagatose,461,Eubacterium ventriosum,2,0.0010000000000000009,561,4867
+20,2055,CO2,134,Bacteroides thetaiotaomicron,2,-0.00033941223163402867,563,3400
+21,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.001244600729639167,566,11460
+22,2064,D-Galactose,953,Roseburia inulinivorans,3,0.0004695540128922815,568,19932
+23,2064,D-Galactose,129,Bacteroides ovatus,2,0.0001562652759845573,574,3973
+24,2055,CO2,131,Bacteroides plebeius,2,0.001178500384661274,666,3398
+25,2055,CO2,135,Bacteroides uniformis,2,0.00037843748688970447,747,3401
+26,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,-0.0010000000000000009,758,9501
+27,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",134,Bacteroides thetaiotaomicron,2,0.0011361814563557449,768,1312
+28,2043,Cellobiose,952,Roseburia intestinalis,2,-0.0009999999999998899,925,2867
+29,2217,Succinate,159,Bilophila wadsworthia,2,0.004983623906447798,958,14065
+30,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,4.809917925197027e-05,975,15780
+31,2231,Trehalose,134,Bacteroides thetaiotaomicron,2,-0.0009999999999998899,995,15064
+32,2238,Urea,131,Bacteroides plebeius,3,0.0001327924847689399,1177,31406
+33,2238,Urea,131,Bacteroides plebeius,3,0.0019236417592276567,1310,31406
+34,2131,"L-Cysteine (Cysteine, D-Cysteine)",134,Bacteroides thetaiotaomicron,2,0.0006004462151409928,1345,8296
+35,2061,D-Fructose (Fructose),420,Dorea formicigenerans,2,1.808555654270183e-05,1504,3780
+36,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,9.714536819072084e-05,1548,11509
+37,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.00036195628088286913,1628,6064
+38,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,0.00011109888766092091,1652,4048
+39,2003,"1,2-Ethanediol (Ethylene glycol)",513,Haemophilus parainfluenzae,2,0.00011272901038605898,1740,191
+40,2131,"L-Cysteine (Cysteine, D-Cysteine)",812,Parabacteroides distasonis,2,0.00012036572483287156,1758,8332
+41,2161,Maltose,339,Coprococcus eutactus,2,0.0007446518556699644,1769,10474
+42,2003,"1,2-Ethanediol (Ethylene glycol)",513,Haemophilus parainfluenzae,2,0.00029396828422278976,1864,191
+43,2242,XOS (Xylooligosaccharide),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0001763530431999616,1924,15791
+44,2064,D-Galactose,953,Roseburia inulinivorans,3,0.00012672202430441537,1987,19932
+45,2089,Ethanol,401,Desulfovibrio piger,2,0.0006541359819175474,2013,5723
+46,2107,H2 (Hydrogen),260,Catenibacterium mitsuokai,2,0.0012565502006062212,2112,6867
+47,2161,Maltose,260,Catenibacterium mitsuokai,2,-0.0009191182901757688,2117,10467
+48,2043,Cellobiose,551,Holdemania filiformis,2,-0.0010000000000000009,2212,2856

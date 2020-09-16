@@ -1,0 +1,46 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2014,Acetate,455,Eubacterium hallii,2,0.0007782334916733857,1,975
+1,2038,Butyrate,54,Alistipes putredinis,2,0.04049259676755568,12,2522
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.005829480713390067,31,11457
+3,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0018428288615174315,47,3976
+4,2079,D-Xylose (Xylose),129,Bacteroides ovatus,2,0.00025034776899712785,91,5053
+5,2073,D-Psicose,878,Prevotella salivae,2,-0.0010000000000000009,136,4664
+6,2064,D-Galactose,129,Bacteroides ovatus,2,0.0006548756196036454,143,3973
+7,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,-2.185422245726265e-05,156,4696
+8,2094,FOS (Fructooligosaccharide),464,Faecalibacterium prausnitzii,2,0.00011462500961678668,286,6092
+9,2055,CO2,126,Bacteroides fragilis,2,0.0002430312642907051,316,3396
+10,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0002397552388271329,336,11460
+11,2068,D-Glucose (Glucose),812,Parabacteroides distasonis,2,0.0007038217074395448,363,4300
+12,2093,Formate,159,Bilophila wadsworthia,2,0.0010673715999549582,430,6001
+13,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.008300760691697606,535,6866
+14,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",964,Ruminococcus bromii,2,0.00014418799547988304,545,1357
+15,2240,"Valerate (Pentanoic acid, Pentanoate)",1052,Streptococcus gallolyticus,3,0.001189019441519945,577,31603
+16,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0002263092831114033,634,6865
+17,2064,D-Galactose,46,Akkermansia muciniphila,3,-0.0010000000000000009,666,19873
+18,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,0.0005982982842405171,685,13336
+19,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0002568868096727295,726,2968
+20,2217,Succinate,159,Bilophila wadsworthia,2,0.00041894577304435465,751,14065
+21,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0032335702490529084,752,3760
+22,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",1007,Shigella sonnei,2,-0.00012592859160431846,830,9066
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.00033292504939519407,984,11500
+24,2206,Raffinose,812,Parabacteroides distasonis,2,-0.00021507238053719568,1108,13372
+25,2032,beta-alanine (3-Aminopropionate),55,Alistipes shahii,3,0.0014603711098769567,1111,18003
+26,2038,Butyrate,54,Alistipes putredinis,2,-6.388142997737489e-05,1118,2522
+27,2073,D-Psicose,878,Prevotella salivae,2,0.001000000000000112,1206,4664
+28,2161,Maltose,76,Anaerotruncus colihominis,2,-0.0010358576854120338,1239,10445
+29,2129,"L-Aspartate (Aspartate, D-Aspartate)",1064,Streptococcus salivarius,2,-0.0008223060592370546,1282,8205
+30,2055,CO2,121,Bacteroides coprocola,2,-0.00025604197242301563,1461,3391
+31,2072,D-Mannose (Mannose),814,Parabacteroides merdae,2,-0.0001798202235950841,1489,4590
+32,2093,Formate,464,Faecalibacterium prausnitzii,3,-0.0010000000000000009,1571,21932
+33,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-3.856194029072668e-05,1592,3757
+34,2081,Deoxycholic acid,314,Clostridium leptum,2,-0.00018439638112055512,1673,5213
+35,2240,"Valerate (Pentanoic acid, Pentanoate)",1052,Streptococcus gallolyticus,3,0.0007205118280675382,1711,31603
+36,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0001277689651403291,1733,11509
+37,2032,beta-alanine (3-Aminopropionate),55,Alistipes shahii,3,1.2455810074918361e-05,1780,18003
+38,2064,D-Galactose,46,Akkermansia muciniphila,3,0.0010000000000000009,1816,19873
+39,2107,H2 (Hydrogen),456,Eubacterium limosum,3,-0.0010000000000000009,1829,22792
+40,2136,L-Histidine (Histidine),1064,Streptococcus salivarius,2,-0.0010000000000000009,1909,8709
+41,2055,CO2,457,Eubacterium rectale,2,0.001533792966778802,1921,3425
+42,2081,Deoxycholic acid,314,Clostridium leptum,2,0.0001327937682904512,1951,5213
+43,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",1007,Shigella sonnei,2,0.001523438026348467,1979,9066
+44,2132,L-Fucose,968,Ruminococcus obeum,2,-0.0010000000000000009,2057,8416

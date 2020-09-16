@@ -1,0 +1,43 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.001420890804230579,36,3688
+1,2098,Glycerol,401,Desulfovibrio piger,2,-0.00047258351380663477,37,6227
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0005000799608860795,47,11460
+3,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.0010691321422241495,49,9047
+4,2055,CO2,123,Bacteroides dorei,2,0.011263705595058071,62,3393
+5,2119,Isobutyrate (2-Methylpropanoic acid),878,Prevotella salivae,3,-0.0010866246779789313,107,23456
+6,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0009942590864021605,118,3976
+7,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00235934246008207,120,3760
+8,2161,Maltose,457,Eubacterium rectale,2,-0.00041887068167201225,152,10481
+9,2242,XOS (Xylooligosaccharide),123,Bacteroides dorei,3,0.0009791831171425125,180,31689
+10,2081,Deoxycholic acid,76,Anaerotruncus colihominis,2,-0.00043597533616723805,202,5189
+11,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0002869195264894042,267,6217
+12,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0010276100173943759,301,3112
+13,2064,D-Galactose,129,Bacteroides ovatus,2,0.00013692699219802762,331,3973
+14,2014,Acetate,455,Eubacterium hallii,2,0.000411389795206496,339,975
+15,2089,Ethanol,123,Bacteroides dorei,2,0.0008072945922857899,462,5697
+16,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",123,Bacteroides dorei,3,0.0015638570155801501,519,28233
+17,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",124,Bacteroides eggerthii,2,-0.0008592002053919856,560,1306
+18,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-0.0009093337556882464,605,5272
+19,2089,Ethanol,123,Bacteroides dorei,2,-1.4293007363552768e-05,682,5697
+20,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,-0.0004229829699198273,747,6866
+21,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0021535921332827,804,11509
+22,2157,Lactose,812,Parabacteroides distasonis,2,-0.00024256891373497513,823,10204
+23,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0007033714248099177,939,2968
+24,2119,Isobutyrate (2-Methylpropanoic acid),878,Prevotella salivae,3,0.003096233982282648,958,23456
+25,2014,Acetate,401,Desulfovibrio piger,2,-0.0007367196400326348,1041,971
+26,2055,CO2,126,Bacteroides fragilis,2,-0.00034134305510724605,1075,3396
+27,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,-9.271758822038123e-06,1077,15784
+28,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",76,Anaerotruncus colihominis,2,-0.001000000000000112,1104,9221
+29,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",123,Bacteroides dorei,3,0.0015714131876012338,1110,28233
+30,2055,CO2,129,Bacteroides ovatus,2,0.0022253008576391675,1154,3397
+31,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0003380327197437527,1224,9025
+32,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-3.943917957527354e-05,1230,11104
+33,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.00037432509581458717,1238,12995
+34,2081,Deoxycholic acid,76,Anaerotruncus colihominis,2,0.0008598884612159852,1374,5189
+35,2206,Raffinose,870,Prevotella copri,2,0.00019850745526528435,1454,13375
+36,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,0.0014882652092811366,1634,4696
+37,2242,XOS (Xylooligosaccharide),123,Bacteroides dorei,3,0.0003219563808923853,1687,31689
+38,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",952,Roseburia intestinalis,2,-0.00035150058959065866,1728,3731
+39,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,-4.3605051815664986e-05,1757,11454
+40,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",134,Bacteroides thetaiotaomicron,2,-0.00011488066548015485,1783,9448
+41,2052,"cis-Aconitate (trans-Aconitate, trans-Aconitic acid)",9,Acidaminococcus fermentans,2,-0.0016528197344974904,1932,3240

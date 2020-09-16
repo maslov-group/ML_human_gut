@@ -1,0 +1,52 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0007669700330227291,21,3756
+1,2064,D-Galactose,420,Dorea formicigenerans,2,-0.0002698029367208532,39,3996
+2,2157,Lactose,812,Parabacteroides distasonis,2,-0.000153843066482362,78,10204
+3,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004986430948304865,137,10631
+4,2093,Formate,159,Bilophila wadsworthia,2,0.0018769414181538657,177,6001
+5,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00047566296677814535,206,11104
+6,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,0.00017174095511807153,213,11465
+7,2055,CO2,126,Bacteroides fragilis,2,0.0002644485560224785,259,3396
+8,2103,Glycolithocholate,814,Parabacteroides merdae,3,0.0005279289012896093,266,22518
+9,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-5.502680596503051e-05,290,11500
+10,2011,4-Aminobutyrate (GABA),461,Eubacterium ventriosum,3,0.0031805021921782473,304,16675
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00016658741009012434,305,11460
+12,2206,Raffinose,1099,Sutterella wadsworthensis,2,-0.0009191273625337448,313,13391
+13,2068,D-Glucose (Glucose),129,Bacteroides ovatus,2,3.8114092318797255e-05,365,4261
+14,2221,Taurine,455,Eubacterium hallii,3,0.001963613893516958,497,30279
+15,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0006393228444728782,547,3760
+16,2064,D-Galactose,812,Parabacteroides distasonis,2,-0.00024128492000552448,557,4012
+17,2098,Glycerol,159,Bilophila wadsworthia,2,-0.00042522758722052245,584,6217
+18,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0009127420190474522,652,10603
+19,2093,Formate,323,Clostridium scindens,2,-0.0006640845252919858,661,6006
+20,2206,Raffinose,1099,Sutterella wadsworthensis,2,0.0007514158369720247,744,13391
+21,2068,D-Glucose (Glucose),456,Eubacterium limosum,2,-0.0010049057244921888,832,4288
+22,2055,CO2,129,Bacteroides ovatus,2,3.437987323229308e-05,893,3397
+23,2202,"Propanol (n-propanol, 1-Propanol)",953,Roseburia inulinivorans,3,-0.0009999999999998899,914,29004
+24,2055,CO2,457,Eubacterium rectale,2,0.0005306446853841074,917,3425
+25,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,-7.901247584096716e-05,1044,4264
+26,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.00019375287613732084,1050,4552
+27,2085,Dimethylamine,314,Clostridium leptum,2,0.0018564512571310754,1097,5501
+28,2064,D-Galactose,812,Parabacteroides distasonis,2,0.0015099781424503522,1276,4012
+29,2093,Formate,401,Desulfovibrio piger,2,-8.140205551332436e-05,1375,6011
+30,2203,Putrescine,137,Bacteroides xylanisolvens,2,1.5928238188300803e-05,1503,13122
+31,2197,Phylloquinone (Vitamin K1),46,Akkermansia muciniphila,2,-0.0010000000000000009,1504,12745
+32,2225,Taurolithocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1520,14641
+33,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0011109446897556996,1608,2968
+34,2093,Formate,323,Clostridium scindens,2,0.00021673671251232207,1761,6006
+35,2085,Dimethylamine,314,Clostridium leptum,2,0.0003022026166894509,1949,5501
+36,2103,Glycolithocholate,814,Parabacteroides merdae,3,-0.00020857857800571367,1997,22518
+37,2055,CO2,133,Bacteroides stercoris,2,0.000415188526206256,2019,3399
+38,2221,Taurine,455,Eubacterium hallii,3,0.0009572858358645187,2283,30279
+39,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0008736583510523532,2287,3112
+40,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,3,-1.3603829179253957e-05,2304,27377
+41,2157,Lactose,420,Dorea formicigenerans,2,-9.431598557241294e-05,2338,10188
+42,2036,Butanol,159,Bilophila wadsworthia,2,-0.0010000000000000009,2472,2401
+43,2240,"Valerate (Pentanoic acid, Pentanoate)",455,Eubacterium hallii,2,-0.00016388887689888776,2480,15663
+44,2011,4-Aminobutyrate (GABA),461,Eubacterium ventriosum,3,0.0005810672669088746,2487,16675
+45,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,3,2.182048291210492e-05,2533,27377
+46,2240,"Valerate (Pentanoic acid, Pentanoate)",455,Eubacterium hallii,2,9.552719583794111e-05,2615,15663
+47,2203,Putrescine,137,Bacteroides xylanisolvens,2,0.0006830408557448875,2623,13122
+48,2055,CO2,401,Desulfovibrio piger,2,-0.0005910859252395984,2640,3419
+49,2197,Phylloquinone (Vitamin K1),46,Akkermansia muciniphila,2,0.0010000000000000009,2646,12745
+50,2089,Ethanol,159,Bilophila wadsworthia,2,-0.00033280599059226645,2650,5713

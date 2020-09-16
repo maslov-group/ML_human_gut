@@ -1,0 +1,41 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2142,L-Leucine (Leucine),1064,Streptococcus salivarius,2,-0.0010000000000000009,0,9141
+1,2217,Succinate,159,Bilophila wadsworthia,2,0.015432753635657215,4,14065
+2,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0009510851227617634,24,3760
+3,2055,CO2,131,Bacteroides plebeius,2,0.004132783373962057,27,3398
+4,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.005455217141792201,92,10631
+5,2157,Lactose,457,Eubacterium rectale,2,-0.0005271981835578421,96,10193
+6,2014,Acetate,953,Roseburia inulinivorans,2,0.0003733704429290663,120,996
+7,2055,CO2,126,Bacteroides fragilis,2,0.0014543485842859472,195,3396
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0005674025559262441,250,11461
+9,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0007304094084765733,256,3976
+10,2157,Lactose,812,Parabacteroides distasonis,2,0.00018678996637633283,267,10204
+11,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.000288884556594482,294,15784
+12,2055,CO2,122,Bacteroides coprophilus,2,-0.0006807255272321955,350,3392
+13,2185,Orotic acid (Orotate),314,Clostridium leptum,3,0.00012591355297286722,391,27893
+14,2055,CO2,133,Bacteroides stercoris,2,0.00031525934909604203,395,3399
+15,2093,Formate,159,Bilophila wadsworthia,2,0.0019491976547866274,448,6001
+16,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.000526064482397115,464,3112
+17,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0002619899263059944,498,3756
+18,2089,Ethanol,159,Bilophila wadsworthia,2,0.00022153761878984657,517,5713
+19,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.008925509633306739,590,6866
+20,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",964,Ruminococcus bromii,2,0.0004141495166776199,603,13237
+21,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00018878366446062333,606,11460
+22,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0007039569659048617,680,2968
+23,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-5.077552384136208e-05,701,6064
+24,2178,"NH3 (Ammonia, NH4+, Ammonium)",401,Desulfovibrio piger,2,-0.0004573235352108851,723,11483
+25,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,-2.3961146800255406e-05,747,9025
+26,2046,Chenodeoxycholic acid (Chenodeoxycholate),455,Eubacterium hallii,3,0.0005763527456512652,748,18903
+27,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,2.0042880948145658e-05,768,6865
+28,2242,XOS (Xylooligosaccharide),457,Eubacterium rectale,2,0.0002746240577999881,854,15809
+29,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,1.969725977812864e-05,894,10603
+30,2122,Isovalerate (3-Methylbutanoic acid),964,Ruminococcus bromii,2,0.002984345184951609,954,7765
+31,2046,Chenodeoxycholic acid (Chenodeoxycholate),455,Eubacterium hallii,3,-0.00019214737428630002,955,18903
+32,2055,CO2,137,Bacteroides xylanisolvens,2,0.000122200686050844,1024,3402
+33,2161,Maltose,338,Coprococcus comes,2,-0.000538912792434898,1067,10473
+34,2185,Orotic acid (Orotate),314,Clostridium leptum,3,0.0006239059968817795,1103,27893
+35,2055,CO2,129,Bacteroides ovatus,2,0.0014105859905655382,1285,3397
+36,2055,CO2,124,Bacteroides eggerthii,2,0.0001551779120334551,1315,3394
+37,2061,D-Fructose (Fructose),1064,Streptococcus salivarius,2,-0.0001620653953584572,1327,3813
+38,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.0003309374843571966,1388,4552
+39,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",812,Parabacteroides distasonis,2,-0.0006841681690897827,1468,9628

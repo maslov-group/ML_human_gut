@@ -1,0 +1,44 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2079,D-Xylose (Xylose),870,Prevotella copri,2,0.00045408502548749397,68,5095
+1,2055,CO2,126,Bacteroides fragilis,2,0.00032465215662169644,71,3396
+2,2003,"1,2-Ethanediol (Ethylene glycol)",149,Bifidobacterium adolescentis,2,0.0033600703387450803,92,163
+3,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.0006942685232190771,100,5272
+4,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.011446735666589491,106,980
+5,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.01653026178926964,107,6866
+6,2217,Succinate,1099,Sutterella wadsworthensis,2,0.0017062168939050437,116,14111
+7,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0015510172856628701,166,3976
+8,2046,Chenodeoxycholic acid (Chenodeoxycholate),339,Coprococcus eutactus,3,0.0009316063020748944,196,18898
+9,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-4.675169003365287e-05,207,4552
+10,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),309,Clostridium difficile,2,0.0012122928206802497,221,15220
+11,2014,Acetate,455,Eubacterium hallii,2,0.0015368229613416107,309,975
+12,2163,Menaquinone (Vitamin K2),152,Bifidobacterium bifidum,2,-9.479020246339065e-05,332,10605
+13,2217,Succinate,159,Bilophila wadsworthia,2,0.003587835510042492,375,14065
+14,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.003372627353014912,381,10631
+15,2231,Trehalose,129,Bacteroides ovatus,2,0.0005543437297572673,394,15061
+16,2217,Succinate,1099,Sutterella wadsworthensis,2,0.0011074447580338154,411,14111
+17,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0008108976114744593,492,6865
+18,2093,Formate,159,Bilophila wadsworthia,2,0.0007951177328386905,567,6001
+19,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.001685930700425664,592,11101
+20,2014,Acetate,969,Ruminococcus torques,3,-0.0010000000000000009,626,16913
+21,2093,Formate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-0.0010000000000000009,732,21911
+22,2061,D-Fructose (Fructose),1064,Streptococcus salivarius,2,-0.0007728180085583292,831,3813
+23,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0006110349033583429,919,3760
+24,2003,"1,2-Ethanediol (Ethylene glycol)",149,Bifidobacterium adolescentis,2,0.0010394792603610759,969,163
+25,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),309,Clostridium difficile,2,4.312291876940044e-05,1016,15220
+26,2074,D-Ribose (Ribose),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,-0.00028648400446973366,1124,4712
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",9,Acidaminococcus fermentans,3,-0.0010000000000000009,1137,27360
+28,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0027844105522231155,1168,11104
+29,2238,Urea,149,Bifidobacterium adolescentis,2,7.364089850137034e-05,1236,15499
+30,2046,Chenodeoxycholic acid (Chenodeoxycholate),339,Coprococcus eutactus,3,0.0011813127274633572,1413,18898
+31,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",551,Holdemania filiformis,2,-0.0011442419759972733,1457,3720
+32,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,3.0729166487608595e-05,1519,3757
+33,2089,Ethanol,151,Bifidobacterium animalis,3,-0.0010000000000000009,1535,21620
+34,2231,Trehalose,134,Bacteroides thetaiotaomicron,2,0.0013662760853591083,1590,15064
+35,2145,L-Methionine (D-Methionine),134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,1607,9304
+36,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0008555679207737921,1692,2968
+37,2089,Ethanol,159,Bilophila wadsworthia,2,0.0009664566156293297,1735,5713
+38,2157,Lactose,812,Parabacteroides distasonis,2,0.00013889376595022096,1764,10204
+39,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",964,Ruminococcus bromii,2,0.00018125822522108148,1900,2293
+40,2064,D-Galactose,338,Coprococcus comes,2,-0.0003649843099086114,2020,3993
+41,2055,CO2,131,Bacteroides plebeius,2,0.0002570780194123268,2139,3398
+42,2107,H2 (Hydrogen),401,Desulfovibrio piger,2,0.0001922196219306116,2223,6875

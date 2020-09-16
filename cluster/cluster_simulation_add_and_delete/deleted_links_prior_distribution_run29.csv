@@ -1,0 +1,46 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-1.1489925329621897e-05,37,4552
+1,2093,Formate,159,Bilophila wadsworthia,2,0.002975089672644704,68,6001
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,0.00018656348244361354,73,11454
+3,2064,D-Galactose,129,Bacteroides ovatus,2,0.0009256262775427793,113,3973
+4,2224,Taurodeoxycholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,143,14569
+5,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,0.0003216567412828164,192,3688
+6,2242,XOS (Xylooligosaccharide),153,Bifidobacterium breve,2,-0.0010056810057837984,211,15790
+7,2055,CO2,126,Bacteroides fragilis,2,0.00028400346621393346,223,3396
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,-0.00026830378890441153,234,11461
+9,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00019036023862939455,262,11460
+10,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",129,Bacteroides ovatus,2,0.0024066407529415024,310,5269
+11,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0006629222944378732,366,10631
+12,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.00011045363933082086,390,15784
+13,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,-3.202435641802559e-05,418,11132
+14,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-6.988470615854059e-05,425,6064
+15,2225,Taurolithocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,509,14641
+16,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.0005418451478732544,527,3400
+17,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",135,Bacteroides uniformis,2,0.00026717980259993723,725,3689
+18,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,-0.0001611681261073361,851,11463
+19,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",126,Bacteroides fragilis,2,-0.001000000000000112,863,2244
+20,2167,Methylamine (Monomethylamine),1054,Streptococcus infantarius,2,-0.00036573328504352354,865,10940
+21,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0014026507097950613,936,3112
+22,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-8.759021844340076e-05,949,11500
+23,2055,CO2,123,Bacteroides dorei,2,0.0031071955816193153,986,3393
+24,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",551,Holdemania filiformis,2,0.0005037393341130736,1002,3720
+25,2072,D-Mannose (Mannose),968,Ruminococcus obeum,2,7.041617463121597e-06,1024,4600
+26,2238,Urea,551,Holdemania filiformis,3,-0.0001343852532357248,1123,31440
+27,2219,Sulfate (Sulfuric acid),454,Eubacterium eligens,3,9.46503788368247e-05,1168,30134
+28,2156,"L-Valine (Valine, D-Valine)",134,Bacteroides thetaiotaomicron,2,0.002283154163172041,1257,10096
+29,2089,Ethanol,159,Bilophila wadsworthia,2,-0.0001907053665316516,1276,5713
+30,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,-3.1831788850023024e-05,1423,10603
+31,2161,Maltose,968,Ruminococcus obeum,2,-0.0010192580450846256,1466,10504
+32,2158,Linoleic acid (Omega-6 fatty acid),953,Roseburia inulinivorans,2,-0.0003914533126005981,1564,10284
+33,2219,Sulfate (Sulfuric acid),454,Eubacterium eligens,3,7.260931744301757e-06,1590,30134
+34,2067,D-Glucosamine (Glucosamine),964,Ruminococcus bromii,2,0.00022853820822288373,1598,4237
+35,2238,Urea,551,Holdemania filiformis,3,0.0005468579827571096,1964,31440
+36,2079,D-Xylose (Xylose),968,Ruminococcus obeum,2,-0.0008835750660181052,2065,5104
+37,2206,Raffinose,152,Bifidobacterium bifidum,2,-0.0010644129808323743,2096,13341
+38,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.00015454505268652774,2137,3976
+39,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.000681363756354969,2319,11462
+40,2061,D-Fructose (Fructose),1064,Streptococcus salivarius,2,-0.0007240413889197939,2556,3813
+41,2167,Methylamine (Monomethylamine),1054,Streptococcus infantarius,2,0.000140903773548251,2581,10940
+42,2067,D-Glucosamine (Glucosamine),964,Ruminococcus bromii,2,0.00029696266146661543,2812,4237
+43,2094,FOS (Fructooligosaccharide),129,Bacteroides ovatus,2,-0.0008673254202827829,2813,6061
+44,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",135,Bacteroides uniformis,2,0.0003903201674297918,2814,3689

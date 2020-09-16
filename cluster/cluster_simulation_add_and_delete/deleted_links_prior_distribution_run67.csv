@@ -1,0 +1,46 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2043,Cellobiose,968,Ruminococcus obeum,2,-0.0010000000000000009,53,2872
+1,2217,Succinate,159,Bilophila wadsworthia,2,0.01186621188822612,85,14065
+2,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.012345968189747869,110,6866
+3,2055,CO2,401,Desulfovibrio piger,2,-9.833688817617592e-05,111,3419
+4,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.0013295004646958208,125,12995
+5,2055,CO2,131,Bacteroides plebeius,2,0.0008617556875606391,130,3398
+6,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-0.00027049865223160996,134,5272
+7,2229,Thymine,122,Bacteroides coprophilus,3,0.00028511169631728617,162,30824
+8,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.0005898253131386699,186,13336
+9,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,-0.001382671713660688,203,3112
+10,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00046967000386866076,244,3760
+11,2064,D-Galactose,129,Bacteroides ovatus,2,0.00021194818714564967,269,3973
+12,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.003900952952069048,278,10631
+13,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.00048075769131550317,289,9025
+14,2068,D-Glucose (Glucose),129,Bacteroides ovatus,2,0.0003350233362052757,296,4261
+15,2229,Thymine,122,Bacteroides coprophilus,3,3.623560493370981e-05,350,30824
+16,2066,D-Gluconate (D-Gluconic acid) (Gluconate),401,Desulfovibrio piger,3,0.0006662203605065642,385,20051
+17,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.001231518400143794,400,3976
+18,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",456,Eubacterium limosum,3,0.00033779267538769364,402,24376
+19,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,0.0018635070634528406,441,4264
+20,2093,Formate,159,Bilophila wadsworthia,2,0.0038634632534937374,470,6001
+21,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",968,Ruminococcus obeum,2,-0.0009955815101374554,746,9640
+22,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00026414587941769874,833,11460
+23,2100,Glycocholate,968,Ruminococcus obeum,3,-0.0006493152418023396,855,22312
+24,2014,Acetate,457,Eubacterium rectale,2,0.00245874116314182,955,977
+25,2146,L-Ornithine (Ornithine),339,Coprococcus eutactus,3,0.00046595127061399566,1015,25306
+26,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.002579522423610814,1065,2968
+27,2055,CO2,123,Bacteroides dorei,2,0.0013489836353920426,1264,3393
+28,2143,"L-Lysine (Lysine, D-Lysine)",1064,Streptococcus salivarius,2,0.005498218724087067,1298,9213
+29,2178,"NH3 (Ammonia, NH4+, Ammonium)",134,Bacteroides thetaiotaomicron,2,0.00018556455932983162,1323,11464
+30,2046,Chenodeoxycholic acid (Chenodeoxycholate),484,Fusobacterium varium,3,0.0007521190288062307,1366,18909
+31,2178,"NH3 (Ammonia, NH4+, Ammonium)",137,Bacteroides xylanisolvens,2,-3.928614750869919e-05,1536,11466
+32,2100,Glycocholate,968,Ruminococcus obeum,3,0.0005943064497264672,1537,22312
+33,2114,Indole,401,Desulfovibrio piger,2,-0.0009279769736656451,1584,7163
+34,2066,D-Gluconate (D-Gluconic acid) (Gluconate),401,Desulfovibrio piger,3,0.000879205131905314,1612,20051
+35,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,-0.000501222246161559,1850,4696
+36,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-0.000346024510876064,1927,13057
+37,2093,Formate,401,Desulfovibrio piger,2,-6.187592856188306e-05,1969,6011
+38,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",456,Eubacterium limosum,3,0.0007793521772465617,1983,24376
+39,2046,Chenodeoxycholic acid (Chenodeoxycholate),484,Fusobacterium varium,3,-1.8073102040494504e-05,2021,18909
+40,2043,Cellobiose,134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,2093,2824
+41,2038,Butyrate,401,Desulfovibrio piger,2,6.774256176445004e-05,2142,2555
+42,2162,Melibiose,137,Bacteroides xylanisolvens,2,-0.0010000000000000009,2178,10530
+43,2146,L-Ornithine (Ornithine),339,Coprococcus eutactus,3,0.0005523574554318067,2194,25306
+44,2157,Lactose,812,Parabacteroides distasonis,2,-0.0007845755657860387,2207,10204

@@ -1,0 +1,45 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0001689067585559645,6,11104
+1,2068,D-Glucose (Glucose),812,Parabacteroides distasonis,2,-0.0007131733146871211,111,4300
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0011562415284819272,128,11509
+3,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004933760556343203,153,10631
+4,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0006393733301437443,250,3760
+5,2217,Succinate,159,Bilophila wadsworthia,2,0.0031467435571186364,290,14065
+6,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.0014159986426489635,293,11463
+7,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.00020739059063101806,299,4552
+8,2093,Formate,159,Bilophila wadsworthia,2,-0.00010809277452428212,320,6001
+9,2129,"L-Aspartate (Aspartate, D-Aspartate)",1099,Sutterella wadsworthensis,2,0.0013409735398612899,336,8207
+10,2212,Spermidine,314,Clostridium leptum,2,-0.0008209816115841706,381,13781
+11,2089,Ethanol,124,Bacteroides eggerthii,2,-0.0005481493063435039,432,5698
+12,2050,Choline,968,Ruminococcus obeum,3,0.0008982558616356107,493,19144
+13,2218,Sucrose,401,Desulfovibrio piger,2,-0.0010000000000000009,506,14147
+14,2142,L-Leucine (Leucine),456,Eubacterium limosum,3,4.1165891329408844e-05,544,25024
+15,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,4.446884715014754e-06,565,11460
+16,2091,"Folic acid (Folate, Vitamin B9)",457,Eubacterium rectale,2,-0.0011619686962330844,573,5873
+17,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-1.880992961234007e-05,604,11101
+18,2064,D-Galactose,152,Bifidobacterium bifidum,2,-0.00031011482753440234,674,3981
+19,2091,"Folic acid (Folate, Vitamin B9)",457,Eubacterium rectale,2,0.0006317368097487064,695,5873
+20,2242,XOS (Xylooligosaccharide),965,Ruminococcus flavefaciens,3,-0.0009360721354343404,714,31742
+21,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0009055332047722686,718,11461
+22,2242,XOS (Xylooligosaccharide),953,Roseburia inulinivorans,2,-0.0003807958325228178,719,15828
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0009194055979790949,747,11462
+24,2050,Choline,968,Ruminococcus obeum,3,-0.00013708737615414357,756,19144
+25,2178,"NH3 (Ammonia, NH4+, Ammonium)",54,Alistipes putredinis,3,0.00018929031035819222,797,27362
+26,2242,XOS (Xylooligosaccharide),965,Ruminococcus flavefaciens,3,0.0002960192098313552,889,31742
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",54,Alistipes putredinis,3,2.3194152329431006e-05,914,27362
+28,2068,D-Glucose (Glucose),814,Parabacteroides merdae,2,0.00013496603389362427,976,4302
+29,2154,L-Tryptophan (Tryptophan),796,Odoribacter splanchnicus,2,-0.0010000000000000009,1074,9986
+30,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",309,Clostridium difficile,3,-0.0002808049440047311,1094,16516
+31,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.0003236179096427483,1102,12995
+32,2212,Spermidine,314,Clostridium leptum,2,0.0009730019753437791,1114,13781
+33,2131,"L-Cysteine (Cysteine, D-Cysteine)",134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,1129,8296
+34,2142,L-Leucine (Leucine),456,Eubacterium limosum,3,0.0009377144390909642,1159,25024
+35,2120,Isomaltose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,1177,7583
+36,2055,CO2,137,Bacteroides xylanisolvens,2,0.00068642745540759,1223,3402
+37,2240,"Valerate (Pentanoic acid, Pentanoate)",338,Coprococcus comes,3,0.0005480406396637383,1281,31569
+38,2155,L-Tyrosine (Tyrosine),134,Bacteroides thetaiotaomicron,2,0.0002584639413911738,1313,10024
+39,2107,H2 (Hydrogen),401,Desulfovibrio piger,2,-0.00048313092101337496,1333,6875
+40,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",309,Clostridium difficile,3,0.0002701251043613073,1347,16516
+41,2240,"Valerate (Pentanoic acid, Pentanoate)",338,Coprococcus comes,3,-0.000999076601026383,1373,31569
+42,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,-0.0005377171168484685,1384,4264
+43,2089,Ethanol,124,Bacteroides eggerthii,2,0.0007144185529132097,1413,5698

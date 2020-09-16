@@ -1,0 +1,45 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2049,Cholic acid (Cholate),126,Bacteroides fragilis,2,-0.0002886399677125562,34,3108
+1,2093,Formate,159,Bilophila wadsworthia,2,0.0014535890249048888,61,6001
+2,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,0.002421719625633645,74,2981
+3,2068,D-Glucose (Glucose),812,Parabacteroides distasonis,2,0.0002626044027432828,96,4300
+4,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.00020788083103917554,118,11500
+5,2079,D-Xylose (Xylose),870,Prevotella copri,2,0.00030578712066464675,126,5095
+6,2014,Acetate,953,Roseburia inulinivorans,2,0.0007787614839811496,159,996
+7,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.000550729385433324,160,3760
+8,2014,Acetate,455,Eubacterium hallii,2,0.0004189572810436859,166,975
+9,2079,D-Xylose (Xylose),952,Roseburia intestinalis,2,-0.0004937661489345935,195,5099
+10,2089,Ethanol,159,Bilophila wadsworthia,2,7.44401140334583e-05,222,5713
+11,2120,Isomaltose,122,Bacteroides coprophilus,3,-0.000836042209389376,224,23480
+12,2061,D-Fructose (Fructose),964,Ruminococcus bromii,2,-0.0008970756939089553,231,3805
+13,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.00019372490288516175,267,11509
+14,2163,Menaquinone (Vitamin K2),152,Bifidobacterium bifidum,2,-9.25790031802709e-05,324,10605
+15,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.002281634585818093,347,6866
+16,2156,"L-Valine (Valine, D-Valine)",9,Acidaminococcus fermentans,3,0.0009973622086003608,371,25992
+17,2094,FOS (Fructooligosaccharide),152,Bifidobacterium bifidum,2,-0.0010033023621848214,434,6069
+18,2159,Lithocholic acid,968,Ruminococcus obeum,2,-5.4145370844027596e-05,455,10360
+19,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0009784997528802242,459,3976
+20,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,-0.0002454073723087147,503,2968
+21,2224,Taurodeoxycholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,514,14569
+22,2157,Lactose,1064,Streptococcus salivarius,2,0.0009242136427390912,559,10221
+23,2159,Lithocholic acid,968,Ruminococcus obeum,2,4.2282754796674205e-05,591,10360
+24,2225,Taurolithocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,622,14641
+25,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-5.896486814416235e-05,660,11101
+26,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0012654256863283697,673,15784
+27,2061,D-Fructose (Fructose),1064,Streptococcus salivarius,2,0.0019259205085925268,765,3813
+28,2120,Isomaltose,122,Bacteroides coprophilus,3,0.0003695306944558885,827,23480
+29,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.006206017610723258,869,3112
+30,2161,Maltose,149,Bifidobacterium adolescentis,2,-0.0007643017649121564,892,10459
+31,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007139625390293336,934,3973
+32,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,-1.0458889992071008e-05,952,15780
+33,2055,CO2,133,Bacteroides stercoris,3,-0.0009999999999998899,999,19311
+34,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0012192783640205818,1046,10631
+35,2156,"L-Valine (Valine, D-Valine)",9,Acidaminococcus fermentans,3,0.0018604214924258233,1131,25992
+36,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0014543528533965677,1170,6865
+37,2094,FOS (Fructooligosaccharide),149,Bifidobacterium adolescentis,2,-0.0008341195427012948,1173,6067
+38,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",968,Ruminococcus obeum,2,0.00029627702499956943,1204,9640
+39,2055,CO2,126,Bacteroides fragilis,2,0.00020056599983042656,1375,3396
+40,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0009272125276819088,1449,3756
+41,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,0.00018545691562821265,1477,4264
+42,2178,"NH3 (Ammonia, NH4+, Ammonium)",965,Ruminococcus flavefaciens,2,-0.0006790656366095771,1495,11510
+43,2091,"Folic acid (Folate, Vitamin B9)",608,Lactococcus lactis,3,-0.0010000000000000009,1590,21793

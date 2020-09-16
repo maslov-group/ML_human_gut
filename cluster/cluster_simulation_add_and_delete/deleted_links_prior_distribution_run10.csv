@@ -1,0 +1,46 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.020467352588347976,24,6866
+1,2093,Formate,159,Bilophila wadsworthia,2,0.002979842821926759,40,6001
+2,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.004084386658773642,73,6865
+3,2089,Ethanol,159,Bilophila wadsworthia,2,0.00039900452364849404,89,5713
+4,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004537120235874381,143,10631
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,0.0006191602005582997,148,11465
+6,2055,CO2,126,Bacteroides fragilis,2,0.0005863942364530139,177,3396
+7,2064,D-Galactose,969,Ruminococcus torques,2,0.0007804203596822878,192,4025
+8,2210,Riboflavin (Vitamin B2),969,Ruminococcus torques,2,0.0004763241914831351,218,13673
+9,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0009835510193112462,276,9025
+10,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,0.0016448942481250839,317,3688
+11,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0003882752993100702,338,15784
+12,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.00456073231065246,347,980
+13,2242,XOS (Xylooligosaccharide),457,Eubacterium rectale,2,-0.0002779485059671849,400,15809
+14,2218,Sucrose,457,Eubacterium rectale,2,-0.0010000000000000009,438,14153
+15,2074,D-Ribose (Ribose),159,Bilophila wadsworthia,3,0.0011737857300754273,500,20617
+16,2049,Cholic acid (Cholate),880,Prevotella timonensis,3,-0.0010000000000000009,530,19065
+17,2210,Riboflavin (Vitamin B2),969,Ruminococcus torques,2,0.0010046421673575168,575,13673
+18,2049,Cholic acid (Cholate),880,Prevotella timonensis,3,0.0010000000000000009,591,19065
+19,2074,D-Ribose (Ribose),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,0.0004613724351567594,614,4712
+20,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0012120435597710033,712,11104
+21,2011,4-Aminobutyrate (GABA),968,Ruminococcus obeum,2,-0.0002506433766509275,800,784
+22,2011,4-Aminobutyrate (GABA),968,Ruminococcus obeum,2,0.0002506433766509275,803,784
+23,2055,CO2,339,Coprococcus eutactus,3,-0.001000000000000112,834,19330
+24,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",129,Bacteroides ovatus,2,0.00011488550015026355,845,3685
+25,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",133,Bacteroides stercoris,3,0.0012785311657046439,877,28239
+26,2055,CO2,457,Eubacterium rectale,2,0.0041783985633156995,892,3425
+27,2068,D-Glucose (Glucose),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0009966197343476146,956,4271
+28,2221,Taurine,484,Fusobacterium varium,3,-0.0009943855213458974,966,30285
+29,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-0.00017528294670077216,976,5272
+30,2221,Taurine,484,Fusobacterium varium,3,0.0009896784410835524,1018,30285
+31,2157,Lactose,338,Coprococcus comes,2,0.0008431728342012113,1073,10185
+32,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00016818559660569665,1106,2968
+33,2055,CO2,134,Bacteroides thetaiotaomicron,3,-0.0010000000000000009,1218,19312
+34,2014,Acetate,969,Ruminococcus torques,3,-0.0010000000000000009,1269,16913
+35,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0004958199536219121,1354,3760
+36,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,-0.0002837039545149356,1497,9047
+37,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0004421339497502341,1587,3112
+38,2068,D-Glucose (Glucose),260,Catenibacterium mitsuokai,2,-0.0006932828557366655,1639,4275
+39,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,3.8736253923032926e-05,1808,11460
+40,2081,Deoxycholic acid,159,Bilophila wadsworthia,3,-0.0010000000000000009,1997,21121
+41,2061,D-Fructose (Fructose),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0006361308136791921,2066,3767
+42,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",133,Bacteroides stercoris,3,0.0008041406089764891,2222,28239
+43,2074,D-Ribose (Ribose),159,Bilophila wadsworthia,3,0.002011092680987203,2379,20617
+44,2131,"L-Cysteine (Cysteine, D-Cysteine)",126,Bacteroides fragilis,2,-0.0010000000000000009,2434,8292

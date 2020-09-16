@@ -1,0 +1,43 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,123,Bacteroides dorei,2,0.012977535976415489,38,3393
+1,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,1.1379983373638325e-05,46,4696
+2,2089,Ethanol,159,Bilophila wadsworthia,2,0.00018348915388177733,85,5713
+3,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0005335120643630287,136,11460
+4,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.0009573039511738823,177,6064
+5,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0019215695527379228,193,3976
+6,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004775865083487707,225,10631
+7,2055,CO2,126,Bacteroides fragilis,2,0.0018302967870728049,291,3396
+8,2055,CO2,965,Ruminococcus flavefaciens,2,-0.0008668638769250281,326,3446
+9,2064,D-Galactose,420,Dorea formicigenerans,2,-0.00018512479114274338,351,3996
+10,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,0.0015277281589799463,424,9501
+11,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.0005976383382975126,441,4552
+12,2055,CO2,133,Bacteroides stercoris,2,0.001235808348597156,453,3399
+13,2242,XOS (Xylooligosaccharide),953,Roseburia inulinivorans,2,0.00014287414809577292,530,15828
+14,2089,Ethanol,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,-0.0010000000000000009,553,21632
+15,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007731721690737992,573,3973
+16,2157,Lactose,812,Parabacteroides distasonis,2,-2.014026421748305e-06,622,10204
+17,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,0.00030520464972683126,683,3757
+18,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.006708331074964602,689,6866
+19,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0016743421574088035,731,6865
+20,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-1.2818163641625802e-05,816,5272
+21,2081,Deoxycholic acid,123,Bacteroides dorei,2,0.00016787489288894175,844,5193
+22,2093,Formate,159,Bilophila wadsworthia,2,-0.00032036491881193285,887,6001
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.00018704544067182916,910,11509
+24,2223,Taurocholate,126,Bacteroides fragilis,2,-0.000302007651272751,949,14484
+25,2055,CO2,124,Bacteroides eggerthii,2,0.000676924191640893,994,3394
+26,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.00011653488709395532,1021,9025
+27,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.000655617175725931,1036,3112
+28,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",870,Prevotella copri,3,0.0005204068025405073,1148,19423
+29,2049,Cholic acid (Cholate),126,Bacteroides fragilis,2,-0.00015930411487208307,1181,3108
+30,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.0005300735917671551,1185,9047
+31,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,-1.9279199944266523e-05,1218,12995
+32,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",870,Prevotella copri,3,-0.0011690485887231317,1271,19423
+33,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0019172160319679277,1307,3760
+34,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.00036312152662942854,1346,10603
+35,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.001983854267937568,1527,2968
+36,2223,Taurocholate,159,Bilophila wadsworthia,2,-0.00023791439718923169,1530,14497
+37,2188,"p-Cresol (4-methylphenol, 4-cresol)",309,Clostridium difficile,3,-0.0010000000000000009,1742,28108
+38,2055,CO2,129,Bacteroides ovatus,2,0.0006505655017674528,1847,3397
+39,2206,Raffinose,339,Coprococcus eutactus,2,-0.001066457726353609,1860,13354
+40,2081,Deoxycholic acid,123,Bacteroides dorei,2,0.0004196129795266401,1956,5193
+41,2093,Formate,153,Bifidobacterium breve,3,-0.0010000000000000009,1984,21910

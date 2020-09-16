@@ -1,0 +1,46 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.00184276891529922,66,9025
+1,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.00021437539650148718,95,6064
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.00016213930251274267,162,11500
+3,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0009740744616184571,168,11104
+4,2068,D-Glucose (Glucose),129,Bacteroides ovatus,2,-0.0007355021671392459,169,4261
+5,2072,D-Mannose (Mannose),55,Alistipes shahii,2,0.0008606655432716881,276,4539
+6,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.001937742115208918,277,10631
+7,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",134,Bacteroides thetaiotaomicron,2,-0.00018845859234073448,278,1312
+8,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0014379718089285731,307,2968
+9,2217,Succinate,159,Bilophila wadsworthia,2,9.453712493079358e-05,330,14065
+10,2078,D-Turanose,161,Blautia hansenii (Ruminococcus hansenii),3,0.0017799694615580064,369,20906
+11,2157,Lactose,812,Parabacteroides distasonis,2,0.00021080918380955715,391,10204
+12,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.003096401646352054,454,6866
+13,2217,Succinate,813,Parabacteroides johnsonii,3,-0.0010000000000000009,472,30005
+14,2072,D-Mannose (Mannose),260,Catenibacterium mitsuokai,2,-0.0008774671742011186,485,4563
+15,2222,Taurochenodeoxycholate,126,Bacteroides fragilis,2,-0.0010000000000000009,534,14412
+16,2104,"Glyoxylate (Glyoxylic acid, Glyoxalate)",126,Bacteroides fragilis,3,-0.0005872621252810406,561,22548
+17,2055,CO2,124,Bacteroides eggerthii,2,0.00021073107369784516,566,3394
+18,2055,CO2,126,Bacteroides fragilis,2,0.0007525892068369622,586,3396
+19,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0005666558935412125,596,3112
+20,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,-0.0003119401304072511,633,6865
+21,2055,CO2,129,Bacteroides ovatus,2,0.0003300058888260349,649,3397
+22,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-2.7926127388333555e-05,677,11101
+23,2238,Urea,149,Bifidobacterium adolescentis,2,0.0025938297992015302,689,15499
+24,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.001823509417938407,739,3760
+25,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.00028907012197709747,758,3976
+26,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.000740350952166513,768,11509
+27,2055,CO2,1065,Streptococcus sanguinis,3,-0.0010000000000000009,794,19366
+28,2089,Ethanol,159,Bilophila wadsworthia,2,-0.0002141147774791241,903,5713
+29,2115,Indole-3-acetate (Indoleacetate),9,Acidaminococcus fermentans,3,0.00042114213860167116,930,23112
+30,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-0.00013725552527033003,941,11460
+31,2157,Lactose,870,Prevotella copri,2,0.0005827357997203464,950,10207
+32,2055,CO2,123,Bacteroides dorei,2,0.0021629907863790487,1041,3393
+33,2104,"Glyoxylate (Glyoxylic acid, Glyoxalate)",126,Bacteroides fragilis,3,0.0011005947928038884,1053,22548
+34,2079,D-Xylose (Xylose),870,Prevotella copri,2,-0.0005695027827791188,1091,5095
+35,2098,Glycerol,159,Bilophila wadsworthia,2,0.00017694335247009363,1128,6217
+36,2078,D-Turanose,161,Blautia hansenii (Ruminococcus hansenii),3,0.0009665033042285387,1150,20906
+37,2071,D-Mannitol (Mannitol),1064,Streptococcus salivarius,2,-0.0010000000000000009,1225,4533
+38,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.0008092199139612122,1289,3688
+39,2081,Deoxycholic acid,969,Ruminococcus torques,3,-0.00011685651852644252,1317,21161
+40,2043,Cellobiose,812,Parabacteroides distasonis,2,-0.0010000000000000009,1391,2860
+41,2115,Indole-3-acetate (Indoleacetate),9,Acidaminococcus fermentans,3,8.091328088122296e-05,1582,23112
+42,2081,Deoxycholic acid,969,Ruminococcus torques,3,-0.00022644634964763544,1607,21161
+43,2206,Raffinose,126,Bacteroides fragilis,2,-0.0005607550551109952,1615,13332
+44,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1064,Streptococcus salivarius,2,-0.0010000000000000009,1643,11589

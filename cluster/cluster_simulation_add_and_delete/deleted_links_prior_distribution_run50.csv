@@ -1,0 +1,36 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00014407482723710618,26,3757
+1,2206,Raffinose,126,Bacteroides fragilis,2,-0.0006909518531613701,38,13332
+2,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0055903304740420046,95,10631
+3,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",124,Bacteroides eggerthii,2,-0.0003364540888162182,105,1306
+4,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0009717373867373924,125,6064
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-3.232910718053983e-05,201,11460
+6,2217,Succinate,1099,Sutterella wadsworthensis,2,0.0032883383543060862,203,14111
+7,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,1.5651538521122e-05,207,11104
+8,2064,D-Galactose,969,Ruminococcus torques,2,0.00024043843714993685,240,4025
+9,2055,CO2,129,Bacteroides ovatus,2,0.0026182167568696846,260,3397
+10,2242,XOS (Xylooligosaccharide),457,Eubacterium rectale,2,0.0005173806866648478,294,15809
+11,2014,Acetate,455,Eubacterium hallii,2,-0.00016642598920402207,366,975
+12,2217,Succinate,159,Bilophila wadsworthia,2,0.002312422863578023,391,14065
+13,2014,Acetate,460,Eubacterium siraeum,2,-0.0009653711359122186,409,978
+14,2223,Taurocholate,152,Bifidobacterium bifidum,2,0.0005149600349574346,420,14493
+15,2206,Raffinose,457,Eubacterium rectale,2,-0.00043574111384281355,461,13361
+16,2094,FOS (Fructooligosaccharide),129,Bacteroides ovatus,2,0.00059824064859193,520,6061
+17,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.003812904976699838,586,6866
+18,2075,"D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)",953,Roseburia inulinivorans,3,0.0008028035374626485,672,20724
+19,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.0001350639698523004,816,3400
+20,2187,Oxaloacetate,338,Coprococcus comes,2,-0.0010000000000000009,840,12129
+21,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1007,Shigella sonnei,2,0.00012654175146809,998,13242
+22,2055,CO2,126,Bacteroides fragilis,2,0.0007440621710632644,1064,3396
+23,2217,Succinate,1099,Sutterella wadsworthensis,2,0.0013796136974220108,1149,14111
+24,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.00012615493385204068,1170,13336
+25,2014,Acetate,457,Eubacterium rectale,2,0.0017899580297011664,1193,977
+26,2187,Oxaloacetate,338,Coprococcus comes,2,0.0009999999999998899,1249,12129
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.00015082036629121554,1275,11500
+28,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.002210471068204045,1572,11462
+29,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0006436035862584788,1642,11509
+30,2178,"NH3 (Ammonia, NH4+, Ammonium)",134,Bacteroides thetaiotaomicron,2,0.001957991808746562,1653,11464
+31,2014,Acetate,965,Ruminococcus flavefaciens,3,-0.0010000000000000009,1802,16910
+32,2075,"D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)",953,Roseburia inulinivorans,3,1.670282697374681e-05,1889,20724
+33,2201,Propanoate (Propionate),119,Bacteroides caccae,3,-0.0010000000000000009,1958,28878
+34,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,-0.00030924721778213815,2003,4696

@@ -1,0 +1,47 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0015756410151939182,8,3976
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,0.0007826721024294381,21,11465
+2,2055,CO2,119,Bacteroides caccae,2,-0.000501623173571164,41,3390
+3,2093,Formate,159,Bilophila wadsworthia,2,0.0006217023870839222,72,6001
+4,2145,L-Methionine (D-Methionine),812,Parabacteroides distasonis,2,1.3798425480215926e-05,75,9340
+5,2145,L-Methionine (D-Methionine),1064,Streptococcus salivarius,2,-0.00010242091207146586,79,9357
+6,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0008537990505934623,83,11104
+7,2055,CO2,126,Bacteroides fragilis,2,0.002937449187879193,118,3396
+8,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.00020350631801901997,124,4552
+9,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.013243052329016902,237,980
+10,2225,Taurolithocholate,122,Bacteroides coprophilus,3,0.0021397348500185043,255,30536
+11,2063,D-Galactosamine (Galactosamine),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,326,3911
+12,2014,Acetate,455,Eubacterium hallii,2,2.6179113219559902e-05,357,975
+13,2055,CO2,457,Eubacterium rectale,2,0.0001604848265261971,376,3425
+14,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0007991496718635638,383,10603
+15,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.000644881502200656,512,2968
+16,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",134,Bacteroides thetaiotaomicron,2,-0.0008007691829866603,634,9592
+17,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,0.00033221634313185255,681,4696
+18,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.00025324959687811344,683,11101
+19,2014,Acetate,953,Roseburia inulinivorans,2,0.0005501537273611135,710,996
+20,2109,H2S (HS-),9,Acidaminococcus fermentans,3,-0.001000000000000112,779,22896
+21,2225,Taurolithocholate,1052,Streptococcus gallolyticus,3,4.122767605463373e-05,801,30595
+22,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0006359734156489161,837,15784
+23,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.00048453999246067525,858,6866
+24,2014,Acetate,401,Desulfovibrio piger,2,0.0007285340039079324,866,971
+25,2218,Sucrose,338,Coprococcus comes,2,-0.0010000000000000009,869,14145
+26,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0006033571580208452,870,10631
+27,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",964,Ruminococcus bromii,2,-0.0009063963084011695,929,13237
+28,2107,H2 (Hydrogen),456,Eubacterium limosum,2,0.00039131050955143465,975,6880
+29,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.003647185974166689,1018,3112
+30,2225,Taurolithocholate,122,Bacteroides coprophilus,3,0.00019491170864405216,1146,30536
+31,2014,Acetate,1064,Streptococcus salivarius,3,-0.0010000000000000009,1171,16917
+32,2161,Maltose,338,Coprococcus comes,2,-0.0009105161543534468,1192,10473
+33,2061,D-Fructose (Fructose),125,Bacteroides finegoldii (Alistipes finegoldii),2,-0.0009990063696349027,1204,3755
+34,2225,Taurolithocholate,1052,Streptococcus gallolyticus,3,0.0004347251779341921,1238,30595
+35,2055,CO2,129,Bacteroides ovatus,2,0.0009999999739134235,1252,3397
+36,2242,XOS (Xylooligosaccharide),608,Lactococcus lactis,2,-0.0009606717652786978,1455,15817
+37,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,0.00012049322258100847,1470,13336
+38,2217,Succinate,159,Bilophila wadsworthia,2,0.002954959224443776,1531,14065
+39,2023,alpha-Linolenic acid (Omega-3 fatty acid),54,Alistipes putredinis,3,-8.187701957762528e-06,1704,17426
+40,2094,FOS (Fructooligosaccharide),135,Bacteroides uniformis,2,-0.00022149866372700444,1751,6065
+41,2012,5-Aminovalerate,309,Clostridium difficile,3,-0.0010000000000000009,1934,16732
+42,2006,2-Aminobutyric acid (2-Aminobutyrate),880,Prevotella timonensis,3,-0.0010000000000000009,1994,16329
+43,2006,2-Aminobutyric acid (2-Aminobutyrate),880,Prevotella timonensis,3,0.0010000000000000009,2008,16329
+44,2231,Trehalose,812,Parabacteroides distasonis,2,-0.0010000000000000009,2200,15100
+45,2023,alpha-Linolenic acid (Omega-3 fatty acid),54,Alistipes putredinis,3,0.0005108683675466574,2233,17426

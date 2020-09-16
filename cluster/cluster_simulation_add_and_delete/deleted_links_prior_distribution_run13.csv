@@ -1,0 +1,39 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,-0.00024272007235903725,9,4333
+1,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.0004114396366857731,21,6064
+2,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0019269298183969275,46,15784
+3,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.000324189169916389,61,3756
+4,2055,CO2,126,Bacteroides fragilis,2,-0.0004105036065135126,70,3396
+5,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,0.00017895425790381836,194,15780
+6,2055,CO2,133,Bacteroides stercoris,2,-0.0002059549974701147,222,3399
+7,2206,Raffinose,812,Parabacteroides distasonis,2,0.0009099968071881737,279,13372
+8,2089,Ethanol,159,Bilophila wadsworthia,2,-6.666552569922768e-05,305,5713
+9,2068,D-Glucose (Glucose),457,Eubacterium rectale,2,-0.00010900712072325902,316,4289
+10,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,9.279543129980805e-05,389,5272
+11,2093,Formate,159,Bilophila wadsworthia,2,0.003911880381559096,418,6001
+12,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,0.0003332016798077708,480,11132
+13,2063,D-Galactosamine (Galactosamine),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,547,3911
+14,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0004395240547870882,584,2968
+15,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-9.311128442535122e-05,690,11460
+16,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,-0.0004459959787475043,758,3976
+17,2218,Sucrose,329,Collinsella aerofaciens (Eubacterium aerofaciens),2,-0.0010000000000000009,791,14144
+18,2155,L-Tyrosine (Tyrosine),134,Bacteroides thetaiotaomicron,2,0.0055661327572580355,806,10024
+19,2074,D-Ribose (Ribose),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,6.438443086487222e-05,810,4712
+20,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,-0.0009946442046316895,811,4048
+21,2014,Acetate,464,Faecalibacterium prausnitzii,3,-0.0010000000000000009,873,16892
+22,2014,Acetate,457,Eubacterium rectale,2,0.004335411782438792,930,977
+23,2098,Glycerol,159,Bilophila wadsworthia,2,0.001538461174017458,945,6217
+24,2242,XOS (Xylooligosaccharide),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.00023538129968336818,1012,15791
+25,2132,L-Fucose,134,Bacteroides thetaiotaomicron,2,-0.001000000000000112,1043,8368
+26,2046,Chenodeoxycholic acid (Chenodeoxycholate),126,Bacteroides fragilis,2,-1.9432464581692344e-05,1095,2964
+27,2094,FOS (Fructooligosaccharide),338,Coprococcus comes,2,-0.0009510263268986963,1205,6081
+28,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0006574872255670217,1271,6865
+29,2067,D-Glucosamine (Glucosamine),153,Bifidobacterium breve,2,-0.0010000000000000009,1303,4198
+30,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",1064,Streptococcus salivarius,2,-0.0010000000000000009,1311,12381
+31,2055,CO2,134,Bacteroides thetaiotaomicron,2,-3.966442651948121e-05,1364,3400
+32,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0010420060233259365,1482,3760
+33,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0011434339646934077,1491,3112
+34,2242,XOS (Xylooligosaccharide),149,Bifidobacterium adolescentis,2,-0.0007939915004778753,1509,15787
+35,2157,Lactose,158,Bifidobacterium pseudocatenulatum,2,-0.0006582804818739962,1746,10176
+36,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.00016035999680219515,1816,11457
+37,2098,Glycerol,401,Desulfovibrio piger,2,-0.00013247639358382468,1825,6227

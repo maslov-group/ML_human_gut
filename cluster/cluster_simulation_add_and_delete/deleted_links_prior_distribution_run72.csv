@@ -1,0 +1,55 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,126,Bacteroides fragilis,2,0.00017247995676072936,19,3396
+1,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.000695368891682091,22,3688
+2,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",329,Collinsella aerofaciens (Eubacterium aerofaciens),2,9.07132628104046e-05,34,9608
+3,2130,L-Carnitine (D-Carnitine),153,Bifidobacterium breve,3,0.0012271042789013809,117,24142
+4,2028,"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)",121,Bacteroides coprocola,3,-0.0009430854969749713,134,17719
+5,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.008111843740541635,158,6866
+6,2201,Propanoate (Propionate),952,Roseburia intestinalis,3,-0.0010000000000000009,162,28931
+7,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,2.1438981747556873e-05,164,6865
+8,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.0001292887986626967,190,13336
+9,2237,Uracil,870,Prevotella copri,2,-0.0005294534257271888,236,15463
+10,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0028954440119124403,243,10631
+11,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1064,Streptococcus salivarius,2,-0.0010000000000000009,426,11589
+12,2130,L-Carnitine (D-Carnitine),153,Bifidobacterium breve,3,0.0013379591267752566,503,24142
+13,2064,D-Galactose,158,Bifidobacterium pseudocatenulatum,2,-0.000587213185763158,548,3984
+14,2064,D-Galactose,969,Ruminococcus torques,2,0.001843304596392592,559,4025
+15,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",455,Eubacterium hallii,3,0.0001167619721544888,663,24375
+16,2224,Taurodeoxycholate,151,Bifidobacterium animalis,2,-0.0010000000000000009,668,14564
+17,2162,Melibiose,964,Ruminococcus bromii,3,0.0010444757391312454,673,26485
+18,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0014030837205745161,727,2968
+19,2064,D-Galactose,129,Bacteroides ovatus,2,-0.00035733955810868245,804,3973
+20,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.001986460463154316,868,3760
+21,2073,D-Psicose,152,Bifidobacterium bifidum,2,3.7735444816222596e-05,925,4629
+22,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00010539301778866861,940,11104
+23,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",952,Roseburia intestinalis,2,-0.0010000000000000009,1098,9275
+24,2055,CO2,131,Bacteroides plebeius,2,0.00011344371287225208,1121,3398
+25,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",134,Bacteroides thetaiotaomicron,3,0.00012332929821512462,1151,28240
+26,2143,"L-Lysine (Lysine, D-Lysine)",1064,Streptococcus salivarius,2,-0.00014229912463759042,1175,9213
+27,2070,D-Lyxose (L-Lyxose),134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,1186,4408
+28,2028,"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)",121,Bacteroides coprocola,3,0.0009637881296650219,1349,17719
+29,2162,Melibiose,964,Ruminococcus bromii,3,0.0006903679556294895,1359,26485
+30,2108,H2O2,326,Clostridium symbiosum,2,-0.00031501853201398866,1363,6943
+31,2142,L-Leucine (Leucine),1064,Streptococcus salivarius,2,0.0015222583670455592,1372,9141
+32,2081,Deoxycholic acid,338,Coprococcus comes,2,0.0004081150282086998,1380,5217
+33,2108,H2O2,326,Clostridium symbiosum,2,0.0001967053146636477,1383,6943
+34,2079,D-Xylose (Xylose),812,Parabacteroides distasonis,2,-0.0007114343579829319,1389,5092
+35,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-0.0005637613503970407,1506,5272
+36,2081,Deoxycholic acid,338,Coprococcus comes,2,0.00041026869772120556,1615,5217
+37,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",134,Bacteroides thetaiotaomicron,3,0.0013638716123368644,1839,28240
+38,2217,Succinate,159,Bilophila wadsworthia,2,-0.00029479964706513595,1922,14065
+39,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0014275028847499094,1961,3112
+40,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,0.0003511089638456033,2017,11454
+41,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1007,Shigella sonnei,2,-0.0002761007660849746,2045,11586
+42,2107,H2 (Hydrogen),461,Eubacterium ventriosum,2,0.00039705797705857915,2194,6883
+43,2079,D-Xylose (Xylose),134,Bacteroides thetaiotaomicron,2,-0.0005785442880966718,2241,5056
+44,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,3.170437629851364e-05,2258,11460
+45,2107,H2 (Hydrogen),461,Eubacterium ventriosum,2,-0.00013644690621550382,2331,6883
+46,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",952,Roseburia intestinalis,2,0.0010000000000000009,2498,9275
+47,2237,Uracil,870,Prevotella copri,2,0.000588913074268782,2815,15463
+48,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",76,Anaerotruncus colihominis,2,-0.0010000000000000009,2836,9221
+49,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",455,Eubacterium hallii,3,0.0008991374228973781,2888,24375
+50,2142,L-Leucine (Leucine),134,Bacteroides thetaiotaomicron,2,0.0012152249861797637,2889,9088
+51,2135,L-Glycine (Glycine),1064,Streptococcus salivarius,2,-0.0010000000000000009,2914,8637
+52,2075,"D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)",309,Clostridium difficile,2,-0.0010000000000000009,3016,4780
+53,2014,Acetate,457,Eubacterium rectale,2,-0.0008890666207223008,3066,977

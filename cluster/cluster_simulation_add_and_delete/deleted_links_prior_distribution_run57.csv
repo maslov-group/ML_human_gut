@@ -1,0 +1,41 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2183,Octanoate (Caprylic acid),796,Odoribacter splanchnicus,3,0.012806599711319255,18,27770
+1,2068,D-Glucose (Glucose),54,Alistipes putredinis,2,1.4123016776612651e-05,25,4250
+2,2055,CO2,133,Bacteroides stercoris,2,0.0008082802255688915,56,3399
+3,2055,CO2,123,Bacteroides dorei,2,0.013587136597181804,59,3393
+4,2055,CO2,119,Bacteroides caccae,2,0.0008683440905291606,64,3390
+5,2055,CO2,135,Bacteroides uniformis,2,0.00916552953286398,89,3401
+6,2032,beta-alanine (3-Aminopropionate),152,Bifidobacterium bifidum,3,0.0040887900257911,143,18021
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-1.3458832860968606e-05,157,11460
+8,2089,Ethanol,159,Bilophila wadsworthia,2,-0.0004416235896623766,175,5713
+9,2074,D-Ribose (Ribose),137,Bacteroides xylanisolvens,3,0.0028096962352831545,180,20610
+10,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,0.0002649219248593848,188,4696
+11,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0013741622247279706,194,9025
+12,2093,Formate,159,Bilophila wadsworthia,2,0.00042871803760735627,199,6001
+13,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),134,Bacteroides thetaiotaomicron,2,-0.0005233204532623104,212,11248
+14,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,0.0002783288435815878,251,3688
+15,2011,4-Aminobutyrate (GABA),54,Alistipes putredinis,2,0.0014331996037996175,252,722
+16,2079,D-Xylose (Xylose),129,Bacteroides ovatus,2,0.0009186603529749426,278,5053
+17,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,1.1349381383252144e-05,344,3757
+18,2068,D-Glucose (Glucose),968,Ruminococcus obeum,2,-0.0007418370975913469,353,4312
+19,2061,D-Fructose (Fructose),464,Faecalibacterium prausnitzii,2,-0.0001215480422079862,379,3788
+20,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0025636188153175254,518,3112
+21,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,0.0013945550727577638,521,4048
+22,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,0.0003941498908577312,550,4336
+23,2055,CO2,126,Bacteroides fragilis,2,0.0015607172516044487,598,3396
+24,2049,Cholic acid (Cholate),126,Bacteroides fragilis,2,0.003635774660112334,719,3108
+25,2074,D-Ribose (Ribose),137,Bacteroides xylanisolvens,3,0.0019210409558645392,806,20610
+26,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0011301900080811222,828,3976
+27,2099,Glycochenodeoxycholate,126,Bacteroides fragilis,2,-0.001000000000000112,854,6276
+28,2032,beta-alanine (3-Aminopropionate),152,Bifidobacterium bifidum,3,0.0013072558086508757,910,18021
+29,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00048770894946859045,996,2968
+30,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",964,Ruminococcus bromii,2,0.00032042234016982363,1070,1357
+31,2183,Octanoate (Caprylic acid),796,Odoribacter splanchnicus,3,0.0026794346537455382,1212,27770
+32,2085,Dimethylamine,152,Bifidobacterium bifidum,3,-0.0010000000000000009,1324,21405
+33,2068,D-Glucose (Glucose),54,Alistipes putredinis,2,0.0008392209722485333,1413,4250
+34,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.00011034903885964731,1589,11104
+35,2079,D-Xylose (Xylose),134,Bacteroides thetaiotaomicron,2,0.000813486968184618,1680,5056
+36,2079,D-Xylose (Xylose),812,Parabacteroides distasonis,2,0.0021635754755718883,1686,5092
+37,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0008324608729757266,1827,11462
+38,2132,L-Fucose,968,Ruminococcus obeum,2,-0.0010000000000000009,1836,8416
+39,2011,4-Aminobutyrate (GABA),54,Alistipes putredinis,2,0.00020143060763411214,1895,722

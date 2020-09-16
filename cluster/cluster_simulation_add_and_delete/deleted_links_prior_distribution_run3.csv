@@ -1,0 +1,49 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0007424853442754564,17,11460
+1,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.00011049804505824934,48,4552
+2,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.0002377077615238754,98,5272
+3,2064,D-Galactose,129,Bacteroides ovatus,2,-3.1726786786645533e-06,104,3973
+4,2068,D-Glucose (Glucose),126,Bacteroides fragilis,2,-0.0006454283966357277,121,4260
+5,2014,Acetate,460,Eubacterium siraeum,2,-0.0005879684051226519,139,978
+6,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0017281864263343216,154,3976
+7,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.000872853562804754,162,12995
+8,2157,Lactose,812,Parabacteroides distasonis,2,0.00012859206455650973,215,10204
+9,2128,L-Asparagine (Asparagine),54,Alistipes putredinis,3,0.003775284218215491,218,23978
+10,2142,L-Leucine (Leucine),456,Eubacterium limosum,3,0.0017026693899978573,221,25024
+11,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",425,Eggerthella lenta,3,0.0003180179326041088,273,17245
+12,2040,Cadaverine,814,Parabacteroides merdae,3,0.003487620767719579,322,18558
+13,2093,Formate,159,Bilophila wadsworthia,2,0.000579588704138212,351,6001
+14,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,0.00011016800985919062,354,1348
+15,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.002397423746607119,380,10631
+16,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0013762857998609324,409,3760
+17,2161,Maltose,952,Roseburia intestinalis,2,0.0005138095785427454,426,10499
+18,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.00021202881359561054,547,3756
+19,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.016979258296808464,608,980
+20,2014,Acetate,952,Roseburia intestinalis,2,2.485881952640767e-05,662,995
+21,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",425,Eggerthella lenta,3,0.00034347037740456443,673,17245
+22,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",126,Bacteroides fragilis,2,-0.0004458383807608435,684,5268
+23,2014,Acetate,455,Eubacterium hallii,2,0.0024387759142860954,851,975
+24,2118,Isethionate,159,Bilophila wadsworthia,2,-0.0009999999999998899,875,7441
+25,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,-0.00021015774014365718,881,4588
+26,2206,Raffinose,126,Bacteroides fragilis,2,2.8695293441627356e-05,908,13332
+27,2043,Cellobiose,76,Anaerotruncus colihominis,2,-0.001000000000000112,912,2813
+28,2014,Acetate,401,Desulfovibrio piger,2,0.0001193061926123562,944,971
+29,2217,Succinate,159,Bilophila wadsworthia,2,0.000887275443262503,963,14065
+30,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.00023697057452487513,996,9047
+31,2157,Lactose,1065,Streptococcus sanguinis,2,-0.0009435515705589204,1096,10222
+32,2128,L-Asparagine (Asparagine),54,Alistipes putredinis,3,0.0013545939483987635,1118,23978
+33,2206,Raffinose,812,Parabacteroides distasonis,2,-0.0006447531554814034,1123,13372
+34,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.001326837014520188,1154,11104
+35,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",129,Bacteroides ovatus,2,0.0005309193126575851,1247,5269
+36,2072,D-Mannose (Mannose),796,Odoribacter splanchnicus,2,-0.0009340445566506927,1289,4586
+37,2142,L-Leucine (Leucine),456,Eubacterium limosum,3,3.484779558249329e-07,1318,25024
+38,2229,Thymine,124,Bacteroides eggerthii,3,-2.750464449818857e-05,1441,30826
+39,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,-0.0003780145352676456,1470,9025
+40,2100,Glycocholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0004658353983149066,1778,6359
+41,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00021074995944425634,2047,3757
+42,2040,Cadaverine,814,Parabacteroides merdae,3,0.003456873830894658,2053,18558
+43,2229,Thymine,124,Bacteroides eggerthii,3,0.0016009197092967664,2081,30826
+44,2089,Ethanol,159,Bilophila wadsworthia,2,-0.00028516475224160676,2091,5713
+45,2225,Taurolithocholate,151,Bifidobacterium animalis,2,-0.0010000000000000009,2230,14636
+46,2236,Tyramine,129,Bacteroides ovatus,3,-0.0010000000000000009,2242,31261
+47,2014,Acetate,260,Catenibacterium mitsuokai,3,-0.0010000000000000009,2268,16875

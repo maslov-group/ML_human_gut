@@ -1,0 +1,53 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,126,Bacteroides fragilis,2,0.0003569622223645874,3,3396
+1,2119,Isobutyrate (2-Methylpropanoic acid),54,Alistipes putredinis,2,0.00024185515160990434,69,7490
+2,2093,Formate,159,Bilophila wadsworthia,2,0.0030408072828798094,74,6001
+3,2035,Biotin (Vitamin B7),964,Ruminococcus bromii,2,-0.000208510838025866,91,2365
+4,2064,D-Galactose,129,Bacteroides ovatus,2,0.0013151025627395896,98,3973
+5,2089,Ethanol,159,Bilophila wadsworthia,2,0.0002409455792861115,118,5713
+6,2212,Spermidine,457,Eubacterium rectale,2,0.0015562276422014243,127,13793
+7,2201,Propanoate (Propionate),131,Bacteroides plebeius,3,-0.0010000000000000009,143,28886
+8,2069,D-Glucuronic acid (D-Glucuronate),158,Bifidobacterium pseudocatenulatum,3,0.0014480784561546889,163,20256
+9,2069,D-Glucuronic acid (D-Glucuronate),124,Bacteroides eggerthii,2,-0.00027522193674101025,165,4330
+10,2055,CO2,123,Bacteroides dorei,2,0.011835985800236037,225,3393
+11,2161,Maltose,401,Desulfovibrio piger,2,-0.0010062577902727465,243,10475
+12,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.009868509272986103,252,6866
+13,2014,Acetate,151,Bifidobacterium animalis,3,-0.0010000000000000009,257,16868
+14,2055,CO2,339,Coprococcus eutactus,3,-0.0010000000000000009,298,19330
+15,2055,CO2,135,Bacteroides uniformis,2,0.0020678477646828286,316,3401
+16,2161,Maltose,329,Collinsella aerofaciens (Eubacterium aerofaciens),2,0.002257457189297596,348,10472
+17,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,-5.9486980641065834e-05,351,10603
+18,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,5.76242396788107e-06,406,2981
+19,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0007853791498035889,423,6865
+20,2035,Biotin (Vitamin B7),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-0.0010000000000000009,424,18239
+21,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0022405584355071895,455,10631
+22,2188,"p-Cresol (4-methylphenol, 4-cresol)",309,Clostridium difficile,3,-0.0010000000000000009,462,28108
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00034570683405654723,565,11460
+24,2242,XOS (Xylooligosaccharide),457,Eubacterium rectale,2,0.0002790395941134616,600,15809
+25,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-0.0005606226199339481,611,5272
+26,2119,Isobutyrate (2-Methylpropanoic acid),54,Alistipes putredinis,2,0.0004438226483890473,642,7490
+27,2135,L-Glycine (Glycine),1064,Streptococcus salivarius,2,-0.0010000000000000009,674,8637
+28,2201,Propanoate (Propionate),326,Clostridium symbiosum,2,-0.0010107475395521037,761,12991
+29,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.0006283271693656722,868,11500
+30,2212,Spermidine,457,Eubacterium rectale,2,0.0006493947609007567,904,13793
+31,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,0.0013976327324498605,949,13336
+32,2014,Acetate,457,Eubacterium rectale,2,0.0028361398954250827,967,977
+33,2107,H2 (Hydrogen),870,Prevotella copri,3,0.001269520146139902,1039,22807
+34,2061,D-Fructose (Fructose),149,Bifidobacterium adolescentis,2,0.001042381649801083,1057,3763
+35,2223,Taurocholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0012281244704372973,1059,14495
+36,2206,Raffinose,126,Bacteroides fragilis,2,-0.00017134972326493525,1078,13332
+37,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,2,-0.0004761643843806951,1103,15630
+38,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,-0.0006043787787251009,1142,4696
+39,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-2.9365616920351556e-06,1165,3757
+40,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,2,0.00043372944508568434,1197,15630
+41,2107,H2 (Hydrogen),870,Prevotella copri,3,-0.0005360103321038201,1206,22807
+42,2157,Lactose,870,Prevotella copri,2,0.00037816942708102097,1264,10207
+43,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.00094502302761168,1278,3400
+44,2068,D-Glucose (Glucose),551,Holdemania filiformis,2,-8.624652196842497e-05,1311,4296
+45,2093,Formate,456,Eubacterium limosum,3,-0.0010000000000000009,1334,21928
+46,2171,"Myristic acid (Tetradecanoic acid, Tetradecanoate)",309,Clostridium difficile,2,-0.0010000000000000009,1349,11044
+47,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",812,Parabacteroides distasonis,2,-0.0009078308877457086,1417,9628
+48,2069,D-Glucuronic acid (D-Glucuronate),158,Bifidobacterium pseudocatenulatum,3,0.0011838012109370855,1423,20256
+49,2055,CO2,323,Clostridium scindens,3,-0.0010000000000000009,1449,19326
+50,2201,Propanoate (Propionate),326,Clostridium symbiosum,2,0.0010241683179373906,1722,12991
+51,2171,"Myristic acid (Tetradecanoic acid, Tetradecanoate)",309,Clostridium difficile,2,0.0010000000000000009,1738,11044

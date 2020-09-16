@@ -1,0 +1,39 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.0004389179328306847,22,5272
+1,2107,H2 (Hydrogen),966,Ruminococcus gnavus,2,0.003819195398804265,26,6903
+2,2157,Lactose,812,Parabacteroides distasonis,2,-1.445748999040486e-05,53,10204
+3,2055,CO2,124,Bacteroides eggerthii,2,-0.0006008996787792986,79,3394
+4,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0009424051551848445,86,11460
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,-3.432645781920041e-05,105,11454
+6,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0013529699763141778,220,3976
+7,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.00025664288429516624,253,4552
+8,2093,Formate,159,Bilophila wadsworthia,2,0.002030829140826973,257,6001
+9,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0013171921697761046,275,9025
+10,2146,L-Ornithine (Ornithine),464,Faecalibacterium prausnitzii,3,0.01853798070137802,279,25316
+11,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0029954050465225146,283,10631
+12,2064,D-Galactose,129,Bacteroides ovatus,2,0.000817513300270245,298,3973
+13,2129,"L-Aspartate (Aspartate, D-Aspartate)",457,Eubacterium rectale,2,-0.0010000000000000009,341,8177
+14,2089,Ethanol,159,Bilophila wadsworthia,2,-0.0003902628619825155,402,5713
+15,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",964,Ruminococcus bromii,2,-0.001054663779936016,406,13237
+16,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,-5.0124804774953624e-05,462,11509
+17,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",124,Bacteroides eggerthii,2,-0.0011147542323435289,493,1306
+18,2055,CO2,123,Bacteroides dorei,2,0.000901939382694561,618,3393
+19,2238,Urea,158,Bifidobacterium pseudocatenulatum,2,-0.00013255783797105902,631,15504
+20,2094,FOS (Fructooligosaccharide),952,Roseburia intestinalis,2,-0.0007081200372176522,636,6107
+21,2069,D-Glucuronic acid (D-Glucuronate),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-0.00047807223723095316,699,20255
+22,2146,L-Ornithine (Ornithine),464,Faecalibacterium prausnitzii,3,0.003949207388668774,711,25316
+23,2055,CO2,126,Bacteroides fragilis,2,0.00021916657870457712,744,3396
+24,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00011563194857200365,866,3757
+25,2115,Indole-3-acetate (Indoleacetate),796,Odoribacter splanchnicus,3,0.000270566804603356,894,23162
+26,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),260,Catenibacterium mitsuokai,2,-0.00028311498076583064,1080,15219
+27,2163,Menaquinone (Vitamin K2),608,Lactococcus lactis,3,-0.0010000000000000009,1140,26545
+28,2242,XOS (Xylooligosaccharide),457,Eubacterium rectale,2,-6.94553171016743e-05,1229,15809
+29,2107,H2 (Hydrogen),966,Ruminococcus gnavus,2,0.00039933672649983265,1253,6903
+30,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.004562517667028754,1298,6866
+31,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),260,Catenibacterium mitsuokai,2,5.21679722191859e-05,1316,15219
+32,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,-0.00033173376284034717,1327,11132
+33,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0009115650349049709,1394,3760
+34,2061,D-Fructose (Fructose),149,Bifidobacterium adolescentis,2,-0.0004963332997718339,1431,3763
+35,2115,Indole-3-acetate (Indoleacetate),796,Odoribacter splanchnicus,3,0.0001262705532472097,1449,23162
+36,2069,D-Glucuronic acid (D-Glucuronate),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.00040366374283185014,1619,20255
+37,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",870,Prevotella copri,2,7.156296707300225e-05,1843,3727

@@ -1,0 +1,43 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2079,D-Xylose (Xylose),966,Ruminococcus gnavus,2,6.450146231551379e-05,28,5103
+1,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",54,Alistipes putredinis,2,0.01890532290475988,47,8426
+2,2094,FOS (Fructooligosaccharide),878,Prevotella salivae,2,0.002328203116801486,65,6104
+3,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",454,Eubacterium eligens,3,0.0007803618634870668,83,24374
+4,2135,L-Glycine (Glycine),126,Bacteroides fragilis,3,0.02114278188055818,101,24492
+5,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",1007,Shigella sonnei,3,0.016344331755092534,103,16626
+6,2122,Isovalerate (3-Methylbutanoic acid),133,Bacteroides stercoris,3,0.01332888829684531,124,23631
+7,2122,Isovalerate (3-Methylbutanoic acid),966,Ruminococcus gnavus,2,-5.331829396193477e-05,145,7767
+8,2049,Cholic acid (Cholate),124,Bacteroides eggerthii,3,0.006167957478713348,146,19018
+9,2240,"Valerate (Pentanoic acid, Pentanoate)",124,Bacteroides eggerthii,3,0.0044934083494276855,184,31546
+10,2122,Isovalerate (3-Methylbutanoic acid),161,Blautia hansenii (Ruminococcus hansenii),3,0.01942082766623454,196,23642
+11,2070,D-Lyxose (L-Lyxose),457,Eubacterium rectale,3,0.00555583802203663,225,20345
+12,2122,Isovalerate (3-Methylbutanoic acid),338,Coprococcus comes,2,0.0017114415720362874,234,7737
+13,2081,Deoxycholic acid,131,Bacteroides plebeius,2,0.0006630491121834003,279,5198
+14,2098,Glycerol,953,Roseburia inulinivorans,3,-0.0008073545512723435,291,22164
+15,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",338,Coprococcus comes,3,0.0019018691662993081,333,24369
+16,2122,Isovalerate (3-Methylbutanoic acid),464,Faecalibacterium prausnitzii,3,0.000720763240393163,367,23660
+17,2203,Putrescine,968,Ruminococcus obeum,2,0.0007340233929895579,374,13168
+18,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",952,Roseburia intestinalis,3,0.006514935644351794,375,24395
+19,2122,Isovalerate (3-Methylbutanoic acid),401,Desulfovibrio piger,3,0.00017790984055265913,400,23651
+20,2011,4-Aminobutyrate (GABA),137,Bacteroides xylanisolvens,3,0.007076525773476283,414,16650
+21,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",1064,Streptococcus salivarius,3,0.009042802632587166,416,16557
+22,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",401,Desulfovibrio piger,3,8.829211858485397e-05,427,24371
+23,2122,Isovalerate (3-Methylbutanoic acid),425,Eggerthella lenta,2,0.0006186550344225994,508,7741
+24,2038,Butyrate,326,Clostridium symbiosum,2,0.0012291274393896323,514,2551
+25,2011,4-Aminobutyrate (GABA),454,Eubacterium eligens,3,0.0016083234103225763,568,16670
+26,2011,4-Aminobutyrate (GABA),878,Prevotella salivae,2,5.382555388511179e-06,653,776
+27,2098,Glycerol,1007,Shigella sonnei,3,0.0010205233375375489,699,22170
+28,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",966,Ruminococcus gnavus,3,0.003414635641550423,710,24399
+29,2122,Isovalerate (3-Methylbutanoic acid),456,Eubacterium limosum,3,-0.0005354955273471074,737,23656
+30,2240,"Valerate (Pentanoic acid, Pentanoate)",608,Lactococcus lactis,3,0.0005045760601992688,774,31585
+31,2217,Succinate,125,Bacteroides finegoldii (Alistipes finegoldii),2,0.0032139154579493567,800,14051
+32,2006,2-Aminobutyric acid (2-Aminobutyrate),461,Eubacterium ventriosum,3,0.003326432766269316,808,16315
+33,2122,Isovalerate (3-Methylbutanoic acid),124,Bacteroides eggerthii,2,-9.69556278271888e-05,821,7714
+34,2233,Trimethylamine,309,Clostridium difficile,2,0.0002937000112457344,849,15148
+35,2041,Caproate (Hexanoate),1007,Shigella sonnei,3,0.002854754191420894,1037,18642
+36,2061,D-Fructose (Fructose),137,Bacteroides xylanisolvens,3,0.0016148520311340953,1076,19674
+37,2125,"L-Alanine (D-Alanine, Alanine)",964,Ruminococcus bromii,3,0.00016225536962166665,1089,23821
+38,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",76,Anaerotruncus colihominis,2,-0.0010143278444121329,1221,8429
+39,2233,Trimethylamine,457,Eubacterium rectale,2,0.0019433581416614665,1407,15161
+40,2071,D-Mannitol (Mannitol),1007,Shigella sonnei,2,-0.0010000000000000009,1450,4530
+41,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",124,Bacteroides eggerthii,3,0.001370150674154469,1466,28234

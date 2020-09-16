@@ -1,0 +1,50 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.00016893596677791667,11,11104
+1,2210,Riboflavin (Vitamin B2),464,Faecalibacterium prausnitzii,2,-0.0010763193877705302,14,13652
+2,2201,Propanoate (Propionate),1065,Streptococcus sanguinis,2,8.96163964150265e-05,20,13030
+3,2157,Lactose,812,Parabacteroides distasonis,2,2.5129760766295917e-05,32,10204
+4,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.005338162886445841,39,10631
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.000454768758012869,58,11463
+6,2055,CO2,131,Bacteroides plebeius,2,0.003244728080895043,81,3398
+7,2217,Succinate,159,Bilophila wadsworthia,2,0.010390165697473974,83,14065
+8,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0014187549232913543,97,3760
+9,2157,Lactose,137,Bacteroides xylanisolvens,2,-0.0005475959433459687,121,10170
+10,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0015746972731496278,123,9025
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00045588525868789365,151,11460
+12,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",129,Bacteroides ovatus,2,0.0001897776956154562,176,5269
+13,2238,Urea,158,Bifidobacterium pseudocatenulatum,2,0.0018599717285684436,197,15504
+14,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.0004015430976215262,216,4552
+15,2093,Formate,159,Bilophila wadsworthia,2,0.0036849684131792237,229,6001
+16,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,7.02323766998969e-05,249,2981
+17,2081,Deoxycholic acid,969,Ruminococcus torques,2,-0.00010994258076835184,270,5249
+18,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.0007494927177692512,287,9047
+19,2093,Formate,401,Desulfovibrio piger,2,-0.0005108259918406022,308,6011
+20,2055,CO2,126,Bacteroides fragilis,2,0.00039857747298688295,309,3396
+21,2065,D-Galacturonate,124,Bacteroides eggerthii,2,0.00045876439455483364,326,4042
+22,2055,CO2,129,Bacteroides ovatus,2,0.0002257008255814874,335,3397
+23,2014,Acetate,952,Roseburia intestinalis,2,-0.0006731259509827892,345,995
+24,2078,D-Turanose,401,Desulfovibrio piger,3,0.00019441494947647353,362,20915
+25,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.001446595912527715,410,6866
+26,2061,D-Fructose (Fructose),158,Bifidobacterium pseudocatenulatum,2,-0.0008041462117097664,433,3768
+27,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,0.0002514924432330812,440,4264
+28,2146,L-Ornithine (Ornithine),456,Eubacterium limosum,3,0.00012242208659063447,448,25312
+29,2069,D-Glucuronic acid (D-Glucuronate),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0002035861625084845,523,4343
+30,2081,Deoxycholic acid,969,Ruminococcus torques,2,0.000990531233460823,550,5249
+31,2061,D-Fructose (Fructose),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-7.084073164498328e-05,583,3767
+32,2070,D-Lyxose (L-Lyxose),1064,Streptococcus salivarius,3,0.00017567043495891888,720,20373
+33,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.00027695166711749764,757,11461
+34,2055,CO2,124,Bacteroides eggerthii,2,0.0001936840590978095,777,3394
+35,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,0.0008110361213915507,853,13336
+36,2206,Raffinose,812,Parabacteroides distasonis,2,0.000336034456412615,862,13372
+37,2163,Menaquinone (Vitamin K2),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.00037475333694148016,932,10607
+38,2146,L-Ornithine (Ornithine),456,Eubacterium limosum,3,0.000498373132517882,981,25312
+39,2100,Glycocholate,126,Bacteroides fragilis,2,-0.0010000000000000009,1021,6348
+40,2094,FOS (Fructooligosaccharide),158,Bifidobacterium pseudocatenulatum,2,-0.0011776777654816106,1067,6072
+41,2201,Propanoate (Propionate),1065,Streptococcus sanguinis,2,2.7566921968369407e-05,1148,13030
+42,2089,Ethanol,401,Desulfovibrio piger,2,-0.000391957675847987,1155,5723
+43,2061,D-Fructose (Fructose),796,Odoribacter splanchnicus,2,0.00048814839485178396,1195,3794
+44,2078,D-Turanose,401,Desulfovibrio piger,3,0.0004290692087788317,1247,20915
+45,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0008514916329426248,1282,3112
+46,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0010817078379580236,1283,2968
+47,2070,D-Lyxose (L-Lyxose),1064,Streptococcus salivarius,3,0.0005226358107027762,1300,20373
+48,2064,D-Galactose,137,Bacteroides xylanisolvens,2,0.00032793384588691854,1488,3978

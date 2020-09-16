@@ -1,0 +1,49 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",129,Bacteroides ovatus,2,-0.0003414840331500413,37,9589
+1,2074,D-Ribose (Ribose),966,Ruminococcus gnavus,2,0.001672827355230666,82,4743
+2,2155,L-Tyrosine (Tyrosine),1064,Streptococcus salivarius,2,0.0043467877490138696,89,10077
+3,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0011230926511435202,98,9025
+4,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),401,Desulfovibrio piger,3,0.0005300085169251956,125,31139
+5,2069,D-Glucuronic acid (D-Glucuronate),131,Bacteroides plebeius,3,0.0005603938452818369,149,20246
+6,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,-8.589197068131771e-05,158,11462
+7,2055,CO2,123,Bacteroides dorei,2,0.006163362248830739,166,3393
+8,2073,D-Psicose,454,Eubacterium eligens,3,0.0014872522605191563,196,20558
+9,2142,L-Leucine (Leucine),1064,Streptococcus salivarius,2,0.0018323363783994129,255,9141
+10,2055,CO2,126,Bacteroides fragilis,2,0.0010382697691173615,293,3396
+11,2155,L-Tyrosine (Tyrosine),134,Bacteroides thetaiotaomicron,2,0.0003792286479635809,345,10024
+12,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,0.00038405157639143095,347,4336
+13,2225,Taurolithocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,425,14641
+14,2161,Maltose,464,Faecalibacterium prausnitzii,2,0.0001453455361694056,475,10484
+15,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0014879065565982508,524,10631
+16,2142,L-Leucine (Leucine),134,Bacteroides thetaiotaomicron,2,0.0022400928230424944,626,9088
+17,2074,D-Ribose (Ribose),966,Ruminococcus gnavus,2,-9.055835650939592e-05,649,4743
+18,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,-0.0007029296601254176,776,1348
+19,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0005516750788066016,937,11461
+20,2161,Maltose,464,Faecalibacterium prausnitzii,2,0.0006279528926047551,1044,10484
+21,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0006838419228738513,1045,3760
+22,2055,CO2,401,Desulfovibrio piger,2,-0.0003662908689814337,1073,3419
+23,2126,"L-Arabitol (L-Arabinitol, D-Arabitol)",870,Prevotella copri,3,0.001879237006687573,1107,23887
+24,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",1064,Streptococcus salivarius,2,0.0007198149913711926,1136,8493
+25,2143,"L-Lysine (Lysine, D-Lysine)",1064,Streptococcus salivarius,2,-5.968857336591249e-05,1169,9213
+26,2093,Formate,401,Desulfovibrio piger,2,-1.2274665915135152e-05,1194,6011
+27,2055,CO2,134,Bacteroides thetaiotaomicron,2,-0.00023916679075886016,1208,3400
+28,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0011061144829653813,1257,3976
+29,2176,N2,338,Coprococcus comes,3,-0.0007847015136657198,1282,27321
+30,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,5.8656399107404056e-05,1296,4264
+31,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,-0.0001988431983859229,1360,11463
+32,2068,D-Glucose (Glucose),129,Bacteroides ovatus,2,6.445437314728242e-05,1473,4261
+33,2176,N2,338,Coprococcus comes,3,0.0007999499876304439,1478,27321
+34,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),401,Desulfovibrio piger,3,0.0006197082136998322,1520,31139
+35,2173,N-Acetyl-D-mannosamine,895,Pseudoflavonifractor capillosus,2,0.0005056017681009939,1548,11218
+36,2069,D-Glucuronic acid (D-Glucuronate),131,Bacteroides plebeius,3,0.0007759802117897063,1689,20246
+37,2132,L-Fucose,966,Ruminococcus gnavus,2,-0.0010000000000000009,1799,8415
+38,2173,N-Acetyl-D-mannosamine,895,Pseudoflavonifractor capillosus,2,0.00010214645314299275,1837,11218
+39,2073,D-Psicose,135,Bacteroides uniformis,2,-0.000659340258303831,1852,4625
+40,2064,D-Galactose,129,Bacteroides ovatus,2,-8.018529988140788e-05,1868,3973
+41,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00022550242417873623,1934,11460
+42,2064,D-Galactose,158,Bifidobacterium pseudocatenulatum,2,-0.00023947071984264934,1961,3984
+43,2217,Succinate,401,Desulfovibrio piger,2,-0.0010781211339698782,2109,14075
+44,2073,D-Psicose,454,Eubacterium eligens,3,0.0008024255618038767,2113,20558
+45,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",129,Bacteroides ovatus,2,-0.0005109677001569057,2135,3685
+46,2126,"L-Arabitol (L-Arabinitol, D-Arabitol)",870,Prevotella copri,3,0.00014732477216050643,2143,23887
+47,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0003670454385779065,2163,3112

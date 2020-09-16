@@ -1,0 +1,41 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2185,Orotic acid (Orotate),1052,Streptococcus gallolyticus,3,0.0006730171972963994,2,27931
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.006016239336455231,8,11457
+2,2014,Acetate,455,Eubacterium hallii,2,0.00015372708655936318,21,975
+3,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.0002522799428550382,32,5272
+4,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00021156392493637544,49,11460
+5,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0034951216444173427,127,15784
+6,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.02077228949138077,134,6866
+7,2055,CO2,126,Bacteroides fragilis,2,0.000313275609237218,148,3396
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.0003533251318216246,167,11463
+9,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0013096339949081326,191,11462
+10,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0010116604547844021,221,3976
+11,2157,Lactose,812,Parabacteroides distasonis,2,-2.2390931756155474e-05,224,10204
+12,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.001848760453245779,260,2968
+13,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.00010250013308099604,282,4552
+14,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.0005292211093188559,399,11500
+15,2129,"L-Aspartate (Aspartate, D-Aspartate)",1099,Sutterella wadsworthensis,2,0.0025991961809500586,433,8207
+16,2125,"L-Alanine (D-Alanine, Alanine)",420,Dorea formicigenerans,2,-0.00038776516890381973,463,7884
+17,2114,Indole,55,Alistipes shahii,3,-0.0010000000000000009,576,23043
+18,2101,Glycodeoxycholate,126,Bacteroides fragilis,2,-0.0010000000000000009,623,6420
+19,2014,Acetate,260,Catenibacterium mitsuokai,3,-0.0010000000000000009,636,16875
+20,2205,Pyruvate,158,Bifidobacterium pseudocatenulatum,3,-0.0006871269237322952,652,29184
+21,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0003015759132757312,655,3112
+22,2125,"L-Alanine (D-Alanine, Alanine)",420,Dorea formicigenerans,2,-0.0006446883418200766,726,7884
+23,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-0.0008920076928931042,841,11101
+24,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,-4.389991151687589e-05,857,4588
+25,2185,Orotic acid (Orotate),1052,Streptococcus gallolyticus,3,0.0007661186435743428,876,27931
+26,2132,L-Fucose,966,Ruminococcus gnavus,2,-0.0001087366768881548,877,8415
+27,2205,Pyruvate,158,Bifidobacterium pseudocatenulatum,3,0.0009027869846565117,915,29184
+28,2217,Succinate,159,Bilophila wadsworthia,2,0.00042156476845667257,1049,14065
+29,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,4.776389233906997e-06,1103,11104
+30,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,-0.0009392477350053108,1142,4264
+31,2055,CO2,457,Eubacterium rectale,2,0.004193459642786279,1195,3425
+32,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0015777801940691782,1253,3760
+33,2100,Glycocholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,1327,6359
+34,2068,D-Glucose (Glucose),796,Odoribacter splanchnicus,2,0.00031308498389859274,1343,4298
+35,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0009522066435910803,1359,6217
+36,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",796,Odoribacter splanchnicus,2,-0.000159354397826994,1468,3722
+37,2163,Menaquinone (Vitamin K2),152,Bifidobacterium bifidum,2,0.00033375310680938686,1619,10605
+38,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",964,Ruminococcus bromii,2,6.457064825837744e-05,1758,2293
+39,2055,CO2,135,Bacteroides uniformis,2,-0.00013542910216013393,1770,3401

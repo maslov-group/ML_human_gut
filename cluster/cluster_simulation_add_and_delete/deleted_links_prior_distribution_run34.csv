@@ -1,0 +1,48 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,0.0005060529553816417,27,11132
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.0097501648427194,32,11457
+2,2067,D-Glucosamine (Glucosamine),134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,37,4192
+3,2157,Lactose,812,Parabacteroides distasonis,2,0.00012367462015250297,93,10204
+4,2055,CO2,1065,Streptococcus sanguinis,3,-0.0010000000000000009,109,19366
+5,2064,D-Galactose,420,Dorea formicigenerans,2,-3.567764118761474e-05,128,3996
+6,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",121,Bacteroides coprocola,3,0.0030905843536319644,176,16495
+7,2145,L-Methionine (D-Methionine),1064,Streptococcus salivarius,2,-0.0010000000000000009,191,9357
+8,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-1.7607037919975532e-05,314,6064
+9,2094,FOS (Fructooligosaccharide),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-4.450973181691076e-05,319,6071
+10,2055,CO2,126,Bacteroides fragilis,2,0.0005119084984245292,326,3396
+11,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0003765090023523099,328,15784
+12,2101,Glycodeoxycholate,149,Bifidobacterium adolescentis,2,4.4033027413181713e-05,335,6427
+13,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.0015464996042532375,345,11500
+14,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0003457379555454887,371,4552
+15,2159,Lithocholic acid,123,Bacteroides dorei,2,0.00018814647901566062,408,10305
+16,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0017034673415041723,487,3760
+17,2178,"NH3 (Ammonia, NH4+, Ammonium)",965,Ruminococcus flavefaciens,2,0.0006861181086731394,488,11510
+18,2014,Acetate,460,Eubacterium siraeum,2,-0.00016044553347649426,656,978
+19,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,-0.0004965186164084257,668,10631
+20,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0015787193794639665,730,11509
+21,2061,D-Fructose (Fructose),152,Bifidobacterium bifidum,2,-0.0007700587334177333,782,3765
+22,2094,FOS (Fructooligosaccharide),135,Bacteroides uniformis,2,0.0005010945791088517,895,6065
+23,2217,Succinate,159,Bilophila wadsworthia,2,0.0005084927348089074,943,14065
+24,2038,Butyrate,969,Ruminococcus torques,2,0.0004526445061743267,944,2585
+25,2061,D-Fructose (Fructose),135,Bacteroides uniformis,2,-0.0009766196774138036,966,3761
+26,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00016484343317080263,972,2968
+27,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.0005082078270586265,1122,3688
+28,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.001851460736728816,1144,980
+29,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.001408852468032018,1147,11460
+30,2142,L-Leucine (Leucine),1064,Streptococcus salivarius,2,0.0015066996564976343,1176,9141
+31,2079,D-Xylose (Xylose),134,Bacteroides thetaiotaomicron,2,-0.001081463318067799,1228,5056
+32,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-4.1948743175534986e-05,1243,3757
+33,2072,D-Mannose (Mannose),796,Odoribacter splanchnicus,2,0.00035986097050555443,1295,4586
+34,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",121,Bacteroides coprocola,3,0.0006422903678634517,1313,16495
+35,2159,Lithocholic acid,123,Bacteroides dorei,2,3.270415970713092e-05,1654,10305
+36,2157,Lactose,149,Bifidobacterium adolescentis,2,-0.00044892765841986204,1824,10171
+37,2020,Adipate,952,Roseburia intestinalis,2,-4.1605897494800814e-05,1839,1427
+38,2107,H2 (Hydrogen),323,Clostridium scindens,3,-0.0010000000000000009,1893,22782
+39,2064,D-Galactose,969,Ruminococcus torques,2,-0.0001259266612424481,1964,4025
+40,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.000781079754162195,2058,3112
+41,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,0.00015414593875773264,2066,4696
+42,2073,D-Psicose,969,Ruminococcus torques,2,-0.0010000000000000009,2084,4673
+43,2020,Adipate,952,Roseburia intestinalis,2,0.0008044666103012021,2116,1427
+44,2038,Butyrate,969,Ruminococcus torques,2,0.00041612556232717424,2230,2585
+45,2014,Acetate,75,Anaerostipes caccae,2,-0.0003245814100858446,2250,940
+46,2063,D-Galactosamine (Galactosamine),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,2273,3911

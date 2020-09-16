@@ -1,0 +1,48 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2046,Chenodeoxycholic acid (Chenodeoxycholate),126,Bacteroides fragilis,2,-0.00028864055715982495,47,2964
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,7.644754465274683e-05,73,11462
+2,2157,Lactose,812,Parabacteroides distasonis,2,-0.00012175033061678775,99,10204
+3,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00045608172207189934,104,3760
+4,2217,Succinate,159,Bilophila wadsworthia,2,0.009362316307790608,132,14065
+5,2241,Xanthine,796,Odoribacter splanchnicus,3,0.006757412855319611,135,31658
+6,2072,D-Mannose (Mannose),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,-0.00016453649918057867,138,4568
+7,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0012990598028359557,189,3976
+8,2055,CO2,131,Bacteroides plebeius,2,0.0025702086830539095,209,3398
+9,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0050676440257099165,254,10631
+10,2153,L-Threonine (Threonine),965,Ruminococcus flavefaciens,3,-5.280762384318738e-05,314,25838
+11,2014,Acetate,455,Eubacterium hallii,2,0.00014540490949233043,317,975
+12,2153,L-Threonine (Threonine),965,Ruminococcus flavefaciens,3,-1.7419196827850314e-05,324,25838
+13,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00032180122785396836,356,11104
+14,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,7.486390207334104e-05,369,11461
+15,2043,Cellobiose,964,Ruminococcus bromii,3,-4.429047244070006e-06,493,18781
+16,2055,CO2,401,Desulfovibrio piger,2,-0.0007217824332980127,505,3419
+17,2201,Propanoate (Propionate),1065,Streptococcus sanguinis,2,-5.527872519917043e-05,512,13030
+18,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.015626255333939354,520,980
+19,2145,L-Methionine (D-Methionine),456,Eubacterium limosum,3,0.0002672599567230538,543,25240
+20,2201,Propanoate (Propionate),1065,Streptococcus sanguinis,2,1.7815151399425133e-05,570,13030
+21,2055,CO2,126,Bacteroides fragilis,2,0.0004077935965429713,587,3396
+22,2093,Formate,159,Bilophila wadsworthia,2,0.00439893423886506,594,6001
+23,2126,"L-Arabitol (L-Arabinitol, D-Arabitol)",260,Catenibacterium mitsuokai,3,-0.0007036658341293967,713,23859
+24,2126,"L-Arabitol (L-Arabinitol, D-Arabitol)",260,Catenibacterium mitsuokai,3,0.0007036658341293967,714,23859
+25,2064,D-Galactose,129,Bacteroides ovatus,2,-4.1862456100383305e-05,799,3973
+26,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.0010911390755721229,801,13057
+27,2094,FOS (Fructooligosaccharide),129,Bacteroides ovatus,2,-0.0009713679011158494,847,6061
+28,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.0003352783869484677,863,4552
+29,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0009332487817285129,901,3112
+30,2145,L-Methionine (D-Methionine),456,Eubacterium limosum,3,1.2136895249481583e-05,957,25240
+31,2143,"L-Lysine (Lysine, D-Lysine)",1064,Streptococcus salivarius,2,-0.0010000000000000009,992,9213
+32,2194,Phenol,401,Desulfovibrio piger,2,-0.001000000000000112,1042,12563
+33,2071,D-Mannitol (Mannitol),1064,Streptococcus salivarius,2,-0.0009999999999998899,1052,4533
+34,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,0.0004274682925800022,1097,11132
+35,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-4.936482587680757e-05,1134,3757
+36,2145,L-Methionine (D-Methionine),126,Bacteroides fragilis,2,-0.001000000000000112,1154,9300
+37,2043,Cellobiose,964,Ruminococcus bromii,3,0.001022400554960834,1239,18781
+38,2061,D-Fructose (Fructose),131,Bacteroides plebeius,2,-0.0005588230063162669,1318,3758
+39,2074,D-Ribose (Ribose),129,Bacteroides ovatus,2,-0.00042972119896744765,1376,4693
+40,2014,Acetate,401,Desulfovibrio piger,2,-0.00010489445170691614,1415,971
+41,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.005633775543947728,1485,2968
+42,2233,Trimethylamine,161,Blautia hansenii (Ruminococcus hansenii),3,0.0017279474846643161,1520,31058
+43,2233,Trimethylamine,161,Blautia hansenii (Ruminococcus hansenii),3,-0.00037721290870240676,1677,31058
+44,2241,Xanthine,796,Odoribacter splanchnicus,3,0.00022695142624173936,1737,31658
+45,2206,Raffinose,338,Coprococcus comes,2,-0.0009259770653035071,1856,13353
+46,2068,D-Glucose (Glucose),457,Eubacterium rectale,2,0.0004017649723186967,1969,4289

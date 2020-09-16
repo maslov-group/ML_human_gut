@@ -1,0 +1,26 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2093,Formate,159,Bilophila wadsworthia,2,0.002524377813720169,36,6001
+1,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.001140477635086179,47,3760
+2,2093,Formate,401,Desulfovibrio piger,2,-0.0006194833645490894,57,6011
+3,2206,Raffinose,812,Parabacteroides distasonis,2,-8.881805032789902e-05,94,13372
+4,2217,Succinate,159,Bilophila wadsworthia,2,0.01958083551834411,110,14065
+5,2222,Taurochenodeoxycholate,126,Bacteroides fragilis,2,-0.0010000000000000009,152,14412
+6,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,0.00035954473274013576,156,3757
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0004968065933966814,236,11460
+8,2206,Raffinose,161,Blautia hansenii (Ruminococcus hansenii),2,-0.00013655825465308524,276,13346
+9,2055,CO2,123,Bacteroides dorei,2,0.008966339632434206,330,3393
+10,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.007463370571575756,337,6866
+11,2055,CO2,129,Bacteroides ovatus,2,0.00011658474421061271,343,3397
+12,2225,Taurolithocholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,470,14639
+13,2014,Acetate,314,Clostridium leptum,2,-0.00014953321487976012,537,965
+14,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0019003645507001954,541,10631
+15,2055,CO2,126,Bacteroides fragilis,2,0.002505856737091583,548,3396
+16,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.001240603645892957,697,3112
+17,2098,Glycerol,401,Desulfovibrio piger,2,-0.000948789475825107,811,6227
+18,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.001309588283159635,819,3976
+19,2231,Trehalose,134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,862,15064
+20,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-3.5785395995246994e-05,893,13336
+21,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.00010210074431749039,927,3400
+22,2061,D-Fructose (Fructose),149,Bifidobacterium adolescentis,2,0.00018939443617571605,931,3763
+23,2014,Acetate,314,Clostridium leptum,2,0.0004960965619409397,1061,965
+24,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0013406276495484537,1091,10603

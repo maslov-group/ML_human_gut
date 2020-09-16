@@ -1,0 +1,53 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2203,Putrescine,54,Alistipes putredinis,2,0.009136970095081076,3,13106
+1,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0010598371065830836,5,3760
+2,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.0007528787550248328,13,5272
+3,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.0005547858871628453,27,11500
+4,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-6.33716972866516e-05,66,3688
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-7.084972930271327e-05,169,11460
+6,2074,D-Ribose (Ribose),551,Holdemania filiformis,2,2.924298420448057e-05,237,4728
+7,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0011038824334564934,263,10631
+8,2068,D-Glucose (Glucose),338,Coprococcus comes,2,0.0004835268129543824,268,4281
+9,2055,CO2,133,Bacteroides stercoris,2,0.0007026570111834385,279,3399
+10,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.0004420179312432104,288,6064
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0008188997217982719,308,11461
+12,2167,Methylamine (Monomethylamine),161,Blautia hansenii (Ruminococcus hansenii),3,0.0012378024431419776,325,26810
+13,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0024414745346296174,326,11104
+14,2068,D-Glucose (Glucose),513,Haemophilus parainfluenzae,2,-8.498679001545106e-05,333,4295
+15,2064,D-Galactose,152,Bifidobacterium bifidum,2,-0.0006878704351174214,382,3981
+16,2064,D-Galactose,420,Dorea formicigenerans,2,2.9068381553476463e-05,417,3996
+17,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",54,Alistipes putredinis,3,0.0009190480000350609,444,28154
+18,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.0013489558966842674,446,11101
+19,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,-5.691880159064411e-05,486,11465
+20,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.00029151650538272733,558,9025
+21,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.00018216699011053272,572,11509
+22,2094,FOS (Fructooligosaccharide),464,Faecalibacterium prausnitzii,2,2.802278651536927e-05,643,6092
+23,2055,CO2,129,Bacteroides ovatus,2,0.00028137333018163346,666,3397
+24,2161,Maltose,964,Ruminococcus bromii,2,-0.00016800560405860754,769,10501
+25,2065,D-Galacturonate,126,Bacteroides fragilis,2,-0.00030125758680910053,784,4044
+26,2161,Maltose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010676879061805034,794,10463
+27,2217,Succinate,1065,Streptococcus sanguinis,2,0.000496078495501151,816,14110
+28,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),608,Lactococcus lactis,2,-0.0002474936030244512,818,15241
+29,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,0.0007545040581820039,834,2981
+30,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),608,Lactococcus lactis,2,0.0004777361671821634,890,15241
+31,2055,CO2,126,Bacteroides fragilis,2,0.0019196260685234723,907,3396
+32,2224,Taurodeoxycholate,149,Bifidobacterium adolescentis,2,-0.001000000000000112,939,14563
+33,2055,CO2,457,Eubacterium rectale,2,0.0071437123215645215,994,3425
+34,2099,Glycochenodeoxycholate,152,Bifidobacterium bifidum,2,0.00020984776403876193,1041,6285
+35,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",129,Bacteroides ovatus,2,-0.00025833376418649134,1046,9589
+36,2108,H2O2,46,Akkermansia muciniphila,2,-0.0011110200960512406,1208,6913
+37,2108,H2O2,46,Akkermansia muciniphila,2,0.0011110200960512406,1212,6913
+38,2143,"L-Lysine (Lysine, D-Lysine)",401,Desulfovibrio piger,3,0.0008556516876355724,1320,25091
+39,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0012600123088974957,1326,3112
+40,2206,Raffinose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0004104493693373179,1330,13343
+41,2217,Succinate,1065,Streptococcus sanguinis,2,-5.7471172414502725e-05,1382,14110
+42,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,-5.987972450849366e-05,1387,11454
+43,2035,Biotin (Vitamin B7),326,Clostridium symbiosum,3,-0.00045498805546129173,1395,18247
+44,2167,Methylamine (Monomethylamine),161,Blautia hansenii (Ruminococcus hansenii),3,0.0021658279558322002,1412,26810
+45,2055,CO2,401,Desulfovibrio piger,2,-8.182792703415043e-05,1555,3419
+46,2143,"L-Lysine (Lysine, D-Lysine)",401,Desulfovibrio piger,3,0.0008757972784969592,1594,25091
+47,2055,CO2,131,Bacteroides plebeius,2,0.00028777101875032685,1647,3398
+48,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.002196189330802123,1762,3400
+49,2035,Biotin (Vitamin B7),326,Clostridium symbiosum,3,0.0008038722321327407,1855,18247
+50,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",54,Alistipes putredinis,3,0.0007435066824090786,1901,28154
+51,2203,Putrescine,54,Alistipes putredinis,2,0.0003703237144125904,2005,13106

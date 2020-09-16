@@ -1,0 +1,53 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2098,Glycerol,159,Bilophila wadsworthia,2,0.0002550392663057677,88,6217
+1,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004661636044903328,95,10631
+2,2055,CO2,126,Bacteroides fragilis,2,0.0004332026231147479,98,3396
+3,2070,D-Lyxose (L-Lyxose),55,Alistipes shahii,3,0.002514970671445682,119,20307
+4,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007378033572628118,132,3973
+5,2201,Propanoate (Propionate),484,Fusobacterium varium,2,-0.00043729026577377095,138,13005
+6,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0012575528445833983,190,11460
+7,2064,D-Galactose,969,Ruminococcus torques,2,8.223640827564882e-05,200,4025
+8,2014,Acetate,455,Eubacterium hallii,2,0.0005703611599940928,204,975
+9,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.01667615326766514,258,980
+10,2014,Acetate,952,Roseburia intestinalis,2,0.0011159115926013818,302,995
+11,2079,D-Xylose (Xylose),457,Eubacterium rectale,3,0.00542837846452926,358,20993
+12,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.00011966474407920646,362,13057
+13,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.001254824132024157,367,11509
+14,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.0006197173395372513,374,11101
+15,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0019074897330371154,383,11104
+16,2069,D-Glucuronic acid (D-Glucuronate),54,Alistipes putredinis,3,-0.00036891630697988287,393,20234
+17,2201,Propanoate (Propionate),484,Fusobacterium varium,2,0.001341260555981827,519,13005
+18,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.003252025370291789,589,11457
+19,2069,D-Glucuronic acid (D-Glucuronate),54,Alistipes putredinis,3,8.359346488284736e-05,623,20234
+20,2055,CO2,129,Bacteroides ovatus,2,0.00026131124919892557,648,3397
+21,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0001963431072659061,652,15784
+22,2055,CO2,457,Eubacterium rectale,2,0.002160337195657114,672,3425
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.00021092269124589613,707,11500
+24,2197,Phylloquinone (Vitamin K1),161,Blautia hansenii (Ruminococcus hansenii),3,0.0012625942695018155,764,28682
+25,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0012829594683787526,775,3760
+26,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",153,Bifidobacterium breve,3,-0.0010000000000000009,836,17230
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,0.00014112806060950778,849,11454
+28,2079,D-Xylose (Xylose),457,Eubacterium rectale,3,0.0020862006379219755,899,20993
+29,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0009052512603817675,971,4552
+30,2055,CO2,1052,Streptococcus gallolyticus,3,-0.0010000000000000009,979,19363
+31,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0008666742875553801,1024,10603
+32,2055,CO2,952,Roseburia intestinalis,3,-0.0010000000000000009,1043,19355
+33,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,2.6814191666391096e-05,1067,4333
+34,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,-8.78461602271674e-05,1114,2981
+35,2050,Choline,153,Bifidobacterium breve,3,0.0012898071656091137,1201,19102
+36,2053,Citrate,454,Eubacterium eligens,3,0.0012555986368368854,1216,19262
+37,2070,D-Lyxose (L-Lyxose),55,Alistipes shahii,3,0.0016227596751805518,1269,20307
+38,2055,CO2,135,Bacteroides uniformis,2,0.0007324332717315585,1330,3401
+39,2157,Lactose,1064,Streptococcus salivarius,2,-0.0008815407330655667,1334,10221
+40,2157,Lactose,149,Bifidobacterium adolescentis,2,-0.00023415884550526123,1430,10171
+41,2050,Choline,153,Bifidobacterium breve,3,-0.0006062196140440568,1580,19102
+42,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,-0.0008138021041732557,1715,15780
+43,2055,CO2,122,Bacteroides coprophilus,2,0.0008195951441145599,1790,3392
+44,2071,D-Mannitol (Mannitol),137,Bacteroides xylanisolvens,2,-0.0010000000000000009,1853,4482
+45,2053,Citrate,454,Eubacterium eligens,3,0.00029298292641588564,1940,19262
+46,2206,Raffinose,149,Bifidobacterium adolescentis,2,-0.0008232628360731464,1996,13339
+47,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,-5.0715040502136155e-05,2011,4588
+48,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0030500443647573094,2043,6866
+49,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,-0.000724980453173818,2142,11462
+50,2197,Phylloquinone (Vitamin K1),161,Blautia hansenii (Ruminococcus hansenii),3,0.001226351658028424,2152,28682
+51,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",137,Bacteroides xylanisolvens,2,-0.000941008831846557,2299,3690

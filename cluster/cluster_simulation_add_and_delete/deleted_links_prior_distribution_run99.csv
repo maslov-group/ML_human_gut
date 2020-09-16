@@ -1,0 +1,31 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,-0.00012936253018169808,6,4336
+1,2014,Acetate,455,Eubacterium hallii,2,0.0002941407162120324,24,975
+2,2093,Formate,159,Bilophila wadsworthia,2,0.002482614601815647,33,6001
+3,2055,CO2,126,Bacteroides fragilis,2,0.0005163295936658763,46,3396
+4,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-0.00046018470628728103,47,13057
+5,2125,"L-Alanine (D-Alanine, Alanine)",129,Bacteroides ovatus,2,0.0031656217802744635,119,7861
+6,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0016040518160006512,168,3976
+7,2064,D-Galactose,129,Bacteroides ovatus,2,0.0006906957110435208,219,3973
+8,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.006853053770711659,220,6866
+9,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0006584709407828626,244,3112
+10,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0006291392371507998,263,11509
+11,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.000690312281785177,265,2968
+12,2157,Lactose,812,Parabacteroides distasonis,2,0.00021406794585165922,301,10204
+13,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0005489258104555139,353,6865
+14,2014,Acetate,953,Roseburia inulinivorans,2,0.0003202477727373143,475,996
+15,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0011189391992793007,552,3760
+16,2125,"L-Alanine (D-Alanine, Alanine)",129,Bacteroides ovatus,2,0.0009071923416907879,571,7861
+17,2157,Lactose,457,Eubacterium rectale,2,-0.0002558681811591912,695,10193
+18,2161,Maltose,964,Ruminococcus bromii,2,-0.0006061835308648345,736,10501
+19,2219,Sulfate (Sulfuric acid),401,Desulfovibrio piger,2,-0.0009999999999998899,822,14219
+20,2055,CO2,129,Bacteroides ovatus,2,0.0013888129089014711,938,3397
+21,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0008219426914863881,997,10631
+22,2074,D-Ribose (Ribose),129,Bacteroides ovatus,2,0.00037300574426624156,1230,4693
+23,2064,D-Galactose,137,Bacteroides xylanisolvens,2,-2.8644433543223435e-05,1336,3978
+24,2089,Ethanol,159,Bilophila wadsworthia,2,2.872469834103164e-06,1354,5713
+25,2061,D-Fructose (Fructose),133,Bacteroides stercoris,2,-0.0009408718672491156,1394,3759
+26,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0006223574972876733,1536,10603
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00015650668374300736,1545,11460
+28,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,0.00045765862720648087,1602,15780
+29,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,0.00025511063962746494,1953,3688

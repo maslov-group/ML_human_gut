@@ -1,0 +1,25 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0053499151818131585,14,10631
+1,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,0.0007312377395444214,63,1348
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.0006441952825265718,103,11463
+3,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,9.627676184442713e-05,123,5272
+4,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.012592349425516791,184,6866
+5,2014,Acetate,953,Roseburia inulinivorans,2,0.0004426254560755405,192,996
+6,2072,D-Mannose (Mannose),796,Odoribacter splanchnicus,2,-0.00011262443973703018,221,4586
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.001982803700342095,229,11457
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00010297032137818185,280,11460
+9,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0012865923672226165,288,6865
+10,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,0.0019615329191672304,345,11500
+11,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,0.0006000701371082773,481,3756
+12,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.00010787456612992852,608,6064
+13,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",551,Holdemania filiformis,2,-0.0007311299114750591,610,9624
+14,2178,"NH3 (Ammonia, NH4+, Ammonium)",119,Bacteroides caccae,2,-5.998232357440347e-05,622,11454
+15,2055,CO2,131,Bacteroides plebeius,2,0.0007663460023117352,694,3398
+16,2055,CO2,129,Bacteroides ovatus,2,-3.1719094988669205e-05,784,3397
+17,2094,FOS (Fructooligosaccharide),126,Bacteroides fragilis,2,-0.0007708456625162841,824,6060
+18,2094,FOS (Fructooligosaccharide),339,Coprococcus eutactus,2,-0.00032129926654622665,1043,6082
+19,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0017096359198121025,1089,11462
+20,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.0005050168197651139,1159,11101
+21,2161,Maltose,137,Bacteroides xylanisolvens,2,-0.0007062540139162188,1179,10458
+22,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0007275971935474246,1339,3760
+23,2055,CO2,126,Bacteroides fragilis,2,0.00014164700435093103,1421,3396

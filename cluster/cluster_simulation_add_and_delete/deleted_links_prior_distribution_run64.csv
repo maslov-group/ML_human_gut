@@ -1,0 +1,57 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2240,"Valerate (Pentanoic acid, Pentanoate)",969,Ruminococcus torques,2,0.0002490759816877741,9,15689
+1,2055,CO2,124,Bacteroides eggerthii,2,-0.00018063511131949372,26,3394
+2,2068,D-Glucose (Glucose),812,Parabacteroides distasonis,2,0.00023693826963178122,34,4300
+3,2093,Formate,159,Bilophila wadsworthia,2,0.001949757582781153,43,6001
+4,2014,Acetate,455,Eubacterium hallii,2,0.0005415862368232105,70,975
+5,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0025697314750681155,126,6866
+6,2063,D-Galactosamine (Galactosamine),814,Parabacteroides merdae,3,0.0021297577190423356,131,19854
+7,2122,Isovalerate (3-Methylbutanoic acid),122,Bacteroides coprophilus,3,0.003423598538804473,153,23624
+8,2157,Lactose,812,Parabacteroides distasonis,2,0.00036421931468955115,188,10204
+9,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.002879232407393184,211,10631
+10,2206,Raffinose,457,Eubacterium rectale,2,-0.001285434474038949,217,13361
+11,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",134,Bacteroides thetaiotaomicron,2,-0.0007199605978254198,259,9592
+12,2101,Glycodeoxycholate,149,Bifidobacterium adolescentis,2,-0.0007063606666958266,299,6427
+13,2163,Menaquinone (Vitamin K2),152,Bifidobacterium bifidum,2,0.002251094359223882,360,10605
+14,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.00011096474802518852,367,11463
+15,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0015210354797965397,388,3760
+16,2055,CO2,126,Bacteroides fragilis,2,9.098475834301567e-05,397,3396
+17,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00021091761951264054,469,11460
+18,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,0.0009290496585350194,555,13336
+19,2064,D-Galactose,129,Bacteroides ovatus,2,-0.00026047717201993503,589,3973
+20,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.0005968825503186448,644,11457
+21,2061,D-Fructose (Fructose),131,Bacteroides plebeius,2,0.00017434674576222164,662,3758
+22,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.00014323553692885405,677,9025
+23,2237,Uracil,135,Bacteroides uniformis,3,0.0006987568452188064,715,31337
+24,2122,Isovalerate (3-Methylbutanoic acid),122,Bacteroides coprophilus,3,0.0006923901189408443,718,23624
+25,2055,CO2,123,Bacteroides dorei,2,-8.702350651867974e-06,783,3393
+26,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-0.0006861929550083801,867,11101
+27,2063,D-Galactosamine (Galactosamine),129,Bacteroides ovatus,3,-0.0005274780796764578,877,19813
+28,2055,CO2,135,Bacteroides uniformis,2,0.0005733670534719959,878,3401
+29,2206,Raffinose,812,Parabacteroides distasonis,2,8.289420435581007e-05,1037,13372
+30,2055,CO2,309,Clostridium difficile,3,-0.0010000000000000009,1056,19324
+31,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0011032998772422253,1134,2968
+32,2063,D-Galactosamine (Galactosamine),129,Bacteroides ovatus,3,0.0006029397586331253,1175,19813
+33,2221,Taurine,121,Bacteroides coprocola,3,-2.0573447747640472e-05,1378,30247
+34,2221,Taurine,121,Bacteroides coprocola,3,0.00024188968364902141,1404,30247
+35,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00012324825692222596,1408,3757
+36,2038,Butyrate,401,Desulfovibrio piger,2,-0.0008380404902160743,1410,2555
+37,2014,Acetate,460,Eubacterium siraeum,2,0.0019529396059029258,1432,978
+38,2217,Succinate,484,Fusobacterium varium,2,-0.00037981591166014184,1484,14085
+39,2101,Glycodeoxycholate,126,Bacteroides fragilis,3,0.00033923125381751795,1503,22332
+40,2116,Inosine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,5.2327864125345513e-05,1606,23207
+41,2217,Succinate,484,Fusobacterium varium,2,0.0004525816934580762,1671,14085
+42,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-5.3378473909515556e-05,1711,11104
+43,2116,Inosine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.00018728693001390795,1873,23207
+44,2101,Glycodeoxycholate,126,Bacteroides fragilis,3,-0.00011440975409049425,1980,22332
+45,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.004252595196205355,1981,10603
+46,2063,D-Galactosamine (Galactosamine),814,Parabacteroides merdae,3,0.0018946429958073274,2020,19854
+47,2081,Deoxycholic acid,119,Bacteroides caccae,3,-0.00045116745393347646,2164,21102
+48,2240,"Valerate (Pentanoic acid, Pentanoate)",969,Ruminococcus torques,2,0.00038352770937666314,2262,15689
+49,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",137,Bacteroides xylanisolvens,2,-0.000806077286280904,2511,9594
+50,2237,Uracil,135,Bacteroides uniformis,3,0.0017275714081784743,2534,31337
+51,2206,Raffinose,126,Bacteroides fragilis,2,-0.00047942996293481865,2601,13332
+52,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0005366317901837059,2854,11462
+53,2074,D-Ribose (Ribose),551,Holdemania filiformis,2,1.2929074536094376e-05,2915,4728
+54,2081,Deoxycholic acid,119,Bacteroides caccae,3,0.0002689123035595209,3070,21102
+55,2061,D-Fructose (Fructose),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.00024558619009662497,3081,3767

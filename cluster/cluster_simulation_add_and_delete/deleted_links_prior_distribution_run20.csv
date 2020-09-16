@@ -1,0 +1,45 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.011956996533948439,44,6866
+1,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",329,Collinsella aerofaciens (Eubacterium aerofaciens),2,8.04526236996006e-05,45,9608
+2,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.0005510473018690565,104,13336
+3,2065,D-Galacturonate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-5.3831087914346654e-05,106,19967
+4,2206,Raffinose,952,Roseburia intestinalis,2,-0.0007183852751289077,122,13379
+5,2119,Isobutyrate (2-Methylpropanoic acid),965,Ruminococcus flavefaciens,2,0.0011658398771455802,131,7550
+6,2127,L-Arginine (Arginine),329,Collinsella aerofaciens (Eubacterium aerofaciens),3,0.0004884463390641969,209,23936
+7,2012,5-Aminovalerate,966,Ruminococcus gnavus,3,6.419550013581077e-05,272,16767
+8,2206,Raffinose,812,Parabacteroides distasonis,2,0.0010558753539028354,381,13372
+9,2127,L-Arginine (Arginine),329,Collinsella aerofaciens (Eubacterium aerofaciens),3,0.0008078646096322251,385,23936
+10,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0027910167498664817,460,10631
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,-0.00025965627453417017,523,11461
+12,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0016096096609669042,645,6865
+13,2242,XOS (Xylooligosaccharide),457,Eubacterium rectale,2,-0.0006444389738048395,656,15809
+14,2206,Raffinose,126,Bacteroides fragilis,2,-0.0005753083773260004,698,13332
+15,2093,Formate,804,Oxalobacter formigenes,3,-0.0010000000000000009,773,21939
+16,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0021628860095526115,785,9025
+17,2129,"L-Aspartate (Aspartate, D-Aspartate)",1099,Sutterella wadsworthensis,2,-0.0010000000000000009,841,8207
+18,2068,D-Glucose (Glucose),149,Bifidobacterium adolescentis,2,-0.0003294033617484704,855,4267
+19,2198,Pimelate,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,0.0012740295819964054,900,28760
+20,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-4.256421722026449e-05,948,11500
+21,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0006754671800234258,1056,3976
+22,2012,5-Aminovalerate,966,Ruminococcus gnavus,3,-0.00028668711176804695,1085,16767
+23,2093,Formate,159,Bilophila wadsworthia,2,0.0007560627263009101,1106,6001
+24,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0006707086683919172,1132,11104
+25,2198,Pimelate,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,2.625043968518259e-05,1135,28760
+26,2219,Sulfate (Sulfuric acid),159,Bilophila wadsworthia,2,-0.001000000000000112,1138,14209
+27,2055,CO2,457,Eubacterium rectale,2,0.0008652358161833629,1150,3425
+28,2055,CO2,126,Bacteroides fragilis,2,0.0006075653498720524,1187,3396
+29,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0002662285732146774,1221,10603
+30,2145,L-Methionine (D-Methionine),126,Bacteroides fragilis,2,-0.001000000000000112,1315,9300
+31,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-6.419343896713059e-05,1322,11460
+32,2055,CO2,129,Bacteroides ovatus,2,0.00011070906080934417,1420,3397
+33,2030,Benzoate,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,-0.000968254456670703,1451,17888
+34,2114,Indole,401,Desulfovibrio piger,2,-0.0009114657927686842,1471,7163
+35,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0021950070086173,1473,2968
+36,2100,Glycocholate,126,Bacteroides fragilis,2,0.00013189496692822544,1552,6348
+37,2107,H2 (Hydrogen),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-0.0010000000000000009,1689,22775
+38,2030,Benzoate,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,0.0008375753326884672,1739,17888
+39,2094,FOS (Fructooligosaccharide),952,Roseburia intestinalis,2,-0.0010098886112271943,1752,6107
+40,2014,Acetate,953,Roseburia inulinivorans,2,0.0002962834371162959,1840,996
+41,2128,L-Asparagine (Asparagine),965,Ruminococcus flavefaciens,2,-0.0010488238163216534,1904,8126
+42,2065,D-Galacturonate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.0005134199803348283,2024,19967
+43,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0016565073085769155,2167,3112

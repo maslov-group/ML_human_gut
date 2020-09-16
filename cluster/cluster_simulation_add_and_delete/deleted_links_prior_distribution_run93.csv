@@ -1,0 +1,61 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,123,Bacteroides dorei,2,0.014073638822377221,3,3393
+1,2116,Inosine,54,Alistipes putredinis,2,-0.0010000000000000009,8,7274
+2,2157,Lactose,870,Prevotella copri,2,0.00022808274072327883,17,10207
+3,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004858751057532307,53,10631
+4,2089,Ethanol,159,Bilophila wadsworthia,2,0.00029547354919268187,129,5713
+5,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0007027601568506681,133,6064
+6,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0014906237858294258,162,3976
+7,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0029508556496545824,187,15784
+8,2157,Lactose,812,Parabacteroides distasonis,2,1.88213337788401e-05,192,10204
+9,2146,L-Ornithine (Ornithine),457,Eubacterium rectale,2,-0.0010000000000000009,229,9401
+10,2053,Citrate,124,Bacteroides eggerthii,3,0.0003484917172770219,236,19234
+11,2094,FOS (Fructooligosaccharide),953,Roseburia inulinivorans,2,2.357471732927774e-05,259,6108
+12,2208,Retinol (Vitamin A),119,Bacteroides caccae,3,-2.8995459748770713e-06,261,29382
+13,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0001925530107967921,316,3760
+14,2212,Spermidine,425,Eggerthella lenta,2,0.0007100956910258693,325,13789
+15,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.006213175517378322,393,6866
+16,2014,Acetate,455,Eubacterium hallii,2,-1.1952622680055924e-05,400,975
+17,2242,XOS (Xylooligosaccharide),149,Bifidobacterium adolescentis,2,0.0012302272781177237,427,15787
+18,2055,CO2,126,Bacteroides fragilis,2,0.000901297350171415,469,3396
+19,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0010245015415898395,585,6865
+20,2148,"L-Proline (Proline, D-Proline)",75,Anaerostipes caccae,3,0.0005200877277843352,643,25420
+21,2208,Retinol (Vitamin A),119,Bacteroides caccae,3,0.0010959118120925648,644,29382
+22,2116,Inosine,54,Alistipes putredinis,2,0.0010000000000000009,679,7274
+23,2093,Formate,952,Roseburia intestinalis,3,-0.0010000000000000009,700,21947
+24,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.0004514390444269045,735,13336
+25,2053,Citrate,124,Bacteroides eggerthii,3,0.003299149307672722,903,19234
+26,2079,D-Xylose (Xylose),134,Bacteroides thetaiotaomicron,2,-0.00044149199532395045,944,5056
+27,2206,Raffinose,812,Parabacteroides distasonis,2,0.000300985669356324,1040,13372
+28,2093,Formate,159,Bilophila wadsworthia,2,0.001184645846306731,1062,6001
+29,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.002133065180798255,1086,2968
+30,2091,"Folic acid (Folate, Vitamin B9)",608,Lactococcus lactis,2,-0.0002957117675761456,1102,5881
+31,2217,Succinate,159,Bilophila wadsworthia,2,0.001777090934512282,1103,14065
+32,2064,D-Galactose,129,Bacteroides ovatus,2,-0.0002963252047289977,1140,3973
+33,2011,4-Aminobutyrate (GABA),460,Eubacterium siraeum,3,0.00020923482556067796,1166,16674
+34,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",952,Roseburia intestinalis,2,0.0023488860556110103,1186,9059
+35,2080,"D-Xylulose (Xylulose, L-Xylulose)",425,Eggerthella lenta,3,-0.0009356100350589314,1198,21061
+36,2178,"NH3 (Ammonia, NH4+, Ammonium)",134,Bacteroides thetaiotaomicron,2,-0.00010628120229727589,1200,11464
+37,2055,CO2,457,Eubacterium rectale,2,0.00034301131410352514,1213,3425
+38,2158,Linoleic acid (Omega-6 fatty acid),953,Roseburia inulinivorans,2,0.001110943577143697,1227,10284
+39,2052,"cis-Aconitate (trans-Aconitate, trans-Aconitic acid)",121,Bacteroides coprocola,2,-0.0010000000000000009,1264,3247
+40,2046,Chenodeoxycholic acid (Chenodeoxycholate),551,Holdemania filiformis,2,-0.0002731772757549322,1331,3000
+41,2148,"L-Proline (Proline, D-Proline)",75,Anaerostipes caccae,3,0.0002004041752526886,1337,25420
+42,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00012322473594283956,1361,11104
+43,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0010726542129174677,1428,10603
+44,2145,L-Methionine (D-Methionine),134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,1440,9304
+45,2011,4-Aminobutyrate (GABA),326,Clostridium symbiosum,2,-0.0002491627536930219,1473,751
+46,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,-0.00028182002239640624,1534,9047
+47,2055,CO2,129,Bacteroides ovatus,2,0.0014879473241148355,1641,3397
+48,2161,Maltose,870,Prevotella copri,3,0.0014294047426142154,1787,26407
+49,2212,Spermidine,425,Eggerthella lenta,2,0.0011467216269014369,1810,13789
+50,2052,"cis-Aconitate (trans-Aconitate, trans-Aconitic acid)",121,Bacteroides coprocola,2,0.0010000000000000009,1816,3247
+51,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",153,Bifidobacterium breve,3,-0.0010000000000000009,1833,17230
+52,2080,"D-Xylulose (Xylulose, L-Xylulose)",425,Eggerthella lenta,3,0.0010000000000000009,2030,21061
+53,2157,Lactose,161,Blautia hansenii (Ruminococcus hansenii),2,-0.0009512072528283788,2076,10178
+54,2011,4-Aminobutyrate (GABA),326,Clostridium symbiosum,2,0.0001644174181499869,2082,751
+55,2046,Chenodeoxycholic acid (Chenodeoxycholate),551,Holdemania filiformis,2,0.001226960740426497,2133,3000
+56,2050,Choline,76,Anaerotruncus colihominis,3,-7.983468573158348e-05,2136,19085
+57,2161,Maltose,870,Prevotella copri,3,0.00026893624554891193,2180,26407
+58,2011,4-Aminobutyrate (GABA),460,Eubacterium siraeum,3,0.0005803392340585356,2334,16674
+59,2050,Choline,76,Anaerotruncus colihominis,3,8.102497601336633e-05,2534,19085

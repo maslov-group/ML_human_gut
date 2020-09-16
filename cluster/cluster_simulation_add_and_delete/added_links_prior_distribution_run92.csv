@@ -1,0 +1,46 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",966,Ruminococcus gnavus,2,0.0006546798797461006,24,5319
+1,2011,4-Aminobutyrate (GABA),969,Ruminococcus torques,2,0.0004658028364434852,29,785
+2,2011,4-Aminobutyrate (GABA),953,Roseburia inulinivorans,3,0.022020943787389613,33,16692
+3,2223,Taurocholate,339,Coprococcus eutactus,3,0.0032910560241535824,41,30418
+4,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",878,Prevotella salivae,2,0.000595749577639082,69,3728
+5,2134,"L-Glutamine (D-Glutamine, Glutamine)",54,Alistipes putredinis,2,0.009053908845782055,77,8498
+6,2238,Urea,131,Bacteroides plebeius,3,0.009174477910763756,113,31406
+7,2011,4-Aminobutyrate (GABA),895,Pseudoflavonifractor capillosus,3,-0.0010000000000000009,115,16690
+8,2020,Adipate,125,Bacteroides finegoldii (Alistipes finegoldii),3,0.0025130301261639953,125,17291
+9,2122,Isovalerate (3-Methylbutanoic acid),123,Bacteroides dorei,3,0.04571096282730047,126,23625
+10,2122,Isovalerate (3-Methylbutanoic acid),159,Bilophila wadsworthia,3,0.007028950006438106,150,23641
+11,2101,Glycodeoxycholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.0002213035981289968,168,22343
+12,2032,beta-alanine (3-Aminopropionate),54,Alistipes putredinis,3,0.007253910186413859,174,18002
+13,2135,L-Glycine (Glycine),966,Ruminococcus gnavus,3,0.0014430084977462565,184,24543
+14,2134,"L-Glutamine (D-Glutamine, Glutamine)",966,Ruminococcus gnavus,3,0.001515266881112698,200,24471
+15,2240,"Valerate (Pentanoic acid, Pentanoate)",456,Eubacterium limosum,3,0.0027988423601262857,263,31576
+16,2122,Isovalerate (3-Methylbutanoic acid),131,Bacteroides plebeius,2,-9.87516544936895e-05,290,7718
+17,2022,alpha-ketoglutarate (2-oxoglutarate),870,Prevotella copri,3,0.0013911391847050147,311,17407
+18,2238,Urea,1007,Shigella sonnei,2,0.00027342552270126497,316,15546
+19,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",968,Ruminococcus obeum,2,-0.0005024763893692885,389,8488
+20,2011,4-Aminobutyrate (GABA),75,Anaerostipes caccae,3,0.0001481650134850243,428,16636
+21,2011,4-Aminobutyrate (GABA),796,Odoribacter splanchnicus,2,0.00023839644383183423,487,770
+22,2233,Trimethylamine,464,Faecalibacterium prausnitzii,2,0.0024769267551096874,511,15164
+23,2012,5-Aminovalerate,796,Odoribacter splanchnicus,3,0.0008021769661358258,551,16754
+24,2167,Methylamine (Monomethylamine),339,Coprococcus eutactus,3,-0.0010346822516915655,619,26818
+25,2134,"L-Glutamine (D-Glutamine, Glutamine)",326,Clostridium symbiosum,2,-0.0009666250530052656,652,8527
+26,2040,Cadaverine,122,Bacteroides coprophilus,3,-0.00035573339998518083,671,18512
+27,2122,Isovalerate (3-Methylbutanoic acid),314,Clostridium leptum,2,0.00014916731111325188,683,7733
+28,2092,Formaldehyde,401,Desulfovibrio piger,3,0.0003103702025775146,687,21851
+29,2233,Trimethylamine,512,Haemophilus influenzae,2,-0.0010013967408711855,690,15166
+30,2240,"Valerate (Pentanoic acid, Pentanoate)",129,Bacteroides ovatus,3,0.002620043111238868,698,31549
+31,2240,"Valerate (Pentanoic acid, Pentanoate)",952,Roseburia intestinalis,3,0.005524655835615566,729,31595
+32,2122,Isovalerate (3-Methylbutanoic acid),137,Bacteroides xylanisolvens,3,0.0011066626952724867,772,23634
+33,2237,Uracil,126,Bacteroides fragilis,3,0.0032002153996368854,793,31332
+34,2006,2-Aminobutyric acid (2-Aminobutyrate),326,Clostridium symbiosum,3,0.0012646189289999832,853,16303
+35,2214,Stachyose,158,Bifidobacterium pseudocatenulatum,3,-0.0007145502830809836,858,29832
+36,2003,"1,2-Ethanediol (Ethylene glycol)",125,Bacteroides finegoldii (Alistipes finegoldii),2,0.00032281613450035884,875,155
+37,2115,Indole-3-acetate (Indoleacetate),55,Alistipes shahii,3,0.0006292187158647433,917,23115
+38,2122,Isovalerate (3-Methylbutanoic acid),796,Odoribacter splanchnicus,2,0.00012601897941499907,960,7754
+39,2122,Isovalerate (3-Methylbutanoic acid),456,Eubacterium limosum,3,-0.0002256531567839115,1016,23656
+40,2073,D-Psicose,814,Parabacteroides merdae,3,-0.000553145349608819,1110,20574
+41,2122,Isovalerate (3-Methylbutanoic acid),125,Bacteroides finegoldii (Alistipes finegoldii),2,0.0008093024113329239,1143,7715
+42,2122,Isovalerate (3-Methylbutanoic acid),484,Fusobacterium varium,2,0.0003678483008116018,1202,7749
+43,2203,Putrescine,460,Eubacterium siraeum,3,0.00038303070636391823,1228,29058
+44,2203,Putrescine,338,Coprococcus comes,2,0.000550828627133626,1288,13137

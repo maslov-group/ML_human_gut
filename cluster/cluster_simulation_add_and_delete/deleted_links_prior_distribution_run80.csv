@@ -1,0 +1,42 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,-0.00044391325895043465,18,4696
+1,2093,Formate,159,Bilophila wadsworthia,2,0.0031509321083910136,19,6001
+2,2055,CO2,126,Bacteroides fragilis,2,0.0011239077163688327,30,3396
+3,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0005479143831984556,105,11460
+4,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0010328007250065552,120,3976
+5,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.006696469262995608,127,6866
+6,2157,Lactose,812,Parabacteroides distasonis,2,-6.526364323888867e-05,132,10204
+7,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,-0.00046080293122618965,198,1348
+8,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),314,Clostridium leptum,2,0.0008969210774535386,287,15221
+9,2225,Taurolithocholate,152,Bifidobacterium bifidum,2,0.0006481395459649875,289,14637
+10,2074,D-Ribose (Ribose),129,Bacteroides ovatus,2,0.0011144104350753192,317,4693
+11,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0008766486728827294,382,9025
+12,2068,D-Glucose (Glucose),338,Coprococcus comes,2,0.0004390334622338399,464,4281
+13,2116,Inosine,9,Acidaminococcus fermentans,3,-0.0002461499940835665,491,23184
+14,2087,"Dodecanoate (Lauric acid, Laureate)",965,Ruminococcus flavefaciens,2,0.0005165415971160048,672,5606
+15,2163,Menaquinone (Vitamin K2),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.002454617186228192,714,10607
+16,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.000603412515647328,743,3760
+17,2071,D-Mannitol (Mannitol),137,Bacteroides xylanisolvens,2,-0.0010000000000000009,776,4482
+18,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0021406263951977422,843,6865
+19,2055,CO2,131,Bacteroides plebeius,2,-3.197454785275333e-05,995,3398
+20,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),814,Parabacteroides merdae,2,-0.00015458081669228463,1017,11142
+21,2161,Maltose,329,Collinsella aerofaciens (Eubacterium aerofaciens),2,0.0006400963731971743,1058,10472
+22,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.00011961936065718604,1078,3756
+23,2116,Inosine,9,Acidaminococcus fermentans,3,0.000252888886379421,1131,23184
+24,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,-4.20397483166246e-05,1165,11462
+25,2055,CO2,457,Eubacterium rectale,2,0.0020983540609955664,1177,3425
+26,2061,D-Fructose (Fructose),131,Bacteroides plebeius,2,0.0005003950205922925,1202,3758
+27,2224,Taurodeoxycholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,1244,14567
+28,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0010716617257825467,1284,3112
+29,2014,Acetate,460,Eubacterium siraeum,3,-0.0010000000000000009,1349,16890
+30,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,4.340981666695054e-05,1355,11509
+31,2156,"L-Valine (Valine, D-Valine)",134,Bacteroides thetaiotaomicron,2,0.0009571109726025373,1406,10096
+32,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.001290753507627529,1466,11104
+33,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),134,Bacteroides thetaiotaomicron,2,0.0003297411933809169,1491,11248
+34,2087,"Dodecanoate (Lauric acid, Laureate)",965,Ruminococcus flavefaciens,2,0.0010232030189548658,1537,5606
+35,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",119,Bacteroides caccae,2,-0.00048394904487847334,1653,5262
+36,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),314,Clostridium leptum,2,-4.183679711522448e-05,1690,15221
+37,2217,Succinate,159,Bilophila wadsworthia,2,0.0013220060227376873,1719,14065
+38,2163,Menaquinone (Vitamin K2),608,Lactococcus lactis,3,-0.0010000000000000009,1747,26545
+39,2107,H2 (Hydrogen),401,Desulfovibrio piger,2,0.00031693970560864315,1809,6875
+40,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),814,Parabacteroides merdae,2,0.0013374825307010951,1811,11142

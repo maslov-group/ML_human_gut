@@ -1,0 +1,42 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2219,Sulfate (Sulfuric acid),159,Bilophila wadsworthia,2,-0.0010000000000000009,5,14209
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0005171267284932446,8,11460
+2,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,-0.0005748477042065714,10,1348
+3,2217,Succinate,159,Bilophila wadsworthia,2,0.014950587016109185,17,14065
+4,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,-0.000518455997782552,45,4264
+5,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0006878638641965029,59,3760
+6,2064,D-Galactose,969,Ruminococcus torques,2,-5.829401442336568e-06,64,4025
+7,2093,Formate,159,Bilophila wadsworthia,2,0.00460194788482815,67,6001
+8,2242,XOS (Xylooligosaccharide),966,Ruminococcus gnavus,2,0.00018577879687764476,76,15831
+9,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,8.821680314419211e-05,91,3756
+10,2223,Taurocholate,159,Bilophila wadsworthia,2,-0.0009196469102957794,235,14497
+11,2089,Ethanol,314,Clostridium leptum,3,-0.0010000000000000009,293,21629
+12,2135,L-Glycine (Glycine),1064,Streptococcus salivarius,2,0.0001042791448879754,312,8637
+13,2064,D-Galactose,420,Dorea formicigenerans,2,0.00016306514052377707,342,3996
+14,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.0002775444689212536,355,11104
+15,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0023763570697334924,386,11462
+16,2089,Ethanol,159,Bilophila wadsworthia,2,0.0016854026037967929,390,5713
+17,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.000847654699137057,492,15784
+18,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0010427539797314145,494,10631
+19,2055,CO2,123,Bacteroides dorei,2,0.006105335025601288,505,3393
+20,2120,Isomaltose,121,Bacteroides coprocola,3,0.0004754397193712512,520,23479
+21,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.0006415046690427806,560,5272
+22,2073,D-Psicose,456,Eubacterium limosum,3,0.0015982526158605515,587,20560
+23,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,-0.0005999584896818622,630,6866
+24,2157,Lactose,812,Parabacteroides distasonis,2,0.0009841194103475948,634,10204
+25,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0020573324871192566,712,6865
+26,2043,Cellobiose,457,Eubacterium rectale,2,-0.0010000000000000009,740,2849
+27,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0021201585918789734,759,10603
+28,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",126,Bacteroides fragilis,2,-5.224116284296976e-05,800,5268
+29,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0007063466422450038,847,11461
+30,2064,D-Galactose,137,Bacteroides xylanisolvens,2,-0.0007554813287113937,854,3978
+31,2069,D-Glucuronic acid (D-Glucuronate),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.00017983191821224764,856,4343
+32,2120,Isomaltose,121,Bacteroides coprocola,3,0.00025189606444087076,862,23479
+33,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",129,Bacteroides ovatus,2,6.491283946141735e-05,870,3685
+34,2055,CO2,129,Bacteroides ovatus,2,-0.00023974238581159213,926,3397
+35,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0011199164407178497,1024,2968
+36,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0005336268256929122,1175,3112
+37,2157,Lactose,1065,Streptococcus sanguinis,2,0.00038518527411679493,1185,10222
+38,2073,D-Psicose,456,Eubacterium limosum,3,-0.0006672294346924401,1236,20560
+39,2146,L-Ornithine (Ornithine),457,Eubacterium rectale,2,-0.0010000000000000009,1243,9401
+40,2242,XOS (Xylooligosaccharide),966,Ruminococcus gnavus,2,-0.0002755705260539809,1285,15831

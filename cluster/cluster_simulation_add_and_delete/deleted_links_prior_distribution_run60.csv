@@ -1,0 +1,27 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.000235395415042583,21,3757
+1,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.001798201134881272,24,3976
+2,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-1.9284545969000533e-06,29,11104
+3,2217,Succinate,159,Bilophila wadsworthia,2,0.011808839235944224,150,14065
+4,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-3.5702223484701534e-05,201,11460
+5,2223,Taurocholate,149,Bifidobacterium adolescentis,2,3.4325897121600946e-05,212,14491
+6,2073,D-Psicose,420,Dorea formicigenerans,3,-0.000311226050906499,225,20556
+7,2157,Lactose,812,Parabacteroides distasonis,2,0.00018955857712377178,238,10204
+8,2093,Formate,159,Bilophila wadsworthia,2,0.004895950881155242,242,6001
+9,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0013010553967180982,251,15784
+10,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0002855955963158019,269,4552
+11,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",126,Bacteroides fragilis,2,0.004750039330395306,317,9012
+12,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.0014617864552216586,325,13057
+13,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,9.815270209867499e-05,443,10631
+14,2225,Taurolithocholate,159,Bilophila wadsworthia,2,0.0011728287293807371,473,14641
+15,2073,D-Psicose,420,Dorea formicigenerans,3,0.0015696206174090621,668,20556
+16,2122,Isovalerate (3-Methylbutanoic acid),1065,Streptococcus sanguinis,2,-0.001110227982291101,693,7774
+17,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,9.314162010554128e-06,736,12995
+18,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",870,Prevotella copri,2,0.00020564960079649808,897,9631
+19,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,4.025240328187074e-05,918,5272
+20,2155,L-Tyrosine (Tyrosine),134,Bacteroides thetaiotaomicron,2,3.6999247498892274e-05,920,10024
+21,2122,Isovalerate (3-Methylbutanoic acid),1065,Streptococcus sanguinis,2,0.001069391587434465,1037,7774
+22,2055,CO2,134,Bacteroides thetaiotaomicron,3,-0.001000000000000112,1139,19312
+23,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,-7.818368697654066e-05,1158,15780
+24,2055,CO2,457,Eubacterium rectale,2,0.00030225436266062555,1361,3425
+25,2224,Taurodeoxycholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1383,14569

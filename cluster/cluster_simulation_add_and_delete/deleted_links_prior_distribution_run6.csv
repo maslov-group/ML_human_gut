@@ -1,0 +1,50 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",133,Bacteroides stercoris,3,0.0004115593499360859,25,19599
+1,2055,CO2,122,Bacteroides coprophilus,2,-5.265573566515247e-05,40,3392
+2,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0011781029774076135,46,9025
+3,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.00027379034909602584,78,5272
+4,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,-8.234917985761037e-05,83,4549
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0005131455231711657,122,11460
+6,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.00023549897625430027,217,13057
+7,2049,Cholic acid (Cholate),314,Clostridium leptum,2,0.0011993184257031997,295,3125
+8,2055,CO2,123,Bacteroides dorei,2,0.004251179851070042,382,3393
+9,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.000221893752886837,430,15784
+10,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,0.0006233824723443915,451,15780
+11,2224,Taurodeoxycholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,452,14567
+12,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.001774590165328993,459,980
+13,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0006796089114795567,474,3760
+14,2103,Glycolithocholate,149,Bifidobacterium adolescentis,2,0.0006932888295876349,507,6571
+15,2196,Phenylethylamine,133,Bacteroides stercoris,2,-6.139785294934086e-05,523,12687
+16,2014,Acetate,953,Roseburia inulinivorans,2,0.0010257094933260325,547,996
+17,2129,"L-Aspartate (Aspartate, D-Aspartate)",457,Eubacterium rectale,2,-0.0006562293792660157,590,8177
+18,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",964,Ruminococcus bromii,2,0.002603494774404913,595,13237
+19,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-1.223894719881713e-05,675,11101
+20,2094,FOS (Fructooligosaccharide),135,Bacteroides uniformis,2,-3.430001264970173e-05,699,6065
+21,2014,Acetate,952,Roseburia intestinalis,2,0.0004945623783364494,706,995
+22,2242,XOS (Xylooligosaccharide),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.00020103830312034887,763,15791
+23,2217,Succinate,401,Desulfovibrio piger,2,-0.00010527054653630685,774,14075
+24,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.002746891547019903,963,6866
+25,2055,CO2,131,Bacteroides plebeius,2,0.0012930390615761844,986,3398
+26,2196,Phenylethylamine,420,Dorea formicigenerans,3,0.0002619559163385965,1003,28620
+27,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0003231017174797346,1045,2968
+28,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,-0.0008103456599055647,1268,4048
+29,2208,Retinol (Vitamin A),1007,Shigella sonnei,2,-0.0010000000000000009,1275,13530
+30,2055,CO2,126,Bacteroides fragilis,2,0.0004597326393015466,1283,3396
+31,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.0004525887499644554,1338,4552
+32,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.0002712329382587031,1347,3400
+33,2156,"L-Valine (Valine, D-Valine)",134,Bacteroides thetaiotaomicron,2,5.685185590686981e-05,1353,10096
+34,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0008459538506732089,1397,10631
+35,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.0002537548577880022,1415,11104
+36,2068,D-Glucose (Glucose),129,Bacteroides ovatus,2,-0.0007404751189878933,1427,4261
+37,2210,Riboflavin (Vitamin B2),464,Faecalibacterium prausnitzii,2,0.00012522255796942883,1557,13652
+38,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00024500924334547314,1559,3757
+39,2196,Phenylethylamine,133,Bacteroides stercoris,2,0.0008429971241906697,1828,12687
+40,2061,D-Fructose (Fructose),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.00035120256597265254,1840,3767
+41,2196,Phenylethylamine,420,Dorea formicigenerans,3,0.00048799189843129476,1980,28620
+42,2055,CO2,129,Bacteroides ovatus,2,0.0008160506156377201,1989,3397
+43,2208,Retinol (Vitamin A),1007,Shigella sonnei,2,0.0010000000000000009,1995,13530
+44,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",133,Bacteroides stercoris,3,0.0004276281747377375,2058,19599
+45,2157,Lactose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.00011508557454897872,2138,10175
+46,2157,Lactose,338,Coprococcus comes,2,-0.0008281060497417059,2320,10185
+47,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.00011582966084477953,2334,3756
+48,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,-4.1232222174447664e-05,2493,9501

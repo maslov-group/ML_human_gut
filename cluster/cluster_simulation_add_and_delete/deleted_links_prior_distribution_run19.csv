@@ -1,0 +1,43 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2217,Succinate,159,Bilophila wadsworthia,2,0.015432742603090022,5,14065
+1,2089,Ethanol,159,Bilophila wadsworthia,2,-0.00010913141664736781,77,5713
+2,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.013020268780483346,78,6866
+3,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),135,Bacteroides uniformis,2,0.0006123945915771367,115,11249
+4,2222,Taurochenodeoxycholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,127,14425
+5,2055,CO2,123,Bacteroides dorei,2,0.012756360490190688,129,3393
+6,2093,Formate,159,Bilophila wadsworthia,2,0.005701247592405645,166,6001
+7,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.000869648386943922,206,3976
+8,2101,Glycodeoxycholate,152,Bifidobacterium bifidum,2,-0.0010000000000000009,238,6429
+9,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,-1.121253672309308e-05,323,9047
+10,2089,Ethanol,131,Bacteroides plebeius,2,0.00017954237589967725,325,5702
+11,2212,Spermidine,326,Clostridium symbiosum,2,-0.001004227065036778,360,13783
+12,2178,"NH3 (Ammonia, NH4+, Ammonium)",965,Ruminococcus flavefaciens,2,0.0005406102719053285,386,11510
+13,2089,Ethanol,131,Bacteroides plebeius,2,5.35676910952132e-05,473,5702
+14,2238,Urea,9,Acidaminococcus fermentans,3,0.0006444455950180838,505,31392
+15,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00047084183033141436,529,3760
+16,2055,CO2,119,Bacteroides caccae,2,0.00019719337328405473,565,3390
+17,2055,CO2,131,Bacteroides plebeius,2,0.0006799586716547124,575,3398
+18,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,1.9954244922071318e-05,644,11460
+19,2157,Lactose,812,Parabacteroides distasonis,2,-0.0002146346423059775,667,10204
+20,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,5.999276381674079e-05,683,2968
+21,2055,CO2,126,Bacteroides fragilis,2,0.0023164654270272367,685,3396
+22,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,717,11320
+23,2020,Adipate,461,Eubacterium ventriosum,3,0.0019882365278991454,752,17323
+24,2011,4-Aminobutyrate (GABA),75,Anaerostipes caccae,3,0.0008211238109350205,846,16636
+25,2061,D-Fructose (Fructose),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0004884419093402759,887,3767
+26,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0017961524694851683,916,6865
+27,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",126,Bacteroides fragilis,2,-3.965207953937622e-05,980,1308
+28,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,-0.00025182794577716106,1098,4549
+29,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0007922665145636554,1139,4552
+30,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,0.0009909225577092728,1182,9501
+31,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),135,Bacteroides uniformis,2,0.0005724949679388747,1187,11249
+32,2157,Lactose,814,Parabacteroides merdae,2,0.0014691424299915212,1233,10206
+33,2212,Spermidine,326,Clostridium symbiosum,2,0.0009567248477162504,1339,13783
+34,2011,4-Aminobutyrate (GABA),75,Anaerostipes caccae,3,0.0007247193823485265,1416,16636
+35,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,0.00046881639235485384,1541,1348
+36,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.0002794129399230627,1614,3757
+37,2238,Urea,9,Acidaminococcus fermentans,3,0.00030192095596504043,1639,31392
+38,2020,Adipate,461,Eubacterium ventriosum,3,-0.00017383581352836686,1891,17323
+39,2014,Acetate,608,Lactococcus lactis,3,-0.0010000000000000009,1990,16897
+40,2079,D-Xylose (Xylose),814,Parabacteroides merdae,2,-0.0007253513785221433,2136,5094
+41,2163,Menaquinone (Vitamin K2),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.00020708917198464238,2148,10607

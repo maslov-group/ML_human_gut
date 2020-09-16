@@ -1,0 +1,62 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2014,Acetate,455,Eubacterium hallii,2,0.00035052334566720855,73,975
+1,2109,H2S (HS-),76,Anaerotruncus colihominis,3,-0.0010000000000000009,94,22901
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00011964652501894601,109,11460
+3,2157,Lactose,812,Parabacteroides distasonis,2,0.00033919281273975255,129,10204
+4,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0017668929618165352,184,3976
+5,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0054013316611958295,233,10631
+6,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.002083441770677874,260,9025
+7,2055,CO2,135,Bacteroides uniformis,2,0.001356539958151659,299,3401
+8,2055,CO2,124,Bacteroides eggerthii,2,0.00019158399902707846,338,3394
+9,2014,Acetate,952,Roseburia intestinalis,2,-0.0007387338545419286,424,995
+10,2049,Cholic acid (Cholate),455,Eubacterium hallii,3,0.004038396545811174,425,19047
+11,2206,Raffinose,812,Parabacteroides distasonis,2,-0.00011302014878700195,436,13372
+12,2014,Acetate,460,Eubacterium siraeum,2,7.728085784819427e-05,446,978
+13,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0016144922943500672,450,3760
+14,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.0007585304416345418,457,12995
+15,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),129,Bacteroides ovatus,2,-0.00024979421573168015,460,11245
+16,2055,CO2,126,Bacteroides fragilis,2,0.0003285136793995669,493,3396
+17,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.0002835684532500604,540,3688
+18,2085,Dimethylamine,870,Prevotella copri,3,0.002652908863998382,572,21439
+19,2182,Nitrite,870,Prevotella copri,3,7.121788969111087e-05,660,27703
+20,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-0.0004852621397236634,685,13057
+21,2064,D-Galactose,133,Bacteroides stercoris,3,-8.272630787375945e-05,710,19887
+22,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",329,Collinsella aerofaciens (Eubacterium aerofaciens),2,5.5260462234807406e-05,727,9608
+23,2071,D-Mannitol (Mannitol),338,Coprococcus comes,3,0.00020434737549102078,890,20409
+24,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,-0.0006860860779254185,913,13031
+25,2120,Isomaltose,339,Coprococcus eutactus,3,0.00034334185108442217,918,23506
+26,2071,D-Mannitol (Mannitol),338,Coprococcus comes,3,0.0013643109607802684,960,20409
+27,2093,Formate,159,Bilophila wadsworthia,2,0.006587991396805437,1045,6001
+28,2015,"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)",131,Bacteroides plebeius,3,-0.00010081101792347447,1060,16934
+29,2167,Methylamine (Monomethylamine),133,Bacteroides stercoris,2,0.00014938202990233407,1073,10887
+30,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),134,Bacteroides thetaiotaomicron,2,5.315545660500298e-05,1110,11248
+31,2217,Succinate,159,Bilophila wadsworthia,2,0.0015434327283030402,1232,14065
+32,2015,"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)",131,Bacteroides plebeius,3,0.0008839530784816585,1238,16934
+33,2049,Cholic acid (Cholate),126,Bacteroides fragilis,2,0.0025974222735860586,1249,3108
+34,2182,Nitrite,870,Prevotella copri,3,-0.00036818581767850134,1268,27703
+35,2107,H2 (Hydrogen),952,Roseburia intestinalis,3,-0.0010000000000000009,1330,22811
+36,2055,CO2,457,Eubacterium rectale,2,0.00826620982754378,1334,3425
+37,2055,CO2,129,Bacteroides ovatus,2,0.0013256179737050067,1352,3397
+38,2161,Maltose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0008768584067760932,1367,10463
+39,2050,Choline,76,Anaerotruncus colihominis,3,-0.0002925143297700661,1370,19085
+40,2155,L-Tyrosine (Tyrosine),1064,Streptococcus salivarius,2,-0.0010000000000000009,1393,10077
+41,2055,CO2,133,Bacteroides stercoris,2,4.3369633866530144e-05,1498,3399
+42,2079,D-Xylose (Xylose),551,Holdemania filiformis,2,-0.0008652572172811457,1509,5088
+43,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",796,Odoribacter splanchnicus,2,0.00011816892232507925,1524,3722
+44,2049,Cholic acid (Cholate),314,Clostridium leptum,2,-9.362978249671805e-05,1657,3125
+45,2049,Cholic acid (Cholate),455,Eubacterium hallii,3,0.0028949312612996936,1746,19047
+46,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.0004600702928503342,1946,11457
+47,2064,D-Galactose,133,Bacteroides stercoris,3,0.0009479482243439641,1976,19887
+48,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0007409671414503327,1977,13031
+49,2091,"Folic acid (Folate, Vitamin B9)",608,Lactococcus lactis,2,-8.317913507449592e-05,2066,5881
+50,2167,Methylamine (Monomethylamine),133,Bacteroides stercoris,2,0.0005593195091514458,2073,10887
+51,2120,Isomaltose,339,Coprococcus eutactus,3,0.0010911009546153982,2192,23506
+52,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.0007664781375574803,2223,11462
+53,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.000492465821676058,2227,2968
+54,2050,Choline,76,Anaerotruncus colihominis,3,0.0010448888730172357,2268,19085
+55,2046,Chenodeoxycholic acid (Chenodeoxycholate),126,Bacteroides fragilis,2,0.00237444789953567,2325,2964
+56,2061,D-Fructose (Fructose),260,Catenibacterium mitsuokai,2,-0.0009432403872818851,2396,3771
+57,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.00020553209198459488,2494,11509
+58,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.00037091988125237396,2549,11463
+59,2085,Dimethylamine,870,Prevotella copri,3,0.001257523171566799,2748,21439
+60,2240,"Valerate (Pentanoic acid, Pentanoate)",126,Bacteroides fragilis,3,-0.0010000000000000009,2967,31548

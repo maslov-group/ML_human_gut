@@ -1,0 +1,31 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2157,Lactose,812,Parabacteroides distasonis,2,-5.750484202760031e-05,0,10204
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.00034127718224852277,27,11460
+2,2218,Sucrose,401,Desulfovibrio piger,2,-0.0010000000000000009,38,14147
+3,2055,CO2,401,Desulfovibrio piger,2,-0.00040081871555319726,94,3419
+4,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,0.0005590664767067821,111,4333
+5,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0008049836453077885,171,3976
+6,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",870,Prevotella copri,2,-0.0004439558161464241,186,9631
+7,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,-1.8308400614452935e-06,200,4336
+8,2093,Formate,159,Bilophila wadsworthia,2,0.0009741504403173451,254,6001
+9,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.006953473936150756,286,11509
+10,2206,Raffinose,952,Roseburia intestinalis,2,-0.0006357382758728214,294,13379
+11,2014,Acetate,455,Eubacterium hallii,2,0.0008600257561471869,373,975
+12,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0002362476420455506,385,6217
+13,2068,D-Glucose (Glucose),126,Bacteroides fragilis,2,0.0003106984994085682,393,4260
+14,2089,Ethanol,159,Bilophila wadsworthia,2,0.0001889379974057137,425,5713
+15,2055,CO2,131,Bacteroides plebeius,2,0.0015352088754803095,450,3398
+16,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0009021080410513971,486,4552
+17,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0021048271851931144,501,6866
+18,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00010632839089641521,527,11104
+19,2196,Phenylethylamine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-0.0010000000000000009,549,28607
+20,2103,Glycolithocholate,152,Bifidobacterium bifidum,2,0.00023061625043285794,586,6573
+21,2055,CO2,134,Bacteroides thetaiotaomicron,2,-0.0003136690233360717,603,3400
+22,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.002962094943151139,630,10631
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.0021425284940959077,634,11457
+24,2098,Glycerol,401,Desulfovibrio piger,2,0.003014238212987852,682,6227
+25,2229,Thymine,75,Anaerostipes caccae,3,0.00036146918278967544,694,30820
+26,2069,D-Glucuronic acid (D-Glucuronate),126,Bacteroides fragilis,2,0.000617778719794515,751,4332
+27,2229,Thymine,75,Anaerostipes caccae,3,-0.0002074525323282339,1088,30820
+28,2140,L-Isoleucine (Isoleucine),1064,Streptococcus salivarius,2,-0.0010000000000000009,1318,8997
+29,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,-0.0010000000000000009,1357,9501

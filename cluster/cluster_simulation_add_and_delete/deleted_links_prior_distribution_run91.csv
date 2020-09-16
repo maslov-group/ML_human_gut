@@ -1,0 +1,42 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.005385896709228621,7,10631
+1,2055,CO2,137,Bacteroides xylanisolvens,2,-0.0006718285454282436,77,3402
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.00021729945335213774,101,11463
+3,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-0.0008980317783712222,128,11101
+4,2068,D-Glucose (Glucose),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,-0.0006301894289858501,139,4280
+5,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0139225133755424,151,6866
+6,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0025732112488080494,167,9025
+7,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0008737037899020361,213,3976
+8,2109,H2S (HS-),513,Haemophilus parainfluenzae,3,-0.0010000000000000009,255,22943
+9,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0008315608790384621,264,6865
+10,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,0.0008928223496518228,272,9501
+11,2217,Succinate,159,Bilophila wadsworthia,2,0.004956243812831107,385,14065
+12,2161,Maltose,137,Bacteroides xylanisolvens,2,-0.0006125498591095235,419,10458
+13,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0003060730116700716,431,2968
+14,2130,L-Carnitine (D-Carnitine),153,Bifidobacterium breve,3,8.366883676447223e-06,458,24142
+15,2055,CO2,126,Bacteroides fragilis,2,0.0014138205483865685,473,3396
+16,2125,"L-Alanine (D-Alanine, Alanine)",1007,Shigella sonnei,2,0.007678066390945482,492,7914
+17,2055,CO2,129,Bacteroides ovatus,2,0.0011365247113008792,541,3397
+18,2093,Formate,159,Bilophila wadsworthia,2,0.00014871050480913528,568,6001
+19,2107,H2 (Hydrogen),804,Oxalobacter formigenes,2,0.00010075770655282312,575,6891
+20,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",153,Bifidobacterium breve,3,-0.0010000000000000009,651,29110
+21,2093,Formate,965,Ruminococcus flavefaciens,3,-0.0010000000000000009,669,21950
+22,2206,Raffinose,457,Eubacterium rectale,2,-0.0006240169616890112,706,13361
+23,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,-0.00041792957862951674,714,4549
+24,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,6.0311433814241866e-05,852,11104
+25,2107,H2 (Hydrogen),804,Oxalobacter formigenes,2,0.0001904902384410878,871,6891
+26,2081,Deoxycholic acid,965,Ruminococcus flavefaciens,3,-0.00010636242069139712,989,21158
+27,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00011041045338111566,1021,3757
+28,2157,Lactose,812,Parabacteroides distasonis,2,0.00043975711654442584,1029,10204
+29,2157,Lactose,338,Coprococcus comes,2,-0.000995625270801881,1035,10185
+30,2055,CO2,457,Eubacterium rectale,2,0.001176615376702883,1082,3425
+31,2109,H2S (HS-),513,Haemophilus parainfluenzae,3,0.0010000000000000009,1175,22943
+32,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,-0.000674794653380939,1215,10603
+33,2125,"L-Alanine (D-Alanine, Alanine)",1007,Shigella sonnei,2,0.0008011445708882015,1269,7914
+34,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0013970573615520454,1320,3112
+35,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.0006983694113752437,1348,11457
+36,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0009598329573328179,1437,3760
+37,2081,Deoxycholic acid,965,Ruminococcus flavefaciens,3,0.00024815820370160946,1523,21158
+38,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0006797252838639523,1617,6217
+39,2130,L-Carnitine (D-Carnitine),153,Bifidobacterium breve,3,0.0010445711873147134,1647,24142
+40,2064,D-Galactose,124,Bacteroides eggerthii,2,-0.0008669316844213126,1955,3970

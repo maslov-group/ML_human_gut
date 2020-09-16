@@ -1,0 +1,65 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2201,Propanoate (Propionate),54,Alistipes putredinis,2,0.024479256588915255,2,12962
+1,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),55,Alistipes shahii,3,0.0024796306790197953,13,27147
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,0.0013311274782528137,18,11465
+3,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.0055329208113718,19,11457
+4,2055,CO2,126,Bacteroides fragilis,2,8.349799465179331e-07,24,3396
+5,2064,D-Galactose,969,Ruminococcus torques,2,-0.00018836858209492213,27,4025
+6,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,0.002630274575279312,58,3688
+7,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0015870735654008872,76,15784
+8,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,-0.0004469978795169638,78,1348
+9,2094,FOS (Fructooligosaccharide),953,Roseburia inulinivorans,2,-0.0002939581747786191,112,6108
+10,2100,Glycocholate,152,Bifidobacterium bifidum,2,-0.0010000000000000009,119,6357
+11,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-3.108488802483489e-05,120,4552
+12,2055,CO2,135,Bacteroides uniformis,2,0.00238578897158348,128,3401
+13,2014,Acetate,953,Roseburia inulinivorans,2,0.0013889621264094876,130,996
+14,2134,"L-Glutamine (D-Glutamine, Glutamine)",54,Alistipes putredinis,3,0.0030890456128277455,219,24410
+15,2217,Succinate,159,Bilophila wadsworthia,2,0.0024411910070138987,279,14065
+16,2119,Isobutyrate (2-Methylpropanoic acid),964,Ruminococcus bromii,2,6.888215569167411e-05,307,7549
+17,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0010408796174918855,312,3760
+18,2219,Sulfate (Sulfuric acid),964,Ruminococcus bromii,2,0.00026596771881515213,322,14245
+19,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.005994606721115292,351,6866
+20,2178,"NH3 (Ammonia, NH4+, Ammonium)",965,Ruminococcus flavefaciens,2,0.0005890372157519863,381,11510
+21,2074,D-Ribose (Ribose),122,Bacteroides coprophilus,3,-0.00030091533123421943,419,20600
+22,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-0.0003471561452219607,446,11460
+23,2074,D-Ribose (Ribose),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,0.0006070915355385065,452,4712
+24,2161,Maltose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.00027149023010186735,470,10463
+25,2218,Sucrose,401,Desulfovibrio piger,2,-0.0009999999999998899,504,14147
+26,2061,D-Fructose (Fructose),1064,Streptococcus salivarius,2,0.0006959220978031144,614,3813
+27,2222,Taurochenodeoxycholate,159,Bilophila wadsworthia,2,-0.0009999999999998899,668,14425
+28,2064,D-Galactose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.00015648594514017233,684,3983
+29,2089,Ethanol,309,Clostridium difficile,2,-0.00028431082965729715,722,5716
+30,2201,Propanoate (Propionate),54,Alistipes putredinis,2,0.0061187301879620515,737,12962
+31,2089,Ethanol,309,Clostridium difficile,2,0.0001621733601085973,828,5716
+32,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0007190144151260069,846,2968
+33,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,-0.00026491544772966336,867,9047
+34,2242,XOS (Xylooligosaccharide),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0011460901181433725,878,15791
+35,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",134,Bacteroides thetaiotaomicron,2,-0.0005418472609188818,893,1312
+36,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),55,Alistipes shahii,3,0.0010823818638344695,907,27147
+37,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0015712446472083696,933,11461
+38,2238,Urea,161,Blautia hansenii (Ruminococcus hansenii),2,7.020361316001367e-05,960,15506
+39,2238,Urea,161,Blautia hansenii (Ruminococcus hansenii),2,-7.020361316001367e-05,975,15506
+40,2178,"NH3 (Ammonia, NH4+, Ammonium)",401,Desulfovibrio piger,2,-4.138410981791019e-06,1065,11483
+41,2101,Glycodeoxycholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,1080,6431
+42,2055,CO2,131,Bacteroides plebeius,2,0.001186429915171483,1093,3398
+43,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0004386838691196049,1179,11509
+44,2055,CO2,123,Bacteroides dorei,2,0.0005544128626971956,1227,3393
+45,2074,D-Ribose (Ribose),122,Bacteroides coprophilus,3,0.0003835661151909697,1252,20600
+46,2158,Linoleic acid (Omega-6 fatty acid),969,Ruminococcus torques,3,-0.0007538327584537541,1365,26201
+47,2035,Biotin (Vitamin B7),149,Bifidobacterium adolescentis,3,-0.0010000000000000009,1422,18235
+48,2064,D-Galactose,152,Bifidobacterium bifidum,2,-0.0009312176313406306,1451,3981
+49,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",1064,Streptococcus salivarius,2,0.00010812983914321173,1474,8493
+50,2158,Linoleic acid (Omega-6 fatty acid),969,Ruminococcus torques,3,0.0008040003479952151,1487,26201
+51,2134,"L-Glutamine (D-Glutamine, Glutamine)",54,Alistipes putredinis,3,0.0011535482800665298,1590,24410
+52,2093,Formate,159,Bilophila wadsworthia,2,-0.0006022146024632358,1664,6001
+53,2055,CO2,137,Bacteroides xylanisolvens,2,1.1982700615864594e-05,1673,3402
+54,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0015665769482245961,1777,10631
+55,2223,Taurocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1898,14497
+56,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,0.00047693611321475426,1899,4588
+57,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.000901295505941313,1903,13336
+58,2068,D-Glucose (Glucose),952,Roseburia intestinalis,2,-0.0004125505370660143,2018,4307
+59,2049,Cholic acid (Cholate),151,Bifidobacterium animalis,3,-0.0010000000000000009,2092,19028
+60,2242,XOS (Xylooligosaccharide),953,Roseburia inulinivorans,2,0.000123349117507221,2126,15828
+61,2129,"L-Aspartate (Aspartate, D-Aspartate)",1064,Streptococcus salivarius,2,-0.0010000000000000009,2141,8205
+62,2120,Isomaltose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.0010000000000000009,2153,7583
+63,2163,Menaquinone (Vitamin K2),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0007798995337867654,2171,10607

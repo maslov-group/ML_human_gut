@@ -1,0 +1,58 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,7.755966198919051e-05,6,4552
+1,2064,D-Galactose,966,Ruminococcus gnavus,2,0.001580464152932115,13,4023
+2,2064,D-Galactose,124,Bacteroides eggerthii,2,-0.0009373345807358602,50,3970
+3,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0003045966765349295,109,3760
+4,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,4.6436521928927554e-05,136,11460
+5,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,-0.00025190579200551344,150,4333
+6,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,-0.0006519260415874806,189,4588
+7,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.002549847120874138,193,10631
+8,2146,L-Ornithine (Ornithine),878,Prevotella salivae,2,-0.0010000000000000009,242,9416
+9,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.0007008347089803024,279,13336
+10,2064,D-Galactose,149,Bifidobacterium adolescentis,2,8.218440123097803e-05,284,3979
+11,2093,Formate,159,Bilophila wadsworthia,2,0.0018603771542816672,382,6001
+12,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",1064,Streptococcus salivarius,2,-0.0010000000000000009,415,12381
+13,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0006348976446484134,423,3976
+14,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,0.000421214778336898,471,4549
+15,2061,D-Fructose (Fructose),137,Bacteroides xylanisolvens,2,-0.0007003453399034854,473,3762
+16,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.000303521065733503,487,3112
+17,2055,CO2,401,Desulfovibrio piger,2,-6.333913260492263e-05,489,3419
+18,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-0.00062699243404718,528,13057
+19,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),122,Bacteroides coprophilus,2,0.00025697395793089495,529,15200
+20,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00034688294221962845,569,2968
+21,2107,H2 (Hydrogen),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,-0.0005484218882142455,603,6872
+22,2217,Succinate,159,Bilophila wadsworthia,2,0.005522071588805244,612,14065
+23,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,3,-0.0010000000000000009,622,27373
+24,2134,"L-Glutamine (D-Glutamine, Glutamine)",464,Faecalibacterium prausnitzii,3,0.0041402155177517885,701,24452
+25,2055,CO2,129,Bacteroides ovatus,2,-8.72305800428963e-05,721,3397
+26,2064,D-Galactose,966,Ruminococcus gnavus,2,0.0006804156789308458,783,4023
+27,2089,Ethanol,159,Bilophila wadsworthia,2,-0.00018002243604409163,889,5713
+28,2107,H2 (Hydrogen),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,0.000943127110735742,928,6872
+29,2157,Lactose,812,Parabacteroides distasonis,2,-0.00048057164523929163,935,10204
+30,2055,CO2,126,Bacteroides fragilis,2,0.0013661748230925364,936,3396
+31,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),122,Bacteroides coprophilus,2,0.00024052940366248166,950,15200
+32,2067,D-Glucosamine (Glucosamine),129,Bacteroides ovatus,2,-0.0009999999999998899,986,4189
+33,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0005594136146225281,988,6866
+34,2099,Glycochenodeoxycholate,131,Bacteroides plebeius,3,0.00011220234441422505,1058,22190
+35,2157,Lactose,152,Bifidobacterium bifidum,2,-0.000769258520132432,1090,10173
+36,2134,"L-Glutamine (D-Glutamine, Glutamine)",464,Faecalibacterium prausnitzii,3,0.0027716821585755946,1131,24452
+37,2061,D-Fructose (Fructose),464,Faecalibacterium prausnitzii,2,3.562912818888542e-05,1173,3788
+38,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,0.0010708643194152767,1267,11132
+39,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0006513142279973572,1289,6865
+40,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",608,Lactococcus lactis,2,-0.001000000000000112,1315,12361
+41,2223,Taurocholate,309,Clostridium difficile,2,-0.0009999999999998899,1340,14500
+42,2055,CO2,125,Bacteroides finegoldii (Alistipes finegoldii),2,-0.000596437086646473,1412,3395
+43,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.00026591805946674096,1436,11457
+44,2129,"L-Aspartate (Aspartate, D-Aspartate)",1099,Sutterella wadsworthensis,2,0.0010470325709706074,1683,8207
+45,2099,Glycochenodeoxycholate,131,Bacteroides plebeius,3,0.0011515691441948972,1811,22190
+46,2146,L-Ornithine (Ornithine),878,Prevotella salivae,2,0.0010000000000000009,1842,9416
+47,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007492433217825001,1891,3973
+48,2155,L-Tyrosine (Tyrosine),134,Bacteroides thetaiotaomicron,2,0.004732035278646629,1967,10024
+49,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0003871422359451593,1974,6064
+50,2072,D-Mannose (Mannose),814,Parabacteroides merdae,2,7.460827088245914e-05,1988,4590
+51,2055,CO2,135,Bacteroides uniformis,2,0.00013724262020087252,2037,3401
+52,2061,D-Fructose (Fructose),119,Bacteroides caccae,2,-1.2602136383210727e-05,2126,3750
+53,2071,D-Mannitol (Mannitol),1064,Streptococcus salivarius,2,-0.0010000000000000009,2184,4533
+54,2206,Raffinose,149,Bifidobacterium adolescentis,2,-0.00010588861658089588,2193,13339
+55,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",608,Lactococcus lactis,2,-0.0012178412856419518,2257,13225
+56,2079,D-Xylose (Xylose),137,Bacteroides xylanisolvens,2,-0.0008840015065222362,2297,5058

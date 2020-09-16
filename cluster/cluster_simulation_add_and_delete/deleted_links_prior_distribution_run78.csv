@@ -1,0 +1,44 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),161,Blautia hansenii (Ruminococcus hansenii),3,0.003852005249059487,37,31130
+1,2079,D-Xylose (Xylose),966,Ruminococcus gnavus,2,0.0007049340858569231,53,5103
+2,2114,Indole,326,Clostridium symbiosum,3,-0.0010666741565754645,156,23071
+3,2157,Lactose,812,Parabacteroides distasonis,2,0.0001852583054222645,181,10204
+4,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0007785469911728571,197,9025
+5,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0007627721743951321,198,6866
+6,2031,Benzyl alcohol,54,Alistipes putredinis,3,6.05525985183375e-05,382,17930
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,9.375843116898874e-05,413,11460
+8,2101,Glycodeoxycholate,454,Eubacterium eligens,3,0.0007771027770767658,444,22358
+9,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0005707469157458789,454,11461
+10,2240,"Valerate (Pentanoic acid, Pentanoate)",55,Alistipes shahii,3,0.004044808526310173,480,31539
+11,2055,CO2,134,Bacteroides thetaiotaomicron,2,6.002320809339601e-05,496,3400
+12,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.000925191290334193,513,2968
+13,2122,Isovalerate (3-Methylbutanoic acid),870,Prevotella copri,2,0.00017744696886778932,521,7759
+14,2055,CO2,126,Bacteroides fragilis,2,0.00048600673822507545,533,3396
+15,2079,D-Xylose (Xylose),966,Ruminococcus gnavus,2,0.0012043647126226409,584,5103
+16,2098,Glycerol,159,Bilophila wadsworthia,2,-0.000687384792436907,623,6217
+17,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.001957865420292526,629,3760
+18,2071,D-Mannitol (Mannitol),1052,Streptococcus gallolyticus,2,-0.0010000000000000009,686,4531
+19,2159,Lithocholic acid,870,Prevotella copri,3,-0.0004478769140592309,740,26263
+20,2161,Maltose,338,Coprococcus comes,2,-0.00013844987112821006,768,10473
+21,2068,D-Glucose (Glucose),952,Roseburia intestinalis,2,-0.0002497397200330598,773,4307
+22,2159,Lithocholic acid,870,Prevotella copri,3,0.00031974609508744756,824,26263
+23,2055,CO2,123,Bacteroides dorei,2,0.004220289613814043,846,3393
+24,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0011925462150385036,886,3112
+25,2016,Acetone,1099,Sutterella wadsworthensis,2,-6.523409344461051e-05,910,1151
+26,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.0038241912966836544,922,980
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.00012272169813076772,1131,11500
+28,2081,Deoxycholic acid,124,Bacteroides eggerthii,2,-0.00019040477358900354,1164,5194
+29,2101,Glycodeoxycholate,454,Eubacterium eligens,3,0.000388946852200478,1239,22358
+30,2122,Isovalerate (3-Methylbutanoic acid),870,Prevotella copri,2,0.0007185847082937791,1267,7759
+31,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.00012261308348393563,1441,11457
+32,2114,Indole,326,Clostridium symbiosum,3,0.0010005113186606351,1768,23071
+33,2240,"Valerate (Pentanoic acid, Pentanoate)",55,Alistipes shahii,3,0.0010241057340687476,1837,31539
+34,2016,Acetone,1099,Sutterella wadsworthensis,2,0.001240367752870175,1948,1151
+35,2031,Benzyl alcohol,54,Alistipes putredinis,3,0.0007538286145559736,1953,17930
+36,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),161,Blautia hansenii (Ruminococcus hansenii),3,0.0006601083332615776,2049,31130
+37,2146,L-Ornithine (Ornithine),457,Eubacterium rectale,2,-0.0010000000000000009,2053,9401
+38,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.000866357450522437,2101,3688
+39,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,-3.6489934348571396e-05,2221,4048
+40,2081,Deoxycholic acid,124,Bacteroides eggerthii,2,-3.956970986229713e-05,2380,5194
+41,2014,Acetate,460,Eubacterium siraeum,2,-3.702181165499141e-05,2425,978
+42,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",420,Dorea formicigenerans,2,-0.0010000000000000009,2466,11340

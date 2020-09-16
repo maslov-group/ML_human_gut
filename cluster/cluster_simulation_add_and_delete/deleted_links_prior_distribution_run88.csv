@@ -1,0 +1,56 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.0006236949487175014,2,5272
+1,2219,Sulfate (Sulfuric acid),159,Bilophila wadsworthia,2,-0.0010000000000000009,29,14209
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0010458955587502317,36,11460
+3,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.010709355384130648,54,6866
+4,2094,FOS (Fructooligosaccharide),455,Eubacterium hallii,3,0.0032636852445411257,72,21999
+5,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0009484261038160691,100,3760
+6,2093,Formate,159,Bilophila wadsworthia,2,0.0021541035907465256,102,6001
+7,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.023527703936888522,113,980
+8,2064,D-Galactose,137,Bacteroides xylanisolvens,2,-0.00036436703571374185,118,3978
+9,2228,Thymidine,76,Anaerotruncus colihominis,2,-0.0010000000000000009,120,14837
+10,2014,Acetate,401,Desulfovibrio piger,2,0.0006573776885751004,130,971
+11,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",969,Ruminococcus torques,2,-0.0010000000000000009,147,3521
+12,2223,Taurocholate,338,Coprococcus comes,3,-9.602564645183609e-05,154,30417
+13,2073,D-Psicose,965,Ruminococcus flavefaciens,3,-6.152180286644882e-05,173,20582
+14,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0006518865572586741,228,3976
+15,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,6.749036698117106e-05,230,6064
+16,2055,CO2,126,Bacteroides fragilis,2,0.000612158743138913,253,3396
+17,2223,Taurocholate,338,Coprococcus comes,3,0.0008151132804766759,327,30417
+18,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.0004513966534603897,339,3757
+19,2094,FOS (Fructooligosaccharide),457,Eubacterium rectale,2,0.0001347887347267207,347,6089
+20,2049,Cholic acid (Cholate),551,Holdemania filiformis,2,-8.006607965060919e-05,370,3144
+21,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,-5.477528731923087e-05,378,11509
+22,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.0002085266097066052,414,11101
+23,2055,CO2,129,Bacteroides ovatus,2,0.0003401442631019158,418,3397
+24,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",969,Ruminococcus torques,2,0.0010000000000000009,441,3521
+25,2158,Linoleic acid (Omega-6 fatty acid),953,Roseburia inulinivorans,2,-0.0009929813379974117,485,10284
+26,2055,CO2,1065,Streptococcus sanguinis,3,-0.0010000000000000009,502,19366
+27,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.00186002806996588,507,10631
+28,2222,Taurochenodeoxycholate,159,Bilophila wadsworthia,2,-0.0009999999999998899,560,14425
+29,2206,Raffinose,952,Roseburia intestinalis,2,-0.0005880137167266763,756,13379
+30,2055,CO2,134,Bacteroides thetaiotaomicron,2,0.0003775834414101453,770,3400
+31,2235,Tryptamine,153,Bifidobacterium breve,3,0.0008809968583334271,774,31198
+32,2155,L-Tyrosine (Tyrosine),1064,Streptococcus salivarius,2,-0.0010000000000000009,878,10077
+33,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.0002861488893827202,962,13057
+34,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",125,Bacteroides finegoldii (Alistipes finegoldii),3,0.0008475390412692185,986,28235
+35,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),457,Eubacterium rectale,2,2.939220541697818e-05,1032,15233
+36,2073,D-Psicose,965,Ruminococcus flavefaciens,3,0.0008351982540170111,1211,20582
+37,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),457,Eubacterium rectale,2,-0.00021576424137248473,1231,15233
+38,2036,Butanol,159,Bilophila wadsworthia,2,-0.0010000000000000009,1272,2401
+39,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",126,Bacteroides fragilis,3,-0.00046096734958067653,1355,28164
+40,2180,Nitrate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1458,11617
+41,2089,Ethanol,159,Bilophila wadsworthia,2,-0.0010535941142053584,1670,5713
+42,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",125,Bacteroides finegoldii (Alistipes finegoldii),3,0.0011190407315344597,1718,28235
+43,2094,FOS (Fructooligosaccharide),126,Bacteroides fragilis,2,-0.0011790817146825061,1853,6060
+44,2161,Maltose,420,Dorea formicigenerans,2,6.665319045007223e-05,1989,10476
+45,2143,"L-Lysine (Lysine, D-Lysine)",1064,Streptococcus salivarius,2,-9.359384949236826e-05,2007,9213
+46,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,-0.00011516899629526733,2030,3112
+47,2049,Cholic acid (Cholate),551,Holdemania filiformis,2,0.0007912432331167452,2047,3144
+48,2217,Succinate,401,Desulfovibrio piger,2,5.140446497642337e-05,2138,14075
+49,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.00033010744339367903,2154,11461
+50,2235,Tryptamine,153,Bifidobacterium breve,3,0.0006572977524873513,2166,31198
+51,2089,Ethanol,456,Eubacterium limosum,2,-0.0009874698693960182,2191,5728
+52,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",126,Bacteroides fragilis,3,0.00044808718318867236,2430,28164
+53,2094,FOS (Fructooligosaccharide),455,Eubacterium hallii,3,0.0005541622487792441,2495,21999
+54,2068,D-Glucose (Glucose),464,Faecalibacterium prausnitzii,2,3.455252935102848e-05,2515,4292

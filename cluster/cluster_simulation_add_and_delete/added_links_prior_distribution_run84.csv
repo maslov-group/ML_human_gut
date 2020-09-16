@@ -1,0 +1,63 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2122,Isovalerate (3-Methylbutanoic acid),137,Bacteroides xylanisolvens,3,0.018025706158369625,9,23634
+1,2011,4-Aminobutyrate (GABA),54,Alistipes putredinis,2,0.002122172324001914,18,722
+2,2122,Isovalerate (3-Methylbutanoic acid),966,Ruminococcus gnavus,2,0.0005730790908708983,30,7767
+3,2122,Isovalerate (3-Methylbutanoic acid),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.0023448128848050365,47,23639
+4,2132,L-Fucose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-0.00015392941890524092,74,24287
+5,2071,D-Mannitol (Mannitol),122,Bacteroides coprophilus,3,0.001985664193524306,76,20384
+6,2233,Trimethylamine,878,Prevotella salivae,2,0.00019192085191921393,90,15176
+7,2122,Isovalerate (3-Methylbutanoic acid),608,Lactococcus lactis,3,0.00041726367159089506,120,23665
+8,2217,Succinate,122,Bacteroides coprophilus,2,0.001274371521966633,135,14048
+9,2203,Putrescine,966,Ruminococcus gnavus,2,0.00033043115451880656,156,13167
+10,2081,Deoxycholic acid,54,Alistipes putredinis,2,0.021913101239344424,180,5186
+11,2070,D-Lyxose (L-Lyxose),455,Eubacterium hallii,3,0.008312792371138467,190,20343
+12,2203,Putrescine,149,Bifidobacterium adolescentis,2,0.00046953371032243396,217,13123
+13,2122,Isovalerate (3-Methylbutanoic acid),969,Ruminococcus torques,2,-6.396835571520487e-05,220,7769
+14,2011,4-Aminobutyrate (GABA),339,Coprococcus eutactus,3,0.001740885285319571,226,16666
+15,2122,Isovalerate (3-Methylbutanoic acid),464,Faecalibacterium prausnitzii,3,0.012138217616557312,232,23660
+16,2105,Guanine,76,Anaerotruncus colihominis,3,0.0008035314279266625,234,22613
+17,2238,Urea,454,Eubacterium eligens,3,0.012197488047176797,257,31430
+18,2081,Deoxycholic acid,1007,Shigella sonnei,2,0.0013124909340819224,270,5250
+19,2201,Propanoate (Propionate),121,Bacteroides coprocola,2,0.0005517634352496525,279,12967
+20,2217,Succinate,870,Prevotella copri,2,0.0056387851487708085,304,14095
+21,2236,Tyramine,425,Eggerthella lenta,2,0.00047708217791475604,307,15373
+22,2122,Isovalerate (3-Methylbutanoic acid),314,Clostridium leptum,2,0.00014470961808865646,358,7733
+23,2071,D-Mannitol (Mannitol),137,Bacteroides xylanisolvens,3,0.0011366757187415422,385,20394
+24,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",1099,Sutterella wadsworthensis,2,0.0011071178446449004,431,9071
+25,2122,Isovalerate (3-Methylbutanoic acid),326,Clostridium symbiosum,2,-0.0003300419286051959,436,7735
+26,2238,Urea,814,Parabacteroides merdae,3,0.0002461654832023319,444,31446
+27,2233,Trimethylamine,456,Eubacterium limosum,2,-0.00026319169492883265,452,15160
+28,2100,Glycocholate,121,Bacteroides coprocola,3,0.006455099516022078,478,22255
+29,2241,Xanthine,54,Alistipes putredinis,3,0.0065676293591787616,506,31610
+30,2125,"L-Alanine (D-Alanine, Alanine)",260,Catenibacterium mitsuokai,2,-0.0005773581215641199,518,7875
+31,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",1007,Shigella sonnei,3,0.011714536673647191,528,24402
+32,2153,L-Threonine (Threonine),966,Ruminococcus gnavus,3,0.00830083000257087,548,25839
+33,2061,D-Fructose (Fructose),460,Eubacterium siraeum,3,0.0007546761483844255,564,19698
+34,2001,"[R,R]-2,3-Butanediol ([R,R]-Butanediol, [S,S]-2,3-Butanediol, [S,S]-Butanediol)",464,Faecalibacterium prausnitzii,3,6.905741277263289e-05,573,15956
+35,2140,L-Isoleucine (Isoleucine),952,Roseburia intestinalis,3,0.005677815198146807,585,24899
+36,2023,alpha-Linolenic acid (Omega-3 fatty acid),464,Faecalibacterium prausnitzii,3,-7.810703791022444e-05,606,17468
+37,2122,Isovalerate (3-Methylbutanoic acid),454,Eubacterium eligens,2,0.0009938913240558067,609,7742
+38,2011,4-Aminobutyrate (GABA),608,Lactococcus lactis,3,0.0009044297158442571,661,16681
+39,2012,5-Aminovalerate,814,Parabacteroides merdae,3,0.0014313958043955521,665,16758
+40,2101,Glycodeoxycholate,457,Eubacterium rectale,3,0.003423287016425136,682,22361
+41,2200,Propanal,129,Bacteroides ovatus,3,-0.0001995523350151185,685,28813
+42,2203,Putrescine,814,Parabacteroides merdae,2,0.0015930375001779185,743,13158
+43,2217,Succinate,461,Eubacterium ventriosum,2,-0.0006600406352781363,843,14083
+44,2233,Trimethylamine,1054,Streptococcus infantarius,2,-0.0008845839263933453,880,15188
+45,2237,Uracil,158,Bifidobacterium pseudocatenulatum,3,0.0004131427049457459,892,31344
+46,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",455,Eubacterium hallii,3,0.009505113310056323,1051,24375
+47,2236,Tyramine,323,Clostridium scindens,2,-0.000245249013032911,1121,15366
+48,2081,Deoxycholic acid,966,Ruminococcus gnavus,3,0.00040759609807849984,1131,21159
+49,2041,Caproate (Hexanoate),158,Bifidobacterium pseudocatenulatum,3,0.00015122980348325488,1132,18600
+50,2125,"L-Alanine (D-Alanine, Alanine)",455,Eubacterium hallii,3,0.008710774572110114,1225,23799
+51,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",123,Bacteroides dorei,2,0.0005429080489813831,1254,8433
+52,2201,Propanoate (Propionate),1007,Shigella sonnei,2,0.0008003248116594808,1308,13026
+53,2122,Isovalerate (3-Methylbutanoic acid),158,Bifidobacterium pseudocatenulatum,2,0.0022713755942570524,1370,7728
+54,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",966,Ruminococcus gnavus,2,-0.0006098978601621896,1546,13239
+55,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",119,Bacteroides caccae,3,-0.00024724815211341067,1565,24342
+56,2011,4-Aminobutyrate (GABA),966,Ruminococcus gnavus,2,-8.778088007777018e-05,1584,783
+57,2093,Formate,125,Bacteroides finegoldii (Alistipes finegoldii),2,0.0011314904991800434,1607,5987
+58,2202,"Propanol (n-propanol, 1-Propanol)",135,Bacteroides uniformis,2,-0.0007195562849747761,1616,13049
+59,2240,"Valerate (Pentanoic acid, Pentanoate)",129,Bacteroides ovatus,3,0.0034670897983379856,1620,31549
+60,2201,Propanoate (Propionate),124,Bacteroides eggerthii,2,-0.0003584047274406421,1693,12970
+61,2091,"Folic acid (Folate, Vitamin B9)",1064,Streptococcus salivarius,3,-0.00015634039560430413,1735,21813

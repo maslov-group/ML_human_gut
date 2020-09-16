@@ -1,0 +1,59 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,126,Bacteroides fragilis,2,0.0003995768995009863,14,3396
+1,2218,Sucrose,338,Coprococcus comes,2,-0.0010000000000000009,16,14145
+2,2231,Trehalose,964,Ruminococcus bromii,3,8.939310543953916e-05,75,31021
+3,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,-0.0002418400216023242,88,12995
+4,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0005152464743447549,142,10603
+5,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0015623500507845334,148,11509
+6,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.011846287328701854,154,6866
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,0.0002024703166736419,189,11463
+8,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.006359742041973426,201,10631
+9,2093,Formate,159,Bilophila wadsworthia,2,0.0024384307649193415,232,6001
+10,2089,Ethanol,159,Bilophila wadsworthia,2,5.918341773547553e-05,264,5713
+11,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.0012667809476496483,265,4552
+12,2064,D-Galactose,338,Coprococcus comes,2,-0.00012038478916076567,274,3993
+13,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,5.044246892693671e-05,278,11460
+14,2205,Pyruvate,159,Bilophila wadsworthia,2,0.00015040040241676156,287,13273
+15,2055,CO2,129,Bacteroides ovatus,2,0.0004589393846390344,313,3397
+16,2217,Succinate,1099,Sutterella wadsworthensis,2,0.004255692562042723,331,14111
+17,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0033898630398363494,338,6865
+18,2231,Trehalose,964,Ruminococcus bromii,3,0.00010162320717010953,344,31021
+19,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00107639485209865,367,3760
+20,2055,CO2,131,Bacteroides plebeius,2,0.0008912604683992686,385,3398
+21,2157,Lactose,812,Parabacteroides distasonis,2,-0.0007596292452098918,419,10204
+22,2233,Trimethylamine,131,Bacteroides plebeius,2,0.000576059349404856,454,15134
+23,2157,Lactose,1064,Streptococcus salivarius,2,-0.0011245469094166571,508,10221
+24,2068,D-Glucose (Glucose),129,Bacteroides ovatus,2,-0.00012949726098521186,586,4261
+25,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,-0.0002534896711985368,613,2968
+26,2161,Maltose,968,Ruminococcus obeum,2,-4.8944423373886714e-05,747,10504
+27,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0010878410269536953,808,3976
+28,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,-8.631913922707568e-05,821,4336
+29,2064,D-Galactose,796,Odoribacter splanchnicus,2,4.103642879216274e-05,962,4010
+30,2231,Trehalose,461,Eubacterium ventriosum,2,-0.0009999999999998899,1005,15091
+31,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0007895544285150269,1016,6217
+32,2055,CO2,125,Bacteroides finegoldii (Alistipes finegoldii),2,0.0006270890002711971,1033,3395
+33,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",133,Bacteroides stercoris,2,-0.00010017607763523895,1260,5271
+34,2225,Taurolithocholate,152,Bifidobacterium bifidum,2,-0.0010000000000000009,1295,14637
+35,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,0.0009492265894943674,1318,4048
+36,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.00012124072816832587,1470,11461
+37,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,-0.0007516523796126107,1490,11101
+38,2217,Succinate,1099,Sutterella wadsworthensis,2,0.0016245940119896662,1492,14111
+39,2092,Formaldehyde,968,Ruminococcus obeum,2,-0.0010000000000000009,1582,5968
+40,2218,Sucrose,137,Bacteroides xylanisolvens,2,-0.0010000000000000009,1620,14130
+41,2159,Lithocholic acid,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,-0.0010000000000000009,1681,26231
+42,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,-8.375256495363192e-05,1721,4588
+43,2155,L-Tyrosine (Tyrosine),134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,1739,10024
+44,2064,D-Galactose,129,Bacteroides ovatus,2,0.00041115405109093395,1822,3973
+45,2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,0.00020587314179165705,1851,4549
+46,2055,CO2,457,Eubacterium rectale,2,0.0028576744825555833,1904,3425
+47,2092,Formaldehyde,968,Ruminococcus obeum,2,0.0010000000000000009,1909,5968
+48,2072,D-Mannose (Mannose),55,Alistipes shahii,2,-0.0002092504970200304,1985,4539
+49,2231,Trehalose,461,Eubacterium ventriosum,2,0.0010000000000000009,2011,15091
+50,2103,Glycolithocholate,151,Bifidobacterium animalis,2,-0.0010000000000000009,2068,6572
+51,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",126,Bacteroides fragilis,2,-0.0010000000000000009,2071,2244
+52,2099,Glycochenodeoxycholate,126,Bacteroides fragilis,2,-0.0010000000000000009,2078,6276
+53,2233,Trimethylamine,131,Bacteroides plebeius,2,0.002071510344713423,2122,15134
+54,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",129,Bacteroides ovatus,2,-0.0006748683897320751,2157,9589
+55,2061,D-Fructose (Fructose),133,Bacteroides stercoris,2,-0.00018982132228051452,2285,3759
+56,2046,Chenodeoxycholic acid (Chenodeoxycholate),126,Bacteroides fragilis,2,0.0004412307320074138,2322,2964
+57,2079,D-Xylose (Xylose),129,Bacteroides ovatus,2,-0.0007159573811998943,2354,5053

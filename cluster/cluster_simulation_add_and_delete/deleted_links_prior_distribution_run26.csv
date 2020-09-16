@@ -1,0 +1,34 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.001149970129753819,9,3760
+1,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0018111870530465035,14,3976
+2,2217,Succinate,159,Bilophila wadsworthia,2,0.014841075070398668,19,14065
+3,2061,D-Fructose (Fructose),122,Bacteroides coprophilus,2,-0.0010280506115725174,86,3752
+4,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,0.0012605607351466874,148,11132
+5,2055,CO2,126,Bacteroides fragilis,2,0.000829167998390612,163,3396
+6,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,0.00024038312145091556,178,2981
+7,2196,Phenylethylamine,1099,Sutterella wadsworthensis,2,0.00022525532525874414,182,12743
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0007079749211783559,232,11461
+9,2210,Riboflavin (Vitamin B2),608,Lactococcus lactis,3,-0.0010000000000000009,293,29569
+10,2157,Lactose,812,Parabacteroides distasonis,2,0.0001414799112794407,335,10204
+11,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.005227724456401739,377,10631
+12,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0015298448784892837,420,6866
+13,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.002356632255337887,502,10603
+14,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.0006216149994464626,540,3688
+15,2055,CO2,129,Bacteroides ovatus,2,0.00010610694548229826,553,3397
+16,2005,"1,3-Propanediol",870,Prevotella copri,3,0.00011809052257250041,581,16255
+17,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,2.950682458269238e-05,648,11509
+18,2081,Deoxycholic acid,454,Eubacterium eligens,2,-1.6104299209729334e-06,688,5222
+19,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0008170354538524771,704,11460
+20,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.00020613978475880756,812,5272
+21,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,0.00024651405194009435,855,13336
+22,2087,"Dodecanoate (Lauric acid, Laureate)",551,Holdemania filiformis,3,-0.0005243967729453569,861,21504
+23,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.003663732376041118,944,3112
+24,2222,Taurochenodeoxycholate,159,Bilophila wadsworthia,2,-0.000545124702397537,1045,14425
+25,2061,D-Fructose (Fructose),149,Bifidobacterium adolescentis,2,0.0002737975207975918,1137,3763
+26,2196,Phenylethylamine,1099,Sutterella wadsworthensis,2,-3.705171486334535e-05,1514,12743
+27,2206,Raffinose,812,Parabacteroides distasonis,2,0.0005504661278062928,1552,13372
+28,2081,Deoxycholic acid,454,Eubacterium eligens,2,0.000808131615375629,1817,5222
+29,2145,L-Methionine (D-Methionine),126,Bacteroides fragilis,2,-0.0010000000000000009,1878,9300
+30,2005,"1,3-Propanediol",870,Prevotella copri,3,-0.0002424147041382163,1915,16255
+31,2218,Sucrose,814,Parabacteroides merdae,2,-0.0010000000000000009,2265,14166
+32,2087,"Dodecanoate (Lauric acid, Laureate)",551,Holdemania filiformis,3,0.0009842350729865057,2274,21504

@@ -1,0 +1,23 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,-0.0005706309216733096,0,1348
+1,2093,Formate,159,Bilophila wadsworthia,2,0.003138956736996823,19,6001
+2,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0054761462308084985,27,10631
+3,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0001739121586876724,52,3976
+4,2055,CO2,126,Bacteroides fragilis,2,0.0005798798681694306,142,3396
+5,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,-6.714342469460455e-05,228,3112
+6,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",457,Eubacterium rectale,2,-0.00029380681985002877,246,3713
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",134,Bacteroides thetaiotaomicron,2,-0.00016292707834208997,334,11464
+8,2035,Biotin (Vitamin B7),1064,Streptococcus salivarius,2,0.0001402664656527941,634,2373
+9,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",126,Bacteroides fragilis,3,0.00016656482263399663,669,17220
+10,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",870,Prevotella copri,2,-0.0009157246317241796,670,9631
+11,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0008838744652064356,680,11104
+12,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.000548456711604306,918,9025
+13,2014,Acetate,9,Acidaminococcus fermentans,3,-0.0010000000000000009,1023,16848
+14,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-7.089783856750742e-05,1102,5272
+15,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.001151938970048283,1106,13057
+16,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00044394511344525434,1175,3760
+17,2014,Acetate,455,Eubacterium hallii,2,-0.0003318627376658334,1198,975
+18,2223,Taurocholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-0.001000000000000112,1221,14495
+19,2145,L-Methionine (D-Methionine),1064,Streptococcus salivarius,2,-0.001000000000000112,1270,9357
+20,2157,Lactose,1054,Streptococcus infantarius,2,-0.00025718263017715515,1451,10220
+21,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",126,Bacteroides fragilis,3,0.0004798354029449392,1458,17220

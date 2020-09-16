@@ -1,0 +1,47 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.001162886137624275,44,11462
+1,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",129,Bacteroides ovatus,2,-0.00017604365745793604,48,5269
+2,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",1052,Streptococcus gallolyticus,2,-0.0010000000000000009,56,12379
+3,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,0.0009970967007332243,70,11465
+4,2093,Formate,159,Bilophila wadsworthia,2,0.0020780046096104954,131,6001
+5,2055,CO2,126,Bacteroides fragilis,2,0.0014421269890414479,140,3396
+6,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,-0.0010000000000000009,192,9501
+7,2178,"NH3 (Ammonia, NH4+, Ammonium)",952,Roseburia intestinalis,2,7.867467081712487e-05,204,11507
+8,2225,Taurolithocholate,9,Acidaminococcus fermentans,3,0.0004166301710891718,256,30528
+9,2242,XOS (Xylooligosaccharide),54,Alistipes putredinis,3,0.0005263971405096157,274,31682
+10,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007222165186140383,297,3973
+11,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.003301013854324353,433,6866
+12,2178,"NH3 (Ammonia, NH4+, Ammonium)",952,Roseburia intestinalis,2,0.0004484953539384273,461,11507
+13,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,-0.000658733905573694,495,4333
+14,2157,Lactose,812,Parabacteroides distasonis,2,-0.00019738858399609427,520,10204
+15,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0002890141628349996,560,11460
+16,2014,Acetate,455,Eubacterium hallii,2,-0.0004024840080811831,574,975
+17,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.004797343487208616,587,6865
+18,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,-3.2078255759460106e-05,632,11461
+19,2176,N2,129,Bacteroides ovatus,3,-0.00017740531030707718,635,27301
+20,2178,"NH3 (Ammonia, NH4+, Ammonium)",965,Ruminococcus flavefaciens,2,0.00017919360184270872,723,11510
+21,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0008220497844012575,725,3760
+22,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,-0.0003010976675171806,805,9047
+23,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.0016662608088836572,853,12995
+24,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0014924608883636337,863,10631
+25,2079,D-Xylose (Xylose),870,Prevotella copri,2,0.0003302601279788764,902,5095
+26,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,4.9204537903024814e-05,947,11500
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",137,Bacteroides xylanisolvens,2,-0.00042515583092295195,1101,11466
+28,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0009351896812999083,1236,3756
+29,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0012048205372663379,1250,3112
+30,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,0.0010132821307753392,1258,4264
+31,2041,Caproate (Hexanoate),76,Anaerotruncus colihominis,3,-8.415468110256619e-06,1300,18581
+32,2093,Formate,401,Desulfovibrio piger,2,-0.00027982830876516207,1303,6011
+33,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.00076729523617447,1424,3976
+34,2242,XOS (Xylooligosaccharide),54,Alistipes putredinis,3,0.0005129080894825666,1482,31682
+35,2038,Butyrate,401,Desulfovibrio piger,2,0.0001881938109011827,1523,2555
+36,2089,Ethanol,159,Bilophila wadsworthia,2,0.00015770629544664683,1587,5713
+37,2130,L-Carnitine (D-Carnitine),401,Desulfovibrio piger,2,-0.0010000000000000009,1713,8243
+38,2041,Caproate (Hexanoate),76,Anaerotruncus colihominis,3,0.0002555915871497172,1844,18581
+39,2142,L-Leucine (Leucine),309,Clostridium difficile,2,-0.0010000000000000009,1849,9100
+40,2130,L-Carnitine (D-Carnitine),401,Desulfovibrio piger,2,0.0010000000000000009,1980,8243
+41,2176,N2,129,Bacteroides ovatus,3,0.0007122666744581174,1993,27301
+42,2178,"NH3 (Ammonia, NH4+, Ammonium)",401,Desulfovibrio piger,2,-0.00032449415575241947,2049,11483
+43,2094,FOS (Fructooligosaccharide),464,Faecalibacterium prausnitzii,2,8.815230820580222e-05,2170,6092
+44,2225,Taurolithocholate,9,Acidaminococcus fermentans,3,0.0009477450132354681,2376,30528
+45,2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,-0.0010821787088735046,2532,15780

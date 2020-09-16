@@ -1,0 +1,63 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2134,"L-Glutamine (D-Glutamine, Glutamine)",54,Alistipes putredinis,2,0.006539502504804506,28,8498
+1,2225,Taurolithocholate,464,Faecalibacterium prausnitzii,3,0.020283989080318032,29,30572
+2,2122,Isovalerate (3-Methylbutanoic acid),153,Bifidobacterium breve,3,-0.00020576478024403322,75,23638
+3,2157,Lactose,966,Ruminococcus gnavus,2,0.000603704882994438,133,10215
+4,2122,Isovalerate (3-Methylbutanoic acid),1007,Shigella sonnei,3,0.006178478890123573,135,23682
+5,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",152,Bifidobacterium bifidum,3,0.000914175792163574,155,24357
+6,2122,Isovalerate (3-Methylbutanoic acid),159,Bilophila wadsworthia,3,0.034363075349994054,161,23641
+7,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",895,Pseudoflavonifractor capillosus,3,-0.0010000000000000009,183,25402
+8,2233,Trimethylamine,878,Prevotella salivae,2,0.006497762669655627,194,15176
+9,2122,Isovalerate (3-Methylbutanoic acid),326,Clostridium symbiosum,2,0.0004144315074658955,217,7735
+10,2109,H2S (HS-),309,Clostridium difficile,2,0.000794313084332865,227,7012
+11,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",457,Eubacterium rectale,2,0.0006025103267690568,235,2921
+12,2122,Isovalerate (3-Methylbutanoic acid),457,Eubacterium rectale,2,0.02004794453367309,242,7745
+13,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",135,Bacteroides uniformis,3,0.006193913652607352,250,24353
+14,2122,Isovalerate (3-Methylbutanoic acid),457,Eubacterium rectale,3,0.006095449650489804,253,23657
+15,2203,Putrescine,46,Akkermansia muciniphila,2,1.6856776765439285e-05,257,13105
+16,2122,Isovalerate (3-Methylbutanoic acid),464,Faecalibacterium prausnitzii,3,0.004454881109807185,274,23660
+17,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",123,Bacteroides dorei,3,0.009726031078482356,299,24345
+18,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",1064,Streptococcus salivarius,3,0.0016506507919188396,304,24405
+19,2081,Deoxycholic acid,968,Ruminococcus obeum,2,0.002457556233928626,310,5248
+20,2233,Trimethylamine,457,Eubacterium rectale,3,0.0024778469127663127,312,31073
+21,2122,Isovalerate (3-Methylbutanoic acid),870,Prevotella copri,3,0.002156679739554135,314,23671
+22,2122,Isovalerate (3-Methylbutanoic acid),135,Bacteroides uniformis,2,0.003960603823815467,316,7721
+23,2087,"Dodecanoate (Lauric acid, Laureate)",129,Bacteroides ovatus,3,1.1147544213718774e-05,398,21469
+24,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",964,Ruminococcus bromii,3,0.001757357839056617,401,16549
+25,2240,"Valerate (Pentanoic acid, Pentanoate)",135,Bacteroides uniformis,3,0.02492032317837145,457,31553
+26,2038,Butyrate,122,Bacteroides coprophilus,2,0.0017850932972018896,490,2528
+27,2240,"Valerate (Pentanoic acid, Pentanoate)",965,Ruminococcus flavefaciens,3,0.00032301068873608063,510,31598
+28,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",149,Bifidobacterium adolescentis,3,-0.00015379924623104557,539,16003
+29,2151,"L-Serine (Serine, D-Serine)",46,Akkermansia muciniphila,3,-3.6676435744453784e-05,625,25633
+30,2125,"L-Alanine (D-Alanine, Alanine)",1064,Streptococcus salivarius,3,0.004196788476451996,633,23829
+31,2107,H2 (Hydrogen),131,Bacteroides plebeius,2,0.00570049328876765,648,6854
+32,2225,Taurolithocholate,1099,Sutterella wadsworthensis,2,0.000244158636877434,668,14687
+33,2122,Isovalerate (3-Methylbutanoic acid),149,Bifidobacterium adolescentis,3,0.001423828190278531,670,23635
+34,2236,Tyramine,122,Bacteroides coprophilus,2,-0.0009902302298226973,719,15344
+35,2122,Isovalerate (3-Methylbutanoic acid),9,Acidaminococcus fermentans,2,-0.0010971937041318602,803,7704
+36,2238,Urea,461,Eubacterium ventriosum,3,0.003820541671391675,866,31435
+37,2238,Urea,870,Prevotella copri,3,0.005329936810180125,902,31447
+38,2156,"L-Valine (Valine, D-Valine)",131,Bacteroides plebeius,3,0.0017677941987871426,905,26006
+39,2122,Isovalerate (3-Methylbutanoic acid),46,Akkermansia muciniphila,2,0.0005135113678441661,940,7705
+40,2237,Uracil,152,Bifidobacterium bifidum,3,0.0004438621504864182,992,31341
+41,2122,Isovalerate (3-Methylbutanoic acid),966,Ruminococcus gnavus,3,9.300855159422028e-05,1063,23679
+42,2167,Methylamine (Monomethylamine),461,Eubacterium ventriosum,2,0.00278334293049487,1064,10915
+43,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",551,Holdemania filiformis,3,0.000532685659376364,1066,24384
+44,2237,Uracil,804,Oxalobacter formigenes,3,-0.0009999999999998899,1070,31371
+45,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",123,Bacteroides dorei,2,0.008694198394043173,1089,9009
+46,2186,Oxalate,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,0.0014408381917180302,1095,27968
+47,2125,"L-Alanine (D-Alanine, Alanine)",464,Faecalibacterium prausnitzii,2,0.0010268361899381517,1107,7892
+48,2198,Pimelate,54,Alistipes putredinis,3,0.0024322731385110208,1109,28730
+49,2156,"L-Valine (Valine, D-Valine)",124,Bacteroides eggerthii,2,0.0003783587252377263,1154,10090
+50,2050,Choline,969,Ruminococcus torques,2,-0.0010000000000000009,1155,3233
+51,2195,Phenylacetate,54,Alistipes putredinis,2,0.00030312041465319073,1158,12602
+52,2222,Taurochenodeoxycholate,323,Clostridium scindens,3,0.0007181464174973451,1166,30342
+53,2098,Glycerol,969,Ruminococcus torques,2,0.0006617979612977276,1226,6257
+54,2238,Urea,137,Bacteroides xylanisolvens,3,0.00034470207302927935,1346,31410
+55,2238,Urea,329,Collinsella aerofaciens (Eubacterium aerofaciens),2,-0.00018270518567908844,1487,15512
+56,2229,Thymine,968,Ruminococcus obeum,3,0.006732464776756153,1502,30880
+57,2043,Cellobiose,461,Eubacterium ventriosum,3,0.000361506431017955,1570,18763
+58,2238,Urea,551,Holdemania filiformis,2,0.000264005707603987,1602,15528
+59,2125,"L-Alanine (D-Alanine, Alanine)",124,Bacteroides eggerthii,3,0.0004997848311051323,1630,23770
+60,2107,H2 (Hydrogen),338,Coprococcus comes,2,-0.0004082261599891446,1765,6873
+61,2038,Butyrate,1064,Streptococcus salivarius,3,0.001018189636037392,1920,18501

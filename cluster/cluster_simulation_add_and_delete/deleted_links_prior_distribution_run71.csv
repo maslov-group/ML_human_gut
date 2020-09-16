@@ -1,0 +1,52 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2217,Succinate,54,Alistipes putredinis,2,0.03176803340636214,3,14042
+1,2072,D-Mannose (Mannose),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,8.12302196365744e-05,17,4568
+2,2068,D-Glucose (Glucose),129,Bacteroides ovatus,2,-0.0008649901971908847,82,4261
+3,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.000164138365771338,85,12995
+4,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0009480432013537765,88,3760
+5,2079,D-Xylose (Xylose),870,Prevotella copri,2,0.0010284872588528504,91,5095
+6,2178,"NH3 (Ammonia, NH4+, Ammonium)",326,Clostridium symbiosum,3,-0.0010000000000000009,117,27391
+7,2055,CO2,134,Bacteroides thetaiotaomicron,3,-0.0010000000000000009,138,19312
+8,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0003927554234461894,145,3756
+9,2093,Formate,159,Bilophila wadsworthia,2,0.0011527439106013837,146,6001
+10,2055,CO2,135,Bacteroides uniformis,2,-5.3837951248358884e-05,148,3401
+11,2043,Cellobiose,131,Bacteroides plebeius,3,-6.996965511474329e-05,195,18734
+12,2006,2-Aminobutyric acid (2-Aminobutyrate),969,Ruminococcus torques,3,0.0004601406384889817,208,16337
+13,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0015575292900269488,526,10631
+14,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",129,Bacteroides ovatus,3,0.0001958297229301964,541,19381
+15,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",149,Bifidobacterium adolescentis,3,2.7432158088092073e-05,604,18163
+16,2217,Succinate,54,Alistipes putredinis,2,0.001691372665277413,613,14042
+17,2055,CO2,126,Bacteroides fragilis,2,-0.0001418565935061844,646,3396
+18,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,6.354038835720832e-05,750,4696
+19,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,9.557779039881531e-06,759,3976
+20,2006,2-Aminobutyric acid (2-Aminobutyrate),969,Ruminococcus torques,3,0.0005828265118974496,770,16337
+21,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,-6.507014122092425e-05,773,6064
+22,2079,D-Xylose (Xylose),137,Bacteroides xylanisolvens,2,-0.0010408919353266377,857,5058
+23,2142,L-Leucine (Leucine),134,Bacteroides thetaiotaomicron,2,0.0018065300603846701,875,9088
+24,2065,D-Galacturonate,134,Bacteroides thetaiotaomicron,2,3.906693441235731e-05,882,4048
+25,2055,CO2,129,Bacteroides ovatus,2,0.0005032727977911655,914,3397
+26,2142,L-Leucine (Leucine),1064,Streptococcus salivarius,2,-0.00024641147927728646,943,9141
+27,2131,"L-Cysteine (Cysteine, D-Cysteine)",134,Bacteroides thetaiotaomicron,2,-0.0010000000000000009,975,8296
+28,2093,Formate,401,Desulfovibrio piger,2,0.00023690017622479687,1140,6011
+29,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.0020475633588951103,1163,11457
+30,2055,CO2,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,-0.00023264333629913203,1266,19328
+31,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",129,Bacteroides ovatus,3,4.446093167798093e-05,1315,19381
+32,2157,Lactose,152,Bifidobacterium bifidum,2,-0.0006940930654409927,1365,10173
+33,2206,Raffinose,812,Parabacteroides distasonis,2,5.414088144806151e-06,1371,13372
+34,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-0.00027221163566426565,1402,4552
+35,2161,Maltose,870,Prevotella copri,2,0.0004386215287507378,1505,10495
+36,2003,"1,2-Ethanediol (Ethylene glycol)",134,Bacteroides thetaiotaomicron,3,-0.0010000000000000009,1525,16072
+37,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,0.0008213372825528475,1595,13057
+38,2014,Acetate,457,Eubacterium rectale,2,0.0007812795826193097,1613,977
+39,2085,Dimethylamine,149,Bifidobacterium adolescentis,3,-0.0010000000000000009,1695,21403
+40,2089,Ethanol,159,Bilophila wadsworthia,2,0.0008344809328391101,1739,5713
+41,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0008332323922228824,1744,6865
+42,2055,CO2,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,0.000827887442521047,1987,19328
+43,2224,Taurodeoxycholate,153,Bifidobacterium breve,2,-0.0010000000000000009,2029,14566
+44,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",149,Bifidobacterium adolescentis,3,0.001165896229452179,2200,18163
+45,2072,D-Mannose (Mannose),76,Anaerotruncus colihominis,2,-0.0010003709010911743,2223,4541
+46,2043,Cellobiose,131,Bacteroides plebeius,3,0.0005701960736704814,2229,18734
+47,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,-0.00010792859110542175,2298,3757
+48,2094,FOS (Fructooligosaccharide),464,Faecalibacterium prausnitzii,2,-0.00027295969915530627,2300,6092
+49,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-0.00025071346168203945,2384,11460
+50,2157,Lactose,812,Parabacteroides distasonis,2,-0.0006271726945197287,2520,10204

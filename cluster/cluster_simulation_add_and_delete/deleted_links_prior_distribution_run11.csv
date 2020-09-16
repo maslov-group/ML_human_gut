@@ -1,0 +1,48 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0015756329297136329,15,3976
+1,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0012828126866520906,34,3760
+2,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.005325753301988034,61,10631
+3,2089,Ethanol,159,Bilophila wadsworthia,2,-8.010223583343468e-05,91,5713
+4,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0017405157151487716,95,9025
+5,2055,CO2,133,Bacteroides stercoris,2,0.0003914297328911909,120,3399
+6,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",129,Bacteroides ovatus,2,9.624431458798988e-05,127,9589
+7,2068,D-Glucose (Glucose),420,Dorea formicigenerans,2,-0.00011017087153086802,128,4284
+8,2093,Formate,159,Bilophila wadsworthia,2,0.0011097511636604107,181,6001
+9,2107,H2 (Hydrogen),456,Eubacterium limosum,2,-0.0010920896301487293,184,6880
+10,2217,Succinate,159,Bilophila wadsworthia,2,0.012745271086277987,200,14065
+11,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,0.0015806156167365026,207,1348
+12,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.000629188826473448,237,4552
+13,2196,Phenylethylamine,870,Prevotella copri,3,0.000442461674686645,325,28639
+14,2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,0.0003630310417802596,327,3757
+15,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,-0.00013040240150308247,353,15784
+16,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,1.2521184561187226e-05,362,4333
+17,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",131,Bacteroides plebeius,3,0.005889285448422599,377,21182
+18,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",129,Bacteroides ovatus,2,-0.0001108149868055408,419,5269
+19,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-0.0003142505081786817,460,5272
+20,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",456,Eubacterium limosum,3,0.00012059773028172405,478,25384
+21,2094,FOS (Fructooligosaccharide),952,Roseburia intestinalis,2,-0.0010154415141161444,546,6107
+22,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0013768218536359678,686,6866
+23,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",134,Bacteroides thetaiotaomicron,2,0.0013502194647163623,705,9592
+24,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0017596683089615706,771,2968
+25,2131,"L-Cysteine (Cysteine, D-Cysteine)",126,Bacteroides fragilis,2,-0.0009999999999998899,792,8292
+26,2127,L-Arginine (Arginine),75,Anaerostipes caccae,3,0.0007519460659332067,809,23908
+27,2125,"L-Alanine (D-Alanine, Alanine)",953,Roseburia inulinivorans,2,0.005685307279770235,858,7908
+28,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1064,Streptococcus salivarius,2,0.00018172267961047428,1070,11589
+29,2091,"Folic acid (Folate, Vitamin B9)",158,Bifidobacterium pseudocatenulatum,3,-0.0010000000000000009,1125,21768
+30,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0003289101918457771,1160,6217
+31,2055,CO2,126,Bacteroides fragilis,2,0.00035334510555684595,1182,3396
+32,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-2.496796067741336e-05,1193,11500
+33,2188,"p-Cresol (4-methylphenol, 4-cresol)",149,Bifidobacterium adolescentis,3,-0.000675243986530849,1205,28099
+34,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,0.00019058081152911743,1246,4588
+35,2157,Lactose,812,Parabacteroides distasonis,2,-0.00027959562880874866,1379,10204
+36,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00034788521880535495,1407,11104
+37,2094,FOS (Fructooligosaccharide),152,Bifidobacterium bifidum,2,-2.971642522286988e-05,1432,6069
+38,2188,"p-Cresol (4-methylphenol, 4-cresol)",149,Bifidobacterium adolescentis,3,0.0004826994523543515,1462,28099
+39,2129,"L-Aspartate (Aspartate, D-Aspartate)",1064,Streptococcus salivarius,2,-0.000602373575199211,1540,8205
+40,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",456,Eubacterium limosum,3,-0.0003369630254300704,1591,25384
+41,2125,"L-Alanine (D-Alanine, Alanine)",953,Roseburia inulinivorans,2,0.0010372440476593692,1688,7908
+42,2196,Phenylethylamine,870,Prevotella copri,3,0.000509679987311551,1710,28639
+43,2127,L-Arginine (Arginine),75,Anaerostipes caccae,3,0.0003169438482568676,1735,23908
+44,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",131,Bacteroides plebeius,3,0.001542963945674325,1776,21182
+45,2094,FOS (Fructooligosaccharide),126,Bacteroides fragilis,2,-0.0008389816920115756,1848,6060
+46,2085,Dimethylamine,126,Bacteroides fragilis,3,-0.0010000000000000009,1852,21396

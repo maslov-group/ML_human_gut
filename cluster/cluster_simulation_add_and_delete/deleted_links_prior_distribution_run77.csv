@@ -1,0 +1,37 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.015736664409318424,12,980
+1,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.009940408090356456,56,15626
+2,2014,Acetate,455,Eubacterium hallii,2,0.0020810916051758888,108,975
+3,2157,Lactose,812,Parabacteroides distasonis,2,5.639951909230945e-05,113,10204
+4,2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,0.0004227162708632104,127,10603
+5,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.000732303933070444,141,9025
+6,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.000422038688406956,165,9047
+7,2163,Menaquinone (Vitamin K2),152,Bifidobacterium bifidum,2,0.0006834827298031199,231,10605
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,-0.00034320123776487854,259,11509
+9,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0010866356330280214,301,11104
+10,2196,Phenylethylamine,1099,Sutterella wadsworthensis,2,0.001291117829027133,407,12743
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,-0.0004834123258458112,438,11500
+12,2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,0.00018358385236594277,507,4333
+13,2049,Cholic acid (Cholate),314,Clostridium leptum,2,0.0003096093113151843,552,3125
+14,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,6.893405166441546e-05,593,11460
+15,2068,D-Glucose (Glucose),457,Eubacterium rectale,2,0.0002932405360628332,612,4289
+16,2118,Isethionate,137,Bacteroides xylanisolvens,3,7.417889963157176e-05,703,23346
+17,2196,Phenylethylamine,1099,Sutterella wadsworthensis,2,0.0006508917713130558,714,12743
+18,2055,CO2,129,Bacteroides ovatus,2,-5.166409525414473e-06,716,3397
+19,2064,D-Galactose,969,Ruminococcus torques,2,0.0015895069932827521,723,4025
+20,2100,Glycocholate,149,Bifidobacterium adolescentis,2,4.723291934016771e-06,732,6355
+21,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,-5.7290320286340624e-05,767,5272
+22,2055,CO2,126,Bacteroides fragilis,2,-7.688011072926049e-05,824,3396
+23,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0006720770529747844,835,3760
+24,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,9.942465986478854e-05,891,10631
+25,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00034457177773106196,895,2968
+26,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.0022648148865404005,898,15626
+27,2055,CO2,457,Eubacterium rectale,2,0.00023017826576543499,910,3425
+28,2055,CO2,137,Bacteroides xylanisolvens,2,-0.0008798392113245068,995,3402
+29,2055,CO2,131,Bacteroides plebeius,2,0.0006555780920776133,1063,3398
+30,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",401,Desulfovibrio piger,2,0.00021659956207331632,1097,9035
+31,2118,Isethionate,137,Bacteroides xylanisolvens,3,0.0007263339930282386,1200,23346
+32,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.0006831641123271615,1338,11101
+33,2055,CO2,124,Bacteroides eggerthii,2,0.00039208308221283517,1391,3394
+34,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0004973940469171767,1415,3756
+35,2063,D-Galactosamine (Galactosamine),151,Bifidobacterium animalis,2,-0.0010000000000000009,1513,3908

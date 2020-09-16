@@ -1,0 +1,50 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2217,Succinate,159,Bilophila wadsworthia,2,0.015432753635657215,3,14065
+1,2055,CO2,123,Bacteroides dorei,2,0.015052605037239819,41,3393
+2,2072,D-Mannose (Mannose),55,Alistipes shahii,2,0.0003005194634544406,67,4539
+3,2064,D-Galactose,338,Coprococcus comes,2,-7.041498904813981e-05,90,3993
+4,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,0.0007389711919757458,124,11132
+5,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.005220263464745356,136,10631
+6,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0006219833481923009,142,6217
+7,2014,Acetate,455,Eubacterium hallii,2,0.00012650954044701734,145,975
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,0.00010476192629127468,183,11462
+9,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.011376916506948276,209,980
+10,2093,Formate,159,Bilophila wadsworthia,2,0.002351872334413807,243,6001
+11,2178,"NH3 (Ammonia, NH4+, Ammonium)",965,Ruminococcus flavefaciens,2,0.000879144633900597,263,11510
+12,2073,D-Psicose,969,Ruminococcus torques,2,-0.0010000000000000009,293,4673
+13,2055,CO2,131,Bacteroides plebeius,2,0.0009371810748806109,309,3398
+14,2227,Thiosulfate,159,Bilophila wadsworthia,2,-0.0010000000000000009,317,14785
+15,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,9.181379369105347e-05,333,4264
+16,2014,Acetate,953,Roseburia inulinivorans,2,0.003635731553179866,352,996
+17,2183,Octanoate (Caprylic acid),460,Eubacterium siraeum,3,0.00014328381463779571,445,27762
+18,2055,CO2,129,Bacteroides ovatus,2,-2.4833639798438334e-05,571,3397
+19,2055,CO2,126,Bacteroides fragilis,2,0.00023570142441919906,577,3396
+20,2068,D-Glucose (Glucose),812,Parabacteroides distasonis,2,-0.00042611724259578043,580,4300
+21,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.0017698259453483578,618,6866
+22,2089,Ethanol,159,Bilophila wadsworthia,2,-0.00027357776205017004,619,5713
+23,2055,CO2,457,Eubacterium rectale,2,0.0024005212378201968,641,3425
+24,2014,Acetate,461,Eubacterium ventriosum,2,-0.000450433265688166,691,979
+25,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.004249174922366206,696,6865
+26,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.00015020146127109335,786,2968
+27,2101,Glycodeoxycholate,129,Bacteroides ovatus,3,0.00018876460671168882,825,22333
+28,2055,CO2,133,Bacteroides stercoris,2,-0.0001980077867871355,916,3399
+29,2043,Cellobiose,952,Roseburia intestinalis,2,-0.0010000000000000009,1119,2867
+30,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.000517262995444745,1310,9047
+31,2027,Arachidate (Arachidic acid),133,Bacteroides stercoris,2,-0.00018452257136003514,1334,1743
+32,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,-1.2834191154498242e-05,1391,11460
+33,2070,D-Lyxose (L-Lyxose),158,Bifidobacterium pseudocatenulatum,2,0.0010471782027936527,1403,4416
+34,2070,D-Lyxose (L-Lyxose),134,Bacteroides thetaiotaomicron,2,0.0028033103146376526,1455,4408
+35,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",812,Parabacteroides distasonis,2,-0.0009046522523689093,1558,9628
+36,2006,2-Aminobutyric acid (2-Aminobutyrate),124,Bacteroides eggerthii,2,-0.0010000000000000009,1576,370
+37,2101,Glycodeoxycholate,129,Bacteroides ovatus,3,0.0005681810056240577,1805,22333
+38,2070,D-Lyxose (L-Lyxose),158,Bifidobacterium pseudocatenulatum,2,-2.8706429203717576e-06,1850,4416
+39,2027,Arachidate (Arachidic acid),133,Bacteroides stercoris,2,0.0006285524680862409,1853,1743
+40,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,-0.00019438625891132766,1880,4696
+41,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.00017225386516994678,1895,3112
+42,2006,2-Aminobutyric acid (2-Aminobutyrate),124,Bacteroides eggerthii,2,0.0010000000000000009,1896,370
+43,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,-0.00031518006210318195,1957,3976
+44,2157,Lactose,796,Odoribacter splanchnicus,2,0.0001365706169240699,2054,10202
+45,2055,CO2,121,Bacteroides coprocola,2,0.0005036966084859262,2059,3391
+46,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,-6.635398355325783e-06,2213,3760
+47,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1064,Streptococcus salivarius,2,0.0003468783577460499,2260,9501
+48,2183,Octanoate (Caprylic acid),460,Eubacterium siraeum,3,0.00034642695301068116,2364,27762

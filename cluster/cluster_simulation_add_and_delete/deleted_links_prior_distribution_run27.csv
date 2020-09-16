@@ -1,0 +1,24 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.00215348043878838,33,9025
+1,2093,Formate,159,Bilophila wadsworthia,2,0.0013992348683395939,62,6001
+2,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.0041466029135465154,154,10631
+3,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.0006825728912366325,266,9047
+4,2055,CO2,126,Bacteroides fragilis,2,0.00020092332867627238,375,3396
+5,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,9.410264324427597e-05,492,2968
+6,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,0.00016319716142576546,540,5272
+7,2074,D-Ribose (Ribose),551,Holdemania filiformis,2,0.00014218798987752912,600,4728
+8,2043,Cellobiose,952,Roseburia intestinalis,2,-0.0010000000000000009,646,2867
+9,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",137,Bacteroides xylanisolvens,3,0.0027085142714317056,767,25146
+10,2178,"NH3 (Ammonia, NH4+, Ammonium)",965,Ruminococcus flavefaciens,2,0.00012263501915621422,777,11510
+11,2157,Lactose,812,Parabacteroides distasonis,2,0.0006116700150436971,855,10204
+12,2161,Maltose,260,Catenibacterium mitsuokai,2,-0.0001122755071196746,1007,10467
+13,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",134,Bacteroides thetaiotaomicron,2,-0.001000000000000112,1068,11320
+14,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.00043787825676977477,1085,3760
+15,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.000621365203238522,1125,11104
+16,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,-8.259613621142137e-05,1167,3976
+17,2178,"NH3 (Ammonia, NH4+, Ammonium)",125,Bacteroides finegoldii (Alistipes finegoldii),2,-0.00015198210810785096,1234,11459
+18,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,-0.0001578674239866018,1235,1348
+19,2156,"L-Valine (Valine, D-Valine)",134,Bacteroides thetaiotaomicron,2,0.0008099772004321881,1283,10096
+20,2098,Glycerol,159,Bilophila wadsworthia,2,-0.0009279077181183482,1518,6217
+21,2222,Taurochenodeoxycholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1546,14425
+22,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",137,Bacteroides xylanisolvens,3,0.0008048884870345274,1654,25146

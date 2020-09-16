@@ -1,0 +1,60 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,0.0005060529553816417,2,11132
+1,2011,4-Aminobutyrate (GABA),129,Bacteroides ovatus,2,0.0018607543921858039,32,733
+2,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0007304671630402604,47,11460
+3,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.001179332658790333,98,3760
+4,2038,Butyrate,9,Acidaminococcus fermentans,2,-0.00032044679676934695,105,2520
+5,2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,1.4770417185783202e-05,188,6064
+6,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.00507131958567919,208,10631
+7,2093,Formate,159,Bilophila wadsworthia,2,0.0032269655196806024,229,6001
+8,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007952623098461675,338,3973
+9,2217,Succinate,159,Bilophila wadsworthia,2,0.018641121026229723,414,14065
+10,2158,Linoleic acid (Omega-6 fatty acid),457,Eubacterium rectale,2,0.00042843317244600776,428,10265
+11,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.012603757998329912,478,6866
+12,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.004313429398585589,493,6865
+13,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,-0.0003357464787666631,522,3976
+14,2001,"[R,R]-2,3-Butanediol ([R,R]-Butanediol, [S,S]-2,3-Butanediol, [S,S]-Butanediol)",401,Desulfovibrio piger,3,0.0005851962755927254,551,15947
+15,2236,Tyramine,968,Ruminococcus obeum,2,7.718494960240463e-05,558,15400
+16,2223,Taurocholate,159,Bilophila wadsworthia,2,-0.0009273411912287255,644,14497
+17,2085,Dimethylamine,326,Clostridium symbiosum,2,0.0004792406656053405,645,5503
+18,2226,"Thiamine (Vitamin B1, Thiamin)",1064,Streptococcus salivarius,2,0.000440489196861904,683,14757
+19,2233,Trimethylamine,137,Bacteroides xylanisolvens,2,0.0006228328100771341,696,15138
+20,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),134,Bacteroides thetaiotaomicron,2,0.0003146896297883117,699,11248
+21,2167,Methylamine (Monomethylamine),484,Fusobacterium varium,2,-0.00046593330379751663,712,10917
+22,2017,Adenine,129,Bacteroides ovatus,2,-0.0010000000000000009,760,1165
+23,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0006680319184724226,787,2968
+24,2162,Melibiose,137,Bacteroides xylanisolvens,2,-0.001000000000000112,874,10530
+25,2017,Adenine,129,Bacteroides ovatus,2,0.001000000000000112,883,1165
+26,2167,Methylamine (Monomethylamine),484,Fusobacterium varium,2,0.0002821211250159106,967,10917
+27,2001,"[R,R]-2,3-Butanediol ([R,R]-Butanediol, [S,S]-2,3-Butanediol, [S,S]-Butanediol)",401,Desulfovibrio piger,3,0.0005110670231467385,974,15947
+28,2233,Trimethylamine,137,Bacteroides xylanisolvens,2,0.0007851805636360787,994,15138
+29,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.0010452509906662133,1024,980
+30,2089,Ethanol,401,Desulfovibrio piger,2,-9.09315345880568e-05,1058,5723
+31,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,-2.965453292747e-05,1218,4552
+32,2146,L-Ornithine (Ornithine),457,Eubacterium rectale,2,-0.0009999999999998899,1220,9401
+33,2055,CO2,457,Eubacterium rectale,2,5.96984790490751e-07,1300,3425
+34,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,8.469167242031173e-05,1327,4264
+35,2014,Acetate,455,Eubacterium hallii,2,0.0010167902135920226,1378,975
+36,2206,Raffinose,161,Blautia hansenii (Ruminococcus hansenii),2,-0.00026658804970014494,1382,13346
+37,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",126,Bacteroides fragilis,2,0.001117099621191664,1383,9012
+38,2158,Linoleic acid (Omega-6 fatty acid),457,Eubacterium rectale,2,0.0009886366456237639,1507,10265
+39,2157,Lactose,812,Parabacteroides distasonis,2,-0.00017708866334431583,1554,10204
+40,2236,Tyramine,968,Ruminococcus obeum,2,0.0008617458402399025,1644,15400
+41,2225,Taurolithocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,1746,14641
+42,2064,D-Galactose,76,Anaerotruncus colihominis,2,-0.0009992109842384966,1757,3965
+43,2055,CO2,129,Bacteroides ovatus,2,0.00029677523972593267,1765,3397
+44,2038,Butyrate,9,Acidaminococcus fermentans,2,1.9910817021795424e-05,1849,2520
+45,2238,Urea,401,Desulfovibrio piger,2,-0.00047789569572076473,1865,15515
+46,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-2.540781218784982e-05,1895,13057
+47,2074,D-Ribose (Ribose),129,Bacteroides ovatus,2,-0.0005894627606696234,1949,4693
+48,2101,Glycodeoxycholate,126,Bacteroides fragilis,2,-0.0010267373199082108,2052,6420
+49,2228,Thymidine,76,Anaerotruncus colihominis,2,-0.0010000000000000009,2062,14837
+50,2011,4-Aminobutyrate (GABA),129,Bacteroides ovatus,2,0.0008715628250972607,2204,733
+51,2132,L-Fucose,126,Bacteroides fragilis,2,-0.0010000000000000009,2227,8364
+52,2085,Dimethylamine,326,Clostridium symbiosum,2,0.0005424046290154472,2409,5503
+53,2094,FOS (Fructooligosaccharide),464,Faecalibacterium prausnitzii,2,0.00032378486432338427,2413,6092
+54,2014,Acetate,460,Eubacterium siraeum,2,0.0004464726897065452,2444,978
+55,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,-0.00027782478330218296,2466,3112
+56,2055,CO2,1064,Streptococcus salivarius,3,-0.0010000000000000009,2625,19365
+57,2157,Lactose,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-1.8923211414834107e-05,2639,10175
+58,2145,L-Methionine (D-Methionine),126,Bacteroides fragilis,2,-0.0010000000000000009,2905,9300

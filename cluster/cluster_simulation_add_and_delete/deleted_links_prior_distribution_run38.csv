@@ -1,0 +1,63 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0007019924195785787,53,11460
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.001134640647429519,68,11509
+2,2093,Formate,159,Bilophila wadsworthia,2,0.003997078138535781,88,6001
+3,2055,CO2,122,Bacteroides coprophilus,2,-0.0003336464188765653,127,3392
+4,2055,CO2,123,Bacteroides dorei,2,0.012702893904066759,139,3393
+5,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.00361137033486314,145,10631
+6,2089,Ethanol,159,Bilophila wadsworthia,2,0.0005233162866068453,161,5713
+7,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,7.55407530236285e-05,191,4552
+8,2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,0.00043008446460490735,195,11465
+9,2131,"L-Cysteine (Cysteine, D-Cysteine)",812,Parabacteroides distasonis,2,0.007764745495086989,222,8332
+10,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,-0.00034228077558806635,223,3688
+11,2055,CO2,126,Bacteroides fragilis,2,0.0022932460859964587,251,3396
+12,2064,D-Galactose,129,Bacteroides ovatus,2,0.000746356717463259,306,3973
+13,2055,CO2,131,Bacteroides plebeius,2,0.001551583747237406,311,3398
+14,2166,Methanol,401,Desulfovibrio piger,3,0.00046741641495240405,330,26747
+15,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0008108704496068153,347,3756
+16,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.00568796043827724,351,6866
+17,2055,CO2,133,Bacteroides stercoris,2,0.0008731862041819749,364,3399
+18,2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,0.00022735969903620035,412,4264
+19,2083,Dichloromethane (Methylene chloride),159,Bilophila wadsworthia,3,0.0017246719226668983,434,21265
+20,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",969,Ruminococcus torques,3,-0.0007801216214086137,459,27281
+21,2107,H2 (Hydrogen),484,Fusobacterium varium,2,-0.00020823525373314666,473,6885
+22,2103,Glycolithocholate,137,Bacteroides xylanisolvens,3,0.003348049651518803,482,22482
+23,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.0036545367895033376,485,6865
+24,2224,Taurodeoxycholate,420,Dorea formicigenerans,3,-0.0007265272690778479,555,30492
+25,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-0.00016757816945656145,572,13057
+26,2072,D-Mannose (Mannose),812,Parabacteroides distasonis,2,-0.00026311842879012115,578,4588
+27,2222,Taurochenodeoxycholate,54,Alistipes putredinis,3,0.0013264268029086201,605,30314
+28,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0013248198480870776,607,3976
+29,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.0004148942626139851,668,11104
+30,2222,Taurochenodeoxycholate,54,Alistipes putredinis,3,0.0013052189088759159,686,30314
+31,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,0.0003762965941398466,865,4336
+32,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",126,Bacteroides fragilis,2,-0.0006662476813266149,911,1308
+33,2109,H2S (HS-),9,Acidaminococcus fermentans,3,-0.001000000000000112,965,22896
+34,2129,"L-Aspartate (Aspartate, D-Aspartate)",1099,Sutterella wadsworthensis,2,2.233806124829485e-05,968,8207
+35,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.0052896704994227495,1050,980
+36,2014,Acetate,149,Bifidobacterium adolescentis,3,-0.0010000000000000009,1133,16867
+37,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",124,Bacteroides eggerthii,3,0.0006806175676676851,1260,18154
+38,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",969,Ruminococcus torques,3,0.0007793507990568882,1265,27281
+39,2129,"L-Aspartate (Aspartate, D-Aspartate)",1064,Streptococcus salivarius,2,5.8149421414355196e-05,1394,8205
+40,2083,Dichloromethane (Methylene chloride),159,Bilophila wadsworthia,3,0.0011280223311305182,1448,21265
+41,2224,Taurodeoxycholate,420,Dorea formicigenerans,3,0.0008843784956028555,1476,30492
+42,2107,H2 (Hydrogen),484,Fusobacterium varium,2,0.0004088307348250053,1568,6885
+43,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,0.0017324405540991572,1650,2968
+44,2085,Dimethylamine,326,Clostridium symbiosum,2,4.041433543733319e-05,1783,5503
+45,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.00014679705426756673,1788,11101
+46,2166,Methanol,401,Desulfovibrio piger,3,0.001262426620806889,1811,26747
+47,2055,CO2,129,Bacteroides ovatus,2,0.0026224277311435173,1820,3397
+48,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0011205063140113936,1905,3112
+49,2036,Butanol,126,Bacteroides fragilis,3,-3.332676805734014e-05,1944,18300
+50,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",952,Roseburia intestinalis,2,-0.0009159939833295327,1948,3731
+51,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",134,Bacteroides thetaiotaomicron,2,0.00024272466615737898,1952,9448
+52,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0008974498146179233,1996,3760
+53,2055,CO2,135,Bacteroides uniformis,2,0.0010943040849451524,2041,3401
+54,2159,Lithocholic acid,314,Clostridium leptum,3,-0.0010000000000000009,2114,26237
+55,2129,"L-Aspartate (Aspartate, D-Aspartate)",457,Eubacterium rectale,2,-0.000942242408106031,2257,8177
+56,2103,Glycolithocholate,137,Bacteroides xylanisolvens,3,0.002377534442462026,2390,22482
+57,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",124,Bacteroides eggerthii,3,0.0009663436326303732,2430,18154
+58,2036,Butanol,126,Bacteroides fragilis,3,0.0007395122815111455,2578,18300
+59,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1007,Shigella sonnei,2,-3.279337459516363e-05,2618,11586
+60,2178,"NH3 (Ammonia, NH4+, Ammonium)",134,Bacteroides thetaiotaomicron,2,-0.00014751847492955328,2791,11464
+61,2085,Dimethylamine,326,Clostridium symbiosum,2,-2.110559765378106e-05,2890,5503

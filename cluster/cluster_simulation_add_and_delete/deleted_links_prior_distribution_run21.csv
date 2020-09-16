@@ -1,0 +1,35 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2093,Formate,159,Bilophila wadsworthia,2,0.003176686517236682,4,6001
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.000368970899052079,5,11460
+2,2157,Lactose,812,Parabacteroides distasonis,2,0.0001545769463259239,6,10204
+3,2072,D-Mannose (Mannose),137,Bacteroides xylanisolvens,2,-0.0008481522768908345,13,4554
+4,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0027010986885727117,20,9025
+5,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.004900276368363543,23,10631
+6,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00015535006725331257,34,11104
+7,2120,Isomaltose,152,Bifidobacterium bifidum,3,0.00021430136237010622,39,23493
+8,2055,CO2,121,Bacteroides coprocola,2,-0.0006329412929356737,43,3391
+9,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,-8.78762063361016e-05,44,15784
+10,2223,Taurocholate,455,Eubacterium hallii,3,0.02040016299095293,51,30423
+11,2073,D-Psicose,158,Bifidobacterium pseudocatenulatum,2,-0.0010000000000000009,57,4632
+12,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,0.0011089617993964573,102,3760
+13,2055,CO2,123,Bacteroides dorei,2,0.012630175664672838,142,3393
+14,2223,Taurocholate,152,Bifidobacterium bifidum,2,-0.00014530809825130664,187,14493
+15,2003,"1,2-Ethanediol (Ethylene glycol)",425,Eggerthella lenta,2,0.0007469199106775459,237,181
+16,2055,CO2,137,Bacteroides xylanisolvens,2,0.0019627385862664992,240,3402
+17,2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,0.00016957992159083446,258,4552
+18,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.004443950962673138,273,6866
+19,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,0.00040329613853062884,290,9047
+20,2120,Isomaltose,152,Bifidobacterium bifidum,3,0.0006991772303190924,345,23493
+21,2065,D-Galacturonate,129,Bacteroides ovatus,2,-2.140112822290874e-06,366,4045
+22,2099,Glycochenodeoxycholate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-7.124572416827846e-05,487,6287
+23,2055,CO2,124,Bacteroides eggerthii,2,-0.00022836498295808472,489,3394
+24,2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,0.0003340392022653793,546,4696
+25,2003,"1,2-Ethanediol (Ethylene glycol)",425,Eggerthella lenta,2,0.0006561798267271657,567,181
+26,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",126,Bacteroides fragilis,2,-0.00014349933792079383,613,5268
+27,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,-0.00018244004192202734,623,11461
+28,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.0020571843125999356,699,11509
+29,2099,Glycochenodeoxycholate,151,Bifidobacterium animalis,2,-0.0009999999999998899,917,6284
+30,2061,D-Fructose (Fructose),420,Dorea formicigenerans,2,0.00018687556690477614,956,3780
+31,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-6.505432539682943e-05,1036,3756
+32,2223,Taurocholate,455,Eubacterium hallii,3,0.001568063675546183,1126,30423
+33,2163,Menaquinone (Vitamin K2),152,Bifidobacterium bifidum,2,0.0004314013060575661,1182,10605

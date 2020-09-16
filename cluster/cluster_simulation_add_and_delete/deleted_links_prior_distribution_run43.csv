@@ -1,0 +1,40 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,-2.8056719571734057e-05,33,3760
+1,2072,D-Mannose (Mannose),814,Parabacteroides merdae,2,0.00016451913470783008,54,4590
+2,2093,Formate,314,Clostridium leptum,2,6.010407001177942e-05,59,6005
+3,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,0.00037050595806642495,136,11104
+4,2064,D-Galactose,969,Ruminococcus torques,2,0.00022877113846586639,142,4025
+5,2068,D-Glucose (Glucose),952,Roseburia intestinalis,2,0.0004923920986346086,154,4307
+6,2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,0.007636246782596334,167,6866
+7,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,0.00013944510576491265,174,3756
+8,2093,Formate,401,Desulfovibrio piger,2,0.0002895127868453029,192,6011
+9,2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,0.012410806538061259,207,11457
+10,2093,Formate,159,Bilophila wadsworthia,2,0.002178695429786437,216,6001
+11,2014,Acetate,464,Faecalibacterium prausnitzii,2,0.007934714607025883,222,980
+12,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",870,Prevotella copri,3,-4.724897539276629e-05,275,16039
+13,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,3.295276794113011e-05,325,15784
+14,2217,Succinate,159,Bilophila wadsworthia,2,0.001817684136186104,374,14065
+15,2014,Acetate,953,Roseburia inulinivorans,2,0.002279890690512598,414,996
+16,2206,Raffinose,134,Bacteroides thetaiotaomicron,2,-0.00046329160836999783,430,13336
+17,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",1064,Streptococcus salivarius,2,-0.0001640553910874365,431,8493
+18,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.001294968825302667,482,11461
+19,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,0.00223147907384591,503,6865
+20,2069,D-Glucuronic acid (D-Glucuronate),134,Bacteroides thetaiotaomicron,2,-0.00010277080566478691,562,4336
+21,2014,Acetate,460,Eubacterium siraeum,2,-0.00017146641790810602,636,978
+22,2055,CO2,126,Bacteroides fragilis,2,0.0005672545391667283,701,3396
+23,2093,Formate,314,Clostridium leptum,2,-0.00025549557579906956,729,6005
+24,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",870,Prevotella copri,3,0.0002617325118493552,732,16039
+25,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,9.164618554091675e-05,828,10631
+26,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,0.0014589225477399381,844,11101
+27,2161,Maltose,137,Bacteroides xylanisolvens,2,-0.0007147742693593973,913,10458
+28,2089,Ethanol,159,Bilophila wadsworthia,2,0.000430428759163215,980,5713
+29,2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,-0.0002859852140935093,1029,11463
+30,2107,H2 (Hydrogen),455,Eubacterium hallii,3,-0.0010000000000000009,1034,22791
+31,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,0.0011198393036170318,1128,11460
+32,2055,CO2,123,Bacteroides dorei,2,0.0009830331343850807,1328,3393
+33,2206,Raffinose,812,Parabacteroides distasonis,2,2.5742810569218122e-05,1332,13372
+34,2157,Lactose,137,Bacteroides xylanisolvens,2,-0.0008623875064104336,1334,10170
+35,2068,D-Glucose (Glucose),456,Eubacterium limosum,2,-0.0010010706827972005,1424,4288
+36,2014,Acetate,314,Clostridium leptum,3,-0.0010000000000000009,1507,16877
+37,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,-8.465706821114694e-05,1710,2968
+38,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",159,Bilophila wadsworthia,2,0.001300216593803305,1760,9241
