@@ -1,0 +1,21 @@
+IDs: Names
+2044: Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)
+2060: D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)
+2061: D-Fructose (Fructose)
+2064: D-Galactose
+2065: D-Galacturonate
+2068: D-Glucose (Glucose)
+2069: D-Glucuronic acid (D-Glucuronate)
+2072: D-Mannose (Mannose)
+2074: D-Ribose (Ribose)
+2079: D-Xylose (Xylose)
+2082: Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)
+2094: FOS (Fructooligosaccharide)
+2098: Glycerol
+2149: L-Rhamnose (Rhamnose, D-Rhamnose)
+2161: Maltose
+2172: N-Acetyl-D-Glucosamine (N-Acetylglucosamine)
+2174: N-Acetylgalactosamine (N-Acetyl-D-galactosamine)
+2242: XOS (Xylooligosaccharide)
+2157: Lactose
+2206: Raffinose

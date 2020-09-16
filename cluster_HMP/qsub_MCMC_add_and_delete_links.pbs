@@ -1,0 +1,16 @@
+#!/bin/bash
+#
+#PBS -l walltime=04:00:00
+#PBS -l nodes=1:ppn=1
+#PBS -N myjob
+#PBS -q secondary
+
+# set directory to current one
+new_folder=$PBS_O_WORKDIR
+#new_folder=$PBS_O_WORKDIR'/data'
+cd $new_folder
+
+module load anaconda/2019-Oct/3
+# Run the executable (a.out)
+python ./MCMC_add_links.py $var1
+#python MCMC_add_links.py $var1
