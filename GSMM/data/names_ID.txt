@@ -1,0 +1,806 @@
+IDs: Names
+3: Acetivibrio cellulolyticus
+4: Acetobacter pasteurianus
+5: Acetohalobium arabaticum
+6: Acholeplasma laidlawii
+7: Achromobacter piechaudii
+8: Achromobacter xylosoxidans
+9: Acidaminococcus fermentans
+10: Acidimicrobium ferrooxidans
+11: Acidiphilium cryptum
+12: Acidithiobacillus caldus
+13: Acidithiobacillus ferrooxidans
+15: Acidothermus cellulolyticus
+16: Acidovorax avenae
+17: Acidovorax delafieldii
+20: Acinetobacter calcoaceticus
+25: Acinetobacter radioresistens
+28: Actinobacillus succinogenes
+30: Actinomyces coleocanis
+31: Actinomyces odontolyticus
+32: Actinomyces oris
+33: Actinomyces urogenitalis
+34: Actinomyces viscosus
+35: Actinosynnema mirum
+37: Aeromicrobium marinum
+38: Aeromonas hydrophila
+39: Aeromonas salmonicida
+40: Aeropyrum pernix
+41: Aggregatibacter actinomycetemcomitans
+44: Agrobacterium tumefaciens (Rhizobium radiobacter)
+46: Akkermansia muciniphila
+49: Alicycliphilus denitrificans
+54: Alistipes putredinis
+55: Alistipes shahii
+59: Allochromatium vinosum
+61: Aminobacterium colombiense
+64: Anabaena azollae
+65: Anabaena variabilis
+67: Anaerococcus hydrogenalis
+68: Anaerococcus lactolyticus
+69: Anaerococcus prevotii
+70: Anaerococcus tetradius
+71: Anaerococcus vaginalis
+75: Anaerostipes caccae
+76: Anaerotruncus colihominis
+81: Aquifex aeolicus
+83: Archaeoglobus fulgidus
+84: Archaeoglobus profundus
+94: Atopobium parvulum
+95: Atopobium rimae
+96: Atopobium vaginae
+97: Azorhizobium caulinodans
+98: Azotobacter vinelandii
+99: Bacillus amyloliquefaciens
+100: Bacillus anthracis
+101: Bacillus atrophaeus
+102: Bacillus cellulosilyticus
+103: Bacillus cereus
+104: Bacillus clausii
+105: Bacillus coagulans
+106: Bacillus coahuilensis
+107: Bacillus halodurans
+108: Bacillus licheniformis
+109: Bacillus megaterium
+110: Bacillus mycoides
+111: Bacillus pseudofirmus
+112: Bacillus pseudomycoides
+113: Bacillus pumilus
+114: Bacillus selenitireducens
+115: Bacillus subtilis
+116: Bacillus thuringiensis
+117: Bacillus weihenstephanensis
+119: Bacteroides caccae
+120: Bacteroides cellulosilyticus
+121: Bacteroides coprocola
+122: Bacteroides coprophilus
+123: Bacteroides dorei
+124: Bacteroides eggerthii
+125: Bacteroides finegoldii (Alistipes finegoldii)
+126: Bacteroides fragilis
+127: Bacteroides helcogenes
+128: Bacteroides intestinalis
+129: Bacteroides ovatus
+130: Bacteroides pectinophilus
+131: Bacteroides plebeius
+132: Bacteroides salanitronis
+133: Bacteroides stercoris
+134: Bacteroides thetaiotaomicron
+135: Bacteroides uniformis
+136: Bacteroides vulgatus
+137: Bacteroides xylanisolvens
+145: Baumannia cicadellinicola
+147: Beijerinckia indica
+149: Bifidobacterium adolescentis
+150: Bifidobacterium angulatum
+151: Bifidobacterium animalis
+152: Bifidobacterium bifidum
+153: Bifidobacterium breve
+154: Bifidobacterium catenulatum
+155: Bifidobacterium dentium
+156: Bifidobacterium gallicum
+157: Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)
+158: Bifidobacterium pseudocatenulatum
+159: Bilophila wadsworthia
+161: Blautia hansenii (Ruminococcus hansenii)
+162: Blautia hydrogenotrophica (Ruminococcus hydrogenotrophicus)
+181: Bradyrhizobium japonicum
+182: Brevibacillus brevis
+186: Brucella abortus
+189: Brucella melitensis
+194: Brucella suis
+195: Buchnera aphidicola
+197: Burkholderia ambifaria
+198: Burkholderia cenocepacia
+199: Burkholderia cepacia
+201: Burkholderia glumae
+204: Burkholderia multivorans
+206: Burkholderia phymatum
+212: Burkholderia vietnamiensis
+214: Butyrivibrio crossotus
+215: Butyrivibrio fibrisolvens
+216: Butyrivibrio proteoclasticus
+219: Caldicellulosiruptor bescii (Anaerocellum thermophilum)
+226: Caldicellulosiruptor saccharolyticus
+227: Calditerrivibrio nitroreducens
+228: Caldivirga maquilingensis
+229: Caminibacter mediatlanticus
+234: Campylobacter gracilis
+236: Campylobacter jejuni
+260: Catenibacterium mitsuokai
+265: Cellulomonas flavigena
+268: Cellulosilyticum lentocellum
+281: Chlorobium chlorochromatii
+282: Chlorobium ferrooxidans
+283: Chlorobium limicola
+284: Chlorobium phaeobacteroides
+285: Chlorobium vibrioformis
+287: Chloroflexus aurantiacus
+289: Chromobacterium violaceum
+293: Citrobacter koseri
+294: Citrobacter rodentium
+295: Citrobacter youngae
+298: Clostridium acetobutylicum
+299: Clostridium asparagiforme
+300: Clostridium bartlettii
+301: Clostridium beijerinckii
+302: Clostridium bolteae
+303: Clostridium botulinum
+304: Clostridium butyricum
+305: Clostridium carboxidivorans
+306: Clostridium cellulolyticum
+307: Clostridium cellulovorans
+308: Clostridium cf
+309: Clostridium difficile
+310: Clostridium hathewayi
+311: Clostridium hiranonis
+312: Clostridium hylemonae
+313: Clostridium kluyveri
+314: Clostridium leptum
+315: Clostridium ljungdahlii
+316: Clostridium methylpentosum
+317: Clostridium nexile
+318: Clostridium novyi
+319: Clostridium papyrosolvens
+320: Clostridium perfringens
+321: Clostridium phytofermentans
+322: Clostridium saccharolyticum
+323: Clostridium scindens
+324: Clostridium sporogenes
+325: Clostridium sticklandii
+326: Clostridium symbiosum
+327: Clostridium tetani
+328: Clostridium thermocellum
+329: Collinsella aerofaciens (Eubacterium aerofaciens)
+330: Collinsella intestinalis
+331: Collinsella stercoris
+333: Comamonas testosteroni
+337: Coprococcus catus
+338: Coprococcus comes
+339: Coprococcus eutactus
+346: Corynebacterium diphtheriae
+350: Corynebacterium glutamicum
+372: Cytophaga hutchinsonii
+381: Deinococcus radiodurans
+383: Denitrovibrio acetiphilus
+384: Desulfarculus baarsii
+385: Desulfatibacillum alkenivorans
+387: Desulfobacterium autotrophicum
+388: Desulfobulbus propionicus
+389: Desulfococcus oleovorans
+390: Desulfohalobium retbaense
+391: Desulfomicrobium baculatum
+392: Desulfonatronospira thiodismutans
+393: Desulfotalea psychrophila
+394: Desulfotomaculum acetoxidans
+395: Desulfotomaculum nigrificans
+396: Desulfotomaculum reducens
+397: Desulfovibrio aespoeensis
+398: Desulfovibrio desulfuricans
+399: Desulfovibrio fructosovorans
+400: Desulfovibrio magneticus
+401: Desulfovibrio piger
+402: Desulfovibrio salexigens
+403: Desulfovibrio vulgaris
+409: Desulfuromonas acetoxidans
+411: Dialister invisus
+420: Dorea formicigenerans
+421: Dorea longicatena
+425: Eggerthella lenta
+434: Ensifer meliloti (Sinorhizobium meliloti)
+435: Enterobacter cancerogenus
+436: Enterobacter cloacae
+437: Enterococcus casseliflavus
+438: Enterococcus faecalis (Streptococcus faecalis)
+439: Enterococcus faecium (Streptococcus faecium)
+440: Enterococcus gallinarum
+441: Enterococcus italicus
+447: Erysipelothrix rhusiopathiae
+449: Escherichia albertii
+450: Escherichia coli
+451: Escherichia fergusonii
+452: Ethanoligenens harbinense
+453: Eubacterium cellulosolvens
+454: Eubacterium eligens
+455: Eubacterium hallii
+456: Eubacterium limosum
+457: Eubacterium rectale
+458: Eubacterium saburreum
+459: Eubacterium saphenum
+460: Eubacterium siraeum
+461: Eubacterium ventriosum
+464: Faecalibacterium prausnitzii
+469: Fibrobacter succinogenes (Bacteroides succinogenes)
+470: Finegoldia magna
+471: Flavobacterium johnsoniae
+476: Frankia alni
+477: Frankia symbiont
+479: Fusobacterium gonidiaformans
+480: Fusobacterium mortiferum
+481: Fusobacterium nucleatum
+482: Fusobacterium periodonticum
+483: Fusobacterium ulcerans
+484: Fusobacterium varium
+492: Geobacillus thermodenitrificans
+494: Geobacter bemidjiensis
+495: Geobacter lovleyi
+496: Geobacter metallireducens
+497: Geobacter sulfurreducens
+498: Geobacter uraniumreducens
+503: Gluconobacter oxydans
+507: Granulibacter bethesdensis
+512: Haemophilus influenzae
+513: Haemophilus parainfluenzae
+520: Haloarcula marismortui
+521: Halobacterium salinarum
+522: Haloferax volcanii
+541: Helicobacter pylori
+551: Holdemania filiformis
+554: Hyphomicrobium denitrificans
+558: Ignicoccus hospitalis
+560: Ilyobacter polytropus
+563: Jonesia denitrificans
+566: Ketogulonicigenium vulgare
+568: Kingella denitrificans
+570: Klebsiella pneumoniae
+571: Klebsiella variicola
+581: Lactobacillus acidophilus
+582: Lactobacillus amylolyticus
+583: Lactobacillus amylovorus
+584: Lactobacillus antri
+585: Lactobacillus brevis
+586: Lactobacillus buchneri
+587: Lactobacillus casei
+588: Lactobacillus coleohominis
+589: Lactobacillus crispatus
+590: Lactobacillus delbrueckii
+591: Lactobacillus fermentum
+592: Lactobacillus gasseri
+593: Lactobacillus helveticus
+594: Lactobacillus hilgardii
+595: Lactobacillus iners
+596: Lactobacillus jensenii
+597: Lactobacillus johnsonii
+598: Lactobacillus oris
+599: Lactobacillus paracasei
+600: Lactobacillus plantarum
+601: Lactobacillus reuteri
+602: Lactobacillus rhamnosus
+603: Lactobacillus ruminis
+604: Lactobacillus sakei
+605: Lactobacillus salivarius
+606: Lactobacillus ultunensis
+607: Lactobacillus vaginalis
+608: Lactococcus lactis
+623: Leptotrichia buccalis
+624: Leptotrichia goodfellowii
+625: Leptotrichia hofstadii
+626: Leuconostoc citreum
+627: Leuconostoc gasicomitatum
+628: Leuconostoc kimchii
+629: Leuconostoc mesenteroides
+631: Listeria innocua
+632: Listeria monocytogenes
+652: Marvinbryantia formatexigens
+653: Megamonas hypermegale
+654: Megasphaera micronuciformis
+658: Mesorhizobium ciceri
+659: Mesorhizobium loti
+660: Mesorhizobium opportunistum
+661: Metallosphaera sedula
+662: Methanobrevibacter ruminantium
+663: Methanobrevibacter smithii
+664: Methanocaldococcus fervens
+665: Methanocaldococcus infernus
+666: Methanocaldococcus jannaschii
+667: Methanocaldococcus vulcanius
+668: Methanocella paludicola
+669: Methanococcoides burtonii
+670: Methanococcus aeolicus
+671: Methanococcus maripaludis
+672: Methanococcus vannielii
+673: Methanococcus voltae
+674: Methanocorpusculum labreanum
+675: Methanoculleus marisnigri
+676: Methanohalobium evestigatum
+677: Methanohalophilus mahii
+678: Methanoplanus petrolearius
+679: Methanopyrus kandleri
+680: Methanoregula boonei
+681: Methanosaeta thermophila
+682: Methanosarcina acetivorans
+683: Methanosarcina barkeri
+684: Methanosarcina mazei
+685: Methanosphaera stadtmanae
+686: Methanosphaerula palustris
+687: Methanospirillum hungatei
+688: Methanothermobacter marburgensis
+689: Methanothermobacter thermautotrophicus
+690: Methanothermococcus okinawensis
+691: Methanothermus fervidus
+692: Methylacidiphilum infernorum
+693: Methylibium petroleiphilum
+694: Methylobacillus flagellatus
+695: Methylobacter tundripaludum
+697: Methylobacterium extorquens (Methylobacterium chloromethanicum)
+698: Methylobacterium nodulans
+699: Methylobacterium populi
+701: Methylocella silvestris
+702: Methylococcus capsulatus
+703: Methylophaga thiooxidans
+704: Methylosinus trichosporium
+705: Methylotenera mobilis
+706: Micrococcus luteus
+711: Mitsuokella multacida
+714: Moorella thermoacetica
+715: Moraxella catarrhalis
+718: Mycobacterium avium
+723: Mycobacterium leprae
+726: Mycobacterium smegmatis
+727: Mycobacterium tuberculosis
+730: Mycoplasma agalactiae
+731: Mycoplasma alligatoris
+732: Mycoplasma arthritidis
+733: Mycoplasma bovis
+734: Mycoplasma capricolum
+735: Mycoplasma conjunctivae
+736: Mycoplasma crocodyli
+737: Mycoplasma fermentans
+738: Mycoplasma gallisepticum
+739: Mycoplasma genitalium
+740: Mycoplasma haemofelis
+741: Mycoplasma hominis
+742: Mycoplasma hyopneumoniae
+743: Mycoplasma hyorhinis
+744: Mycoplasma leachii
+745: Mycoplasma mobile
+746: Mycoplasma mycoides
+747: Mycoplasma penetrans
+748: Mycoplasma pneumoniae
+749: Mycoplasma pulmonis
+750: Mycoplasma synoviae
+761: Neisseria flavescens
+762: Neisseria gonorrhoeae
+765: Neisseria mucosa
+772: Nitrobacter hamburgensis
+773: Nitrobacter winogradskyi
+774: Nitrococcus mobilis
+775: Nitrosococcus halophilus
+776: Nitrosococcus oceani
+777: Nitrosococcus watsoni
+778: Nitrosomonas europaea
+779: Nitrosomonas eutropha
+780: Nitrosopumilus maritimus
+781: Nitrosospira multiformis
+785: Nostoc punctiforme
+796: Odoribacter splanchnicus
+797: Oenococcus oeni
+804: Oxalobacter formigenes
+806: Paenibacillus larvae
+807: Paenibacillus polymyxa
+812: Parabacteroides distasonis
+813: Parabacteroides johnsonii
+814: Parabacteroides merdae
+816: Paracoccus denitrificans
+820: Parvularcula bermudensis
+826: Pediococcus acidilactici
+827: Pediococcus pentosaceus
+831: Pelobacter carbinolicus
+832: Pelobacter propionicus
+835: Pelotomaculum thermopropionicum
+837: Peptoniphilus harei
+838: Peptoniphilus lacrimalis
+839: Peptostreptococcus anaerobius
+840: Peptostreptococcus stomatis
+850: Picrophilus torridus
+860: Porphyromonas asaccharolytica
+862: Porphyromonas gingivalis
+864: Prevotella amnii
+865: Prevotella bergensis
+866: Prevotella bivia
+867: Prevotella bryantii
+868: Prevotella buccae
+869: Prevotella buccalis
+870: Prevotella copri
+871: Prevotella disiens
+872: Prevotella marshii
+873: Prevotella melaninogenica (Bacteroides melaninogenicus)
+874: Prevotella multiformis
+875: Prevotella oralis
+876: Prevotella oris
+877: Prevotella ruminicola (Bacteroides ruminicola)
+878: Prevotella salivae
+879: Prevotella tannerae
+880: Prevotella timonensis
+881: Prevotella veroralis
+883: Propionibacterium acnes
+884: Propionibacterium freudenreichii (Propionibacterium shermanii)
+886: Proteus mirabilis
+887: Proteus penneri
+895: Pseudoflavonifractor capillosus
+896: Pseudomonas aeruginosa
+897: Pseudomonas entomophila
+898: Pseudomonas fluorescens
+899: Pseudomonas mendocina
+900: Pseudomonas putida
+901: Pseudomonas savastanoi
+902: Pseudomonas stutzeri
+903: Pseudomonas syringae
+910: Pyramidobacter piscolens
+911: Pyrobaculum aerophilum
+913: Pyrobaculum calidifontis
+915: Pyrococcus abyssi
+916: Pyrococcus furiosus
+917: Pyrococcus horikoshii
+918: Ralstonia pickettii
+922: Rhizobium etli
+923: Rhizobium leguminosarum
+925: Rhodobacter capsulatus
+926: Rhodobacter sphaeroides
+933: Rhodopseudomonas palustris
+934: Rhodospirillum rubrum
+935: Rhodothermus marinus
+952: Roseburia intestinalis
+953: Roseburia inulinivorans
+955: Roseobacter denitrificans
+963: Ruminococcus albus
+964: Ruminococcus bromii
+965: Ruminococcus flavefaciens
+966: Ruminococcus gnavus
+967: Ruminococcus lactaris
+968: Ruminococcus obeum
+969: Ruminococcus torques
+977: Salmonella enterica
+984: Selenomonas artemidis
+985: Selenomonas flueggei
+986: Selenomonas noxia
+987: Selenomonas sputigena
+993: Shewanella denitrificans
+1000: Shewanella putrefaciens (Pseudomonas putrefaciens)
+1004: Shigella boydii
+1005: Shigella dysenteriae
+1006: Shigella flexneri
+1007: Shigella sonnei
+1013: Sodalis glossinidius
+1017: Sphaerobacter thermophilus
+1020: Sphingobium japonicum
+1024: Spirochaeta thermophila
+1027: Staphylococcus aureus
+1028: Staphylococcus capitis
+1029: Staphylococcus carnosus
+1030: Staphylococcus epidermidis
+1031: Staphylococcus haemolyticus
+1032: Staphylococcus hominis
+1033: Staphylococcus lugdunensis
+1034: Staphylococcus pseudintermedius
+1035: Staphylococcus saprophyticus
+1036: Staphylococcus warneri
+1039: Starkeya novella
+1040: Stenotrophomonas maltophilia
+1043: Streptococcus agalactiae
+1044: Streptococcus anginosus
+1045: Streptococcus australis
+1046: Streptococcus bovis (Streptococus equinus)
+1047: Streptococcus cristatus
+1048: Streptococcus downei
+1049: Streptococcus dysgalactiae
+1050: Streptococcus equi
+1052: Streptococcus gallolyticus
+1053: Streptococcus gordonii
+1054: Streptococcus infantarius
+1055: Streptococcus infantis
+1056: Streptococcus mitis
+1057: Streptococcus mutans
+1058: Streptococcus oralis
+1059: Streptococcus parasanguinis
+1060: Streptococcus peroris
+1061: Streptococcus pneumoniae
+1062: Streptococcus pseudoporcinus
+1063: Streptococcus pyogenes
+1064: Streptococcus salivarius
+1065: Streptococcus sanguinis
+1066: Streptococcus suis
+1067: Streptococcus thermophilus
+1068: Streptococcus uberis
+1069: Streptococcus vestibularis
+1077: Streptomyces griseus
+1079: Streptomyces lividans
+1085: Streptomyces viridochromogenes
+1087: Subdoligranulum variabile
+1089: Sulfolobus acidocaldarius
+1090: Sulfolobus islandicus
+1091: Sulfolobus solfataricus
+1092: Sulfolobus tokodaii
+1097: Sulfurimonas denitrificans
+1099: Sutterella wadsworthensis
+1102: Syntrophobacter fumaroxidans
+1103: Syntrophobotulus glycolicus
+1104: Syntrophomonas wolfei
+1105: Syntrophothermus lipocalidus
+1106: Syntrophus aciditrophicus
+1122: Thermobifida fusca
+1124: Thermococcus barophilus
+1125: Thermococcus gammatolerans
+1126: Thermococcus kodakaraensis
+1127: Thermococcus onnurineus
+1128: Thermococcus sibiricus
+1130: Thermodesulfovibrio yellowstonii
+1133: Thermomonospora curvata
+1134: Thermoplasma acidophilum
+1144: Thermotoga maritima
+1146: Thermotoga neapolitana
+1151: Thermus thermophilus
+1152: Thiobacillus denitrificans
+1153: Thiomicrospira crunogena
+1164: Ureaplasma parvum
+1165: Ureaplasma urealyticum
+1167: Veillonella atypica
+1168: Veillonella dispar
+1169: Veillonella parvula
+1176: Vibrio cholerae
+1187: Vibrio vulnificus
+1193: Weissella paramesenteroides
+1194: Wigglesworthia glossinidia
+1197: Wolinella succinogenes
+1198: Xanthobacter autotrophicus
+1201: Xanthomonas campestris
+1207: Xylella fastidiosa
+1220: Zymomonas mobilis
+1221: Colonocyte (host colon)
+1222: Goblet cell (host colon)
+1223: Hepatocyte (host liver)
+2001: [R,R]-2,3-Butanediol ([R,R]-Butanediol, [S,S]-2,3-Butanediol, [S,S]-Butanediol)
+2002: 1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)
+2003: 1,2-Ethanediol (Ethylene glycol)
+2004: 1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)
+2005: 1,3-Propanediol
+2006: 2-Aminobutyric acid (2-Aminobutyrate)
+2007: 2-methylbutyrate (2-methylbutanoic acid)
+2008: 2-Oxobutyrate (Alpha-ketobutyrate, 2-Oxobutanoate)
+2009: 3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)
+2010: 4-Aminobenzoate (para-amino, Benzoic acid)
+2011: 4-Aminobutyrate (GABA)
+2012: 5-Aminovalerate
+2013: Acetaldehyde
+2014: Acetate
+2015: Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)
+2016: Acetone
+2017: Adenine
+2018: Adenosine
+2019: Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])
+2020: Adipate
+2021: Alginate
+2022: alpha-ketoglutarate (2-oxoglutarate)
+2023: alpha-Linolenic acid (Omega-3 fatty acid)
+2024: alpha-Tocopherol (Vitamin E, alpha-Tocotrienol)
+2025: Anthranilate (o-amino-benzoic acid)
+2026: Arabinogalactan
+2027: Arachidate (Arachidic acid)
+2028: Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)
+2029: Benzaldehyde
+2030: Benzoate
+2031: Benzyl alcohol
+2032: beta-alanine (3-Aminopropionate)
+2033: Betaine (Glycine betaine)
+2034: Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)
+2035: Biotin (Vitamin B7)
+2036: Butanol
+2037: Butylamine
+2038: Butyrate
+2040: Cadaverine
+2041: Caproate (Hexanoate)
+2042: Carbon monoxide (CO)
+2043: Cellobiose
+2044: Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)
+2045: Cellulose
+2046: Chenodeoxycholic acid (Chenodeoxycholate)
+2047: Chitin
+2048: Cholecalciferol (Vitamin D3)
+2049: Cholic acid (Cholate)
+2050: Choline
+2051: Chondroitin 4-sulfate (Chondroitin 6-sulfate)
+2052: cis-Aconitate (trans-Aconitate, trans-Aconitic acid)
+2053: Citrate
+2055: CO2
+2056: Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)
+2058: Cytidine
+2059: Cytosine
+2060: D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)
+2061: D-Fructose (Fructose)
+2062: D-Fructuronate
+2063: D-Galactosamine (Galactosamine)
+2064: D-Galactose
+2065: D-Galacturonate
+2066: D-Gluconate (D-Gluconic acid) (Gluconate)
+2067: D-Glucosamine (Glucosamine)
+2068: D-Glucose (Glucose)
+2069: D-Glucuronic acid (D-Glucuronate)
+2070: D-Lyxose (L-Lyxose)
+2071: D-Mannitol (Mannitol)
+2072: D-Mannose (Mannose)
+2073: D-Psicose
+2074: D-Ribose (Ribose)
+2075: D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)
+2076: D-Tagatose
+2077: D-Tagaturonate
+2078: D-Turanose
+2079: D-Xylose (Xylose)
+2080: D-Xylulose (Xylulose, L-Xylulose)
+2081: Deoxycholic acid
+2082: Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)
+2083: Dichloromethane (Methylene chloride)
+2084: Dimethyl sulfide (Methyl sulfide)
+2085: Dimethylamine
+2086: DNA RNA Polynucleotide
+2087: Dodecanoate (Lauric acid, Laureate)
+2088: Erythritol
+2089: Ethanol
+2090: Ethanolamine (Phosphatidylethanolamine)
+2091: Folic acid (Folate, Vitamin B9)
+2092: Formaldehyde
+2093: Formate
+2094: FOS (Fructooligosaccharide)
+2095: Fructan (Inulin, Levan)
+2096: Galactan
+2097: Galactitol (Dulcitol)
+2098: Glycerol
+2099: Glycochenodeoxycholate
+2100: Glycocholate
+2101: Glycodeoxycholate
+2102: Glycolate
+2103: Glycolithocholate
+2104: Glyoxylate (Glyoxylic acid, Glyoxalate)
+2105: Guanine
+2106: Guanosine
+2107: H2 (Hydrogen)
+2108: H2O2
+2109: H2S (HS-)
+2110: Hemicellulose
+2111: Histamine
+2112: Hyaluronan (Hyaluronate, Hyaluronic acid)
+2114: Indole
+2115: Indole-3-acetate (Indoleacetate)
+2116: Inosine
+2117: Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)
+2118: Isethionate
+2119: Isobutyrate (2-Methylpropanoic acid)
+2120: Isomaltose
+2121: Isopropanol (2-Propanol)
+2122: Isovalerate (3-Methylbutanoic acid)
+2123: Itaconate
+2125: L-Alanine (D-Alanine, Alanine)
+2126: L-Arabitol (L-Arabinitol, D-Arabitol)
+2127: L-Arginine (Arginine)
+2128: L-Asparagine (Asparagine)
+2129: L-Aspartate (Aspartate, D-Aspartate)
+2130: L-Carnitine (D-Carnitine)
+2131: L-Cysteine (Cysteine, D-Cysteine)
+2132: L-Fucose
+2133: L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)
+2134: L-Glutamine (D-Glutamine, Glutamine)
+2135: L-Glycine (Glycine)
+2136: L-Histidine (Histidine)
+2137: L-Homoserine
+2138: L-Idonate
+2139: L-iduronate
+2140: L-Isoleucine (Isoleucine)
+2141: L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)
+2142: L-Leucine (Leucine)
+2143: L-Lysine (Lysine, D-Lysine)
+2144: L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)
+2145: L-Methionine (D-Methionine)
+2146: L-Ornithine (Ornithine)
+2147: L-Phenylalanine (Phenylalanine, D-Phenylalanine)
+2148: L-Proline (Proline, D-Proline)
+2149: L-Rhamnose (Rhamnose, D-Rhamnose)
+2150: L-Selenocysteine
+2151: L-Serine (Serine, D-Serine)
+2152: L-Sorbose (Sorbose)
+2153: L-Threonine (Threonine)
+2154: L-Tryptophan (Tryptophan)
+2155: L-Tyrosine (Tyrosine)
+2156: L-Valine (Valine, D-Valine)
+2157: Lactose
+2158: Linoleic acid (Omega-6 fatty acid)
+2159: Lithocholic acid
+2160: Malonate
+2161: Maltose
+2162: Melibiose
+2163: Menaquinone (Vitamin K2)
+2164: meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)
+2165: Methane (CH4)
+2166: Methanol
+2167: Methylamine (Monomethylamine)
+2170: Mucin 
+2171: Myristic acid (Tetradecanoic acid, Tetradecanoate)
+2172: N-Acetyl-D-Glucosamine (N-Acetylglucosamine)
+2173: N-Acetyl-D-mannosamine
+2174: N-Acetylgalactosamine (N-Acetyl-D-galactosamine)
+2175: N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)
+2176: N2
+2178: NH3 (Ammonia, NH4+, Ammonium)
+2179: Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)
+2180: Nitrate
+2181: Nitric Oxide (NO)
+2182: Nitrite
+2183: Octanoate (Caprylic acid)
+2184: Oleic acid ([9Z]-Octadecenoic acid)
+2185: Orotic acid (Orotate)
+2186: Oxalate
+2187: Oxaloacetate
+2188: p-Cresol (4-methylphenol, 4-cresol)
+2189: Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)
+2190: Pantothenic acid (Vitamin B5, Pantothenate)
+2191: Pectin
+2192: Pelargonic acid (Pelargonate, Nonanoic acid)
+2193: Pentanol
+2194: Phenol
+2195: Phenylacetate
+2196: Phenylethylamine
+2197: Phylloquinone (Vitamin K1)
+2198: Pimelate
+2199: Polypeptide
+2200: Propanal
+2201: Propanoate (Propionate)
+2202: Propanol (n-propanol, 1-Propanol)
+2203: Putrescine
+2204: Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)
+2205: Pyruvate
+2206: Raffinose
+2207: Retinoate
+2208: Retinol (Vitamin A)
+2209: Ribitol
+2210: Riboflavin (Vitamin B2)
+2211: Shikimate
+2212: Spermidine
+2213: Spermine
+2214: Stachyose
+2215: Starch 
+2216: Stearic acid (Stearate, Octadecanoate)
+2217: Succinate
+2218: Sucrose
+2219: Sulfate (Sulfuric acid)
+2220: Sulfur (Elemental sulfur)
+2221: Taurine
+2222: Taurochenodeoxycholate
+2223: Taurocholate
+2224: Taurodeoxycholate
+2225: Taurolithocholate
+2226: Thiamine (Vitamin B1, Thiamin)
+2227: Thiosulfate
+2228: Thymidine
+2229: Thymine
+2230: Toluene
+2231: Trehalose
+2232: Triglyceride
+2233: Trimethylamine
+2234: Trimethylamine N-oxide (Trimethylamine-N-oxide)
+2235: Tryptamine
+2236: Tyramine
+2237: Uracil
+2238: Urea
+2239: Uridine
+2240: Valerate (Pentanoic acid, Pentanoate)
+2241: Xanthine
+2242: XOS (Xylooligosaccharide)
+2243: Xylitol

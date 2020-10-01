@@ -1,0 +1,136 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2149,"L-Rhamnose (Rhamnose, D-Rhamnose)",966,Ruminococcus gnavus,2,0.0007366893817344344,8,9639
+1,2122,Isovalerate (3-Methylbutanoic acid),124,Bacteroides eggerthii,3,0.019028155918251133,13,23626
+2,2240,"Valerate (Pentanoic acid, Pentanoate)",260,Catenibacterium mitsuokai,2,-0.0010519503068018299,17,15651
+3,2137,L-Homoserine,968,Ruminococcus obeum,3,0.012295257306146667,27,24688
+4,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",54,Alistipes putredinis,2,0.02425475318895043,43,9002
+5,2203,Putrescine,55,Alistipes shahii,2,0.0016855923782046478,45,13107
+6,2203,Putrescine,968,Ruminococcus obeum,3,0.00017579534709322164,47,29080
+7,2233,Trimethylamine,484,Fusobacterium varium,2,-0.00041443988062661585,57,15165
+8,2038,Butyrate,129,Bacteroides ovatus,2,0.0003712492359604358,63,2533
+9,2122,Isovalerate (3-Methylbutanoic acid),119,Bacteroides caccae,3,0.0035327510335092516,65,23622
+10,2238,Urea,968,Ruminococcus obeum,3,0.0008847449468770696,74,31456
+11,2012,5-Aminovalerate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.0037218274993139344,85,16727
+12,2089,Ethanol,878,Prevotella salivae,2,-0.00016822319719633771,88,5744
+13,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",124,Bacteroides eggerthii,3,0.007698380686028239,92,25138
+14,2185,Orotic acid (Orotate),460,Eubacterium siraeum,3,0.0005574515158347504,104,27906
+15,2009,"3-phenylpropionic acid (Phenylpropanoate, 3-phenylpropionate)",966,Ruminococcus gnavus,2,-0.0010000000000000009,106,639
+16,2076,D-Tagatose,329,Collinsella aerofaciens (Eubacterium aerofaciens),3,-0.00012039389918983012,112,20768
+17,2114,Indole,870,Prevotella copri,3,0.0014868225905000365,114,23095
+18,2122,Isovalerate (3-Methylbutanoic acid),126,Bacteroides fragilis,3,0.004621191588364715,124,23628
+19,2212,Spermidine,880,Prevotella timonensis,2,2.1563988521933197e-05,127,13809
+20,2011,4-Aminobutyrate (GABA),464,Faecalibacterium prausnitzii,2,-0.00026560305727119093,131,764
+21,2122,Isovalerate (3-Methylbutanoic acid),966,Ruminococcus gnavus,2,0.0004342108417814128,142,7767
+22,2134,"L-Glutamine (D-Glutamine, Glutamine)",159,Bilophila wadsworthia,3,0.0028258951240404118,155,24433
+23,2237,Uracil,965,Ruminococcus flavefaciens,3,-0.00025653820335491684,160,31382
+24,2011,4-Aminobutyrate (GABA),129,Bacteroides ovatus,3,0.00030292387488040085,163,16645
+25,2018,Adenosine,1099,Sutterella wadsworthensis,2,-0.0010000000000000009,165,1295
+26,2125,"L-Alanine (D-Alanine, Alanine)",870,Prevotella copri,3,0.0002061843155873877,169,23815
+27,2122,Isovalerate (3-Methylbutanoic acid),953,Roseburia inulinivorans,3,-0.00018745793488028628,171,23676
+28,2122,Isovalerate (3-Methylbutanoic acid),152,Bifidobacterium bifidum,2,0.00044649806331931163,184,7725
+29,2122,Isovalerate (3-Methylbutanoic acid),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,0.0005188777022483437,191,7736
+30,2038,Butyrate,152,Bifidobacterium bifidum,3,-0.0007908204510189698,232,18453
+31,2161,Maltose,966,Ruminococcus gnavus,2,0.00030625514316873215,245,10503
+32,2011,4-Aminobutyrate (GABA),953,Roseburia inulinivorans,3,0.007245802783386934,254,16692
+33,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",425,Eggerthella lenta,2,0.0011204398791930803,260,9037
+34,2020,Adipate,425,Eggerthella lenta,3,0.005433350795500447,272,17317
+35,2146,L-Ornithine (Ornithine),484,Fusobacterium varium,3,0.0002030908739613091,287,25317
+36,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",161,Blautia hansenii (Ruminococcus hansenii),2,-0.0004440140262331749,296,5282
+37,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",129,Bacteroides ovatus,3,0.0074200398395497524,300,24349
+38,2239,Uridine,968,Ruminococcus obeum,3,-3.7354919005916365e-05,305,31528
+39,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",464,Faecalibacterium prausnitzii,3,0.012235657681095469,324,24380
+40,2122,Isovalerate (3-Methylbutanoic acid),401,Desulfovibrio piger,2,-0.0009424158231701174,328,7739
+41,2049,Cholic acid (Cholate),484,Fusobacterium varium,3,-0.00025321908514674973,370,19053
+42,2081,Deoxycholic acid,338,Coprococcus comes,2,0.002015288767937884,374,5217
+43,2032,beta-alanine (3-Aminopropionate),461,Eubacterium ventriosum,3,0.0030792770175719353,380,18043
+44,2061,D-Fructose (Fructose),133,Bacteroides stercoris,3,0.0010306859631193932,388,19671
+45,2053,Citrate,339,Coprococcus eutactus,3,0.0017235599415488245,397,19258
+46,2122,Isovalerate (3-Methylbutanoic acid),965,Ruminococcus flavefaciens,3,0.0006208823383748729,411,23678
+47,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",123,Bacteroides dorei,3,0.00379015556019191,417,24345
+48,2229,Thymine,878,Prevotella salivae,3,0.005789997683676273,432,30872
+49,2140,L-Isoleucine (Isoleucine),484,Fusobacterium varium,3,0.0011218542395060593,463,24885
+50,2122,Isovalerate (3-Methylbutanoic acid),134,Bacteroides thetaiotaomicron,2,0.0031605096324358595,487,7720
+51,2201,Propanoate (Propionate),870,Prevotella copri,2,0.002460807928214792,510,13015
+52,2041,Caproate (Hexanoate),969,Ruminococcus torques,3,0.0022448659311148367,514,18641
+53,2137,L-Homoserine,969,Ruminococcus torques,2,0.0011355387827202135,515,8777
+54,2037,Butylamine,870,Prevotella copri,3,0.0002178341308044507,526,18415
+55,2081,Deoxycholic acid,461,Eubacterium ventriosum,2,0.003013138565134077,528,5227
+56,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",796,Odoribacter splanchnicus,2,0.00043520314371492397,534,8474
+57,2059,Cytosine,968,Ruminococcus obeum,3,0.0002743182459448157,539,19576
+58,2122,Isovalerate (3-Methylbutanoic acid),968,Ruminococcus obeum,3,0.00025258672997885423,545,23680
+59,2153,L-Threonine (Threonine),952,Roseburia intestinalis,3,0.006979743729324417,551,25835
+60,2185,Orotic acid (Orotate),134,Bacteroides thetaiotaomicron,3,0.003929764298791771,579,27880
+61,2166,Methanol,895,Pseudoflavonifractor capillosus,2,-2.6784543933677796e-05,580,10858
+62,2237,Uracil,1007,Shigella sonnei,3,0.0014653317804332877,586,31386
+63,2217,Succinate,464,Faecalibacterium prausnitzii,2,0.008856934681387596,589,14084
+64,2240,"Valerate (Pentanoic acid, Pentanoate)",1007,Shigella sonnei,2,0.0025973070474004656,600,15690
+65,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",124,Bacteroides eggerthii,2,0.003881180561111197,649,8434
+66,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",137,Bacteroides xylanisolvens,2,0.00024196383008567857,652,9018
+67,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,3,0.0016169646788948278,677,31542
+68,2093,Formate,338,Coprococcus comes,2,0.008338707692071567,678,6009
+69,2145,L-Methionine (D-Methionine),966,Ruminococcus gnavus,3,0.005221173635191256,720,25263
+70,2049,Cholic acid (Cholate),131,Bacteroides plebeius,3,0.0058937340649452,743,19022
+71,2122,Isovalerate (3-Methylbutanoic acid),964,Ruminococcus bromii,3,7.908462849925968e-06,750,23677
+72,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",1099,Sutterella wadsworthensis,2,-0.0009999999999998899,779,2303
+73,2238,Urea,796,Odoribacter splanchnicus,3,0.007996772343437097,792,31442
+74,2122,Isovalerate (3-Methylbutanoic acid),329,Collinsella aerofaciens (Eubacterium aerofaciens),3,-0.00024888394380195855,798,23648
+75,2080,"D-Xylulose (Xylulose, L-Xylulose)",968,Ruminococcus obeum,3,-0.0002577207514572466,808,21088
+76,2229,Thymine,54,Alistipes putredinis,3,0.0015779610818316137,821,30818
+77,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",338,Coprococcus comes,3,0.0009223819089633212,826,24369
+78,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",131,Bacteroides plebeius,3,0.00026681330798161706,833,24350
+79,2081,Deoxycholic acid,1064,Streptococcus salivarius,3,-0.00011675116246590012,856,21165
+80,2063,D-Galactosamine (Galactosamine),149,Bifidobacterium adolescentis,3,0.00011349111987823957,887,19819
+81,2241,Xanthine,964,Ruminococcus bromii,3,0.0014953583193261233,906,31669
+82,2241,Xanthine,260,Catenibacterium mitsuokai,3,0.00010481215481417117,923,31635
+83,2221,Taurine,457,Eubacterium rectale,3,0.0008392259894058895,982,30281
+84,2229,Thymine,338,Coprococcus comes,2,7.507955588448301e-05,1012,14937
+85,2162,Melibiose,129,Bacteroides ovatus,3,0.0009913808883939002,1050,26437
+86,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",135,Bacteroides uniformis,3,0.00015542375140498166,1057,24353
+87,2063,D-Galactosamine (Galactosamine),124,Bacteroides eggerthii,3,-0.00022937388879606946,1133,19810
+88,2012,5-Aminovalerate,966,Ruminococcus gnavus,2,0.00012155020016668683,1156,855
+89,2240,"Valerate (Pentanoic acid, Pentanoate)",339,Coprococcus eutactus,3,-6.627067934183994e-05,1157,31570
+90,2238,Urea,152,Bifidobacterium bifidum,3,-4.578320724768492e-05,1163,31413
+91,2038,Butyrate,326,Clostridium symbiosum,2,0.0004335420617793684,1165,2551
+92,2203,Putrescine,460,Eubacterium siraeum,3,0.00021928035845630856,1196,29058
+93,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",339,Coprococcus eutactus,2,0.00013759565514925853,1201,8458
+94,2238,Urea,454,Eubacterium eligens,3,0.0007595728557145964,1207,31430
+95,2134,"L-Glutamine (D-Glutamine, Glutamine)",119,Bacteroides caccae,2,0.00034749421059898644,1209,8502
+96,2049,Cholic acid (Cholate),133,Bacteroides stercoris,3,0.00012829828571137014,1213,19023
+97,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",814,Parabacteroides merdae,2,0.00010921770625282878,1231,9054
+98,2093,Formate,455,Eubacterium hallii,2,0.0006568235686484902,1245,6015
+99,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",159,Bilophila wadsworthia,3,0.0014411073256934692,1288,24361
+100,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",1007,Shigella sonnei,3,0.00020964236485121468,1310,21234
+101,2135,L-Glycine (Glycine),123,Bacteroides dorei,2,-0.0010000000000000009,1360,8577
+102,2069,D-Glucuronic acid (D-Glucuronate),126,Bacteroides fragilis,3,-0.0007795709262322648,1361,20244
+103,2127,L-Arginine (Arginine),425,Eggerthella lenta,3,0.0021218159272295978,1377,23941
+104,2012,5-Aminovalerate,1064,Streptococcus salivarius,3,0.01089051123146867,1453,16773
+105,2074,D-Ribose (Ribose),131,Bacteroides plebeius,2,-0.0004819643050595346,1491,4694
+106,2136,L-Histidine (Histidine),1007,Shigella sonnei,3,0.003910703213419242,1573,24618
+107,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",135,Bacteroides uniformis,3,0.0024031682890341965,1576,25145
+108,2224,Taurodeoxycholate,965,Ruminococcus flavefaciens,3,-0.0001164705194292015,1595,30518
+109,2125,"L-Alanine (D-Alanine, Alanine)",804,Oxalobacter formigenes,2,0.0003658046042390728,1618,7899
+110,2201,Propanoate (Propionate),119,Bacteroides caccae,2,0.0015485605347286269,1649,12966
+111,2038,Butyrate,551,Holdemania filiformis,2,0.001980613535037423,1727,2568
+112,2122,Isovalerate (3-Methylbutanoic acid),339,Coprococcus eutactus,3,-5.717460912035843e-05,1744,23650
+113,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",55,Alistipes shahii,3,0.0029579875726157834,1860,27219
+114,2041,Caproate (Hexanoate),134,Bacteroides thetaiotaomicron,3,0.0007285022618203074,1908,18592
+115,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",608,Lactococcus lactis,3,0.0002080363395222662,1967,16609
+116,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",966,Ruminococcus gnavus,3,-0.0001976787460171714,1975,24975
+117,2122,Isovalerate (3-Methylbutanoic acid),1007,Shigella sonnei,2,0.002316431613334724,2050,7770
+118,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",1054,Streptococcus infantarius,2,-0.0002062593391669587,2128,8492
+119,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",952,Roseburia intestinalis,3,0.0007392748677473859,2178,27491
+120,2218,Sucrose,1007,Shigella sonnei,3,0.00043413501542632904,2184,30090
+121,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),952,Roseburia intestinalis,3,0.002381011368351116,2213,27059
+122,2167,Methylamine (Monomethylamine),123,Bacteroides dorei,2,0.0004197283357217918,2226,10881
+123,2146,L-Ornithine (Ornithine),121,Bacteroides coprocola,3,0.00024720572762892967,2240,25279
+124,2225,Taurolithocholate,339,Coprococcus eutactus,3,-0.00033195248317308135,2300,30562
+125,2182,Nitrite,870,Prevotella copri,3,-0.00029624689799867543,2302,27703
+126,2153,L-Threonine (Threonine),484,Fusobacterium varium,3,8.060990164127091e-05,2381,25821
+127,2154,L-Tryptophan (Tryptophan),461,Eubacterium ventriosum,3,0.0011186099018997142,2388,25891
+128,2074,D-Ribose (Ribose),814,Parabacteroides merdae,2,0.00038465781372543084,2392,4734
+129,2049,Cholic acid (Cholate),1099,Sutterella wadsworthensis,2,-0.0003207836765477534,2470,3167
+130,2013,Acetaldehyde,129,Bacteroides ovatus,3,0.00013922030664570428,2511,16789
+131,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",966,Ruminococcus gnavus,2,-0.00017672380985100933,2593,279
+132,2240,"Valerate (Pentanoic acid, Pentanoate)",135,Bacteroides uniformis,3,0.0009361352021517444,2669,31553
+133,2006,2-Aminobutyric acid (2-Aminobutyrate),461,Eubacterium ventriosum,3,0.001732812174004228,2676,16315
+134,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",796,Odoribacter splanchnicus,3,-4.6850419570088064e-05,2691,24386

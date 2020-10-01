@@ -1,0 +1,75 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step deleted,position in x
+0,2055,CO2,123,Bacteroides dorei,2,0.014073638822377221,20,3393
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,0.002024583989768569,21,11509
+2,2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,0.005080029532604002,25,10631
+3,2064,D-Galactose,129,Bacteroides ovatus,2,0.0007719320352823633,58,3973
+4,2171,"Myristic acid (Tetradecanoic acid, Tetradecanoate)",878,Prevotella salivae,2,-0.0010000000000000009,75,11072
+5,2055,CO2,122,Bacteroides coprophilus,2,0.0001453060284827279,83,3392
+6,2093,Formate,159,Bilophila wadsworthia,2,0.0023153041973256183,86,6001
+7,2223,Taurocholate,159,Bilophila wadsworthia,2,-0.0010000000000000009,94,14497
+8,2161,Maltose,964,Ruminococcus bromii,2,0.00010181711886858569,173,10501
+9,2089,Ethanol,159,Bilophila wadsworthia,2,0.0002967528253843277,178,5713
+10,2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,0.0010304009645694112,185,3976
+11,2202,"Propanol (n-propanol, 1-Propanol)",878,Prevotella salivae,2,0.0004703661214159327,238,13088
+12,2240,"Valerate (Pentanoic acid, Pentanoate)",309,Clostridium difficile,2,0.0008753744357637983,251,15652
+13,2014,Acetate,953,Roseburia inulinivorans,2,0.0019462268867539434,255,996
+14,2217,Succinate,1052,Streptococcus gallolyticus,2,0.0014148280584957984,295,14107
+15,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",129,Bacteroides ovatus,2,0.0012333073341643797,313,3685
+16,2202,"Propanol (n-propanol, 1-Propanol)",878,Prevotella salivae,2,-0.0001018142190060134,321,13088
+17,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",129,Bacteroides ovatus,2,-0.00018602582168480986,343,5269
+18,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,0.0006282491544615798,439,9025
+19,2014,Acetate,455,Eubacterium hallii,2,9.867924180129162e-05,449,975
+20,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,0.0004673456879253912,491,2981
+21,2195,Phenylacetate,969,Ruminococcus torques,2,-2.7028000477047343e-05,531,12665
+22,2055,CO2,131,Bacteroides plebeius,2,0.0008639307062605628,536,3398
+23,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",55,Alistipes shahii,3,-0.0012088084228382145,600,24915
+24,2101,Glycodeoxycholate,126,Bacteroides fragilis,2,0.0006460447000624647,606,6420
+25,2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,-0.0007434182751751006,767,3756
+26,2064,D-Galactose,137,Bacteroides xylanisolvens,2,-0.0006213499423811664,802,3978
+27,2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,-0.00020294709320545223,806,6865
+28,2173,N-Acetyl-D-mannosamine,880,Prevotella timonensis,3,-0.001000000000000112,827,27129
+29,2107,H2 (Hydrogen),401,Desulfovibrio piger,2,2.570007980207123e-06,833,6875
+30,2221,Taurine,159,Bilophila wadsworthia,2,-0.001000000000000112,901,14353
+31,2195,Phenylacetate,969,Ruminococcus torques,2,0.0008178921833152941,905,12665
+32,2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,-0.0005749672166446285,1019,13057
+33,2055,CO2,126,Bacteroides fragilis,2,0.00013036752141037944,1074,3396
+34,2240,"Valerate (Pentanoic acid, Pentanoate)",309,Clostridium difficile,2,0.00046920057432076057,1111,15652
+35,2061,D-Fructose (Fructose),149,Bifidobacterium adolescentis,2,-0.0004558115265518303,1192,3763
+36,2205,Pyruvate,420,Dorea formicigenerans,2,-0.0005253379594106766,1211,13284
+37,2073,D-Psicose,969,Ruminococcus torques,2,-0.0010000000000000009,1263,4673
+38,2015,"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)",895,Pseudoflavonifractor capillosus,3,-0.0010000000000000009,1278,16978
+39,2173,N-Acetyl-D-mannosamine,880,Prevotella timonensis,3,0.0010000000000000009,1288,27129
+40,2068,D-Glucose (Glucose),455,Eubacterium hallii,2,-0.0004949101786219101,1302,4287
+41,2186,Oxalate,9,Acidaminococcus fermentans,2,-0.0010000000000000009,1320,12024
+42,2111,Histamine,425,Eggerthella lenta,2,-5.581505814566956e-05,1323,7093
+43,2101,Glycodeoxycholate,149,Bifidobacterium adolescentis,2,0.0020586151303241262,1327,6427
+44,2111,Histamine,425,Eggerthella lenta,2,7.482974333949954e-05,1352,7093
+45,2171,"Myristic acid (Tetradecanoic acid, Tetradecanoate)",878,Prevotella salivae,2,0.0010000000000000009,1368,11072
+46,2119,Isobutyrate (2-Methylpropanoic acid),461,Eubacterium ventriosum,2,-5.662128906624986e-06,1406,7531
+47,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,5.8472976722678816e-05,1441,2968
+48,2014,Acetate,457,Eubacterium rectale,2,0.002471963820852574,1457,977
+49,2201,Propanoate (Propionate),401,Desulfovibrio piger,2,0.00031604592408895904,1640,12995
+50,2119,Isobutyrate (2-Methylpropanoic acid),461,Eubacterium ventriosum,2,3.5107424099178886e-05,1728,7531
+51,2129,"L-Aspartate (Aspartate, D-Aspartate)",1099,Sutterella wadsworthensis,2,0.0003260852383540902,1731,8207
+52,2205,Pyruvate,134,Bacteroides thetaiotaomicron,3,-0.0010000000000000009,1743,29176
+53,2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,0.0014348564390190832,1747,3112
+54,2217,Succinate,1052,Streptococcus gallolyticus,2,0.0010714231903622418,1765,14107
+55,2093,Formate,1007,Shigella sonnei,3,-0.0010000000000000009,1796,21954
+56,2015,"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)",895,Pseudoflavonifractor capillosus,3,0.0010000000000000009,1817,16978
+57,2242,XOS (Xylooligosaccharide),551,Holdemania filiformis,2,-0.0005292930310623056,2100,15816
+58,2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,0.0019359405508012628,2110,15784
+59,2132,L-Fucose,126,Bacteroides fragilis,2,-0.0010000000000000009,2122,8364
+60,2206,Raffinose,551,Holdemania filiformis,2,-0.00044186685619351795,2142,13368
+61,2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,2.6489680726937692e-05,2253,11460
+62,2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,-0.00018639011695020802,2272,11104
+63,2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,0.0006754770132670895,2360,11461
+64,2186,Oxalate,9,Acidaminococcus fermentans,2,0.0010000000000000009,2497,12024
+65,2094,FOS (Fructooligosaccharide),952,Roseburia intestinalis,2,-0.0004187476703363391,2539,6107
+66,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",55,Alistipes shahii,3,0.00039208473050023063,2652,24915
+67,2093,Formate,401,Desulfovibrio piger,2,0.00014526029753902936,2708,6011
+68,2072,D-Mannose (Mannose),968,Ruminococcus obeum,2,0.0002511965953608808,2766,4600
+69,2074,D-Ribose (Ribose),551,Holdemania filiformis,2,0.00016254256539205425,2858,4728
+70,2178,"NH3 (Ammonia, NH4+, Ammonium)",454,Eubacterium eligens,3,-0.00021747721120246588,3002,27398
+71,2242,XOS (Xylooligosaccharide),551,Holdemania filiformis,2,0.0009700854308792861,3068,15816
+72,2014,Acetate,460,Eubacterium siraeum,2,-0.00010182941387459898,3164,978
+73,2178,"NH3 (Ammonia, NH4+, Ammonium)",454,Eubacterium eligens,3,0.00021314961610174876,3184,27398
