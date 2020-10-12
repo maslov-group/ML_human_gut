@@ -1,0 +1,61 @@
+metabolite ID,metabolite names,microbes ID,microbes names,edgeType,prevalence
+2014,Acetate,455,Eubacterium hallii,2,43
+2014,Acetate,457,Eubacterium rectale,2,13
+2014,Acetate,464,Faecalibacterium prausnitzii,2,28
+2014,Acetate,953,Roseburia inulinivorans,2,16
+2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",812,Parabacteroides distasonis,2,13
+2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,2,64
+2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,2,13
+2049,Cholic acid (Cholate),134,Bacteroides thetaiotaomicron,2,51
+2055,CO2,123,Bacteroides dorei,2,38
+2055,CO2,124,Bacteroides eggerthii,2,14
+2055,CO2,126,Bacteroides fragilis,2,87
+2055,CO2,129,Bacteroides ovatus,2,51
+2055,CO2,131,Bacteroides plebeius,2,34
+2055,CO2,133,Bacteroides stercoris,2,19
+2055,CO2,134,Bacteroides thetaiotaomicron,2,20
+2055,CO2,135,Bacteroides uniformis,2,18
+2055,CO2,401,Desulfovibrio piger,2,13
+2055,CO2,457,Eubacterium rectale,2,33
+2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",134,Bacteroides thetaiotaomicron,2,29
+2061,D-Fructose (Fructose),126,Bacteroides fragilis,2,23
+2061,D-Fructose (Fructose),129,Bacteroides ovatus,2,32
+2061,D-Fructose (Fructose),134,Bacteroides thetaiotaomicron,2,87
+2064,D-Galactose,129,Bacteroides ovatus,2,42
+2064,D-Galactose,134,Bacteroides thetaiotaomicron,2,66
+2064,D-Galactose,969,Ruminococcus torques,2,12
+2068,D-Glucose (Glucose),134,Bacteroides thetaiotaomicron,2,17
+2069,D-Glucuronic acid (D-Glucuronate),129,Bacteroides ovatus,2,13
+2072,D-Mannose (Mannose),129,Bacteroides ovatus,2,14
+2072,D-Mannose (Mannose),134,Bacteroides thetaiotaomicron,2,40
+2074,D-Ribose (Ribose),134,Bacteroides thetaiotaomicron,2,23
+2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",134,Bacteroides thetaiotaomicron,2,33
+2089,Ethanol,159,Bilophila wadsworthia,2,44
+2093,Formate,159,Bilophila wadsworthia,2,81
+2094,FOS (Fructooligosaccharide),134,Bacteroides thetaiotaomicron,2,30
+2098,Glycerol,159,Bilophila wadsworthia,2,19
+2107,H2 (Hydrogen),159,Bilophila wadsworthia,2,51
+2107,H2 (Hydrogen),161,Blautia hansenii (Ruminococcus hansenii),2,72
+2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",159,Bilophila wadsworthia,2,34
+2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",513,Haemophilus parainfluenzae,2,19
+2157,Lactose,812,Parabacteroides distasonis,2,62
+2163,Menaquinone (Vitamin K2),149,Bifidobacterium adolescentis,2,32
+2163,Menaquinone (Vitamin K2),513,Haemophilus parainfluenzae,2,88
+2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),129,Bacteroides ovatus,2,25
+2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),134,Bacteroides thetaiotaomicron,2,53
+2172,N-Acetyl-D-Glucosamine (N-Acetylglucosamine),464,Faecalibacterium prausnitzii,2,16
+2178,"NH3 (Ammonia, NH4+, Ammonium)",123,Bacteroides dorei,2,22
+2178,"NH3 (Ammonia, NH4+, Ammonium)",126,Bacteroides fragilis,2,83
+2178,"NH3 (Ammonia, NH4+, Ammonium)",129,Bacteroides ovatus,2,31
+2178,"NH3 (Ammonia, NH4+, Ammonium)",131,Bacteroides plebeius,2,24
+2178,"NH3 (Ammonia, NH4+, Ammonium)",133,Bacteroides stercoris,2,16
+2178,"NH3 (Ammonia, NH4+, Ammonium)",135,Bacteroides uniformis,2,12
+2178,"NH3 (Ammonia, NH4+, Ammonium)",812,Parabacteroides distasonis,2,32
+2178,"NH3 (Ammonia, NH4+, Ammonium)",964,Ruminococcus bromii,2,37
+2201,Propanoate (Propionate),401,Desulfovibrio piger,2,22
+2202,"Propanol (n-propanol, 1-Propanol)",159,Bilophila wadsworthia,2,30
+2206,Raffinose,134,Bacteroides thetaiotaomicron,2,29
+2206,Raffinose,812,Parabacteroides distasonis,2,23
+2217,Succinate,159,Bilophila wadsworthia,2,57
+2242,XOS (Xylooligosaccharide),126,Bacteroides fragilis,2,14
+2242,XOS (Xylooligosaccharide),134,Bacteroides thetaiotaomicron,2,42
