@@ -17,4 +17,7 @@ Besides the ability to provide support for a trophic organization of the human m
 "Trophic_model_for_gut_data_processing.ipynb" is used to process the network data into the format required by the main code "Trophic_model_for_gut.ipynb"
 
 ## Main code
-"Trophic_model_for_gut.ipynb" is the main code for running the optimization procedure of the trophic model.
+"GutCP.ipynb" is the main code for running the optimization procedure of the trophic model. "GutCP_delete_links.ipynb" is an variation of the script, which it has the ability to delete links.
+
+## How to run the code
+First, load the experimental data by using the data processing script "Trophic_model_for_gut_data_processing.ipynb". Then switch to the main code "GutCP.ipynb"  or "GutCP_delete_links.ipynb".
