@@ -1,0 +1,43 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2210,Riboflavin (Vitamin B2),54,Alistipes putredinis,2,0.003968224590911618,1,37427
+1,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,0.0012965562645070872,17,36239
+2,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),46,Akkermansia muciniphila,2,1.2139110517672691e-05,20,30892
+3,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0017459467336295997,33,35833
+4,2233,Trimethylamine,457,Eubacterium rectale,2,0.01930535978844794,77,41669
+5,2017,Adenine,159,Bilophila wadsworthia,3,0.0004464639543525495,90,46968
+6,2066,D-Gluconate (D-Gluconic acid) (Gluconate),455,Eubacterium hallii,3,0.0016057836588594387,100,55131
+7,2119,Isobutyrate (2-Methylpropanoic acid),966,Ruminococcus gnavus,2,0.0005042740462655182,188,20755
+8,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",134,Bacteroides thetaiotaomicron,2,0.011768569673403007,193,24779
+9,2083,Dichloromethane (Methylene chloride),401,Desulfovibrio piger,3,-0.00020365771351749107,238,58484
+10,2101,Glycodeoxycholate,814,Parabacteroides merdae,3,0.00013689142776418528,280,61512
+11,2125,"L-Alanine (D-Alanine, Alanine)",953,Roseburia inulinivorans,3,0.000650705875975488,282,65499
+12,2046,Chenodeoxycholic acid (Chenodeoxycholate),966,Ruminococcus gnavus,3,0.0006835644982206013,284,52039
+13,2049,Cholic acid (Cholate),952,Roseburia intestinalis,3,0.01394984024613033,321,52430
+14,2203,Putrescine,966,Ruminococcus gnavus,2,0.004149154151623091,330,36199
+15,2211,Shikimate,1169,Veillonella parvula,3,0.0031113226614594147,340,81575
+16,2071,D-Mannitol (Mannitol),126,Bacteroides fragilis,3,0.0010548704760278138,391,56057
+17,2081,Deoxycholic acid,436,Enterobacter cloacae,2,0.0005290636124576364,429,14336
+18,2050,Choline,464,Faecalibacterium prausnitzii,3,0.0045407053311471435,450,52562
+19,2201,Propanoate (Propionate),814,Parabacteroides merdae,2,0.0077667642692411665,503,35772
+20,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",158,Bifidobacterium pseudocatenulatum,2,0.007740880344569434,504,635
+21,2237,Uracil,153,Bifidobacterium breve,2,-0.0010000000000000009,507,42409
+22,2067,D-Glucosamine (Glucosamine),460,Eubacterium siraeum,3,0.0010816494653536068,585,55332
+23,2038,Butyrate,814,Parabacteroides merdae,2,-0.00037353770399972674,622,7062
+24,2089,Ethanol,136,Bacteroides vulgatus,2,0.0004007061706104986,628,15673
+25,2187,Oxaloacetate,876,Prevotella oris,3,-0.0010000000000000009,698,77171
+26,2081,Deoxycholic acid,1067,Streptococcus thermophilus,2,0.0006985837464316136,715,14446
+27,2003,"1,2-Ethanediol (Ethylene glycol)",967,Ruminococcus lactaris,2,0.0003546412614261474,766,560
+28,2170,Mucin,294,Citrobacter rodentium,2,-0.0010000000000000009,796,30146
+29,2188,"p-Cresol (4-methylphenol, 4-cresol)",159,Bilophila wadsworthia,3,0.00022234130154197285,800,77262
+30,2143,"L-Lysine (Lysine, D-Lysine)",814,Parabacteroides merdae,3,0.002538058158848,847,69036
+31,2093,Formate,450,Escherichia coli,2,0.009144405439679537,900,16519
+32,2159,Lithocholic acid,1064,Streptococcus salivarius,3,-0.00041897747740549107,941,72259
+33,2035,Biotin (Vitamin B7),570,Klebsiella pneumoniae,3,-8.172758650226708e-05,969,50195
+34,2186,Oxalate,464,Faecalibacterium prausnitzii,3,0.0030210512704159642,1036,76916
+35,2017,Adenine,450,Escherichia coli,3,0.00015401583592145052,1137,47011
+36,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",120,Bacteroides cellulosilyticus,2,-0.0010000000000000009,1195,25361
+37,2212,Spermidine,121,Bacteroides coprocola,3,-0.00035468806580840617,1285,81594
+38,2159,Lithocholic acid,953,Roseburia inulinivorans,2,-0.0005953037208075163,1297,28473
+39,2158,Linoleic acid (Omega-6 fatty acid),1169,Veillonella parvula,3,0.0015056537851565466,1307,72071
+40,2153,L-Threonine (Threonine),796,Odoribacter splanchnicus,3,-4.010316307634376e-05,1345,71012
+41,2237,Uracil,124,Bacteroides eggerthii,3,0.00046391653759070284,1389,86151

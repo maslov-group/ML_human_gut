@@ -1,0 +1,63 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2046,Chenodeoxycholic acid (Chenodeoxycholate),969,Ruminococcus torques,3,0.00012501085742289142,0,52042
+1,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,0.006879646420551611,22,36239
+2,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",411,Dialister invisus,2,0.00029593985733811223,24,3639
+3,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",129,Bacteroides ovatus,3,0.0030701339251322235,29,80017
+4,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",966,Ruminococcus gnavus,2,0.0007027462036484078,48,36397
+5,2195,Phenylacetate,46,Akkermansia muciniphila,2,0.0006862513115676316,98,34654
+6,2203,Putrescine,95,Atopobium rimae,3,-0.0010000000000000009,103,79807
+7,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1099,Sutterella wadsworthensis,2,8.337714476924774e-05,117,36427
+8,2212,Spermidine,123,Bacteroides dorei,3,0.00341467522222072,126,81596
+9,2241,Xanthine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.0007325059674871959,130,86962
+10,2157,Lactose,457,Eubacterium rectale,3,0.007165291038825017,147,71765
+11,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",134,Bacteroides thetaiotaomicron,3,0.0030913408179980006,161,80021
+12,2046,Chenodeoxycholic acid (Chenodeoxycholate),159,Bilophila wadsworthia,3,0.013852925852179454,192,51918
+13,2230,Toluene,449,Escherichia albertii,3,-0.0010000000000000009,209,85026
+14,2240,"Valerate (Pentanoic acid, Pentanoate)",895,Pseudoflavonifractor capillosus,2,-0.0008508262779998166,221,43121
+15,2166,Methanol,134,Bacteroides thetaiotaomicron,2,0.0035742743198540206,253,29729
+16,2167,Methylamine (Monomethylamine),436,Enterobacter cloacae,2,0.0009809487662596483,259,29978
+17,2129,"L-Aspartate (Aspartate, D-Aspartate)",121,Bacteroides coprocola,3,0.001019452710303792,312,66150
+18,2035,Biotin (Vitamin B7),1168,Veillonella dispar,3,0.0002738536131219327,315,50290
+19,2038,Butyrate,969,Ruminococcus torques,2,0.004643145328999454,369,7096
+20,2077,D-Tagaturonate,46,Akkermansia muciniphila,3,0.004207424130952875,379,57226
+21,2229,Thymine,464,Faecalibacterium prausnitzii,3,0.0011294687276947046,396,84836
+22,2185,Orotic acid (Orotate),299,Clostridium asparagiforme,3,0.004259973770752268,415,76677
+23,2038,Butyrate,158,Bifidobacterium pseudocatenulatum,2,0.006858925632542978,442,6971
+24,2079,D-Xylose (Xylose),969,Ruminococcus torques,3,0.013975718940955728,443,57784
+25,2210,Riboflavin (Vitamin B2),159,Bilophila wadsworthia,3,0.001881905150423413,455,81222
+26,2115,Indole-3-acetate (Indoleacetate),969,Ruminococcus torques,3,0.003896454045150932,496,63724
+27,2038,Butyrate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.009549962420160929,501,6970
+28,2100,Glycocholate,401,Desulfovibrio piger,3,0.002718755074255119,523,61256
+29,2059,Cytosine,964,Ruminococcus bromii,3,0.0020276515295586384,545,53819
+30,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",953,Roseburia inulinivorans,3,0.0005750106012152312,546,47481
+31,2241,Xanthine,129,Bacteroides ovatus,3,0.0012907347937005653,558,86947
+32,2125,"L-Alanine (D-Alanine, Alanine)",126,Bacteroides fragilis,3,0.002864082055718309,562,65363
+33,2217,Succinate,122,Bacteroides coprophilus,2,-0.0010000000000000009,581,38629
+34,2049,Cholic acid (Cholate),883,Propionibacterium acnes,3,0.00022049923428069107,630,52424
+35,2201,Propanoate (Propionate),457,Eubacterium rectale,2,0.022211836202844948,634,35729
+36,2237,Uracil,1064,Streptococcus salivarius,3,0.0004393255299099952,662,86317
+37,2238,Urea,663,Methanobrevibacter smithii,3,0.0011728455057095077,681,86452
+38,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",134,Bacteroides thetaiotaomicron,3,-0.0002570991799628608,685,77447
+39,2156,"L-Valine (Valine, D-Valine)",883,Propionibacterium acnes,3,0.0018883924101082972,689,71630
+40,2130,L-Carnitine (D-Carnitine),450,Escherichia coli,3,0.0006288661330465795,723,66415
+41,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",133,Bacteroides stercoris,3,-0.00032729266195286044,750,53884
+42,2070,D-Lyxose (L-Lyxose),214,Butyrivibrio crossotus,3,0.0001645160326900763,784,55881
+43,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),1054,Streptococcus infantarius,3,-0.0010000000000000009,797,85717
+44,2240,"Valerate (Pentanoic acid, Pentanoate)",299,Clostridium asparagiforme,2,0.013614930565721939,798,43017
+45,2071,D-Mannitol (Mannitol),457,Eubacterium rectale,3,0.0003358681283274212,805,56123
+46,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.00014014788889071816,813,35644
+47,2115,Indole-3-acetate (Indoleacetate),299,Clostridium asparagiforme,2,0.004655306206407195,818,19851
+48,2027,Arachidate (Arachidic acid),969,Ruminococcus torques,3,0.004943951931763668,835,48676
+49,2035,Biotin (Vitamin B7),153,Bifidobacterium breve,2,-4.023304759948054e-05,841,6373
+50,2185,Orotic acid (Orotate),952,Roseburia intestinalis,3,0.0006122098619302241,855,76784
+51,2185,Orotic acid (Orotate),152,Bifidobacterium bifidum,3,-5.4688974927441514e-05,863,76662
+52,2240,"Valerate (Pentanoic acid, Pentanoate)",124,Bacteroides eggerthii,3,0.003544702376161113,966,86745
+53,2192,"Pelargonic acid (Pelargonate, Nonanoic acid)",123,Bacteroides dorei,3,-0.0008653172596280179,967,77834
+54,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),121,Bacteroides coprocola,2,6.456726676096203e-06,1095,41796
+55,2218,Sucrose,95,Atopobium rimae,2,-0.0010000000000000009,1113,38821
+56,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),159,Bilophila wadsworthia,3,0.0007471482692813503,1141,74688
+57,2070,D-Lyxose (L-Lyxose),323,Clostridium scindens,3,-0.0009975755585598378,1175,55900
+58,2056,"Crotonate (2-Butenoate, 2-Butenoic acid, Crotonic acid, 3-Methylacrylic acid)",71,Anaerococcus vaginalis,2,-0.0010000000000000009,1210,9513
+59,2065,D-Galacturonate,454,Eubacterium eligens,2,-0.0010362028262493883,1243,11174
+60,2049,Cholic acid (Cholate),159,Bilophila wadsworthia,3,0.0031118174061683934,1253,52314
+61,2040,Cadaverine,158,Bifidobacterium pseudocatenulatum,2,0.00015508630915128663,1294,7169

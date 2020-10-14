@@ -1,0 +1,60 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2091,"Folic acid (Folate, Vitamin B9)",54,Alistipes putredinis,2,0.006667494074571678,0,16043
+1,2093,Formate,46,Akkermansia muciniphila,2,0.0005922171728032222,3,16438
+2,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",460,Eubacterium siraeum,3,0.0020919957821783353,22,80082
+3,2035,Biotin (Vitamin B7),966,Ruminococcus gnavus,2,0.0006173762241007408,52,6499
+4,2240,"Valerate (Pentanoic acid, Pentanoate)",1099,Sutterella wadsworthensis,2,0.0015831775901901102,78,43159
+5,2071,D-Mannitol (Mannitol),967,Ruminococcus lactaris,2,-0.0010000000000000009,104,12440
+6,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",460,Eubacterium siraeum,2,0.00010420323354343175,124,684
+7,2201,Propanoate (Propionate),149,Bifidobacterium adolescentis,2,0.0260116545453678,126,35673
+8,2003,"1,2-Ethanediol (Ethylene glycol)",54,Alistipes putredinis,2,-0.0005581558071677817,128,401
+9,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",455,Eubacterium hallii,3,0.0003740742885588455,133,51765
+10,2049,Cholic acid (Cholate),969,Ruminococcus torques,3,-0.000356518817457685,149,52438
+11,2066,D-Gluconate (D-Gluconic acid) (Gluconate),964,Ruminococcus bromii,3,0.0017852026531793852,190,55205
+12,2038,Butyrate,969,Ruminococcus torques,2,0.008323926793491254,281,7096
+13,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",149,Bifidobacterium adolescentis,3,0.0008811366603687087,284,75471
+14,2003,"1,2-Ethanediol (Ethylene glycol)",967,Ruminococcus lactaris,2,0.00034170646097086976,299,560
+15,2102,Glycolate,159,Bilophila wadsworthia,3,0.0001787645020584483,336,61620
+16,2239,Uridine,398,Desulfovibrio desulfuricans,3,-0.00013596689703820886,337,86599
+17,2180,Nitrate,123,Bacteroides dorei,3,0.000539955706176487,362,75656
+18,2049,Cholic acid (Cholate),302,Clostridium bolteae,3,-0.0009422492304020924,369,52325
+19,2183,Octanoate (Caprylic acid),570,Klebsiella pneumoniae,3,0.000984463491869536,415,76331
+20,2125,"L-Alanine (D-Alanine, Alanine)",969,Ruminococcus torques,3,0.011956550551047718,425,65506
+21,2157,Lactose,159,Bilophila wadsworthia,3,0.002590635024154131,434,71718
+22,2007,2-methylbutyrate (2-methylbutanoic acid),870,Prevotella copri,3,-0.0001946561946849501,451,45091
+23,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",870,Prevotella copri,3,2.7565514971517047e-05,529,74989
+24,2102,Glycolate,158,Bifidobacterium pseudocatenulatum,2,0.00232255439707052,532,17861
+25,2066,D-Gluconate (D-Gluconic acid) (Gluconate),986,Selenomonas noxia,2,-0.0010000000000000009,557,11453
+26,2240,"Valerate (Pentanoic acid, Pentanoate)",149,Bifidobacterium adolescentis,3,0.005742659184407195,589,86757
+27,2240,"Valerate (Pentanoic acid, Pentanoate)",131,Bacteroides plebeius,2,-0.0007527970512047899,609,42993
+28,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),149,Bifidobacterium adolescentis,3,0.02721407943333287,641,74679
+29,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",457,Eubacterium rectale,3,-0.00019172346372642313,670,47411
+30,2153,L-Threonine (Threonine),457,Eubacterium rectale,3,0.001257481879574529,677,70973
+31,2134,"L-Glutamine (D-Glutamine, Glutamine)",46,Akkermansia muciniphila,3,0.005063100457023628,726,67126
+32,2046,Chenodeoxycholic acid (Chenodeoxycholate),411,Dialister invisus,2,4.6940917065696475e-05,747,8193
+33,2225,Taurolithocholate,583,Lactobacillus amylovorus,2,-0.0010000000000000009,787,40298
+34,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",137,Bacteroides xylanisolvens,3,0.002891765794994172,821,66956
+35,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",398,Desulfovibrio desulfuricans,3,9.212279509518417e-05,878,80065
+36,2230,Toluene,871,Prevotella disiens,3,-0.0010000000000000009,896,85088
+37,2161,Maltose,135,Bacteroides uniformis,3,0.0008281044691652584,951,72498
+38,2130,L-Carnitine (D-Carnitine),653,Megamonas hypermegale,3,-0.00013263223258386247,987,66452
+39,2130,L-Carnitine (D-Carnitine),464,Faecalibacterium prausnitzii,3,0.004030278893561001,997,66422
+40,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",135,Bacteroides uniformis,3,-7.907782096139293e-06,1038,80022
+41,2101,Glycodeoxycholate,663,Methanobrevibacter smithii,3,0.0010474656262349225,1039,61504
+42,2046,Chenodeoxycholic acid (Chenodeoxycholate),54,Alistipes putredinis,3,-2.0857261530782267e-05,1073,51881
+43,2059,Cytosine,119,Bacteroides caccae,3,0.0018759881966878833,1078,53674
+44,2103,Glycolithocholate,964,Ruminococcus bromii,3,0.0032042353871244433,1083,61937
+45,2240,"Valerate (Pentanoic acid, Pentanoate)",158,Bifidobacterium pseudocatenulatum,2,0.0033676121970885875,1089,43007
+46,2219,Sulfate (Sulfuric acid),581,Lactobacillus acidophilus,3,-0.0010000991687645344,1152,82867
+47,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",158,Bifidobacterium pseudocatenulatum,2,9.099818868463228e-05,1208,24791
+48,2212,Spermidine,75,Anaerostipes caccae,3,-0.0001740611426004346,1218,81586
+49,2040,Cadaverine,963,Ruminococcus albus,3,0.0004790032279087253,1223,51046
+50,2187,Oxaloacetate,1007,Shigella sonnei,2,-0.0010000000000000009,1243,33433
+51,2040,Cadaverine,149,Bifidobacterium adolescentis,3,-0.0005008536175404865,1295,50919
+52,2040,Cadaverine,602,Lactobacillus rhamnosus,2,-0.0009560450626819872,1308,7243
+53,2027,Arachidate (Arachidic acid),1054,Streptococcus infantarius,3,-0.0010000000000000009,1355,48691
+54,2036,Butanol,420,Dorea formicigenerans,3,-0.0010254497493291659,1437,50368
+55,2195,Phenylacetate,966,Ruminococcus gnavus,3,0.00029867905976499465,1449,78571
+56,2156,"L-Valine (Valine, D-Valine)",159,Bilophila wadsworthia,3,0.0015025716687131485,1486,71520
+57,2212,Spermidine,814,Parabacteroides merdae,3,0.0013606478020871116,1519,81708
+58,2237,Uracil,159,Bilophila wadsworthia,3,0.002204580545489554,1548,86172

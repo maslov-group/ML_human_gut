@@ -1,0 +1,40 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2238,Urea,54,Alistipes putredinis,2,0.006377213785550007,1,42575
+1,2219,Sulfate (Sulfuric acid),310,Clostridium hathewayi,3,-0.000767639442250001,9,82821
+2,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),136,Bacteroides vulgatus,2,0.024157958958962444,12,41809
+3,2035,Biotin (Vitamin B7),46,Akkermansia muciniphila,2,0.00014456474515089912,38,6340
+4,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",952,Roseburia intestinalis,3,0.0008870131919088697,85,44114
+5,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",436,Enterobacter cloacae,2,0.000174172313277432,95,36314
+6,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0007963220556849171,99,35833
+7,2059,Cytosine,873,Prevotella melaninogenica (Bacteroides melaninogenicus),2,-0.0010000000000000009,112,10047
+8,2157,Lactose,967,Ruminococcus lactaris,2,-0.00047423274603219934,122,28082
+9,2155,L-Tyrosine (Tyrosine),54,Alistipes putredinis,2,-0.0010000000000000009,150,27527
+10,2203,Putrescine,120,Bacteroides cellulosilyticus,3,0.0011176022498624594,171,79811
+11,2132,L-Fucose,133,Bacteroides stercoris,3,0.03240283960199042,204,66754
+12,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",952,Roseburia intestinalis,3,0.00021735708793746422,258,44510
+13,2201,Propanoate (Propionate),457,Eubacterium rectale,2,0.014797964066895819,308,35729
+14,2224,Taurodeoxycholate,870,Prevotella copri,3,0.0036262863526304034,330,83899
+15,2068,D-Glucose (Glucose),398,Desulfovibrio desulfuricans,3,0.0008686179044717912,357,55513
+16,2027,Arachidate (Arachidic acid),120,Bacteroides cellulosilyticus,3,0.00019953025186569828,377,48527
+17,2240,"Valerate (Pentanoic acid, Pentanoate)",963,Ruminococcus albus,3,0.0002932381228962777,438,86884
+18,2203,Putrescine,455,Eubacterium hallii,3,0.0010672890989560369,460,79881
+19,2201,Propanoate (Propionate),1067,Streptococcus thermophilus,2,0.0013595376588758645,603,35830
+20,2203,Putrescine,135,Bacteroides uniformis,3,4.313342030670686e-05,625,79824
+21,2158,Linoleic acid (Omega-6 fatty acid),46,Akkermansia muciniphila,3,0.00046248059902453953,654,71878
+22,2092,Formaldehyde,133,Bacteroides stercoris,2,0.0035631646637142023,718,16264
+23,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",600,Lactobacillus plantarum,2,-0.0010000000000000009,739,36347
+24,2036,Butanol,54,Alistipes putredinis,2,-0.0010000000000000009,749,6539
+25,2237,Uracil,964,Ruminococcus bromii,3,0.006447880009899598,769,86291
+26,2072,D-Mannose (Mannose),120,Bacteroides cellulosilyticus,2,0.000671989352743485,813,12491
+27,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",883,Propionibacterium acnes,3,0.0019468593511786647,825,80144
+28,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1167,Veillonella atypica,3,-1.9898692834141585e-05,828,75633
+29,2240,"Valerate (Pentanoic acid, Pentanoate)",135,Bacteroides uniformis,3,0.008362973863441647,883,86754
+30,2058,Cytidine,603,Lactobacillus ruminis,2,-0.0010000000000000009,891,9818
+31,2081,Deoxycholic acid,152,Bifidobacterium bifidum,2,0.0033514562160998906,940,14292
+32,2103,Glycolithocholate,464,Faecalibacterium prausnitzii,3,0.01709502968270027,947,61868
+33,2053,Citrate,1169,Veillonella parvula,3,0.003236309878730914,983,53063
+34,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",133,Bacteroides stercoris,2,0.008012923235766523,986,24778
+35,2212,Spermidine,964,Ruminococcus bromii,3,0.0007098237347682446,1012,81737
+36,2237,Uracil,54,Alistipes putredinis,2,0.0003668003958814392,1055,42377
+37,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",464,Faecalibacterium prausnitzii,3,0.0035161014551552405,1091,80084
+38,2145,L-Methionine (D-Methionine),464,Faecalibacterium prausnitzii,3,0.0010229847100694522,1448,69392

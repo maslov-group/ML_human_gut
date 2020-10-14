@@ -1,0 +1,39 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.008365037742337877,0,42971
+1,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",1099,Sutterella wadsworthensis,2,-3.955868230431925e-05,10,24943
+2,2037,Butylamine,46,Akkermansia muciniphila,2,0.0006730423622505199,17,6736
+3,2166,Methanol,966,Ruminococcus gnavus,2,0.0003760366870559917,22,29863
+4,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",436,Enterobacter cloacae,2,0.00096119845207987,40,674
+5,2212,Spermidine,126,Bacteroides fragilis,3,0.002414584346442039,85,81599
+6,2069,D-Glucuronic acid (D-Glucuronate),967,Ruminococcus lactaris,2,-0.0001633360533893624,86,12044
+7,2220,Sulfur (Elemental sulfur),133,Bacteroides stercoris,3,1.358231519210662e-05,157,82990
+8,2158,Linoleic acid (Omega-6 fatty acid),457,Eubacterium rectale,3,0.012469141451156296,184,71963
+9,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",129,Bacteroides ovatus,2,0.0058384039167586055,192,24775
+10,2158,Linoleic acid (Omega-6 fatty acid),411,Dialister invisus,2,0.0005295008292702796,218,28191
+11,2203,Putrescine,570,Klebsiella pneumoniae,3,-1.380092584080117e-05,232,79895
+12,2226,"Thiamine (Vitamin B1, Thiamin)",814,Parabacteroides merdae,3,2.0948331393655373e-05,276,84282
+13,2201,Propanoate (Propionate),1067,Streptococcus thermophilus,2,0.005207894571692684,295,35830
+14,2035,Biotin (Vitamin B7),460,Eubacterium siraeum,3,0.0028773973005360443,331,50184
+15,2239,Uridine,134,Bacteroides thetaiotaomicron,3,0.022805785306128867,375,86555
+16,2049,Cholic acid (Cholate),1167,Veillonella atypica,3,0.0007300994273302663,381,52467
+17,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),1167,Veillonella atypica,2,0.0030431489548240487,394,41973
+18,2134,"L-Glutamine (D-Glutamine, Glutamine)",952,Roseburia intestinalis,3,0.010966840622875007,430,67280
+19,2016,Acetone,464,Faecalibacterium prausnitzii,3,0.0002402168082895617,486,46820
+20,2031,Benzyl alcohol,135,Bacteroides uniformis,3,-0.0001366951884612666,513,49332
+21,2207,Retinoate,159,Bilophila wadsworthia,3,0.0005346051282593134,549,80628
+22,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",136,Bacteroides vulgatus,3,0.004877914289602825,560,80023
+23,2046,Chenodeoxycholic acid (Chenodeoxycholate),76,Anaerotruncus colihominis,3,8.637563113644831e-07,565,51887
+24,2049,Cholic acid (Cholate),123,Bacteroides dorei,3,0.0007381586015592356,569,52292
+25,2219,Sulfate (Sulfuric acid),135,Bacteroides uniformis,3,-0.00026839724798333187,690,82794
+26,2064,D-Galactose,119,Bacteroides caccae,3,-0.00012779899059112143,698,54664
+27,2027,Arachidate (Arachidic acid),804,Oxalobacter formigenes,3,-0.0010000000000000009,710,48639
+28,2129,"L-Aspartate (Aspartate, D-Aspartate)",814,Parabacteroides merdae,2,-0.0010000000000000009,728,22506
+29,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1064,Streptococcus salivarius,3,0.000735783157406078,758,75625
+30,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,7.812083389069358e-06,765,634
+31,2163,Menaquinone (Vitamin K2),401,Desulfovibrio piger,3,0.0005317305031080632,797,72938
+32,2097,Galactitol (Dulcitol),133,Bacteroides stercoris,3,-0.0004296624835680163,799,60616
+33,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",883,Propionibacterium acnes,3,0.0011165489213125213,835,80144
+34,2201,Propanoate (Propionate),663,Methanobrevibacter smithii,2,-0.000575105419955757,844,35764
+35,2081,Deoxycholic acid,483,Fusobacterium ulcerans,3,-0.0010000000000000009,885,58112
+36,2049,Cholic acid (Cholate),570,Klebsiella pneumoniae,3,0.00024570627201569994,891,52373
+37,2046,Chenodeoxycholic acid (Chenodeoxycholate),1064,Streptococcus salivarius,3,0.0026929683480687583,926,52063

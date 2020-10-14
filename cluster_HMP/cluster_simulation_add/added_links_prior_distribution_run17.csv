@@ -1,0 +1,63 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2115,Indole-3-acetate (Indoleacetate),54,Alistipes putredinis,2,0.0007094473200102147,3,19805
+1,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",134,Bacteroides thetaiotaomicron,3,0.004741343046909874,17,80021
+2,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.0034619577296232107,27,42971
+3,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.00026129383434980724,42,35644
+4,2183,Octanoate (Caprylic acid),450,Escherichia coli,3,0.00433961138040595,51,76315
+5,2150,L-Selenocysteine,870,Prevotella copri,3,-3.7237042114668384e-05,68,70435
+6,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",464,Faecalibacterium prausnitzii,3,0.0027890862374472247,105,51770
+7,2196,Phenylethylamine,55,Alistipes shahii,2,0.00065989505700359,116,34854
+8,2070,D-Lyxose (L-Lyxose),133,Bacteroides stercoris,3,0.008981024458515563,151,55864
+9,2089,Ethanol,966,Ruminococcus gnavus,2,-0.000587464200724197,179,15805
+10,2240,"Valerate (Pentanoic acid, Pentanoate)",1099,Sutterella wadsworthensis,2,0.0006183495902463143,202,43159
+11,2233,Trimethylamine,952,Roseburia intestinalis,3,0.000923721883082762,220,85496
+12,2153,L-Threonine (Threonine),464,Faecalibacterium prausnitzii,3,0.00877613032781599,237,70976
+13,2166,Methanol,398,Desulfovibrio desulfuricans,3,0.00039462808718948583,246,73531
+14,2181,Nitric Oxide (NO),869,Prevotella buccalis,3,-0.0010000000000000009,289,75978
+15,2046,Chenodeoxycholic acid (Chenodeoxycholate),314,Clostridium leptum,3,0.0023510358019855904,325,51935
+16,2079,D-Xylose (Xylose),119,Bacteroides caccae,3,0.0021603102645393335,381,57634
+17,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,3,0.0036266236728685897,399,79997
+18,2049,Cholic acid (Cholate),46,Akkermansia muciniphila,3,0.003147099825040911,411,52276
+19,2194,Phenol,126,Bacteroides fragilis,2,-0.0010000000000000009,434,34475
+20,2104,"Glyoxylate (Glyoxylic acid, Glyoxalate)",952,Roseburia intestinalis,3,9.830116520737064e-05,437,62132
+21,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",953,Roseburia inulinivorans,3,0.006014187019360739,456,80151
+22,2035,Biotin (Vitamin B7),952,Roseburia intestinalis,3,0.0075435368063220265,491,50252
+23,2105,Guanine,482,Fusobacterium periodonticum,3,-0.0010000000000000009,518,62269
+24,2035,Biotin (Vitamin B7),460,Eubacterium siraeum,3,0.0018406639202857011,554,50184
+25,2240,"Valerate (Pentanoic acid, Pentanoate)",425,Eggerthella lenta,3,-0.0010000000000000009,563,86802
+26,2083,Dichloromethane (Methylene chloride),159,Bilophila wadsworthia,3,9.16219905949811e-05,580,58452
+27,2238,Urea,966,Ruminococcus gnavus,3,0.00075481139501965,602,86491
+28,2238,Urea,804,Oxalobacter formigenes,2,0.0012314991396547015,648,42699
+29,2167,Methylamine (Monomethylamine),1059,Streptococcus parasanguinis,3,-0.001005169200724576,693,73841
+30,2188,"p-Cresol (4-methylphenol, 4-cresol)",268,Cellulosilyticum lentocellum,3,-0.0010000000000000009,706,77268
+31,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",302,Clostridium bolteae,3,0.01751436618844393,748,73115
+32,2239,Uridine,159,Bilophila wadsworthia,3,0.0034346535687796997,767,86568
+33,2157,Lactose,135,Bacteroides uniformis,3,0.0009179522697432274,808,71706
+34,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",136,Bacteroides vulgatus,3,0.00041166138465409396,810,80023
+35,2083,Dichloromethane (Methylene chloride),436,Enterobacter cloacae,2,-0.0010000000000000009,833,14732
+36,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,0.0009240008504257657,835,41858
+37,2028,"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)",1167,Veillonella atypica,3,0.00033763490820293285,859,48903
+38,2195,Phenylacetate,420,Dorea formicigenerans,2,-0.0008523460612419598,875,34726
+39,2003,"1,2-Ethanediol (Ethylene glycol)",135,Bacteroides uniformis,2,0.003371811554398807,876,426
+40,2101,Glycodeoxycholate,481,Fusobacterium nucleatum,3,-0.0007378392384475019,934,61476
+41,2201,Propanoate (Propionate),149,Bifidobacterium adolescentis,2,0.0023440130073191234,935,35673
+42,2163,Menaquinone (Vitamin K2),46,Akkermansia muciniphila,3,0.00025942017460811595,1068,72868
+43,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",128,Bacteroides intestinalis,3,-0.001034121588139314,1213,68532
+44,2201,Propanoate (Propionate),136,Bacteroides vulgatus,2,0.0032606222418567476,1237,35671
+45,2081,Deoxycholic acid,457,Eubacterium rectale,2,0.01924809438003816,1341,14345
+46,2160,Malonate,450,Escherichia coli,3,0.0048306162962957755,1436,72355
+47,2167,Methylamine (Monomethylamine),302,Clostridium bolteae,2,0.01925837461385249,1454,29951
+48,2217,Succinate,1067,Streptococcus thermophilus,3,-0.0010221799120855302,1456,82558
+49,2033,Betaine (Glycine betaine),608,Lactococcus lactis,3,-0.0006641463229749567,1490,49818
+50,2041,Caproate (Hexanoate),136,Bacteroides vulgatus,3,0.0025422089495340527,1501,51115
+51,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",152,Bifidobacterium bifidum,2,-0.0009391884984282228,1566,14490
+52,2154,L-Tryptophan (Tryptophan),1169,Veillonella parvula,3,0.0011278000745424954,1699,71279
+53,2107,H2 (Hydrogen),967,Ruminococcus lactaris,2,2.960209579672135e-05,1707,18974
+54,2085,Dimethylamine,966,Ruminococcus gnavus,2,0.0010186266811579303,1713,15211
+55,2135,L-Glycine (Glycine),457,Eubacterium rectale,3,0.0015177933327721327,1750,67409
+56,2183,Octanoate (Caprylic acid),663,Methanobrevibacter smithii,2,-0.0009770514521028062,1791,32596
+57,2229,Thymine,964,Ruminococcus bromii,3,0.0036310953469788076,1827,84905
+58,2115,Indole-3-acetate (Indoleacetate),309,Clostridium difficile,3,-0.0008852734476367807,1889,63614
+59,2203,Putrescine,302,Clostridium bolteae,2,0.004027750305513944,2101,36089
+60,2023,alpha-Linolenic acid (Omega-3 fatty acid),1057,Streptococcus mutans,2,-0.0009999999999998899,2109,4342
+61,2035,Biotin (Vitamin B7),590,Lactobacillus delbrueckii,3,-0.001000000000000112,2215,50201

@@ -1,0 +1,42 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,0.007451307231729043,0,6341
+1,2166,Methanol,966,Ruminococcus gnavus,2,0.0007388798217772274,52,29863
+2,2035,Biotin (Vitamin B7),46,Akkermansia muciniphila,2,0.000725113196127225,68,6340
+3,2073,D-Psicose,1169,Veillonella parvula,3,0.001440463464106534,71,56627
+4,2006,2-Aminobutyric acid (2-Aminobutyrate),339,Coprococcus eutactus,3,0.00018530268362049185,95,44820
+5,2201,Propanoate (Propionate),126,Bacteroides fragilis,2,0.01278128856098315,96,35663
+6,2138,L-Idonate,126,Bacteroides fragilis,3,0.0017722027252116135,117,67937
+7,2240,"Valerate (Pentanoic acid, Pentanoate)",1099,Sutterella wadsworthensis,2,0.00015774487751130106,133,43159
+8,2210,Riboflavin (Vitamin B2),464,Faecalibacterium prausnitzii,3,0.0031410328641062746,173,81272
+9,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1167,Veillonella atypica,3,0.0016115219345433918,194,80187
+10,2070,D-Lyxose (L-Lyxose),953,Roseburia inulinivorans,3,0.004175859004595717,208,55995
+11,2081,Deoxycholic acid,761,Neisseria flavescens,3,-0.0010000000000000009,231,58141
+12,2146,L-Ornithine (Ornithine),952,Roseburia intestinalis,3,0.011810923261830752,240,69656
+13,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",964,Ruminococcus bromii,3,0.0008624667938093022,244,75599
+14,2035,Biotin (Vitamin B7),96,Atopobium vaginae,3,-0.0010000000000000009,278,50108
+15,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,-0.00026575085727031933,342,42971
+16,2163,Menaquinone (Vitamin K2),460,Eubacterium siraeum,3,-7.4955237353568904e-06,395,72954
+17,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",121,Bacteroides coprocola,3,4.255251367646373e-05,439,80010
+18,2236,Tyramine,967,Ruminococcus lactaris,2,0.0005789598727574674,440,42338
+19,2038,Butyrate,158,Bifidobacterium pseudocatenulatum,2,0.012536845614357306,488,6971
+20,2129,"L-Aspartate (Aspartate, D-Aspartate)",464,Faecalibacterium prausnitzii,3,0.014867615629948316,512,66224
+21,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),1067,Streptococcus thermophilus,2,0.0016963707552349883,517,41968
+22,2171,"Myristic acid (Tetradecanoic acid, Tetradecanoate)",1067,Streptococcus thermophilus,3,0.0004458347194833401,518,74242
+23,2065,D-Galacturonate,411,Dialister invisus,2,0.00010202737555786712,524,11163
+24,2163,Menaquinone (Vitamin K2),436,Enterobacter cloacae,2,0.0003758107669088462,543,29186
+25,2090,Ethanolamine (Phosphatidylethanolamine),159,Bilophila wadsworthia,3,0.000445436883857675,557,59640
+26,2007,2-methylbutyrate (2-methylbutanoic acid),126,Bacteroides fragilis,3,0.0006488981310256436,558,44969
+27,2097,Galactitol (Dulcitol),159,Bilophila wadsworthia,3,-0.00020152552022212333,607,60630
+28,2239,Uridine,1169,Veillonella parvula,3,0.04522392711569856,649,86723
+29,2049,Cholic acid (Cholate),137,Bacteroides xylanisolvens,3,0.0007685012451433826,682,52304
+30,2237,Uracil,411,Dialister invisus,3,0.0006818463378220896,691,86205
+31,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",158,Bifidobacterium pseudocatenulatum,3,0.0003282161167511566,709,80033
+32,2092,Formaldehyde,159,Bilophila wadsworthia,3,-0.00040746503843991366,769,60036
+33,2153,L-Threonine (Threonine),450,Escherichia coli,2,0.00010265275828102993,819,27211
+34,2011,4-Aminobutyrate (GABA),411,Dialister invisus,2,0.00017781541583339333,868,2055
+35,2098,Glycerol,464,Faecalibacterium prausnitzii,3,0.00042320093175463036,973,60878
+36,2006,2-Aminobutyric acid (2-Aminobutyrate),1055,Streptococcus infantis,2,-0.001012179739583785,1021,1172
+37,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",411,Dialister invisus,3,0.002283015075043915,1046,73137
+38,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",129,Bacteroides ovatus,3,0.00023284932731459929,1055,80017
+39,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",964,Ruminococcus bromii,3,0.0022437391474318114,1067,80153
+40,2070,D-Lyxose (L-Lyxose),1027,Staphylococcus aureus,2,-0.0010000000000000009,1157,12248

@@ -1,0 +1,62 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2153,L-Threonine (Threonine),54,Alistipes putredinis,2,0.002700474463983804,3,27131
+1,2202,"Propanol (n-propanol, 1-Propanol)",54,Alistipes putredinis,2,0.0005479974094337869,19,35843
+2,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0010189730077287962,29,35833
+3,2217,Succinate,152,Bifidobacterium bifidum,2,0.004486674222323406,32,38646
+4,2153,L-Threonine (Threonine),966,Ruminococcus gnavus,2,0.0009057277431248068,39,27289
+5,2201,Propanoate (Propionate),126,Bacteroides fragilis,2,0.008151186851452885,69,35663
+6,2063,D-Galactosamine (Galactosamine),123,Bacteroides dorei,3,0.002581051356195907,80,54470
+7,2222,Taurochenodeoxycholate,460,Eubacterium siraeum,3,0.01571057669478293,88,83448
+8,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",457,Eubacterium rectale,3,0.010746647519354391,100,80081
+9,2156,"L-Valine (Valine, D-Valine)",1064,Streptococcus salivarius,3,0.004969322215477745,141,71665
+10,2122,Isovalerate (3-Methylbutanoic acid),46,Akkermansia muciniphila,2,0.0013135233736034646,163,21190
+11,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",464,Faecalibacterium prausnitzii,3,0.0010791739333665396,174,44048
+12,2226,"Thiamine (Vitamin B1, Thiamin)",411,Dialister invisus,2,0.0010182335409252286,176,40467
+13,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",966,Ruminococcus gnavus,3,0.0002553613431052204,203,80155
+14,2140,L-Isoleucine (Isoleucine),464,Faecalibacterium prausnitzii,3,0.017438435145123332,212,68402
+15,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,0.0010587123644452134,224,41858
+16,2033,Betaine (Glycine betaine),964,Ruminococcus bromii,3,0.001195951149926544,243,49859
+17,2240,"Valerate (Pentanoic acid, Pentanoate)",967,Ruminococcus lactaris,2,5.120828955251788e-05,253,43130
+18,2064,D-Galactose,126,Bacteroides fragilis,3,0.0011327630750664897,263,54671
+19,2165,Methane (CH4),330,Collinsella intestinalis,2,-0.0010000000000000009,271,29570
+20,2240,"Valerate (Pentanoic acid, Pentanoate)",131,Bacteroides plebeius,3,8.988573474577599e-05,334,86751
+21,2178,"NH3 (Ammonia, NH4+, Ammonium)",963,Ruminococcus albus,3,-0.0009972887338294267,384,75400
+22,2201,Propanoate (Propionate),153,Bifidobacterium breve,2,7.191936204797855e-06,424,35677
+23,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",159,Bilophila wadsworthia,3,0.0004044236565547976,440,58254
+24,2125,"L-Alanine (D-Alanine, Alanine)",119,Bacteroides caccae,3,0.00563236319942817,445,65356
+25,2085,Dimethylamine,966,Ruminococcus gnavus,2,0.0021949165136643245,451,15211
+26,2038,Butyrate,136,Bacteroides vulgatus,2,0.006394777576371191,467,6961
+27,2154,L-Tryptophan (Tryptophan),1044,Streptococcus anginosus,2,-0.0010000000000000009,501,27499
+28,2115,Indole-3-acetate (Indoleacetate),136,Bacteroides vulgatus,3,0.00020971571124617228,531,63589
+29,2165,Methane (CH4),159,Bilophila wadsworthia,3,-0.0009614014660599413,583,73302
+30,2105,Guanine,966,Ruminococcus gnavus,3,0.002425184373936573,620,62335
+31,2209,Ribitol,952,Roseburia intestinalis,3,-0.00019096199261681157,622,81140
+32,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",952,Roseburia intestinalis,3,-0.00028494433049619516,660,80150
+33,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",952,Roseburia intestinalis,3,0.004007284386392973,702,73220
+34,2084,Dimethyl sulfide (Methyl sulfide),804,Oxalobacter formigenes,3,-0.0010000000000000009,733,58737
+35,2049,Cholic acid (Cholate),968,Ruminococcus obeum,3,-0.0009194468898217067,738,52437
+36,2070,D-Lyxose (L-Lyxose),46,Akkermansia muciniphila,3,-4.983011235870638e-05,778,55840
+37,2007,2-methylbutyrate (2-methylbutanoic acid),159,Bilophila wadsworthia,3,0.0006309974988797373,801,44988
+38,2212,Spermidine,159,Bilophila wadsworthia,3,0.0006562077238401187,837,81618
+39,2216,"Stearic acid (Stearate, Octadecanoate)",119,Bacteroides caccae,3,0.002268367988819242,912,82186
+40,2035,Biotin (Vitamin B7),968,Ruminococcus obeum,3,-0.0009277664494979909,939,50259
+41,2240,"Valerate (Pentanoic acid, Pentanoate)",159,Bilophila wadsworthia,3,0.0023392718988705097,949,86766
+42,2221,Taurine,966,Ruminococcus gnavus,3,0.002311767965209488,960,83323
+43,2219,Sulfate (Sulfuric acid),136,Bacteroides vulgatus,3,0.0007795460790063213,1025,82795
+44,2075,"D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)",870,Prevotella copri,3,0.0003243435481883328,1050,56971
+45,2125,"L-Alanine (D-Alanine, Alanine)",337,Coprococcus catus,3,-0.0001219621400464499,1094,65410
+46,2158,Linoleic acid (Omega-6 fatty acid),450,Escherichia coli,3,0.0020263119081584957,1116,71959
+47,2201,Propanoate (Propionate),96,Atopobium vaginae,2,-0.0010000000000000009,1217,35654
+48,2240,"Valerate (Pentanoic acid, Pentanoate)",963,Ruminococcus albus,3,0.0006049255490934158,1234,86884
+49,2240,"Valerate (Pentanoic acid, Pentanoate)",457,Eubacterium rectale,2,0.007064530570569327,1263,43055
+50,2193,Pentanol,136,Bacteroides vulgatus,3,-0.000700558698234599,1350,78043
+51,2041,Caproate (Hexanoate),952,Roseburia intestinalis,3,0.0018132772905987693,1368,51242
+52,2136,L-Histidine (Histidine),464,Faecalibacterium prausnitzii,3,0.0017617872188210315,1418,67610
+53,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",899,Pseudomonas mendocina,3,-0.0010000000000000009,1423,44113
+54,2081,Deoxycholic acid,120,Bacteroides cellulosilyticus,3,-0.00015192914405348645,1485,58031
+55,2032,beta-alanine (3-Aminopropionate),966,Ruminococcus gnavus,3,-2.8708553031053796e-05,1578,49663
+56,2240,"Valerate (Pentanoic acid, Pentanoate)",464,Faecalibacterium prausnitzii,3,0.0007651688835619286,1590,86816
+57,2017,Adenine,134,Bacteroides thetaiotaomicron,3,0.0005017419732435968,1678,46955
+58,2035,Biotin (Vitamin B7),952,Roseburia intestinalis,3,0.0013419493086368472,1689,50252
+59,2030,Benzoate,71,Anaerococcus vaginalis,2,-0.0009999999999998899,1713,5355
+60,2035,Biotin (Vitamin B7),158,Bifidobacterium pseudocatenulatum,2,-9.38060084403336e-05,1733,6377

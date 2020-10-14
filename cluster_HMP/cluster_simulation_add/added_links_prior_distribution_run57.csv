@@ -1,0 +1,63 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2226,"Thiamine (Vitamin B1, Thiamin)",54,Alistipes putredinis,2,0.004507180994909099,0,40397
+1,2122,Isovalerate (3-Methylbutanoic acid),966,Ruminococcus gnavus,2,0.00013908627802128315,6,21349
+2,2114,Indole,1049,Streptococcus dysgalactiae,2,-0.001000000000000112,8,19780
+3,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.0012602248078315004,18,35644
+4,2038,Butyrate,1067,Streptococcus thermophilus,2,0.0021120194206887266,19,7120
+5,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",1169,Veillonella parvula,3,0.004190561912920887,20,67121
+6,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,7.307421422608762e-05,38,35833
+7,2094,FOS (Fructooligosaccharide),464,Faecalibacterium prausnitzii,3,0.0022948303882056598,45,60482
+8,2130,L-Carnitine (D-Carnitine),1064,Streptococcus salivarius,3,0.002587202118809473,51,66517
+9,2240,"Valerate (Pentanoic acid, Pentanoate)",436,Enterobacter cloacae,2,0.0004835152065408854,56,43046
+10,2023,alpha-Linolenic acid (Omega-3 fatty acid),123,Bacteroides dorei,3,0.015468034547091114,92,47936
+11,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",967,Ruminococcus lactaris,2,0.0012462206862512426,108,758
+12,2120,Isomaltose,953,Roseburia inulinivorans,3,0.0028134537473221144,135,64707
+13,2237,Uracil,464,Faecalibacterium prausnitzii,3,0.00012406157170941068,153,86222
+14,2067,D-Glucosamine (Glucosamine),120,Bacteroides cellulosilyticus,3,0.0005961458985505041,163,55259
+15,2115,Indole-3-acetate (Indoleacetate),952,Roseburia intestinalis,3,0.0026694862300301603,189,63716
+16,2201,Propanoate (Propionate),136,Bacteroides vulgatus,2,0.017556545381369082,210,35671
+17,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",455,Eubacterium hallii,3,0.0029464595836494745,290,80079
+18,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",464,Faecalibacterium prausnitzii,3,0.001701735323968001,292,47414
+19,2067,D-Glucosamine (Glucosamine),129,Bacteroides ovatus,3,0.00023603318193443634,294,55267
+20,2024,"alpha-Tocopherol (Vitamin E, alpha-Tocotrienol)",1064,Streptococcus salivarius,2,-0.0010000000000000009,298,4543
+21,2170,Mucin,706,Micrococcus luteus,3,-0.0010000000000000009,301,73979
+22,2090,Ethanolamine (Phosphatidylethanolamine),54,Alistipes putredinis,2,-0.0010000000000000009,309,15845
+23,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),158,Bifidobacterium pseudocatenulatum,2,0.006795351808006611,393,41819
+24,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1067,Streptococcus thermophilus,3,0.001647964740119079,395,75628
+25,2108,H2O2,952,Roseburia intestinalis,3,-0.0007196604470163237,416,62924
+26,2203,Putrescine,455,Eubacterium hallii,3,0.0022343767488793853,492,79881
+27,2213,Spermine,54,Alistipes putredinis,2,-0.0010000000000000009,514,38021
+28,2152,L-Sorbose (Sorbose),464,Faecalibacterium prausnitzii,3,0.00016420702864039516,548,70778
+29,2011,4-Aminobutyrate (GABA),411,Dialister invisus,2,7.990009626013261e-05,578,2055
+30,2073,D-Psicose,54,Alistipes putredinis,2,-0.0010000000000000009,591,12677
+31,2161,Maltose,876,Prevotella oris,3,-0.0010000000000000009,596,72617
+32,2205,Pyruvate,454,Eubacterium eligens,2,-0.0012000535904405085,601,36518
+33,2237,Uracil,153,Bifidobacterium breve,2,5.960240071978262e-05,654,42409
+34,2138,L-Idonate,464,Faecalibacterium prausnitzii,3,0.001809220389288213,663,68006
+35,2195,Phenylacetate,339,Coprococcus eutactus,3,0.0006473716696550058,668,78480
+36,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",804,Oxalobacter formigenes,2,-0.0006339015004156456,671,23295
+37,2146,L-Ornithine (Ornithine),136,Bacteroides vulgatus,3,0.025542116334818288,692,69529
+38,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",126,Bacteroides fragilis,3,-0.0007618087697298659,766,80015
+39,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",483,Fusobacterium ulcerans,3,-0.0010000000000000009,785,68606
+40,2158,Linoleic acid (Omega-6 fatty acid),1169,Veillonella parvula,3,0.003531235868915572,798,72071
+41,2017,Adenine,796,Odoribacter splanchnicus,3,0.0019499445285648953,882,47054
+42,2035,Biotin (Vitamin B7),1064,Streptococcus salivarius,3,0.00015034297190663626,890,50281
+43,2212,Spermidine,126,Bacteroides fragilis,3,0.003164570442764525,906,81599
+44,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",953,Roseburia inulinivorans,3,1.9254666441592683e-05,933,80151
+45,2240,"Valerate (Pentanoic acid, Pentanoate)",162,Blautia hydrogenotrophica (Ruminococcus hydrogenotrophicus),3,0.0002150509725769023,960,86768
+46,2041,Caproate (Hexanoate),457,Eubacterium rectale,3,0.002468084884423405,963,51173
+47,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",129,Bacteroides ovatus,3,0.0002538326872404406,1018,80017
+48,2081,Deoxycholic acid,652,Marvinbryantia formatexigens,2,-0.0010000000000000009,1035,14377
+49,2139,L-iduronate,421,Dorea longicatena,3,-0.000854381356714895,1051,68189
+50,2049,Cholic acid (Cholate),124,Bacteroides eggerthii,3,0.002853321082447069,1064,52293
+51,2038,Butyrate,158,Bifidobacterium pseudocatenulatum,2,0.00034246600103193803,1065,6971
+52,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",121,Bacteroides coprocola,3,-0.000975417666971512,1070,45558
+53,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",464,Faecalibacterium prausnitzii,3,-0.0005539722278649073,1135,77510
+54,2229,Thymine,54,Alistipes putredinis,2,-0.0010000000000000009,1139,40991
+55,2074,D-Ribose (Ribose),964,Ruminococcus bromii,3,-0.0004369637403243143,1152,56789
+56,2049,Cholic acid (Cholate),464,Faecalibacterium prausnitzii,3,0.0010730464063851697,1175,52364
+57,2240,"Valerate (Pentanoic acid, Pentanoate)",133,Bacteroides stercoris,3,0.001812506484765608,1271,86752
+58,2081,Deoxycholic acid,162,Blautia hydrogenotrophica (Ruminococcus hydrogenotrophicus),2,0.0003467687901375083,1336,14300
+59,2036,Butanol,886,Proteus mirabilis,2,-0.0009999999999998899,1337,6687
+60,2043,Cellobiose,1069,Streptococcus vestibularis,2,-0.0009999999999998899,1360,7913
+61,2237,Uracil,1064,Streptococcus salivarius,3,-0.00011483830949365892,1383,86317

@@ -1,0 +1,45 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2203,Putrescine,54,Alistipes putredinis,2,0.003809572012248852,3,36041
+1,2016,Acetone,398,Desulfovibrio desulfuricans,3,0.0010904583231565734,25,46801
+2,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),953,Roseburia inulinivorans,2,-8.440836425149811e-05,28,31047
+3,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",883,Propionibacterium acnes,3,-0.00017439134905194997,35,69254
+4,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.000951051814873205,73,35833
+5,2049,Cholic acid (Cholate),54,Alistipes putredinis,3,0.002626631403231827,108,52277
+6,2013,Acetaldehyde,161,Blautia hansenii (Ruminococcus hansenii),2,-0.0010000000000000009,135,2419
+7,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",129,Bacteroides ovatus,3,0.0061362718754363055,136,45565
+8,2038,Butyrate,46,Akkermansia muciniphila,2,-0.0007774867591017198,137,6934
+9,2239,Uridine,952,Roseburia intestinalis,3,0.004408246499018609,138,86684
+10,2135,L-Glycine (Glycine),570,Klebsiella pneumoniae,3,0.0026333319691639323,145,67421
+11,2038,Butyrate,134,Bacteroides thetaiotaomicron,2,0.032845268130796246,146,6959
+12,2240,"Valerate (Pentanoic acid, Pentanoate)",136,Bacteroides vulgatus,2,0.00042222514776846243,185,42997
+13,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",570,Klebsiella pneumoniae,3,0.0003418720081440618,197,77519
+14,2023,alpha-Linolenic acid (Omega-3 fatty acid),454,Eubacterium eligens,3,0.01972430092291566,224,48002
+15,2115,Indole-3-acetate (Indoleacetate),1007,Shigella sonnei,3,-0.0010000000000000009,274,63727
+16,2226,"Thiamine (Vitamin B1, Thiamin)",570,Klebsiella pneumoniae,3,0.00040249474999720647,279,84251
+17,2153,L-Threonine (Threonine),883,Propionibacterium acnes,2,0.0001243043023235746,311,27278
+18,2159,Lithocholic acid,454,Eubacterium eligens,2,0.01696318985377454,314,28400
+19,2037,Butylamine,966,Ruminococcus gnavus,2,-0.0006572263621390517,320,6895
+20,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",1067,Streptococcus thermophilus,2,0.0018063777412955506,324,24940
+21,2203,Putrescine,455,Eubacterium hallii,3,0.0020028837911677533,331,79881
+22,2206,Raffinose,123,Bacteroides dorei,3,0.0003179442151781675,342,80408
+23,2201,Propanoate (Propionate),152,Bifidobacterium bifidum,2,0.0057650186244905255,351,35676
+24,2035,Biotin (Vitamin B7),126,Bacteroides fragilis,2,-0.0005802674704187272,360,6359
+25,2180,Nitrate,124,Bacteroides eggerthii,3,-0.0001622650283021887,470,75657
+26,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",159,Bilophila wadsworthia,3,0.005454577998123322,504,66966
+27,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",122,Bacteroides coprophilus,2,-0.0010000000000000009,524,29323
+28,2064,D-Galactose,813,Parabacteroides johnsonii,2,-0.0010704780241999057,532,11021
+29,2201,Propanoate (Propionate),299,Clostridium asparagiforme,3,-0.0008493183082275424,534,79449
+30,2203,Putrescine,135,Bacteroides uniformis,3,0.00010267235525396323,553,79824
+31,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",967,Ruminococcus lactaris,2,-0.0010000000000000009,559,34022
+32,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",135,Bacteroides uniformis,3,0.0013027484245449195,584,75468
+33,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),837,Peptoniphilus harei,2,-0.0009763874980243115,606,31023
+34,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,3,0.0024972695738332273,671,86729
+35,2072,D-Mannose (Mannose),234,Campylobacter gracilis,2,-0.0010000000000000009,675,12520
+36,2105,Guanine,137,Bacteroides xylanisolvens,3,0.002404986172162449,730,62204
+37,2032,beta-alanine (3-Aminopropionate),152,Bifidobacterium bifidum,3,0.0009969425030151857,780,49536
+38,2012,5-Aminovalerate,159,Bilophila wadsworthia,3,8.429899567974353e-05,806,45978
+39,2134,"L-Glutamine (D-Glutamine, Glutamine)",121,Bacteroides coprocola,3,6.501530482727613e-05,814,67140
+40,2135,L-Glycine (Glycine),294,Citrobacter rodentium,2,-0.0009849830751529343,914,23612
+41,2123,Itaconate,967,Ruminococcus lactaris,2,-0.0010000000000000009,940,21548
+42,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",136,Bacteroides vulgatus,3,0.00033620999797034923,941,45571
+43,2008,"2-Oxobutyrate (Alpha-ketobutyrate, 2-Oxobutanoate)",866,Prevotella bivia,2,-0.0010000000000000009,948,1528

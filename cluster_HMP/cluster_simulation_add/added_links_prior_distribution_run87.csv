@@ -1,0 +1,63 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2238,Urea,54,Alistipes putredinis,2,0.00637721731192098,5,42575
+1,2203,Putrescine,1064,Streptococcus salivarius,3,0.001482760180302578,40,79981
+2,2091,"Folic acid (Folate, Vitamin B9)",411,Dialister invisus,2,7.036647656111228e-06,44,16113
+3,2016,Acetone,149,Bifidobacterium adolescentis,2,0.0019463317804524483,55,3003
+4,2153,L-Threonine (Threonine),46,Akkermansia muciniphila,2,-2.3414095404405977e-05,80,27130
+5,2240,"Valerate (Pentanoic acid, Pentanoate)",337,Coprococcus catus,3,0.0030474093540512337,84,86794
+6,2049,Cholic acid (Cholate),157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,-1.392596972471516e-05,112,8554
+7,2006,2-Aminobutyric acid (2-Aminobutyrate),796,Odoribacter splanchnicus,3,0.0014805462619131848,148,44876
+8,2211,Shikimate,46,Akkermansia muciniphila,3,0.0008927064608693636,162,81382
+9,2020,Adipate,450,Escherichia coli,3,0.005372439387097527,163,47605
+10,2035,Biotin (Vitamin B7),570,Klebsiella pneumoniae,3,0.0004338676204888037,170,50195
+11,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0011631493294870232,180,35833
+12,2063,D-Galactosamine (Galactosamine),1169,Veillonella parvula,3,0.008780387793192679,245,54647
+13,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),119,Bacteroides caccae,3,0.029286922982750485,290,74662
+14,2058,Cytidine,129,Bacteroides ovatus,3,0.0032485264089453514,298,53485
+15,2046,Chenodeoxycholic acid (Chenodeoxycholate),953,Roseburia inulinivorans,3,0.005076384559574154,361,52035
+16,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",158,Bifidobacterium pseudocatenulatum,2,0.010815335130639148,372,24791
+17,2035,Biotin (Vitamin B7),135,Bacteroides uniformis,3,0.0016411355839891506,401,50124
+18,2074,D-Ribose (Ribose),464,Faecalibacterium prausnitzii,2,0.00012890914831686917,402,12962
+19,2012,5-Aminovalerate,596,Lactobacillus jensenii,2,-0.0010000000000000009,416,2288
+20,2217,Succinate,108,Bacillus licheniformis,3,-0.0010000000000000009,419,82383
+21,2210,Riboflavin (Vitamin B2),952,Roseburia intestinalis,3,0.0017104125915398116,425,81338
+22,2042,Carbon monoxide (CO),464,Faecalibacterium prausnitzii,3,-5.124987329585551e-05,499,51374
+23,2227,Thiosulfate,1169,Veillonella parvula,3,0.0020328507678843977,519,84545
+24,2158,Linoleic acid (Omega-6 fatty acid),1169,Veillonella parvula,3,0.001497134711208492,524,72071
+25,2233,Trimethylamine,158,Bifidobacterium pseudocatenulatum,2,0.001440705614104365,577,41621
+26,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",871,Prevotella disiens,3,-0.0010000000000000009,617,77564
+27,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",135,Bacteroides uniformis,3,0.0005715594700212989,647,58242
+28,2240,"Valerate (Pentanoic acid, Pentanoate)",450,Escherichia coli,3,0.0010365730668562279,657,86809
+29,2070,D-Lyxose (L-Lyxose),953,Roseburia inulinivorans,3,4.460210756507266e-06,667,55995
+30,2035,Biotin (Vitamin B7),966,Ruminococcus gnavus,2,-0.0004621656472932889,673,6499
+31,2137,L-Homoserine,158,Bifidobacterium pseudocatenulatum,3,-0.0010529162383063895,722,67757
+32,2240,"Valerate (Pentanoic acid, Pentanoate)",135,Bacteroides uniformis,3,0.005675866057060941,727,86754
+33,2038,Butyrate,302,Clostridium bolteae,2,0.0015095213578260047,729,6983
+34,2046,Chenodeoxycholic acid (Chenodeoxycholate),457,Eubacterium rectale,2,0.0012084482933566454,778,8207
+35,2187,Oxaloacetate,54,Alistipes putredinis,3,-0.00072056202368731,787,77027
+36,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",133,Bacteroides stercoris,3,0.003947413984414672,846,45568
+37,2211,Shikimate,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.0035514828325451386,882,81418
+38,2066,D-Gluconate (D-Gluconic acid) (Gluconate),133,Bacteroides stercoris,3,0.00046553911589442,927,55072
+39,2137,L-Homoserine,436,Enterobacter cloacae,2,-0.00022751461098191594,946,24038
+40,2240,"Valerate (Pentanoic acid, Pentanoate)",464,Faecalibacterium prausnitzii,3,-0.00021010213779115716,993,86816
+41,2063,D-Galactosamine (Galactosamine),952,Roseburia intestinalis,3,0.0018356070202877328,997,54608
+42,2109,H2S (HS-),152,Bifidobacterium bifidum,2,0.001607450891297546,1104,19242
+43,2196,Phenylethylamine,457,Eubacterium rectale,2,0.0033477668884452916,1106,34937
+44,2069,D-Glucuronic acid (D-Glucuronate),952,Roseburia intestinalis,3,0.0007327760223956314,1155,55796
+45,2162,Melibiose,870,Prevotella copri,3,3.041750662569065e-06,1159,72811
+46,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",302,Clostridium bolteae,3,0.0030807358110809258,1171,69155
+47,2032,beta-alanine (3-Aminopropionate),457,Eubacterium rectale,3,0.005353893786353758,1180,49589
+48,2170,Mucin,76,Anaerotruncus colihominis,3,-0.0008740046331068285,1182,73865
+49,2030,Benzoate,54,Alistipes putredinis,2,-0.0010000000000000009,1184,5351
+50,2159,Lithocholic acid,46,Akkermansia muciniphila,2,-8.881266655047515e-05,1297,28318
+51,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,2,0.0046306640317893555,1301,42982
+52,2134,"L-Glutamine (D-Glutamine, Glutamine)",134,Bacteroides thetaiotaomicron,3,0.0023864009396925567,1319,67151
+53,2166,Methanol,1032,Staphylococcus hominis,3,-0.0010000000000000009,1335,73631
+54,2035,Biotin (Vitamin B7),454,Eubacterium eligens,3,0.0006855306561186492,1372,50180
+55,2035,Biotin (Vitamin B7),152,Bifidobacterium bifidum,2,-0.0002522669793141308,1414,6372
+56,2163,Menaquinone (Vitamin K2),870,Prevotella copri,3,-0.00010336563935520182,1536,73009
+57,2107,H2 (Hydrogen),967,Ruminococcus lactaris,2,0.0003952494728737266,1592,18974
+58,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",965,Ruminococcus flavefaciens,3,-0.0009218705106851521,1735,80154
+59,2184,Oleic acid ([9Z]-Octadecenoic acid),158,Bifidobacterium pseudocatenulatum,3,0.00014603646937505488,1767,76469
+60,2219,Sulfate (Sulfuric acid),401,Desulfovibrio piger,3,-0.00038008423631041843,1788,82838
+61,2167,Methylamine (Monomethylamine),1169,Veillonella parvula,2,0.00015257363996612483,1796,30095

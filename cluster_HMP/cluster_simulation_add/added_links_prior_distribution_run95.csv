@@ -1,0 +1,41 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2115,Indole-3-acetate (Indoleacetate),54,Alistipes putredinis,2,0.0007094473200102147,9,19805
+1,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.0029541854006838175,16,42971
+2,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0012281367834565682,22,35833
+3,2240,"Valerate (Pentanoic acid, Pentanoate)",123,Bacteroides dorei,3,0.0031076852272420297,26,86744
+4,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",570,Klebsiella pneumoniae,3,0.000982631761687447,56,73163
+5,2070,D-Lyxose (L-Lyxose),1167,Veillonella atypica,3,0.00031995892390268565,103,56031
+6,2225,Taurolithocholate,159,Bilophila wadsworthia,3,0.04613768002411156,122,83994
+7,2236,Tyramine,1167,Veillonella atypica,2,-1.0446470484093417e-05,146,42369
+8,2231,Trehalose,133,Bacteroides stercoris,3,-0.00013627563583051838,149,85168
+9,2081,Deoxycholic acid,153,Bifidobacterium breve,2,0.002205361399886696,188,14293
+10,2077,D-Tagaturonate,953,Roseburia inulinivorans,3,0.0011714004386633725,193,57381
+11,2240,"Valerate (Pentanoic acid, Pentanoate)",963,Ruminococcus albus,3,0.0007463301537238287,235,86884
+12,2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,0.000900839345539528,243,42970
+13,2186,Oxalate,653,Megamonas hypermegale,3,-0.0010048064493622944,283,76946
+14,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",570,Klebsiella pneumoniae,3,0.002665992898009506,318,80093
+15,2240,"Valerate (Pentanoic acid, Pentanoate)",804,Oxalobacter formigenes,2,7.188205673647197e-05,348,43095
+16,2120,Isomaltose,663,Methanobrevibacter smithii,2,-0.0010000000000000009,354,20914
+17,2203,Putrescine,966,Ruminococcus gnavus,2,0.000245813905502823,398,36199
+18,2163,Menaquinone (Vitamin K2),46,Akkermansia muciniphila,3,0.00012118140773043073,412,72868
+19,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),1167,Veillonella atypica,2,0.00011499037401097034,427,41973
+20,2201,Propanoate (Propionate),126,Bacteroides fragilis,2,0.004151941121495528,452,35663
+21,2240,"Valerate (Pentanoic acid, Pentanoate)",967,Ruminococcus lactaris,2,-0.0010374139816787808,455,43130
+22,2012,5-Aminovalerate,94,Atopobium parvulum,2,-0.0010000000000000009,510,2190
+23,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.010728742343894648,551,35644
+24,2085,Dimethylamine,153,Bifidobacterium breve,2,-0.0004751496486599116,559,15085
+25,2156,"L-Valine (Valine, D-Valine)",450,Escherichia coli,3,0.00207998771531559,631,71563
+26,2240,"Valerate (Pentanoic acid, Pentanoate)",1067,Streptococcus thermophilus,2,0.0002610053753122621,706,43156
+27,2066,D-Gluconate (D-Gluconic acid) (Gluconate),54,Alistipes putredinis,3,0.00012185799971531353,724,55049
+28,2073,D-Psicose,814,Parabacteroides merdae,3,0.0008675783614987553,727,56562
+29,2212,Spermidine,1064,Streptococcus salivarius,3,0.0005689472508567661,773,81763
+30,2240,"Valerate (Pentanoic acid, Pentanoate)",964,Ruminococcus bromii,3,0.0014842506817311918,825,86885
+31,2193,Pentanol,596,Lactobacillus jensenii,2,-0.0010000000000000009,845,34364
+32,2240,"Valerate (Pentanoic acid, Pentanoate)",457,Eubacterium rectale,2,2.806811474131976e-06,872,43055
+33,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),1064,Streptococcus salivarius,2,-5.446515414009312e-06,887,41965
+34,2212,Spermidine,450,Escherichia coli,3,0.0020609172908959694,981,81661
+35,2016,Acetone,464,Faecalibacterium prausnitzii,3,0.0004446459238705014,1111,46820
+36,2065,D-Galacturonate,460,Eubacterium siraeum,3,0.0025334996100071505,1212,54936
+37,2001,"[R,R]-2,3-Butanediol ([R,R]-Butanediol, [S,S]-2,3-Butanediol, [S,S]-Butanediol)",324,Clostridium sporogenes,2,-0.0010000000000000009,1233,65
+38,2211,Shikimate,339,Coprococcus eutactus,3,0.0011957671753090038,1269,81450
+39,2201,Propanoate (Propionate),598,Lactobacillus oris,2,-0.0009802697248910697,1294,35752

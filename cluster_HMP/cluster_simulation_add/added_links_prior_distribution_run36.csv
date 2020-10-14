@@ -1,0 +1,40 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2238,Urea,54,Alistipes putredinis,2,0.00637721731192098,9,42575
+1,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0008096648580013799,11,35833
+2,2227,Thiosulfate,337,Coprococcus catus,3,-0.0006101424906301833,46,84418
+3,2210,Riboflavin (Vitamin B2),46,Akkermansia muciniphila,2,-0.00025103754165001213,56,37426
+4,2027,Arachidate (Arachidic acid),155,Bifidobacterium dentium,3,-9.332289162067298e-05,108,48549
+5,2210,Riboflavin (Vitamin B2),966,Ruminococcus gnavus,2,0.001541606001397744,111,37585
+6,2173,N-Acetyl-D-mannosamine,600,Lactobacillus plantarum,3,-0.0009999999999998899,128,74561
+7,2070,D-Lyxose (L-Lyxose),839,Peptostreptococcus anaerobius,2,-0.001000000000000112,171,12215
+8,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,0.0015024615804122288,200,41858
+9,2116,Inosine,119,Bacteroides caccae,3,0.00017711208650694754,226,63772
+10,2065,D-Galacturonate,967,Ruminococcus lactaris,2,-0.0001547103018305629,233,11252
+11,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),1045,Streptococcus australis,2,0.00010528199077297629,254,31064
+12,2203,Putrescine,337,Coprococcus catus,3,0.0017402740165727293,272,79864
+13,2132,L-Fucose,55,Alistipes shahii,3,0.0004925364018696365,281,66732
+14,2038,Butyrate,1067,Streptococcus thermophilus,2,0.004920492778412333,283,7120
+15,2046,Chenodeoxycholic acid (Chenodeoxycholate),1169,Veillonella parvula,3,0.014655818673661614,291,52073
+16,2049,Cholic acid (Cholate),1067,Streptococcus thermophilus,3,0.0025206945585579676,302,52462
+17,2032,beta-alanine (3-Aminopropionate),860,Porphyromonas asaccharolytica,2,-0.0010000000000000009,304,5881
+18,2201,Propanoate (Propionate),601,Lactobacillus reuteri,3,-0.0010000000000000009,312,79512
+19,2240,"Valerate (Pentanoic acid, Pentanoate)",152,Bifidobacterium bifidum,2,0.0004894273749794786,349,43002
+20,2046,Chenodeoxycholic acid (Chenodeoxycholate),883,Propionibacterium acnes,3,0.0006806463687484277,427,52028
+21,2049,Cholic acid (Cholate),454,Eubacterium eligens,3,0.0014847792260686,443,52358
+22,2132,L-Fucose,883,Propionibacterium acnes,3,0.03641355655964151,476,66878
+23,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),158,Bifidobacterium pseudocatenulatum,2,0.013580674480353716,479,41819
+24,2035,Biotin (Vitamin B7),124,Bacteroides eggerthii,3,0.0006759310165833643,497,50115
+25,2160,Malonate,134,Bacteroides thetaiotaomicron,3,0.004221826355564562,541,72299
+26,2035,Biotin (Vitamin B7),411,Dialister invisus,2,-0.0003562555866506445,554,6411
+27,2240,"Valerate (Pentanoic acid, Pentanoate)",464,Faecalibacterium prausnitzii,3,0.013415016930964696,635,86816
+28,2063,D-Galactosamine (Galactosamine),964,Ruminococcus bromii,3,0.00466677749963329,675,54611
+29,2159,Lithocholic acid,1049,Streptococcus dysgalactiae,3,-0.0010000000000000009,685,72250
+30,2209,Ribitol,952,Roseburia intestinalis,3,-0.000327420379947041,693,81140
+31,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",460,Eubacterium siraeum,3,0.0003602122765549165,695,67014
+32,2134,"L-Glutamine (D-Glutamine, Glutamine)",964,Ruminococcus bromii,3,0.000822747127298018,704,67283
+33,2138,L-Idonate,455,Eubacterium hallii,3,0.0008670857915560326,762,68001
+34,2027,Arachidate (Arachidic acid),150,Bifidobacterium angulatum,2,-0.0010000000000000009,782,4786
+35,2040,Cadaverine,883,Propionibacterium acnes,2,0.00022701222734888837,821,7280
+36,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),337,Coprococcus catus,2,0.0007003452479223959,827,41848
+37,2006,2-Aminobutyric acid (2-Aminobutyrate),1169,Veillonella parvula,3,0.0001922421157505294,987,44945
+38,2038,Butyrate,46,Akkermansia muciniphila,2,3.9547108339421655e-05,1148,6934

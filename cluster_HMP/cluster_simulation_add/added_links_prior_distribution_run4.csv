@@ -1,0 +1,43 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2156,"L-Valine (Valine, D-Valine)",119,Bacteroides caccae,3,0.05077468383761807,29,71494
+1,2210,Riboflavin (Vitamin B2),54,Alistipes putredinis,2,0.00362841670759384,49,37427
+2,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.0007494098169393837,62,35644
+3,2223,Taurocholate,952,Roseburia intestinalis,3,0.013573252903619215,89,83714
+4,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1099,Sutterella wadsworthensis,2,-4.387518300230653e-05,91,36427
+5,2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,5.440258467381831e-06,104,6341
+6,2239,Uridine,952,Roseburia intestinalis,3,0.003849688204570212,141,86684
+7,2011,4-Aminobutyrate (GABA),159,Bilophila wadsworthia,3,0.0010153973785909098,145,45780
+8,2077,D-Tagaturonate,411,Dialister invisus,2,-0.0010000000000000009,153,13539
+9,2201,Propanoate (Propionate),607,Lactobacillus vaginalis,3,-0.0010000000000000009,165,79517
+10,2153,L-Threonine (Threonine),1064,Streptococcus salivarius,3,0.0007178736313637746,169,71071
+11,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),1064,Streptococcus salivarius,2,7.894719543244388e-05,176,41965
+12,2196,Phenylethylamine,967,Ruminococcus lactaris,2,-2.0629509039138405e-05,227,35012
+13,2120,Isomaltose,1169,Veillonella parvula,3,0.005567341618638699,283,64745
+14,2212,Spermidine,796,Odoribacter splanchnicus,3,0.0031455469925302237,324,81704
+15,2048,Cholecalciferol (Vitamin D3),398,Desulfovibrio desulfuricans,3,0.00016835729492292728,349,52147
+16,2120,Isomaltose,450,Escherichia coli,2,5.876010228389461e-06,351,20875
+17,2240,"Valerate (Pentanoic acid, Pentanoate)",337,Coprococcus catus,3,0.0018546114346731368,367,86794
+18,2211,Shikimate,964,Ruminococcus bromii,3,0.006302564492052798,400,81539
+19,2080,"D-Xylulose (Xylulose, L-Xylulose)",460,Eubacterium siraeum,2,-0.0010000000000000009,413,14148
+20,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",159,Bilophila wadsworthia,3,-4.5475325309407566e-05,474,80034
+21,2175,"N-Acetylneuraminic acid (N-acetylneuraminate, Neu5Ac, Sialic acid)",76,Anaerotruncus colihominis,3,-9.526905256929119e-05,477,74855
+22,2069,D-Glucuronic acid (D-Glucuronate),135,Bacteroides uniformis,3,0.00045426868375675333,531,55668
+23,2211,Shikimate,337,Coprococcus catus,2,0.0002559352582053309,563,37690
+24,2238,Urea,804,Oxalobacter formigenes,2,0.0009525755236133859,575,42699
+25,2035,Biotin (Vitamin B7),411,Dialister invisus,2,-5.065735077214306e-05,625,6411
+26,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",54,Alistipes putredinis,2,0.00053309815971192,648,7925
+27,2167,Methylamine (Monomethylamine),1067,Streptococcus thermophilus,2,0.00013248606686644404,660,30088
+28,2028,"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)",1064,Streptococcus salivarius,3,0.002208802864937076,717,48895
+29,2142,L-Leucine (Leucine),796,Odoribacter splanchnicus,3,-0.00014248216564216598,718,68834
+30,2093,Formate,153,Bifidobacterium breve,2,0.0021147881249246048,726,16471
+31,2225,Taurolithocholate,214,Butyrivibrio crossotus,3,0.0008239404160714781,752,83997
+32,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,3,0.0012922766735874447,753,86740
+33,2238,Urea,299,Clostridium asparagiforme,3,-0.0012373825112097503,788,86379
+34,2193,Pentanol,886,Proteus mirabilis,2,-0.0007411492034568035,816,34407
+35,2187,Oxaloacetate,796,Odoribacter splanchnicus,2,-0.0010000000000000009,875,33392
+36,2240,"Valerate (Pentanoic acid, Pentanoate)",157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.0002475397813379576,881,86764
+37,2046,Chenodeoxycholic acid (Chenodeoxycholate),1045,Streptococcus australis,3,-0.0009997460735414743,922,52052
+38,2085,Dimethylamine,159,Bilophila wadsworthia,3,4.499255649548228e-05,954,58848
+39,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",308,Clostridium cf,2,0.00023155954802778211,966,36289
+40,2074,D-Ribose (Ribose),159,Bilophila wadsworthia,3,0.00040240131478552765,989,56670
+41,2083,Dichloromethane (Methylene chloride),969,Ruminococcus torques,2,-0.0010000000000000009,1022,14818

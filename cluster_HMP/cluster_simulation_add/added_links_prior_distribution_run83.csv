@@ -1,0 +1,44 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,0.007451297306363847,1,6341
+1,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.0011256747147310175,3,35644
+2,2081,Deoxycholic acid,966,Ruminococcus gnavus,2,0.00013762661493110784,24,14419
+3,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",136,Bacteroides vulgatus,2,-0.00036400880368725463,25,36265
+4,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",455,Eubacterium hallii,3,0.007116026156039901,27,80079
+5,2129,"L-Aspartate (Aspartate, D-Aspartate)",870,Prevotella copri,3,0.0033139255895403563,28,66277
+6,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",129,Bacteroides ovatus,2,0.005037879880087526,31,24775
+7,2134,"L-Glutamine (D-Glutamine, Glutamine)",1064,Streptococcus salivarius,3,4.108985720130409e-05,33,67309
+8,2151,"L-Serine (Serine, D-Serine)",54,Alistipes putredinis,2,-0.0010000000000000009,41,26735
+9,2142,L-Leucine (Leucine),464,Faecalibacterium prausnitzii,3,0.02695739396606045,42,68798
+10,2104,"Glyoxylate (Glyoxylic acid, Glyoxalate)",398,Desulfovibrio desulfuricans,3,-0.0001860601738317147,51,62047
+11,2237,Uracil,129,Bacteroides ovatus,3,0.00399412550091649,83,86155
+12,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",120,Bacteroides cellulosilyticus,3,0.002076099723251401,103,80009
+13,2216,"Stearic acid (Stearate, Octadecanoate)",450,Escherichia coli,3,0.018366706596143256,113,82255
+14,2223,Taurocholate,330,Collinsella intestinalis,3,-0.000997160225025162,129,83624
+15,2125,"L-Alanine (D-Alanine, Alanine)",133,Bacteroides stercoris,3,0.0037814305666048487,223,65368
+16,2153,L-Threonine (Threonine),411,Dialister invisus,2,-0.0002540932122783168,242,27201
+17,2049,Cholic acid (Cholate),119,Bacteroides caccae,3,0.0033625693074053054,337,52288
+18,2079,D-Xylose (Xylose),969,Ruminococcus torques,3,-0.0001367669653897785,346,57784
+19,2140,L-Isoleucine (Isoleucine),119,Bacteroides caccae,3,0.0018589752424409411,405,68326
+20,2186,Oxalate,966,Ruminococcus gnavus,3,0.0008092821028766739,462,76987
+21,2159,Lithocholic acid,155,Bifidobacterium dentium,3,-0.0007497849699986681,499,72111
+22,2134,"L-Glutamine (D-Glutamine, Glutamine)",966,Ruminococcus gnavus,3,0.001247510528461837,502,67285
+23,2122,Isovalerate (3-Methylbutanoic acid),136,Bacteroides vulgatus,2,0.0012498528160704847,570,21217
+24,2046,Chenodeoxycholic acid (Chenodeoxycholate),134,Bacteroides thetaiotaomicron,3,0.0003761690463979228,602,51905
+25,2077,D-Tagaturonate,953,Roseburia inulinivorans,3,0.0001226678425133576,639,57381
+26,2106,Guanosine,119,Bacteroides caccae,3,0.0009914991571708942,702,62386
+27,2031,Benzyl alcohol,952,Roseburia intestinalis,3,-0.00015093395795151565,740,49460
+28,2140,L-Isoleucine (Isoleucine),436,Enterobacter cloacae,2,-3.447166995351747e-05,833,24632
+29,2007,2-methylbutyrate (2-methylbutanoic acid),551,Holdemania filiformis,2,-0.0010000000000000009,840,1288
+30,2158,Linoleic acid (Omega-6 fatty acid),952,Roseburia intestinalis,3,0.003235146743735373,849,72032
+31,2027,Arachidate (Arachidic acid),134,Bacteroides thetaiotaomicron,3,0.0020077598679791864,853,48539
+32,2201,Propanoate (Propionate),134,Bacteroides thetaiotaomicron,2,0.01462493004628962,864,35669
+33,2065,D-Galacturonate,133,Bacteroides stercoris,3,0.0008240948463282827,873,54874
+34,2125,"L-Alanine (D-Alanine, Alanine)",952,Roseburia intestinalis,3,9.891776625381432e-05,896,65498
+35,2163,Menaquinone (Vitamin K2),329,Collinsella aerofaciens (Eubacterium aerofaciens),3,8.914648869351449e-05,900,72931
+36,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",1169,Veillonella parvula,3,0.0004388418300617092,939,45737
+37,2119,Isobutyrate (2-Methylpropanoic acid),966,Ruminococcus gnavus,2,0.0001935231769646384,1060,20755
+38,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",461,Eubacterium ventriosum,3,-0.0003920540491044733,1088,80083
+39,2163,Menaquinone (Vitamin K2),1169,Veillonella parvula,3,0.00016294228303492808,1245,73061
+40,2240,"Valerate (Pentanoic acid, Pentanoate)",964,Ruminococcus bromii,3,0.0016075909556289014,1247,86885
+41,2237,Uracil,134,Bacteroides thetaiotaomicron,3,0.0007676873117117289,1309,86159
+42,2145,L-Methionine (D-Methionine),457,Eubacterium rectale,3,0.0005287784561386344,1347,69389

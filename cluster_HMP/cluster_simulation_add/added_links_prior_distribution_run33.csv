@@ -1,0 +1,49 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.008365038884250997,0,42971
+1,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",966,Ruminococcus gnavus,2,-0.00016762555978722116,6,36397
+2,2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,0.0011220869711641157,47,42970
+3,2046,Chenodeoxycholic acid (Chenodeoxycholate),870,Prevotella copri,3,0.0035812774865398023,49,52021
+4,2217,Succinate,592,Lactobacillus gasseri,2,-0.0010017291663756422,60,38719
+5,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",411,Dialister invisus,2,-6.283851912614047e-05,62,36309
+6,2114,Indole,153,Bifidobacterium breve,2,0.000504553918320827,70,19639
+7,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",411,Dialister invisus,3,0.0025518646188841254,75,80067
+8,2077,D-Tagaturonate,46,Akkermansia muciniphila,3,0.0028438195997874116,117,57226
+9,2099,Glycochenodeoxycholate,460,Eubacterium siraeum,3,0.03120347636236298,121,61074
+10,2157,Lactose,214,Butyrivibrio crossotus,3,0.0010225921717111897,123,71721
+11,2240,"Valerate (Pentanoic acid, Pentanoate)",1064,Streptococcus salivarius,3,0.004052850085189075,137,86911
+12,2081,Deoxycholic acid,603,Lactobacillus ruminis,3,-0.0010000000000000009,144,58130
+13,2090,Ethanolamine (Phosphatidylethanolamine),876,Prevotella oris,2,-0.0010000000000000009,153,15989
+14,2106,Guanosine,136,Bacteroides vulgatus,3,-9.90610687879867e-05,157,62401
+15,2035,Biotin (Vitamin B7),1067,Streptococcus thermophilus,2,-1.808267131997443e-05,161,6526
+16,2198,Pimelate,317,Clostridium nexile,2,-0.0010000000000000009,212,35305
+17,2129,"L-Aspartate (Aspartate, D-Aspartate)",214,Butyrivibrio crossotus,3,0.0010046780596660865,222,66177
+18,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",1099,Sutterella wadsworthensis,2,1.5919586643375894e-06,231,24943
+19,2101,Glycodeoxycholate,964,Ruminococcus bromii,3,0.003681063951077923,253,61541
+20,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),880,Prevotella timonensis,2,-0.0006177951785447666,259,31039
+21,2240,"Valerate (Pentanoic acid, Pentanoate)",461,Eubacterium ventriosum,2,-0.00012505234116477748,264,43057
+22,2201,Propanoate (Propionate),149,Bifidobacterium adolescentis,2,0.0161804083820849,291,35673
+23,2201,Propanoate (Propionate),967,Ruminococcus lactaris,3,-0.0010000000000000009,304,79562
+24,2049,Cholic acid (Cholate),119,Bacteroides caccae,3,0.0015432117773330756,339,52288
+25,2061,D-Fructose (Fructose),125,Bacteroides finegoldii (Alistipes finegoldii),3,-0.0004001709982998092,447,54076
+26,2081,Deoxycholic acid,46,Akkermansia muciniphila,2,0.004064204568275831,452,14260
+27,2140,L-Isoleucine (Isoleucine),464,Faecalibacterium prausnitzii,3,0.015822655402826125,459,68402
+28,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",1169,Veillonella parvula,3,0.004234411037096764,464,77813
+29,2075,"D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)",95,Atopobium rimae,3,-0.0010000000000000009,477,56839
+30,2090,Ethanolamine (Phosphatidylethanolamine),136,Bacteroides vulgatus,3,-0.0006540795548776179,483,59629
+31,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",464,Faecalibacterium prausnitzii,3,0.004856098542784459,499,67016
+32,2205,Pyruvate,866,Prevotella bivia,2,0.00016280657033140855,560,36574
+33,2017,Adenine,1169,Veillonella parvula,3,0.0022495762194468805,623,47123
+34,2022,alpha-ketoglutarate (2-oxoglutarate),457,Eubacterium rectale,3,0.0013218853687376741,672,47807
+35,2201,Propanoate (Propionate),154,Bifidobacterium catenulatum,3,-0.0009999302904359908,696,79436
+36,2153,L-Threonine (Threonine),464,Faecalibacterium prausnitzii,3,0.0031934913134110676,737,70976
+37,2201,Propanoate (Propionate),460,Eubacterium siraeum,2,0.00759396165719417,774,35730
+38,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",401,Desulfovibrio piger,3,0.0017690942600550041,815,69770
+39,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",46,Akkermansia muciniphila,3,4.1258208491212756e-05,864,69700
+40,2027,Arachidate (Arachidic acid),796,Odoribacter splanchnicus,3,0.0014439035120283883,867,48638
+41,2212,Spermidine,969,Ruminococcus torques,3,0.0025324905325964098,1060,81742
+42,2046,Chenodeoxycholic acid (Chenodeoxycholate),46,Akkermansia muciniphila,3,4.137634490997133e-05,1071,51880
+43,2176,N2,952,Roseburia intestinalis,3,-7.452309048883166e-05,1111,75200
+44,2064,D-Galactose,1169,Veillonella parvula,3,0.00017883954515673928,1117,54845
+45,2240,"Valerate (Pentanoic acid, Pentanoate)",129,Bacteroides ovatus,3,0.0002748173050064473,1265,86749
+46,2201,Propanoate (Propionate),401,Desulfovibrio piger,3,-0.001279938156409921,1293,79472
+47,2240,"Valerate (Pentanoic acid, Pentanoate)",953,Roseburia inulinivorans,3,-4.901971602511157e-05,1314,86883

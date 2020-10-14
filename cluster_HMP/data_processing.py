@@ -2,14 +2,21 @@
 import pandas as pd
 import numpy as np
 
-########### Load the mapped metabolites and microbes from Sharon to Chia network
+########### Load the metadata of HMP
+metadata = pd.read_csv('./data/HMP_metadata.txt', delimiter='\t')
+i_healthy_ids = metadata.loc[metadata['diagnosis']=='nonIBD', 'External ID']
+metadata.head()
+
+########### Load the mapped metabolites and microbes from HMP to Chia network
 metagenome = pd.read_csv('./data/HMP_metagenome_matched.txt', delimiter='\t')
 metabolome = pd.read_csv('./data/HMP_metabolome_matched_wb.txt', delimiter='\t')
+metagenome = metagenome[['Microbe_name', 'Chia_name', 'Chia_id', 'Match'] + list(i_healthy_ids.values)]
+metabolome = metabolome[['Compound_name', 'Kegg_id', 'Chia_name', 'Chia_id', 'Method'] + list(i_healthy_ids.values)]
 
 ########### Select the microbial strains have a maped existence in the Chia network
 #metagenome_mapped_in_Chia = metagenome[metagenome['Chia_id'] > 0]
 metagenome_mapped_in_Chia = metagenome[metagenome['Match'] == 'T']
-metagenome = metagenome_mapped_in_Chia.groupby('Chia_id').apply(np.sum).iloc[:,7:-1]
+metagenome = metagenome_mapped_in_Chia.groupby('Chia_id').apply(np.sum).iloc[:,4:]
 metagenome_ID = metagenome.reset_index()['Chia_id']
 metagenome.head()
 

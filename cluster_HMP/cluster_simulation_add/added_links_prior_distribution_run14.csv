@@ -1,0 +1,35 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,0.00685752977447085,21,36239
+1,2038,Butyrate,1099,Sutterella wadsworthensis,2,-0.0003646200213254236,32,7123
+2,2242,XOS (Xylooligosaccharide),46,Akkermansia muciniphila,2,-0.0003306471411408385,61,43366
+3,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",337,Coprococcus catus,3,0.002183550488981667,63,80062
+4,2033,Betaine (Glycine betaine),159,Bilophila wadsworthia,3,0.009153508722506976,94,49740
+5,2241,Xanthine,964,Ruminococcus bromii,3,0.009450711487330454,107,87083
+6,2081,Deoxycholic acid,120,Bacteroides cellulosilyticus,3,-9.827021200981001e-05,139,58031
+7,2201,Propanoate (Propionate),158,Bifidobacterium pseudocatenulatum,2,0.011014913592503839,142,35681
+8,2159,Lithocholic acid,302,Clostridium bolteae,3,3.4331894798289575e-05,145,72125
+9,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",895,Pseudoflavonifractor capillosus,2,-0.0005344266562417044,150,8075
+10,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",155,Bifidobacterium dentium,3,-0.0003729139845722873,190,80031
+11,2040,Cadaverine,966,Ruminococcus gnavus,2,0.0008965363570160312,195,7291
+12,2195,Phenylacetate,450,Escherichia coli,3,0.0009094413372451315,225,78493
+13,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",870,Prevotella copri,3,0.004146397335989316,231,47467
+14,2106,Guanosine,464,Faecalibacterium prausnitzii,3,0.003368178869260441,280,62462
+15,2153,L-Threonine (Threonine),457,Eubacterium rectale,3,0.0013908337343390142,282,70973
+16,2035,Biotin (Vitamin B7),124,Bacteroides eggerthii,3,0.0001667022479056035,284,50115
+17,2180,Nitrate,460,Eubacterium siraeum,3,9.867539091823474e-05,286,75726
+18,2235,Tryptamine,33,Actinomyces urogenitalis,3,-0.0010000000000000009,287,85736
+19,2120,Isomaltose,1167,Veillonella atypica,3,0.0017621233509358403,308,64743
+20,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",76,Anaerotruncus colihominis,3,0.03578811275563587,374,73073
+21,2049,Cholic acid (Cholate),76,Anaerotruncus colihominis,2,-2.7067802954694464e-05,400,8525
+22,2228,Thymidine,124,Bacteroides eggerthii,3,0.001936418043530952,411,84567
+23,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",129,Bacteroides ovatus,3,0.0011095561786190755,421,66949
+24,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",411,Dialister invisus,2,0.0006085615582935855,430,36309
+25,2156,"L-Valine (Valine, D-Valine)",401,Desulfovibrio piger,3,0.0027440914912771897,441,71552
+26,2070,D-Lyxose (L-Lyxose),551,Holdemania filiformis,3,9.95136524810647e-05,464,55936
+27,2142,L-Leucine (Leucine),570,Klebsiella pneumoniae,3,0.0004165336069515968,583,68807
+28,2212,Spermidine,123,Bacteroides dorei,3,0.0035427229510673897,681,81596
+29,2206,Raffinose,119,Bacteroides caccae,3,0.0002580520806451103,723,80404
+30,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",886,Proteus mirabilis,3,-0.0003576294009371983,724,80145
+31,2201,Propanoate (Propionate),966,Ruminococcus gnavus,3,-0.0011620259262815624,789,79561
+32,2240,"Valerate (Pentanoic acid, Pentanoate)",966,Ruminococcus gnavus,3,0.001240781162741511,796,86887
+33,2201,Propanoate (Propionate),436,Enterobacter cloacae,2,0.0003017238606873862,891,35720

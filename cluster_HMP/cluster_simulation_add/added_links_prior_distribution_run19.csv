@@ -1,0 +1,46 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2237,Uracil,339,Coprococcus eutactus,3,-1.2358067336570855e-05,2,86202
+1,2236,Tyramine,54,Alistipes putredinis,2,0.008152371899673327,4,42179
+2,2035,Biotin (Vitamin B7),214,Butyrivibrio crossotus,3,0.0004864008398789421,19,50139
+3,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",158,Bifidobacterium pseudocatenulatum,2,0.0028538105729838392,27,36275
+4,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",551,Holdemania filiformis,3,-0.00047794570338011155,34,80092
+5,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",94,Atopobium parvulum,3,-0.0010000000000000009,45,66936
+6,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),1067,Streptococcus thermophilus,2,0.004912346141000334,66,41968
+7,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.000702537570810069,107,35644
+8,2145,L-Methionine (D-Methionine),133,Bacteroides stercoris,3,0.009788694782814633,115,69328
+9,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",865,Prevotella bergensis,2,-0.0010012527626975798,128,14595
+10,2156,"L-Valine (Valine, D-Valine)",136,Bacteroides vulgatus,3,0.03568738815698913,150,71509
+11,2171,"Myristic acid (Tetradecanoic acid, Tetradecanoate)",450,Escherichia coli,3,0.003359731477070582,159,74137
+12,2201,Propanoate (Propionate),158,Bifidobacterium pseudocatenulatum,2,0.006612672250175811,185,35681
+13,2202,"Propanol (n-propanol, 1-Propanol)",149,Bifidobacterium adolescentis,2,0.0024226641123678005,200,35871
+14,2201,Propanoate (Propionate),136,Bacteroides vulgatus,2,0.031555142889286514,204,35671
+15,2237,Uracil,966,Ruminococcus gnavus,2,-9.887676784614552e-05,219,42535
+16,2105,Guanine,131,Bacteroides plebeius,2,-0.0010000000000000009,227,18441
+17,2016,Acetone,398,Desulfovibrio desulfuricans,3,0.00014392339758650952,242,46801
+18,2136,L-Histidine (Histidine),46,Akkermansia muciniphila,3,0.00475002822119186,266,67522
+19,2195,Phenylacetate,126,Bacteroides fragilis,3,4.0495446350652387e-05,324,78431
+20,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",464,Faecalibacterium prausnitzii,3,0.007993719949983102,371,67016
+21,2125,"L-Alanine (D-Alanine, Alanine)",158,Bifidobacterium pseudocatenulatum,2,0.000847784050101219,390,21623
+22,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",953,Roseburia inulinivorans,3,0.0008984181004805247,398,80151
+23,2084,Dimethyl sulfide (Methyl sulfide),124,Bacteroides eggerthii,3,-0.0008215493524763584,401,58629
+24,2202,"Propanol (n-propanol, 1-Propanol)",464,Faecalibacterium prausnitzii,3,0.0015933603455547951,427,79688
+25,2058,Cytidine,126,Bacteroides fragilis,3,0.002117225204337103,428,53483
+26,2129,"L-Aspartate (Aspartate, D-Aspartate)",411,Dialister invisus,2,-0.0010000000000000009,442,22449
+27,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",436,Enterobacter cloacae,2,0.0001519451601681432,450,36314
+28,2102,Glycolate,310,Clostridium hathewayi,2,-0.0010000000000000009,467,17877
+29,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",135,Bacteroides uniformis,3,0.0011929957487182286,531,75468
+30,2040,Cadaverine,551,Holdemania filiformis,2,-3.0353462869947556e-05,545,7228
+31,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",411,Dialister invisus,2,-0.0002329245304740768,562,10173
+32,2098,Glycerol,1032,Staphylococcus hominis,2,-0.0010000000000000009,584,17201
+33,2135,L-Glycine (Glycine),952,Roseburia intestinalis,3,0.005977169309890895,592,67478
+34,2196,Phenylethylamine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",2,0.0009880869331371223,627,34888
+35,2134,"L-Glutamine (D-Glutamine, Glutamine)",214,Butyrivibrio crossotus,3,0.00029961874869588456,647,67167
+36,2046,Chenodeoxycholic acid (Chenodeoxycholate),886,Proteus mirabilis,3,-0.00026527869501213885,678,52029
+37,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",590,Lactobacillus delbrueckii,3,-0.0010000000000000009,682,77723
+38,2111,Histamine,796,Odoribacter splanchnicus,3,0.0022178848467981904,806,63290
+39,2038,Butyrate,126,Bacteroides fragilis,2,0.002049407245017676,810,6953
+40,2155,L-Tyrosine (Tyrosine),964,Ruminococcus bromii,3,0.0005883232596707311,839,71441
+41,2092,Formaldehyde,966,Ruminococcus gnavus,2,-0.0005906105550799179,992,16399
+42,2148,"L-Proline (Proline, D-Proline)",450,Escherichia coli,3,0.0010724717935813866,1037,69979
+43,2040,Cadaverine,136,Bacteroides vulgatus,3,0.001232958963904851,1119,50917
+44,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",1032,Staphylococcus hominis,2,-0.0010000000000000009,1173,6311

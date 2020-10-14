@@ -1,0 +1,42 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,0.006857090587237602,2,36239
+1,2166,Methanol,46,Akkermansia muciniphila,2,0.00037359077535059626,13,29704
+2,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",964,Ruminococcus bromii,3,0.002095494639440254,18,58373
+3,2222,Taurochenodeoxycholate,883,Propionibacterium acnes,3,0.022112154445907306,20,83510
+4,2240,"Valerate (Pentanoic acid, Pentanoate)",967,Ruminococcus lactaris,2,-0.00019377496415340367,34,43130
+5,2081,Deoxycholic acid,966,Ruminococcus gnavus,2,-0.00013222664007428442,44,14419
+6,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",411,Dialister invisus,2,0.0007353569716977981,90,36309
+7,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1099,Sutterella wadsworthensis,2,0.0003995363693387599,95,36427
+8,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",158,Bifidobacterium pseudocatenulatum,2,0.0006768886169646882,108,36275
+9,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",128,Bacteroides intestinalis,3,0.0012994897210757417,151,80016
+10,2048,Cholecalciferol (Vitamin D3),464,Faecalibacterium prausnitzii,3,0.001157592573692301,164,52166
+11,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",870,Prevotella copri,3,0.0014322350829110153,176,68653
+12,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),883,Propionibacterium acnes,2,0.006263544554268252,195,41930
+13,2138,L-Idonate,450,Escherichia coli,3,0.0003541370240339736,223,67999
+14,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",450,Escherichia coli,3,0.0008742924566711441,257,51763
+15,2240,"Valerate (Pentanoic acid, Pentanoate)",120,Bacteroides cellulosilyticus,3,0.001365518472253413,267,86741
+16,2092,Formaldehyde,608,Lactococcus lactis,2,-0.0010258097794634269,346,16356
+17,2093,Formate,126,Bacteroides fragilis,2,0.005172293610692824,370,16457
+18,2058,Cytidine,450,Escherichia coli,3,0.003918188135816347,378,53545
+19,2046,Chenodeoxycholic acid (Chenodeoxycholate),457,Eubacterium rectale,3,0.010537085127361512,391,51965
+20,2231,Trehalose,952,Roseburia intestinalis,3,0.0012191323896826312,399,85298
+21,2115,Indole-3-acetate (Indoleacetate),969,Ruminococcus torques,3,-0.00011883888768693396,402,63724
+22,2239,Uridine,131,Bacteroides plebeius,3,0.00046582634697378555,416,86553
+23,2080,"D-Xylulose (Xylulose, L-Xylulose)",54,Alistipes putredinis,2,-0.0010000000000000009,480,14063
+24,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",398,Desulfovibrio desulfuricans,3,0.0053561149342294945,531,66997
+25,2103,Glycolithocholate,481,Fusobacterium nucleatum,3,-0.0011723659749055537,558,61872
+26,2153,L-Threonine (Threonine),158,Bifidobacterium pseudocatenulatum,2,0.004717146694724561,568,27167
+27,2145,L-Methionine (D-Methionine),159,Bilophila wadsworthia,3,0.0012572362272721405,602,69342
+28,2241,Xanthine,895,Pseudoflavonifractor capillosus,2,-0.0010000000000000009,672,43319
+29,2212,Spermidine,157,"Bifidobacterium longum (Bifidobacterium infantis, Bifidobacterium suis)",3,0.003022579343700982,701,81616
+30,2219,Sulfate (Sulfuric acid),953,Roseburia inulinivorans,3,0.0001913649826466024,722,82923
+31,2183,Octanoate (Caprylic acid),966,Ruminococcus gnavus,3,0.0033983580864738183,729,76393
+32,2134,"L-Glutamine (D-Glutamine, Glutamine)",119,Bacteroides caccae,3,0.007565777133032747,935,67138
+33,2202,"Propanol (n-propanol, 1-Propanol)",158,Bifidobacterium pseudocatenulatum,2,0.0003386145111553551,997,35879
+34,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),136,Bacteroides vulgatus,2,0.000550096210366724,1008,41809
+35,2217,Succinate,457,Eubacterium rectale,2,0.0006970801705341589,1144,38699
+36,2194,Phenol,159,Bilophila wadsworthia,3,0.00019494985906709505,1191,78252
+37,2049,Cholic acid (Cholate),1167,Veillonella atypica,3,0.0006563870874363165,1235,52467
+38,2184,Oleic acid ([9Z]-Octadecenoic acid),214,Butyrivibrio crossotus,3,0.00038012480223392764,1274,76473
+39,2201,Propanoate (Propionate),436,Enterobacter cloacae,2,0.0002521991396128298,1380,35720
+40,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",133,Bacteroides stercoris,3,0.0005758727193264646,1384,51706

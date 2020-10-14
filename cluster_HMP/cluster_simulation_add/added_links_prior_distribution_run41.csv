@@ -1,0 +1,60 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2003,"1,2-Ethanediol (Ethylene glycol)",54,Alistipes putredinis,2,0.010459501057562881,6,401
+1,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0008637083296311188,9,35833
+2,2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,0.001061555200642772,15,42970
+3,2155,L-Tyrosine (Tyrosine),214,Butyrivibrio crossotus,3,0.0014029157811827897,24,71325
+4,2035,Biotin (Vitamin B7),1087,Subdoligranulum variabile,3,-0.0009999429560146877,35,50286
+5,2075,"D-Sorbitol (D-Glucitol, Sorbitol, Glucitol, L-Sorbitol, Sorbitol)",119,Bacteroides caccae,2,-0.0010000000000000009,50,13084
+6,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",123,Bacteroides dorei,3,0.0010095054717247365,54,80012
+7,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",411,Dialister invisus,2,0.000358375222961671,55,3639
+8,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",46,Akkermansia muciniphila,3,0.005911262115915417,75,79996
+9,2006,2-Aminobutyric acid (2-Aminobutyrate),450,Escherichia coli,3,-3.884790632147084e-05,115,44833
+10,2006,2-Aminobutyric acid (2-Aminobutyrate),952,Roseburia intestinalis,3,0.002999385413770539,203,44906
+11,2240,"Valerate (Pentanoic acid, Pentanoate)",162,Blautia hydrogenotrophica (Ruminococcus hydrogenotrophicus),3,0.0011178332688737136,214,86768
+12,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",137,Bacteroides xylanisolvens,3,0.004392102718798752,257,80024
+13,2122,Isovalerate (3-Methylbutanoic acid),966,Ruminococcus gnavus,2,0.0005082520144731317,319,21349
+14,2202,"Propanol (n-propanol, 1-Propanol)",967,Ruminococcus lactaris,2,-0.00022283765892439078,356,36002
+15,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",122,Bacteroides coprophilus,3,-0.0010000000000000009,385,44371
+16,2195,Phenylacetate,149,Bifidobacterium adolescentis,2,0.00013653075323594166,395,34683
+17,2240,"Valerate (Pentanoic acid, Pentanoate)",1169,Veillonella parvula,3,0.004816763255484191,403,86921
+18,2201,Propanoate (Propionate),158,Bifidobacterium pseudocatenulatum,2,0.012233274655374715,406,35681
+19,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",155,Bifidobacterium dentium,3,-0.0006093654079410982,410,80031
+20,2190,"Pantothenic acid (Vitamin B5, Pantothenate)",439,Enterococcus faecium (Streptococcus faecium),3,-0.0010040286088089934,421,77699
+21,2068,D-Glucose (Glucose),608,Lactococcus lactis,3,-0.0011392375439717162,422,55560
+22,2085,Dimethylamine,159,Bilophila wadsworthia,3,5.058240735011932e-05,430,58848
+23,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",129,Bacteroides ovatus,3,0.0015412187948163902,469,80017
+24,2062,D-Fructuronate,158,Bifidobacterium pseudocatenulatum,3,-7.523292618116795e-05,487,54293
+25,2240,"Valerate (Pentanoic acid, Pentanoate)",125,Bacteroides finegoldii (Alistipes finegoldii),2,6.511020894184316e-05,505,42988
+26,2201,Propanoate (Propionate),470,Finegoldia magna,3,-0.0010000000000000009,554,79491
+27,2073,D-Psicose,124,Bacteroides eggerthii,3,0.0008436836021097349,555,56451
+28,2038,Butyrate,1067,Streptococcus thermophilus,2,0.0007946747728038162,568,7120
+29,2239,Uridine,123,Bacteroides dorei,3,0.016807383631499584,582,86546
+30,2144,"L-Malate ([S]-Malate, L-Malic acid, Malate, D-Malate, [R]-Malate)",663,Methanobrevibacter smithii,3,0.0003370229191176355,618,69226
+31,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",159,Bilophila wadsworthia,3,0.0069640660431570245,631,69738
+32,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",54,Alistipes putredinis,2,-0.0002026262897155684,657,3569
+33,2011,4-Aminobutyrate (GABA),152,Bifidobacterium bifidum,2,-0.00048161125406032124,671,2016
+34,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",464,Faecalibacterium prausnitzii,3,0.0006594652537692536,715,80084
+35,2092,Formaldehyde,464,Faecalibacterium prausnitzii,3,0.00035468763154589134,720,60086
+36,2130,L-Carnitine (D-Carnitine),966,Ruminococcus gnavus,2,-0.0010000000000000009,793,22735
+37,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",1057,Streptococcus mutans,2,-0.0010000000000000009,813,14638
+38,2213,Spermine,108,Bacillus licheniformis,3,-0.0010000000000000009,834,81789
+39,2059,Cytosine,663,Methanobrevibacter smithii,3,-9.431534417236875e-06,836,53782
+40,2070,D-Lyxose (L-Lyxose),464,Faecalibacterium prausnitzii,3,0.0028093681899807876,935,55928
+41,2198,Pimelate,67,Anaerococcus hydrogenalis,3,-0.0010000000000000009,944,79009
+42,2084,Dimethyl sulfide (Methyl sulfide),398,Desulfovibrio desulfuricans,3,0.00039834988864229093,947,58681
+43,2227,Thiosulfate,969,Ruminococcus torques,2,-0.0010000000000000009,992,40756
+44,2237,Uracil,159,Bilophila wadsworthia,3,0.0006393739127937836,996,86172
+45,2240,"Valerate (Pentanoic acid, Pentanoate)",812,Parabacteroides distasonis,2,0.00017881613418235798,1021,43096
+46,2228,Thymidine,302,Clostridium bolteae,2,-0.0010000000000000009,1026,40841
+47,2140,L-Isoleucine (Isoleucine),158,Bifidobacterium pseudocatenulatum,3,-0.0002235935484662388,1043,68351
+48,2203,Putrescine,136,Bacteroides vulgatus,3,0.0004919188579666223,1054,79825
+49,2035,Biotin (Vitamin B7),952,Roseburia intestinalis,3,0.008420689627537725,1120,50252
+50,2134,"L-Glutamine (D-Glutamine, Glutamine)",450,Escherichia coli,3,0.0058624944726940464,1139,67207
+51,2058,Cytidine,137,Bacteroides xylanisolvens,3,0.00012538169534548338,1173,53492
+52,2180,Nitrate,460,Eubacterium siraeum,3,-0.0003514098218185824,1233,75726
+53,2155,L-Tyrosine (Tyrosine),67,Anaerococcus hydrogenalis,2,-0.0010000000000000009,1293,27529
+54,2115,Indole-3-acetate (Indoleacetate),123,Bacteroides dorei,2,0.003954317957370113,1328,19820
+55,2205,Pyruvate,54,Alistipes putredinis,2,-0.0007429581531535057,1384,36437
+56,2240,"Valerate (Pentanoic acid, Pentanoate)",1064,Streptococcus salivarius,3,-8.329069379375831e-05,1518,86911
+57,2201,Propanoate (Propionate),136,Bacteroides vulgatus,2,0.0036320250001926624,1587,35671
+58,2081,Deoxycholic acid,68,Anaerococcus lactolyticus,2,-0.0010000000000000009,1659,14264

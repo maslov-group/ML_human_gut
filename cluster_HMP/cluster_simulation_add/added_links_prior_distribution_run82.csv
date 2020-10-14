@@ -1,0 +1,44 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2212,Spermidine,54,Alistipes putredinis,2,0.010459520678038126,1,37823
+1,2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,0.0010045608982202081,11,42970
+2,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",966,Ruminococcus gnavus,2,-0.00031207031942781516,18,36397
+3,2193,Pentanol,411,Dialister invisus,2,-0.00045909594884607774,84,34329
+4,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",1167,Veillonella atypica,3,0.0025630493904568175,102,45735
+5,2212,Spermidine,149,Bifidobacterium adolescentis,2,1.834222756047499e-05,113,37851
+6,2049,Cholic acid (Cholate),130,Bacteroides pectinophilus,3,-0.0003176689364647878,137,52298
+7,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",1099,Sutterella wadsworthensis,2,-0.00036820913732149574,139,3757
+8,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",826,Pediococcus acidilactici,3,-0.0010000000000000009,164,80125
+9,2148,"L-Proline (Proline, D-Proline)",952,Roseburia intestinalis,3,0.00031860731168875667,187,70052
+10,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",663,Methanobrevibacter smithii,3,0.0006222692850104128,213,45664
+11,2081,Deoxycholic acid,1067,Streptococcus thermophilus,2,0.002121811445860433,247,14446
+12,2155,L-Tyrosine (Tyrosine),551,Holdemania filiformis,3,8.711204724565214e-05,265,71380
+13,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",455,Eubacterium hallii,3,0.006425571866002122,273,80079
+14,2227,Thiosulfate,135,Bacteroides uniformis,3,0.0015396222018899675,309,84378
+15,2225,Taurolithocholate,126,Bacteroides fragilis,3,0.0071675658670586895,322,83975
+16,2012,5-Aminovalerate,398,Desulfovibrio desulfuricans,3,0.0005555856539372073,339,46009
+17,2106,Guanosine,119,Bacteroides caccae,3,0.0031517426002547477,353,62386
+18,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",124,Bacteroides eggerthii,3,0.0005142134944672305,392,49917
+19,2037,Butylamine,55,Alistipes shahii,2,0.00019063056820234348,398,6738
+20,2035,Biotin (Vitamin B7),1167,Veillonella atypica,2,-0.0001777802675906326,416,6531
+21,2134,"L-Glutamine (D-Glutamine, Glutamine)",158,Bifidobacterium pseudocatenulatum,2,0.0009611600909785745,524,23405
+22,2098,Glycerol,967,Ruminococcus lactaris,2,-0.0011969304314773943,531,17192
+23,2022,alpha-ketoglutarate (2-oxoglutarate),457,Eubacterium rectale,3,0.00306682295039451,543,47807
+24,2217,Succinate,260,Catenibacterium mitsuokai,2,0.00035117841868370636,615,38657
+25,2071,D-Mannitol (Mannitol),870,Prevotella copri,3,0.0005829440190767698,627,56179
+26,2217,Succinate,457,Eubacterium rectale,2,0.0027440165710345132,632,38699
+27,2100,Glycocholate,398,Desulfovibrio desulfuricans,3,0.008755885856587375,696,61255
+28,2120,Isomaltose,149,Bifidobacterium adolescentis,3,0.0006844536244715593,729,64581
+29,2240,"Valerate (Pentanoic acid, Pentanoate)",119,Bacteroides caccae,3,0.0049140913986785995,754,86740
+30,2078,D-Turanose,1045,Streptococcus australis,3,-0.0010161095800735875,792,57596
+31,2155,L-Tyrosine (Tyrosine),814,Parabacteroides merdae,3,0.0031190062662652673,841,71412
+32,2160,Malonate,119,Bacteroides caccae,2,-0.0010000000000000009,842,28528
+33,2178,"NH3 (Ammonia, NH4+, Ammonium)",870,Prevotella copri,3,0.0005963770372929833,869,75385
+34,2238,Urea,124,Bacteroides eggerthii,3,0.0007030525363249662,890,86349
+35,2214,Stachyose,411,Dialister invisus,3,-0.0010110129440706883,923,82047
+36,2201,Propanoate (Propionate),153,Bifidobacterium breve,2,0.001332130235147555,1013,35677
+37,2100,Glycocholate,653,Megamonas hypermegale,3,-0.0010015664857877526,1044,61304
+38,2063,D-Galactosamine (Galactosamine),455,Eubacterium hallii,3,0.00013452734980978764,1065,54537
+39,2081,Deoxycholic acid,321,Clostridium phytofermentans,2,-0.0010000000000000009,1069,14319
+40,2213,Spermine,1043,Streptococcus agalactiae,2,-0.0010000000000000009,1171,38190
+41,2062,D-Fructuronate,129,Bacteroides ovatus,3,0.0010738786062567396,1195,54277
+42,2201,Propanoate (Propionate),436,Enterobacter cloacae,2,2.8645599324361726e-05,1214,35720

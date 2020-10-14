@@ -1,0 +1,54 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2202,"Propanol (n-propanol, 1-Propanol)",54,Alistipes putredinis,2,0.0038882946521836548,18,35843
+1,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0012602625075566198,24,35833
+2,2127,L-Arginine (Arginine),952,Roseburia intestinalis,3,0.007720902841172772,28,65894
+3,2080,"D-Xylulose (Xylulose, L-Xylulose)",135,Bacteroides uniformis,3,6.365669039776201e-06,46,57846
+4,2011,4-Aminobutyrate (GABA),46,Akkermansia muciniphila,2,0.000398032140526583,57,1984
+5,2072,D-Mannose (Mannose),133,Bacteroides stercoris,3,0.003597777883496467,58,56260
+6,2167,Methylamine (Monomethylamine),398,Desulfovibrio desulfuricans,3,6.0874347173833776e-05,62,73729
+7,2212,Spermidine,54,Alistipes putredinis,2,4.9244415966653854e-05,69,37823
+8,2049,Cholic acid (Cholate),337,Coprococcus catus,3,0.002380015445042183,82,52342
+9,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",436,Enterobacter cloacae,2,0.00022371449720970382,99,36314
+10,2193,Pentanol,840,Peptostreptococcus stomatis,3,-0.0010000000000000009,142,78150
+11,2073,D-Psicose,310,Clostridium hathewayi,3,8.205327830446141e-05,156,56487
+12,2176,N2,159,Bilophila wadsworthia,3,0.000847026044154986,238,75084
+13,2130,L-Carnitine (D-Carnitine),963,Ruminococcus albus,3,-9.86195561011316e-05,251,66490
+14,2242,XOS (Xylooligosaccharide),310,Clostridium hathewayi,2,9.49258850957424e-05,256,43419
+15,2240,"Valerate (Pentanoic acid, Pentanoate)",1169,Veillonella parvula,3,0.008211627087084117,281,86921
+16,2063,D-Galactosamine (Galactosamine),125,Bacteroides finegoldii (Alistipes finegoldii),3,0.0017556103582003768,290,54472
+17,2035,Biotin (Vitamin B7),46,Akkermansia muciniphila,3,0.002760137762750303,294,50098
+18,2046,Chenodeoxycholic acid (Chenodeoxycholate),120,Bacteroides cellulosilyticus,3,0.0008914093313338034,310,51893
+19,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",401,Desulfovibrio piger,3,0.0016544993792498852,339,66998
+20,2031,Benzyl alcohol,870,Prevotella copri,3,-0.00014551770709925194,344,49447
+21,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",134,Bacteroides thetaiotaomicron,3,0.005563901537436355,362,80021
+22,2087,"Dodecanoate (Lauric acid, Laureate)",455,Eubacterium hallii,3,0.0013036344990237092,385,59091
+23,2161,Maltose,159,Bilophila wadsworthia,3,0.0023269027357860628,407,72510
+24,2016,Acetone,411,Dialister invisus,2,4.7721032089054205e-05,411,3045
+25,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),337,Coprococcus catus,2,0.002287930799152904,415,41848
+26,2120,Isomaltose,470,Finegoldia magna,3,7.260585898816174e-05,416,64641
+27,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),457,Eubacterium rectale,2,0.008222344189757647,422,41867
+28,2185,Orotic acid (Orotate),308,Clostridium cf,3,0.011248878145158847,454,76681
+29,2107,H2 (Hydrogen),967,Ruminococcus lactaris,2,0.0005316559797168274,460,18974
+30,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",455,Eubacterium hallii,2,0.0009836734638326572,495,681
+31,2201,Propanoate (Propionate),813,Parabacteroides johnsonii,3,-0.0010000000000000009,508,79529
+32,2181,Nitric Oxide (NO),159,Bilophila wadsworthia,3,-8.445740532603274e-06,537,75876
+33,2203,Putrescine,964,Ruminococcus bromii,3,0.0015663546817944463,567,79955
+34,2201,Propanoate (Propionate),308,Clostridium cf,2,0.02683851577701002,583,35695
+35,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",126,Bacteroides fragilis,3,0.005577244640760259,587,80015
+36,2105,Guanine,457,Eubacterium rectale,3,0.003470863044450878,703,62261
+37,2070,D-Lyxose (L-Lyxose),155,Bifidobacterium dentium,3,0.00047902724956616627,706,55875
+38,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1169,Veillonella parvula,3,0.0034747962424626078,725,75635
+39,2212,Spermidine,883,Propionibacterium acnes,3,0.0005183439156287717,735,81728
+40,2200,Propanal,1052,Streptococcus gallolyticus,2,-0.0010000000000000009,758,35621
+41,2120,Isomaltose,964,Ruminococcus bromii,3,0.002133158298398552,777,64709
+42,2240,"Valerate (Pentanoic acid, Pentanoate)",137,Bacteroides xylanisolvens,3,0.00029962470093591875,778,86756
+43,2240,"Valerate (Pentanoic acid, Pentanoate)",133,Bacteroides stercoris,3,0.0014065730178032254,795,86752
+44,2079,D-Xylose (Xylose),457,Eubacterium rectale,3,0.008182959892442665,800,57707
+45,2081,Deoxycholic acid,46,Akkermansia muciniphila,2,0.0005568795697519224,847,14260
+46,2187,Oxaloacetate,159,Bilophila wadsworthia,3,0.0021975998095089544,850,77064
+47,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",121,Bacteroides coprocola,3,0.0009651898625055999,861,80010
+48,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",570,Klebsiella pneumoniae,3,0.0007523992839292282,882,80093
+49,2038,Butyrate,153,Bifidobacterium breve,2,0.0006517350468470129,912,6967
+50,2097,Galactitol (Dulcitol),401,Desulfovibrio piger,3,-0.0006078258864834485,965,60662
+51,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),401,Desulfovibrio piger,3,8.501678809769153e-05,971,85610
+52,2046,Chenodeoxycholic acid (Chenodeoxycholate),512,Haemophilus influenzae,2,-0.0010000000000000009,1144,8217

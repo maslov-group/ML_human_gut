@@ -1,0 +1,54 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2089,Ethanol,54,Alistipes putredinis,2,7.884335829433375e-05,3,15647
+1,2117,"Inositol (myo-Inositol, Inositol 1-phosphate, Myo-inositol phosphate)",314,Clostridium leptum,3,0.0008062841682847655,9,64013
+2,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0011621915908459624,17,35833
+3,2224,Taurodeoxycholate,964,Ruminococcus bromii,3,0.029571566699112428,32,83915
+4,2212,Spermidine,967,Ruminococcus lactaris,2,0.0016120010911991889,35,37982
+5,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",411,Dialister invisus,2,0.0004836369778984384,46,36309
+6,2046,Chenodeoxycholic acid (Chenodeoxycholate),460,Eubacterium siraeum,3,0.004795184567642163,84,51966
+7,2049,Cholic acid (Cholate),450,Escherichia coli,3,0.001529163694700797,90,52357
+8,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",46,Akkermansia muciniphila,2,-0.00019856597113254715,137,31684
+9,2225,Taurolithocholate,135,Bacteroides uniformis,3,0.0036752225477282296,164,83982
+10,2081,Deoxycholic acid,883,Propionibacterium acnes,3,7.196363417139029e-05,170,58166
+11,2225,Taurolithocholate,464,Faecalibacterium prausnitzii,3,0.028452715932327233,218,84044
+12,2119,Isobutyrate (2-Methylpropanoic acid),966,Ruminococcus gnavus,2,0.0003887080229563189,228,20755
+13,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1169,Veillonella parvula,3,0.002620091475911468,251,80189
+14,2074,D-Ribose (Ribose),124,Bacteroides eggerthii,3,0.0002582832118160905,281,56649
+15,2006,2-Aminobutyric acid (2-Aminobutyrate),464,Faecalibacterium prausnitzii,3,0.0011406919580323471,293,44840
+16,2201,Propanoate (Propionate),158,Bifidobacterium pseudocatenulatum,2,0.011646124831225402,308,35681
+17,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",135,Bacteroides uniformis,3,0.0005920085559986132,334,75468
+18,2219,Sulfate (Sulfuric acid),129,Bacteroides ovatus,3,0.00012292900407384622,370,82789
+19,2027,Arachidate (Arachidic acid),814,Parabacteroides merdae,3,0.0005168553399788056,393,48642
+20,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",457,Eubacterium rectale,2,0.00669662007005789,443,31769
+21,2240,"Valerate (Pentanoic acid, Pentanoate)",966,Ruminococcus gnavus,3,0.0003895554163922954,445,86887
+22,2203,Putrescine,804,Oxalobacter formigenes,2,-1.0234026492916826e-07,446,36165
+23,2120,Isomaltose,814,Parabacteroides merdae,3,0.0013140310927901577,478,64680
+24,2035,Biotin (Vitamin B7),46,Akkermansia muciniphila,3,-0.0004068483372390297,540,50098
+25,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),46,Akkermansia muciniphila,2,0.0018021737918259007,573,41782
+26,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",124,Bacteroides eggerthii,3,0.0008826945729196733,665,75459
+27,2157,Lactose,450,Escherichia coli,3,0.003913617632611999,677,71761
+28,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,0.0005261895181359888,696,41858
+29,2138,L-Idonate,953,Roseburia inulinivorans,3,0.0006661320193851461,705,68073
+30,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",337,Coprococcus catus,3,0.0001689108154121488,764,80062
+31,2230,Toluene,456,Eubacterium limosum,2,-0.0010000000000000009,830,41272
+32,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",953,Roseburia inulinivorans,3,0.0017010156619833294,851,67083
+33,2156,"L-Valine (Valine, D-Valine)",457,Eubacterium rectale,3,0.0067314949595325135,996,71567
+34,2224,Taurodeoxycholate,54,Alistipes putredinis,3,0.004518614069664362,1030,83759
+35,2046,Chenodeoxycholic acid (Chenodeoxycholate),137,Bacteroides xylanisolvens,3,-0.00015216641553505994,1043,51908
+36,2048,Cholecalciferol (Vitamin D3),464,Faecalibacterium prausnitzii,3,2.080449639418891e-05,1064,52166
+37,2206,Raffinose,600,Lactobacillus plantarum,3,-0.0010000000000000009,1084,80501
+38,2196,Phenylethylamine,134,Bacteroides thetaiotaomicron,2,0.004473208062717449,1085,34877
+39,2185,Orotic acid (Orotate),214,Butyrivibrio crossotus,3,0.00027048083513647736,1154,76671
+40,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",457,Eubacterium rectale,3,0.002719837616326659,1165,73151
+41,2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,0.00019202554364994295,1177,6341
+42,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),96,Atopobium vaginae,2,-0.0010000000000000009,1291,30902
+43,2201,Propanoate (Propionate),135,Bacteroides uniformis,2,0.0062179234900490155,1370,35670
+44,2066,D-Gluconate (D-Gluconic acid) (Gluconate),663,Methanobrevibacter smithii,3,-0.0001237479598965585,1442,55168
+45,2125,"L-Alanine (D-Alanine, Alanine)",136,Bacteroides vulgatus,2,0.0003539144133207772,1506,21613
+46,2011,4-Aminobutyrate (GABA),814,Parabacteroides merdae,3,-0.00046567781101691796,1561,45870
+47,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",1169,Veillonella parvula,3,0.0034742975746470117,1579,69893
+48,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),866,Prevotella bivia,2,-0.0005471300695178982,1608,41920
+49,2153,L-Threonine (Threonine),1169,Veillonella parvula,3,0.0011716520155120591,1615,71081
+50,2049,Cholic acid (Cholate),470,Finegoldia magna,2,-0.0009722705964838596,1688,8607
+51,2087,"Dodecanoate (Lauric acid, Laureate)",895,Pseudoflavonifractor capillosus,2,-0.0010000000000000009,1697,15401
+52,2020,Adipate,135,Bacteroides uniformis,3,0.0012271479956864617,1763,47550

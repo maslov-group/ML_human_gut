@@ -1,0 +1,41 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2115,Indole-3-acetate (Indoleacetate),54,Alistipes putredinis,2,0.0007094473200102147,13,19805
+1,2038,Butyrate,294,Citrobacter rodentium,3,-0.0011347044310152654,16,50738
+2,2240,"Valerate (Pentanoic acid, Pentanoate)",1099,Sutterella wadsworthensis,2,0.0009267883852031034,17,43159
+3,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,0.002898662199592117,25,36239
+4,2019,"Adenosylcobalamin (Vitamin B12, Cobamide coenzyme, Cob[II]alamin, Vitamin B12r, Cob[I]alamin, Vitamin B12s, Aquacobalamin, Cobalamin [III])",46,Akkermansia muciniphila,2,0.0005150053662335008,33,3568
+5,2115,Indole-3-acetate (Indoleacetate),411,Dialister invisus,2,-0.00019087268906337052,47,19875
+6,2120,Isomaltose,131,Bacteroides plebeius,3,0.0007406119321722304,65,64575
+7,2209,Ribitol,159,Bilophila wadsworthia,3,0.0013105069017895765,80,81024
+8,2049,Cholic acid (Cholate),663,Methanobrevibacter smithii,3,0.00041204381891146724,104,52396
+9,2129,"L-Aspartate (Aspartate, D-Aspartate)",952,Roseburia intestinalis,3,0.012223528846252552,118,66290
+10,2201,Propanoate (Propionate),436,Enterobacter cloacae,2,0.0002462442888775396,124,35720
+11,2156,"L-Valine (Valine, D-Valine)",123,Bacteroides dorei,3,0.021542919676379335,127,71498
+12,2119,Isobutyrate (2-Methylpropanoic acid),464,Faecalibacterium prausnitzii,3,0.00020847734434459309,155,64442
+13,2041,Caproate (Hexanoate),1169,Veillonella parvula,3,0.00218033581339927,171,51281
+14,2229,Thymine,135,Bacteroides uniformis,3,0.0019876090806913993,183,84774
+15,2074,D-Ribose (Ribose),457,Eubacterium rectale,3,0.00047473738053038783,186,56717
+16,2212,Spermidine,457,Eubacterium rectale,3,0.0032348779566869768,195,81665
+17,2222,Taurochenodeoxycholate,159,Bilophila wadsworthia,3,0.010403014040542224,203,83400
+18,2240,"Valerate (Pentanoic acid, Pentanoate)",135,Bacteroides uniformis,2,-8.031739082403622e-05,206,42996
+19,2137,L-Homoserine,135,Bacteroides uniformis,3,0.0001777305266811302,217,67746
+20,2154,L-Tryptophan (Tryptophan),570,Klebsiella pneumoniae,3,2.628874632426559e-07,220,71183
+21,2148,"L-Proline (Proline, D-Proline)",966,Ruminococcus gnavus,2,-0.0010000000000000009,239,26299
+22,2081,Deoxycholic acid,158,Bifidobacterium pseudocatenulatum,2,0.009449190333662538,265,14297
+23,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",464,Faecalibacterium prausnitzii,3,0.010771184926261168,269,67016
+24,2106,Guanosine,159,Bilophila wadsworthia,3,0.0017151577913444571,297,62412
+25,2063,D-Galactosamine (Galactosamine),570,Klebsiella pneumoniae,3,0.00010305054849557571,311,54551
+26,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",128,Bacteroides intestinalis,3,0.0003003878087050049,322,80016
+27,2136,L-Histidine (Histidine),464,Faecalibacterium prausnitzii,3,0.008941338271936883,364,67610
+28,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),837,Peptoniphilus harei,2,-0.0010067237064577128,372,41913
+29,2046,Chenodeoxycholic acid (Chenodeoxycholate),1067,Streptococcus thermophilus,3,-0.00032757526032389794,503,52066
+30,2050,Choline,158,Bifidobacterium pseudocatenulatum,3,0.0016087107558538927,548,52511
+31,2081,Deoxycholic acid,804,Oxalobacter formigenes,2,-0.00027781585027997213,573,14385
+32,2049,Cholic acid (Cholate),608,Lactococcus lactis,2,-0.0010025780275687568,632,8634
+33,2049,Cholic acid (Cholate),129,Bacteroides ovatus,3,0.0021645074379605944,676,52297
+34,2079,D-Xylose (Xylose),1169,Veillonella parvula,3,0.0011129873527745415,771,57815
+35,2170,Mucin,135,Bacteroides uniformis,3,-0.00024263076704256203,778,73884
+36,2158,Linoleic acid (Omega-6 fatty acid),570,Klebsiella pneumoniae,2,-0.0009947253167701398,785,28217
+37,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",436,Enterobacter cloacae,2,-0.0004086837481261929,811,24830
+38,2071,D-Mannitol (Mannitol),154,Bifidobacterium catenulatum,2,-0.0010000000000000009,827,12314
+39,2159,Lithocholic acid,967,Ruminococcus lactaris,2,-0.0011665529226027038,854,28478

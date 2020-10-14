@@ -1,0 +1,52 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2240,"Valerate (Pentanoic acid, Pentanoate)",1099,Sutterella wadsworthensis,2,0.0007039077820469863,11,43159
+1,2037,Butylamine,54,Alistipes putredinis,2,0.005477047015263858,16,6737
+2,2087,"Dodecanoate (Lauric acid, Laureate)",152,Bifidobacterium bifidum,3,0.0005317710618015781,23,59040
+3,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",398,Desulfovibrio desulfuricans,3,0.0038518568271744824,26,75511
+4,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",125,Bacteroides finegoldii (Alistipes finegoldii),3,0.0011782144941356876,28,58234
+5,2132,L-Fucose,457,Eubacterium rectale,3,0.03628317347206633,36,66815
+6,2109,H2S (HS-),46,Akkermansia muciniphila,2,-0.0004880800884577985,86,19210
+7,2240,"Valerate (Pentanoic acid, Pentanoate)",136,Bacteroides vulgatus,2,0.0013959322790491058,89,42997
+8,2201,Propanoate (Propionate),134,Bacteroides thetaiotaomicron,2,0.026335006774874437,90,35669
+9,2238,Urea,804,Oxalobacter formigenes,2,0.0002587103288100856,136,42699
+10,2074,D-Ribose (Ribose),54,Alistipes putredinis,2,-0.00014037627973162436,161,12875
+11,2037,Butylamine,457,Eubacterium rectale,2,0.0031854437656732015,221,6821
+12,2037,Butylamine,1169,Veillonella parvula,3,0.002671646324665211,233,50687
+13,2229,Thymine,457,Eubacterium rectale,3,0.003119957211878188,238,84833
+14,2046,Chenodeoxycholic acid (Chenodeoxycholate),337,Coprococcus catus,3,-2.2871721610751017e-05,245,51946
+15,2240,"Valerate (Pentanoic acid, Pentanoate)",133,Bacteroides stercoris,3,0.012946776433376717,247,86752
+16,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",158,Bifidobacterium pseudocatenulatum,2,0.006020924537782357,294,635
+17,2091,"Folic acid (Folate, Vitamin B9)",464,Faecalibacterium prausnitzii,3,0.0002254906368562848,317,59888
+18,2132,L-Fucose,953,Roseburia inulinivorans,3,0.010026742303055225,382,66885
+19,2035,Biotin (Vitamin B7),953,Roseburia inulinivorans,2,0.0005173700184932795,391,6495
+20,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",135,Bacteroides uniformis,3,0.0034049715018605875,432,80022
+21,2157,Lactose,450,Escherichia coli,3,0.0044877513629790755,455,71761
+22,2038,Butyrate,436,Enterobacter cloacae,2,0.0005963961037765975,504,7010
+23,2007,2-methylbutyrate (2-methylbutanoic acid),1043,Streptococcus agalactiae,2,-0.0010000000000000009,525,1362
+24,2067,D-Glucosamine (Glucosamine),964,Ruminococcus bromii,3,-0.00021163458804773772,527,55403
+25,2097,Galactitol (Dulcitol),159,Bilophila wadsworthia,3,5.593012491256211e-05,538,60630
+26,2220,Sulfur (Elemental sulfur),436,Enterobacter cloacae,3,-0.000996121653732529,560,83042
+27,2155,L-Tyrosine (Tyrosine),952,Roseburia intestinalis,3,0.00034479101877771257,574,71438
+28,2210,Riboflavin (Vitamin B2),411,Dialister invisus,2,1.562085796957824e-05,590,37497
+29,2226,"Thiamine (Vitamin B1, Thiamin)",570,Klebsiella pneumoniae,3,3.9647988492541586e-05,598,84251
+30,2123,Itaconate,711,Mitsuokella multacida,2,-0.0010000000000000009,614,21510
+31,2049,Cholic acid (Cholate),1168,Veillonella dispar,3,0.00019727431945548712,663,52468
+32,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",337,Coprococcus catus,3,0.00015361900533894524,666,80062
+33,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",455,Eubacterium hallii,3,0.0005842734919432324,701,80079
+34,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",162,Blautia hydrogenotrophica (Ruminococcus hydrogenotrophicus),3,0.0001228004466601318,717,80036
+35,2240,"Valerate (Pentanoic acid, Pentanoate)",129,Bacteroides ovatus,3,0.0003979489888583654,793,86749
+36,2131,"L-Cysteine (Cysteine, D-Cysteine)",870,Prevotella copri,3,0.0008772017787935793,799,66673
+37,2059,Cytosine,134,Bacteroides thetaiotaomicron,3,0.005190258932248892,803,53687
+38,2064,D-Galactose,814,Parabacteroides merdae,3,-0.0005855945980620669,823,54780
+39,2028,"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)",964,Ruminococcus bromii,3,0.004750725101465014,941,48869
+40,2119,Isobutyrate (2-Methylpropanoic acid),152,Bifidobacterium bifidum,2,0.0006857070145910305,1047,20628
+41,2084,Dimethyl sulfide (Methyl sulfide),159,Bilophila wadsworthia,3,-0.000290833970614357,1068,58650
+42,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",398,Desulfovibrio desulfuricans,2,-0.0007569018940863925,1116,36307
+43,2238,Urea,1064,Streptococcus salivarius,3,-0.00019164537825711037,1119,86515
+44,2013,Acetaldehyde,481,Fusobacterium nucleatum,2,-0.0010000000000000009,1199,2472
+45,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),133,Bacteroides stercoris,2,0.0029594978239267933,1266,41806
+46,2153,L-Threonine (Threonine),952,Roseburia intestinalis,3,0.0023417566177537097,1280,71042
+47,2201,Propanoate (Propionate),1047,Streptococcus cristatus,2,-0.0010000000000000009,1282,35817
+48,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",314,Clostridium leptum,3,-4.709806583547138e-05,1296,80051
+49,2208,Retinol (Vitamin A),871,Prevotella disiens,2,-0.0010000000000000009,1341,37172
+50,2220,Sulfur (Elemental sulfur),1169,Veillonella parvula,3,-0.0006150802817840306,1391,83159

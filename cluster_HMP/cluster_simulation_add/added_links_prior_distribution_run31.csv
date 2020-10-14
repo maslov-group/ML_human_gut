@@ -1,0 +1,35 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,0.00685752977447085,15,36239
+1,2193,Pentanol,46,Akkermansia muciniphila,2,0.0001692890914608558,33,34258
+2,2136,L-Histidine (Histidine),464,Faecalibacterium prausnitzii,3,0.020207340575291277,54,67610
+3,2070,D-Lyxose (L-Lyxose),119,Bacteroides caccae,3,0.004480215713863589,62,55852
+4,2049,Cholic acid (Cholate),401,Desulfovibrio piger,3,0.0029663585004926496,84,52346
+5,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1099,Sutterella wadsworthensis,2,0.00025455454383627174,86,36427
+6,2015,"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)",464,Faecalibacterium prausnitzii,3,0.0007728187067616021,93,46622
+7,2240,"Valerate (Pentanoic acid, Pentanoate)",804,Oxalobacter formigenes,2,0.0002850223733429358,114,43095
+8,2076,D-Tagatose,38,Aeromonas hydrophila,3,-0.0010000000000000009,224,57027
+9,2038,Butyrate,136,Bacteroides vulgatus,2,0.029862251370475157,329,6961
+10,2028,"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)",895,Pseudoflavonifractor capillosus,2,-0.0010000000000000009,377,5105
+11,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),460,Eubacterium siraeum,3,0.027912549603445136,418,74736
+12,2062,D-Fructuronate,135,Bacteroides uniformis,3,0.0012828168241939553,431,54282
+13,2115,Indole-3-acetate (Indoleacetate),464,Faecalibacterium prausnitzii,3,0.002223407415623435,433,63650
+14,2240,"Valerate (Pentanoic acid, Pentanoate)",966,Ruminococcus gnavus,2,0.0006369131539497586,448,43129
+15,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",337,Coprococcus catus,3,0.0006171571307915791,450,80062
+16,2068,D-Glucose (Glucose),952,Roseburia intestinalis,3,-5.711010309206177e-05,491,55598
+17,2160,Malonate,131,Bacteroides plebeius,3,0.000401832698029847,504,72297
+18,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),605,Lactobacillus salivarius,3,-0.0010000000000000009,510,85654
+19,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",967,Ruminococcus lactaris,2,-0.0006626475298349144,526,758
+20,2212,Spermidine,55,Alistipes shahii,3,0.002178416186804588,574,81582
+21,2158,Linoleic acid (Omega-6 fatty acid),46,Akkermansia muciniphila,3,0.007355577353803877,617,71878
+22,2238,Urea,339,Coprococcus eutactus,3,7.499658102949613e-05,628,86400
+23,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",136,Bacteroides vulgatus,3,0.007837986921835793,638,69727
+24,2037,Butylamine,460,Eubacterium siraeum,2,0.003744530991110273,658,6822
+25,2143,"L-Lysine (Lysine, D-Lysine)",324,Clostridium sporogenes,3,-0.0010000000000000009,685,68969
+26,2125,"L-Alanine (D-Alanine, Alanine)",54,Alistipes putredinis,2,4.3076895448357355e-05,743,21587
+27,2196,Phenylethylamine,159,Bilophila wadsworthia,3,-0.00011611210641027103,811,78648
+28,2153,L-Threonine (Threonine),75,Anaerostipes caccae,2,-0.0007625511563931209,832,27136
+29,2046,Chenodeoxycholic acid (Chenodeoxycholate),870,Prevotella copri,3,-0.0001337630419818714,935,52021
+30,2201,Propanoate (Propionate),460,Eubacterium siraeum,2,0.003032984830874219,941,35730
+31,2207,Retinoate,483,Fusobacterium ulcerans,2,-0.0010000000000000009,1059,36926
+32,2184,Oleic acid ([9Z]-Octadecenoic acid),796,Odoribacter splanchnicus,3,0.00022737997901023377,1116,76556
+33,2136,L-Histidine (Histidine),1087,Subdoligranulum variabile,2,-0.001021456061296,1117,23952

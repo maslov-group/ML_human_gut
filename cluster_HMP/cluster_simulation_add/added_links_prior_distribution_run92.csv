@@ -1,0 +1,41 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2153,L-Threonine (Threonine),54,Alistipes putredinis,2,0.0027004658431339923,3,27131
+1,2240,"Valerate (Pentanoic acid, Pentanoate)",966,Ruminococcus gnavus,2,0.0004561323408502904,8,43129
+2,2074,D-Ribose (Ribose),46,Akkermansia muciniphila,2,0.0001812241972392048,52,12874
+3,2181,Nitric Oxide (NO),135,Bacteroides uniformis,2,-0.001000000000000112,110,32106
+4,2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,0.003257945973805576,127,6341
+5,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,0.0012910404253594354,150,41858
+6,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",1099,Sutterella wadsworthensis,2,0.0013102967449780678,155,787
+7,2046,Chenodeoxycholic acid (Chenodeoxycholate),570,Klebsiella pneumoniae,3,0.000476485000811655,204,51977
+8,2195,Phenylacetate,967,Ruminococcus lactaris,2,-0.0002479377116209047,238,34814
+9,2240,"Valerate (Pentanoic acid, Pentanoate)",133,Bacteroides stercoris,3,0.008937990024527553,265,86752
+10,2005,"1,3-Propanediol",1169,Veillonella parvula,3,0.00024093912304978815,270,44747
+11,2185,Orotic acid (Orotate),398,Desulfovibrio desulfuricans,3,-2.8137425594820797e-05,396,76699
+12,2035,Biotin (Vitamin B7),54,Alistipes putredinis,3,0.002932906530895729,401,50099
+13,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",159,Bilophila wadsworthia,3,0.01129352245766213,452,45582
+14,2138,L-Idonate,135,Bacteroides uniformis,3,0.005172012726196162,484,67944
+15,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",570,Klebsiella pneumoniae,3,0.0032752433129314973,506,80093
+16,2121,Isopropanol (2-Propanol),54,Alistipes putredinis,2,-0.0010000000000000009,532,20993
+17,2035,Biotin (Vitamin B7),411,Dialister invisus,2,0.00044548931891352783,533,6411
+18,2240,"Valerate (Pentanoic acid, Pentanoate)",120,Bacteroides cellulosilyticus,3,0.00019380860257800503,576,86741
+19,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",1099,Sutterella wadsworthensis,3,-0.0010000000000000009,592,44149
+20,2203,Putrescine,964,Ruminococcus bromii,3,0.0022847876567283487,598,79955
+21,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",421,Dorea longicatena,3,0.0008277407105284906,602,69773
+22,2033,Betaine (Glycine betaine),1087,Subdoligranulum variabile,2,-0.0010000000000000009,633,6132
+23,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),153,Bifidobacterium breve,2,0.00043869733754386964,636,41815
+24,2147,"L-Phenylalanine (Phenylalanine, D-Phenylalanine)",464,Faecalibacterium prausnitzii,3,0.017625651007954546,637,69788
+25,2153,L-Threonine (Threonine),1059,Streptococcus parasanguinis,3,-0.0001686775424016851,641,71069
+26,2092,Formaldehyde,450,Escherichia coli,2,0.0017458818084552519,650,16321
+27,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",966,Ruminococcus gnavus,3,0.005402191734632966,678,80155
+28,2140,L-Isoleucine (Isoleucine),964,Ruminococcus bromii,3,0.001902423800524633,737,68471
+29,2070,D-Lyxose (L-Lyxose),969,Ruminococcus torques,3,0.0011369746305620598,748,56002
+30,2125,"L-Alanine (D-Alanine, Alanine)",119,Bacteroides caccae,3,0.004162109273900927,760,65356
+31,2035,Biotin (Vitamin B7),1064,Streptococcus salivarius,3,0.00024145000580910736,763,50281
+32,2227,Thiosulfate,464,Faecalibacterium prausnitzii,3,0.0043317435458707365,768,84440
+33,2041,Caproate (Hexanoate),158,Bifidobacterium pseudocatenulatum,2,-0.0010000000000000009,802,7367
+34,2134,"L-Glutamine (D-Glutamine, Glutamine)",1067,Streptococcus thermophilus,2,4.0894131287827484e-05,836,23554
+35,2081,Deoxycholic acid,883,Propionibacterium acnes,3,0.0005200316193573196,932,58166
+36,2067,D-Glucosamine (Glucosamine),137,Bacteroides xylanisolvens,3,0.0001555964114182684,1053,55274
+37,2070,D-Lyxose (L-Lyxose),123,Bacteroides dorei,3,0.000653378299870333,1092,55856
+38,2015,"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)",464,Faecalibacterium prausnitzii,3,-0.00041482809009441013,1114,46622
+39,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",604,Lactobacillus sakei,3,-0.0010000000000000009,1207,44073

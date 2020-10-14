@@ -1,0 +1,37 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.008365035723525649,26,42971
+1,2016,Acetone,1099,Sutterella wadsworthensis,2,0.001405956024314814,30,3163
+2,2035,Biotin (Vitamin B7),411,Dialister invisus,2,0.00032598506035075303,43,6411
+3,2035,Biotin (Vitamin B7),436,Enterobacter cloacae,2,0.0005002329338377187,58,6416
+4,2049,Cholic acid (Cholate),129,Bacteroides ovatus,3,0.008990518128925706,70,52297
+5,2240,"Valerate (Pentanoic acid, Pentanoate)",120,Bacteroides cellulosilyticus,3,0.0010302929539717232,80,86741
+6,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,6.49275522535131e-06,85,35644
+7,2115,Indole-3-acetate (Indoleacetate),966,Ruminococcus gnavus,2,-0.0002638720898179292,104,19963
+8,2160,Malonate,570,Klebsiella pneumoniae,3,0.0010420182834425251,127,72371
+9,2238,Urea,804,Oxalobacter formigenes,2,0.001408670800976508,153,42699
+10,2201,Propanoate (Propionate),149,Bifidobacterium adolescentis,2,0.01937356996763462,158,35673
+11,2163,Menaquinone (Vitamin K2),1168,Veillonella dispar,3,0.00027494761875646034,192,73060
+12,2099,Glycochenodeoxycholate,314,Clostridium leptum,3,0.00857435802961326,330,61043
+13,2140,L-Isoleucine (Isoleucine),464,Faecalibacterium prausnitzii,3,0.019914006466797196,342,68402
+14,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",883,Propionibacterium acnes,3,0.0006622048087983057,372,67076
+15,2212,Spermidine,966,Ruminococcus gnavus,3,-0.0009671961983750421,430,81739
+16,2062,D-Fructuronate,953,Roseburia inulinivorans,3,0.0002221628060761205,499,54411
+17,2042,Carbon monoxide (CO),1169,Veillonella parvula,3,-8.663532047092914e-05,500,51479
+18,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",464,Faecalibacterium prausnitzii,3,0.010464275956335478,550,80084
+19,2229,Thymine,137,Bacteroides xylanisolvens,3,0.002153196374997668,580,84776
+20,2127,L-Arginine (Arginine),952,Roseburia intestinalis,3,0.0029991568911210686,602,65894
+21,2068,D-Glucose (Glucose),1169,Veillonella parvula,3,0.0002986420238622056,628,55637
+22,2201,Propanoate (Propionate),129,Bacteroides ovatus,2,0.002639148189666485,690,35665
+23,2119,Isobutyrate (2-Methylpropanoic acid),158,Bifidobacterium pseudocatenulatum,2,0.0064703783478009536,703,20633
+24,2238,Urea,461,Eubacterium ventriosum,3,-0.0002540090928506711,747,86419
+25,2016,Acetone,967,Ruminococcus lactaris,2,-0.0003995416077249292,748,3134
+26,2071,D-Mannitol (Mannitol),796,Odoribacter splanchnicus,3,0.0006177904363158238,778,56162
+27,2125,"L-Alanine (D-Alanine, Alanine)",966,Ruminococcus gnavus,2,0.0039230592783415785,808,21745
+28,2201,Propanoate (Propionate),314,Clostridium leptum,2,0.010541397485585913,815,35699
+29,2100,Glycocholate,401,Desulfovibrio piger,3,0.0013339217910114387,863,61256
+30,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",454,Eubacterium eligens,3,0.000388905113185567,971,67010
+31,2038,Butyrate,600,Lactobacillus plantarum,2,-0.0010000000000000009,976,7043
+32,2041,Caproate (Hexanoate),126,Bacteroides fragilis,3,0.0015275103423207925,1098,51107
+33,2060,"D-Arabinose (L-Arabinose, Arabinose, L-Arabinopyranose, L-Arabinofuranose)",464,Faecalibacterium prausnitzii,3,0.0011925529726483086,1225,53948
+34,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",31,Actinomyces odontolyticus,2,-0.0010000000000000009,1245,36235
+35,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,-0.00013127886787611676,1313,41858

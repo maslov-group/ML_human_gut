@@ -1,0 +1,42 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2166,Methanol,54,Alistipes putredinis,2,0.006701992126929346,11,29705
+1,2037,Butylamine,966,Ruminococcus gnavus,2,0.00028817524218416324,12,6895
+2,2089,Ethanol,159,Bilophila wadsworthia,3,0.00032565287945962584,19,59442
+3,2240,"Valerate (Pentanoic acid, Pentanoate)",1099,Sutterella wadsworthensis,2,0.0009325810019660263,23,43159
+4,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.000527350403451865,31,35644
+5,2109,H2S (HS-),158,Bifidobacterium pseudocatenulatum,2,0.004480740220826673,38,19247
+6,2072,D-Mannose (Mannose),796,Odoribacter splanchnicus,3,0.0006181491250296656,51,56360
+7,2089,Ethanol,149,Bifidobacterium adolescentis,2,0.019867391054461447,72,15675
+8,2035,Biotin (Vitamin B7),454,Eubacterium eligens,3,0.0016281490983661717,89,50180
+9,2004,"1,2-propanediol (Propene diol, Propylene glycol, [R]-1,2-propanediol, [R]-propane-1,2-diol, [S]-1,2-propanediol, [S]-propane-1,2-diol)",464,Faecalibacterium prausnitzii,3,0.0011752482083312588,114,44444
+10,2046,Chenodeoxycholic acid (Chenodeoxycholate),137,Bacteroides xylanisolvens,3,0.001456006127266929,126,51908
+11,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",796,Odoribacter splanchnicus,3,0.04424697132626143,129,73190
+12,2038,Butyrate,136,Bacteroides vulgatus,2,0.017372642179712683,131,6961
+13,2201,Propanoate (Propionate),436,Enterobacter cloacae,2,0.00028708647749386973,147,35720
+14,2167,Methylamine (Monomethylamine),454,Eubacterium eligens,2,0.0025338178661704625,164,29984
+15,2211,Shikimate,866,Prevotella bivia,2,-0.0010000000000000009,169,37762
+16,2077,D-Tagaturonate,464,Faecalibacterium prausnitzii,3,0.005726566591744975,235,57314
+17,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",1064,Streptococcus salivarius,3,0.00021082592689403157,244,73249
+18,2195,Phenylacetate,967,Ruminococcus lactaris,2,-4.69746186881892e-06,260,34814
+19,2225,Taurolithocholate,321,Clostridium phytofermentans,3,-0.0010000000000000009,281,84015
+20,2038,Butyrate,158,Bifidobacterium pseudocatenulatum,2,0.0006251667087978641,289,6971
+21,2103,Glycolithocholate,1169,Veillonella parvula,3,0.004460419023010309,328,61973
+22,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",46,Akkermansia muciniphila,3,0.0020014516204432953,356,66928
+23,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",136,Bacteroides vulgatus,3,0.0015796816276241188,365,73093
+24,2240,"Valerate (Pentanoic acid, Pentanoate)",883,Propionibacterium acnes,3,0.002202104878460065,394,86876
+25,2163,Menaquinone (Vitamin K2),159,Bilophila wadsworthia,3,0.0026371613801493554,426,72906
+26,2240,"Valerate (Pentanoic acid, Pentanoate)",149,Bifidobacterium adolescentis,3,0.004950017418472674,470,86757
+27,2201,Propanoate (Propionate),55,Alistipes shahii,2,0.00012401041233556231,472,35646
+28,2240,"Valerate (Pentanoic acid, Pentanoate)",401,Desulfovibrio piger,3,-9.430278179689555e-05,485,86798
+29,2046,Chenodeoxycholic acid (Chenodeoxycholate),464,Faecalibacterium prausnitzii,3,0.0013998140233280054,518,51968
+30,2041,Caproate (Hexanoate),663,Methanobrevibacter smithii,3,-0.00015583796257123694,607,51208
+31,2058,Cytidine,1047,Streptococcus cristatus,3,-0.0010000000000000009,610,53637
+32,2201,Propanoate (Propionate),652,Marvinbryantia formatexigens,3,-0.0010000000000000009,619,79519
+33,2137,L-Homoserine,162,Blautia hydrogenotrophica (Ruminococcus hydrogenotrophicus),3,-0.0009861003210799302,634,67760
+34,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),134,Bacteroides thetaiotaomicron,2,0.003355278911312154,644,41807
+35,2226,"Thiamine (Vitamin B1, Thiamin)",570,Klebsiella pneumoniae,3,-0.00014235701399623046,742,84251
+36,2125,"L-Alanine (D-Alanine, Alanine)",120,Bacteroides cellulosilyticus,3,0.002787201725825139,805,65357
+37,2128,L-Asparagine (Asparagine),75,Anaerostipes caccae,3,-0.00046857902948371777,891,65944
+38,2040,Cadaverine,136,Bacteroides vulgatus,3,0.001115373452019064,903,50917
+39,2229,Thymine,814,Parabacteroides merdae,3,0.0008645149333198487,938,84876
+40,2068,D-Glucose (Glucose),149,Bifidobacterium adolescentis,3,-2.5301659719256797e-05,1003,55473

@@ -1,0 +1,43 @@
+metabolite ID,metabolite names,microbes ID,microbes names,edgeType,prevalence
+2011,4-Aminobutyrate (GABA),411,Dialister invisus,2,9
+2035,Biotin (Vitamin B7),54,Alistipes putredinis,2,10
+2035,Biotin (Vitamin B7),411,Dialister invisus,2,19
+2038,Butyrate,46,Akkermansia muciniphila,2,9
+2038,Butyrate,136,Bacteroides vulgatus,2,10
+2038,Butyrate,158,Bifidobacterium pseudocatenulatum,2,9
+2038,Butyrate,436,Enterobacter cloacae,2,11
+2081,Deoxycholic acid,966,Ruminococcus gnavus,2,15
+2107,H2 (Hydrogen),967,Ruminococcus lactaris,2,8
+2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,27
+2201,Propanoate (Propionate),136,Bacteroides vulgatus,2,9
+2201,Propanoate (Propionate),152,Bifidobacterium bifidum,2,11
+2201,Propanoate (Propionate),153,Bifidobacterium breve,2,10
+2201,Propanoate (Propionate),158,Bifidobacterium pseudocatenulatum,2,8
+2201,Propanoate (Propionate),436,Enterobacter cloacae,2,11
+2201,Propanoate (Propionate),1067,Streptococcus thermophilus,2,10
+2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,45
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,20
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",411,Dialister invisus,2,16
+2212,Spermidine,46,Akkermansia muciniphila,2,8
+2212,Spermidine,54,Alistipes putredinis,2,13
+2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),158,Bifidobacterium pseudocatenulatum,2,10
+2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,12
+2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,8
+2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,20
+2240,"Valerate (Pentanoic acid, Pentanoate)",966,Ruminococcus gnavus,2,10
+2240,"Valerate (Pentanoic acid, Pentanoate)",967,Ruminococcus lactaris,2,9
+2240,"Valerate (Pentanoic acid, Pentanoate)",1099,Sutterella wadsworthensis,2,11
+2035,Biotin (Vitamin B7),570,Klebsiella pneumoniae,3,9
+2046,Chenodeoxycholic acid (Chenodeoxycholate),457,Eubacterium rectale,3,8
+2081,Deoxycholic acid,883,Propionibacterium acnes,3,9
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",119,Bacteroides caccae,3,12
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",134,Bacteroides thetaiotaomicron,3,9
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",136,Bacteroides vulgatus,3,10
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",450,Escherichia coli,3,8
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",455,Eubacterium hallii,3,8
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",464,Faecalibacterium prausnitzii,3,11
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",570,Klebsiella pneumoniae,3,10
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",883,Propionibacterium acnes,3,8
+2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",953,Roseburia inulinivorans,3,9
+2240,"Valerate (Pentanoic acid, Pentanoate)",464,Faecalibacterium prausnitzii,3,13
+2240,"Valerate (Pentanoic acid, Pentanoate)",964,Ruminococcus bromii,3,8

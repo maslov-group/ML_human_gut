@@ -1,0 +1,62 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",54,Alistipes putredinis,2,0.006857090587237602,0,36239
+1,2238,Urea,464,Faecalibacterium prausnitzii,3,0.018908757315615254,2,86420
+2,2038,Butyrate,46,Akkermansia muciniphila,2,-0.00029953418749417704,13,6934
+3,2236,Tyramine,54,Alistipes putredinis,2,0.0028480143018911885,42,42179
+4,2132,L-Fucose,76,Anaerotruncus colihominis,3,0.013103938200262344,46,66737
+5,2038,Butyrate,153,Bifidobacterium breve,2,0.0012691421106735268,95,6967
+6,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",134,Bacteroides thetaiotaomicron,2,0.013590551310759258,103,24779
+7,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.000621386079832642,148,35833
+8,2038,Butyrate,126,Bacteroides fragilis,2,0.009779350836760736,183,6953
+9,2240,"Valerate (Pentanoic acid, Pentanoate)",120,Bacteroides cellulosilyticus,3,0.0005176224611112001,204,86741
+10,2153,L-Threonine (Threonine),966,Ruminococcus gnavus,2,0.00020476319632511952,231,27289
+11,2240,"Valerate (Pentanoic acid, Pentanoate)",570,Klebsiella pneumoniae,3,0.0006434115280298247,278,86825
+12,2155,L-Tyrosine (Tyrosine),214,Butyrivibrio crossotus,3,0.0015242104380609467,305,71325
+13,2011,4-Aminobutyrate (GABA),411,Dialister invisus,2,0.00023286816600665006,320,2055
+14,2130,L-Carnitine (D-Carnitine),460,Eubacterium siraeum,3,0.0007852309874923913,336,66420
+15,2114,Indole,1049,Streptococcus dysgalactiae,2,-0.0010000000000000009,339,19780
+16,2046,Chenodeoxycholic acid (Chenodeoxycholate),1169,Veillonella parvula,3,0.011886382726422395,363,52073
+17,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",883,Propionibacterium acnes,3,0.0008276692550384102,404,80144
+18,2136,L-Histidine (Histidine),401,Desulfovibrio piger,3,0.000670764926190559,408,67592
+19,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),76,Anaerotruncus colihominis,2,0.0215925210245419,410,41789
+20,2229,Thymine,126,Bacteroides fragilis,3,0.0009577351957069657,489,84767
+21,2008,"2-Oxobutyrate (Alpha-ketobutyrate, 2-Oxobutanoate)",1057,Streptococcus mutans,3,-0.0010000000000000009,506,45328
+22,2173,N-Acetyl-D-mannosamine,953,Roseburia inulinivorans,3,-0.0002617009407368531,516,74607
+23,2099,Glycochenodeoxycholate,95,Atopobium rimae,2,-0.0010000000000000009,528,17239
+24,2094,FOS (Fructooligosaccharide),133,Bacteroides stercoris,3,-0.00013580705522264758,532,60418
+25,2038,Butyrate,158,Bifidobacterium pseudocatenulatum,2,0.0032940334814163252,582,6971
+26,2027,Arachidate (Arachidic acid),119,Bacteroides caccae,3,0.0025165908921856994,591,48526
+27,2107,H2 (Hydrogen),870,Prevotella copri,3,0.00012182813862382513,627,62713
+28,2134,"L-Glutamine (D-Glutamine, Glutamine)",67,Anaerococcus hydrogenalis,2,-0.0010000000000000009,647,23371
+29,2195,Phenylacetate,314,Clostridium leptum,3,0.0009524810057679467,668,78467
+30,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",300,Clostridium bartlettii,3,0.0011371177156627166,871,80044
+31,2203,Putrescine,158,Bifidobacterium pseudocatenulatum,2,0.0015234615205417246,872,36077
+32,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",952,Roseburia intestinalis,3,-7.52190642288042e-05,896,44114
+33,2033,Betaine (Glycine betaine),597,Lactobacillus johnsonii,3,-0.0010000000000000009,906,49809
+34,2226,"Thiamine (Vitamin B1, Thiamin)",135,Bacteroides uniformis,3,0.0008593612514796733,939,84180
+35,2052,"cis-Aconitate (trans-Aconitate, trans-Aconitic acid)",398,Desulfovibrio desulfuricans,3,-0.00022028395365458753,952,52741
+36,2155,L-Tyrosine (Tyrosine),814,Parabacteroides merdae,3,0.001329927184656965,955,71412
+37,2135,L-Glycine (Glycine),121,Bacteroides coprocola,3,0.00017946752359065954,976,67338
+38,2032,beta-alanine (3-Aminopropionate),814,Parabacteroides merdae,3,0.0018071406198735263,987,49632
+39,2046,Chenodeoxycholic acid (Chenodeoxycholate),457,Eubacterium rectale,3,0.002913715987836407,1084,51965
+40,2184,Oleic acid ([9Z]-Octadecenoic acid),663,Methanobrevibacter smithii,3,0.00011640165655080192,1112,76552
+41,2028,"Ascorbic acid (Vitamin C, L-Ascorbate, Ascorbate)",329,Collinsella aerofaciens (Eubacterium aerofaciens),2,-0.0010000000000000009,1201,5017
+42,2237,Uracil,964,Ruminococcus bromii,3,0.0047422731715027755,1283,86291
+43,2046,Chenodeoxycholic acid (Chenodeoxycholate),121,Bacteroides coprocola,2,-0.000475303899228674,1342,8136
+44,2049,Cholic acid (Cholate),76,Anaerotruncus colihominis,3,0.00034289586126079463,1361,52283
+45,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",953,Roseburia inulinivorans,3,0.0028800720622532694,1376,67083
+46,2227,Thiosulfate,123,Bacteroides dorei,3,0.0010177455081803455,1382,84368
+47,2213,Spermine,814,Parabacteroides merdae,2,-0.0010000000000000009,1427,38148
+48,2202,"Propanol (n-propanol, 1-Propanol)",136,Bacteroides vulgatus,2,0.0003521940194163298,1467,35869
+49,2016,Acetone,596,Lactobacillus jensenii,2,-0.0010000000000000009,1483,3080
+50,2159,Lithocholic acid,1167,Veillonella atypica,3,-0.0005643191833414329,1544,72267
+51,2212,Spermidine,450,Escherichia coli,3,0.001516391237109782,1551,81661
+52,2240,"Valerate (Pentanoic acid, Pentanoate)",455,Eubacterium hallii,3,0.002504926345116343,1573,86811
+53,2081,Deoxycholic acid,121,Bacteroides coprocola,2,-5.383041596096483e-05,1596,14274
+54,2145,L-Methionine (D-Methionine),411,Dialister invisus,3,0.0002730008178124521,1736,69375
+55,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),420,Dorea formicigenerans,3,-0.001241433895188826,1754,85612
+56,2049,Cholic acid (Cholate),455,Eubacterium hallii,3,0.0005892355764458568,1848,52359
+57,2066,D-Gluconate (D-Gluconic acid) (Gluconate),134,Bacteroides thetaiotaomicron,3,0.0004261646264179797,1854,55073
+58,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",411,Dialister invisus,3,0.0023089669656098932,1866,80067
+59,2035,Biotin (Vitamin B7),1054,Streptococcus infantarius,3,-0.0010000000000000009,1870,50275
+60,2081,Deoxycholic acid,324,Clostridium sporogenes,3,-0.0009999999999998899,1875,58079

@@ -1,0 +1,35 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2114,Indole,54,Alistipes putredinis,2,-0.00011484863587707395,3,19607
+1,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",454,Eubacterium eligens,3,0.004804221960723831,21,80078
+2,2037,Butylamine,1099,Sutterella wadsworthensis,2,6.441839715010111e-05,26,6925
+3,2035,Biotin (Vitamin B7),966,Ruminococcus gnavus,2,0.0004417901170186145,46,6499
+4,2003,"1,2-Ethanediol (Ethylene glycol)",46,Akkermansia muciniphila,2,0.0028687805158258417,58,400
+5,2189,"Palmitate (Palmitic acid, Hexadecanoic acid, Hexadecanoate)",457,Eubacterium rectale,3,0.0074227383782340395,97,77507
+6,2106,Guanosine,134,Bacteroides thetaiotaomicron,3,0.005611493868018069,98,62399
+7,2062,D-Fructuronate,337,Coprococcus catus,3,0.00024818808475046694,113,54322
+8,2046,Chenodeoxycholic acid (Chenodeoxycholate),1168,Veillonella dispar,3,0.0015961986954430296,118,52072
+9,2035,Biotin (Vitamin B7),411,Dialister invisus,2,5.248825444958971e-05,138,6411
+10,2049,Cholic acid (Cholate),149,Bifidobacterium adolescentis,2,0.00075635987633349,142,8547
+11,2038,Butyrate,1168,Veillonella dispar,2,0.012282738661784198,155,7126
+12,2067,D-Glucosamine (Glucosamine),591,Lactobacillus fermentum,2,-0.0010000000000000009,164,11592
+13,2140,L-Isoleucine (Isoleucine),401,Desulfovibrio piger,3,0.001820989762815528,204,68384
+14,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",155,Bifidobacterium dentium,3,-0.0006357490163889645,222,73101
+15,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",123,Bacteroides dorei,3,0.00028016166109345875,342,80012
+16,2115,Indole-3-acetate (Indoleacetate),965,Ruminococcus flavefaciens,3,-0.000830525710746266,344,63720
+17,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1044,Streptococcus anginosus,2,-0.0009754159624859593,362,31855
+18,2185,Orotic acid (Orotate),123,Bacteroides dorei,3,0.013598145298019393,367,76646
+19,2159,Lithocholic acid,1007,Shigella sonnei,3,-0.0010000000000000009,385,72241
+20,2240,"Valerate (Pentanoic acid, Pentanoate)",454,Eubacterium eligens,2,0.0011291875389275452,392,43052
+21,2134,"L-Glutamine (D-Glutamine, Glutamine)",131,Bacteroides plebeius,3,0.0006372410715315135,396,67149
+22,2070,D-Lyxose (L-Lyxose),964,Ruminococcus bromii,3,0.004881344913231445,405,55997
+23,2029,Benzaldehyde,133,Bacteroides stercoris,3,-0.00041468147338519223,473,48934
+24,2155,L-Tyrosine (Tyrosine),814,Parabacteroides merdae,3,0.006758480593811456,491,71412
+25,2164,"meso-Tartrate (meso-Tartaric acid, Tartrate, L-tartrate, L-Tartaric acid)",260,Catenibacterium mitsuokai,3,-0.00015548228086559313,506,73109
+26,2146,L-Ornithine (Ornithine),663,Methanobrevibacter smithii,3,0.0008898579424738706,514,69622
+27,2142,L-Leucine (Leucine),450,Escherichia coli,3,0.0009014757017066222,569,68791
+28,2134,"L-Glutamine (D-Glutamine, Glutamine)",1169,Veillonella parvula,3,0.0011639386979633848,764,67319
+29,2240,"Valerate (Pentanoic acid, Pentanoate)",1049,Streptococcus dysgalactiae,3,-0.0010000000000000009,830,86902
+30,2016,Acetone,952,Roseburia intestinalis,3,-4.215378139738046e-05,875,46886
+31,2046,Chenodeoxycholic acid (Chenodeoxycholate),55,Alistipes shahii,3,0.0003707541006853221,887,51882
+32,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",436,Enterobacter cloacae,2,0.0001430106440669654,910,36314
+33,2080,"D-Xylulose (Xylulose, L-Xylulose)",804,Oxalobacter formigenes,2,-0.0010000000000000009,937,14187

@@ -1,0 +1,62 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2159,Lithocholic acid,54,Alistipes putredinis,2,0.002801670038044879,6,28319
+1,2212,Spermidine,152,Bifidobacterium bifidum,2,0.00034882698354077313,45,37854
+2,2002,"1,2-diacylglycerol (1-acylglycerol, Monoacylglycerol, Monoglyceride, Monoacylglycerol)",464,Faecalibacterium prausnitzii,3,0.0011772123833384551,51,44048
+3,2240,"Valerate (Pentanoic acid, Pentanoate)",46,Akkermansia muciniphila,2,0.0014446299348147562,90,42970
+4,2035,Biotin (Vitamin B7),411,Dialister invisus,2,0.0003623780200145976,101,6411
+5,2139,L-iduronate,838,Peptoniphilus lacrimalis,3,-0.0009999999999998899,107,68248
+6,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0009126953925986392,118,35833
+7,2122,Isovalerate (3-Methylbutanoic acid),1067,Streptococcus thermophilus,2,0.001991296763553918,119,21376
+8,2040,Cadaverine,136,Bacteroides vulgatus,2,0.00030210689918508393,135,7159
+9,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",159,Bilophila wadsworthia,3,0.005708796464524268,139,75480
+10,2120,Isomaltose,457,Eubacterium rectale,3,0.013992403493088168,141,64637
+11,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",436,Enterobacter cloacae,2,0.0002236744931577439,151,24830
+12,2035,Biotin (Vitamin B7),967,Ruminococcus lactaris,2,0.00019284698802324307,159,6500
+13,2046,Chenodeoxycholic acid (Chenodeoxycholate),137,Bacteroides xylanisolvens,3,0.0015603807678773451,175,51908
+14,2010,"4-Aminobenzoate (para-amino, Benzoic acid)",455,Eubacterium hallii,3,0.0005223984147294525,187,45627
+15,2034,"Bicarbonate (HCO3-, H2CO3, Carbonic acid, Carbonate)",804,Oxalobacter formigenes,3,-0.0010000000000000009,195,50025
+16,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",133,Bacteroides stercoris,3,0.005914502088410711,214,66952
+17,2115,Indole-3-acetate (Indoleacetate),119,Bacteroides caccae,3,-0.00039310442469453477,222,63574
+18,2201,Propanoate (Propionate),129,Bacteroides ovatus,2,0.0036492817966766733,237,35665
+19,2063,D-Galactosamine (Galactosamine),1064,Streptococcus salivarius,3,0.00014314259084180492,248,54637
+20,2067,D-Glucosamine (Glucosamine),314,Clostridium leptum,3,0.0043670664547379445,263,55301
+21,2079,D-Xylose (Xylose),570,Klebsiella pneumoniae,3,0.0011874591167210236,289,57719
+22,2201,Propanoate (Propionate),966,Ruminococcus gnavus,2,-0.0004785256200382504,291,35803
+23,2085,Dimethylamine,480,Fusobacterium mortiferum,2,-0.0009518717794069209,310,15143
+24,2217,Succinate,158,Bifidobacterium pseudocatenulatum,2,0.0069662305714595085,398,38651
+25,2059,Cytosine,54,Alistipes putredinis,3,0.0011629970876726459,443,53663
+26,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",1168,Veillonella dispar,3,-0.00017779293748476643,456,80188
+27,2035,Biotin (Vitamin B7),460,Eubacterium siraeum,3,9.425210724622879e-05,511,50184
+28,2146,L-Ornithine (Ornithine),967,Ruminococcus lactaris,3,-1.11195013513532e-05,534,69662
+29,2139,L-iduronate,1060,Streptococcus peroris,3,-0.0010000000000000009,547,68298
+30,2089,Ethanol,1067,Streptococcus thermophilus,2,-3.905657532354834e-05,571,15832
+31,2029,Benzaldehyde,398,Desulfovibrio desulfuricans,3,-0.00016325179754272945,626,48979
+32,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",1169,Veillonella parvula,3,0.002490855620853827,654,75635
+33,2062,D-Fructuronate,46,Akkermansia muciniphila,3,0.0008346968582486625,655,54256
+34,2222,Taurochenodeoxycholate,129,Bacteroides ovatus,3,0.024853909465060497,662,83383
+35,2106,Guanosine,54,Alistipes putredinis,3,0.0009329462088515372,663,62375
+36,2074,D-Ribose (Ribose),133,Bacteroides stercoris,3,0.0012570061620172934,666,56656
+37,2130,L-Carnitine (D-Carnitine),149,Bifidobacterium adolescentis,3,0.0010289357896238194,687,66363
+38,2128,L-Asparagine (Asparagine),450,Escherichia coli,3,0.0030917991457442007,702,66019
+39,2142,L-Leucine (Leucine),131,Bacteroides plebeius,3,-0.00018005688798583552,730,68733
+40,2032,beta-alanine (3-Aminopropionate),159,Bilophila wadsworthia,3,0.0033778969944936454,733,49542
+41,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",158,Bifidobacterium pseudocatenulatum,3,-0.00018316578014432316,741,75479
+42,2100,Glycocholate,159,Bilophila wadsworthia,3,0.0063525675343606425,825,61224
+43,2212,Spermidine,963,Ruminococcus albus,3,0.0003236235733166115,846,81736
+44,2049,Cholic acid (Cholate),54,Alistipes putredinis,2,0.003476011567850934,874,8519
+45,2162,Melibiose,479,Fusobacterium gonidiaformans,3,-0.0010000000000000009,877,72760
+46,2126,"L-Arabitol (L-Arabinitol, D-Arabitol)",464,Faecalibacterium prausnitzii,3,-2.2248133038305085e-05,904,65630
+47,2142,L-Leucine (Leucine),796,Odoribacter splanchnicus,3,5.896001568750364e-05,936,68834
+48,2240,"Valerate (Pentanoic acid, Pentanoate)",149,Bifidobacterium adolescentis,3,0.004081061356592253,947,86757
+49,2179,"Niacin (Vitamin B3, Nicotinic acid, Nicotinate, Nicotinamide, Vitamin B3)",134,Bacteroides thetaiotaomicron,2,0.0003183520765618342,982,31709
+50,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",899,Pseudomonas mendocina,3,-0.0010000000000000009,999,67081
+51,2222,Taurochenodeoxycholate,464,Faecalibacterium prausnitzii,3,0.005792788464126786,1008,83450
+52,2106,Guanosine,871,Prevotella disiens,2,-0.0009877611323899638,1040,18758
+53,2140,L-Isoleucine (Isoleucine),401,Desulfovibrio piger,3,0.001264838698729287,1059,68384
+54,2167,Methylamine (Monomethylamine),54,Alistipes putredinis,2,0.0022416646346802294,1083,29903
+55,2201,Propanoate (Propionate),587,Lactobacillus casei,3,-0.0010078729742764025,1131,79503
+56,2159,Lithocholic acid,153,Bifidobacterium breve,2,-0.0007071733784397294,1157,28351
+57,2027,Arachidate (Arachidic acid),450,Escherichia coli,3,0.0038547733749398905,1241,48595
+58,2081,Deoxycholic acid,133,Bacteroides stercoris,2,0.0003177622941965552,1315,14284
+59,2180,Nitrate,952,Roseburia intestinalis,3,0.0003145054775848255,1326,75794
+60,2058,Cytidine,136,Bacteroides vulgatus,3,0.001144991650174343,1443,53491

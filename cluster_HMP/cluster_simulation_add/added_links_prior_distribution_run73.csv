@@ -1,0 +1,45 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,2,0.008365035723525649,4,42971
+1,2178,"NH3 (Ammonia, NH4+, Ammonium)",158,Bifidobacterium pseudocatenulatum,2,0.000634705729457119,21,31523
+2,2234,Trimethylamine N-oxide (Trimethylamine-N-oxide),436,Enterobacter cloacae,2,0.0014177571139774026,28,41858
+3,2064,D-Galactose,814,Parabacteroides merdae,3,0.0004373322703807858,62,54780
+4,2201,Propanoate (Propionate),46,Akkermansia muciniphila,2,0.00016842746237444306,71,35644
+5,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0002450133362135176,88,35833
+6,2240,"Valerate (Pentanoic acid, Pentanoate)",870,Prevotella copri,2,0.0013825947778380865,91,43111
+7,2044,"Cellotetraose (Cellohexaose, Cellopentaose, Cellotriose)",159,Bilophila wadsworthia,3,0.002055163415422556,111,51720
+8,2240,"Valerate (Pentanoic acid, Pentanoate)",953,Roseburia inulinivorans,3,0.00554288787327839,140,86883
+9,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",967,Ruminococcus lactaris,3,-0.0010000000000000009,142,67088
+10,2119,Isobutyrate (2-Methylpropanoic acid),967,Ruminococcus lactaris,2,0.0008257585699903425,161,20756
+11,2035,Biotin (Vitamin B7),411,Dialister invisus,2,-6.817538144132662e-06,176,6411
+12,2108,H2O2,456,Eubacterium limosum,2,-0.0010000000000000009,178,19096
+13,2081,Deoxycholic acid,966,Ruminococcus gnavus,2,0.00014488816072533162,192,14419
+14,2137,L-Homoserine,122,Bacteroides coprophilus,3,-0.0010000000000000009,203,67735
+15,2122,Isovalerate (3-Methylbutanoic acid),464,Faecalibacterium prausnitzii,3,0.00010318810035558901,234,65036
+16,2003,"1,2-Ethanediol (Ethylene glycol)",398,Desulfovibrio desulfuricans,3,0.0005113008142404452,237,44227
+17,2153,L-Threonine (Threonine),1067,Streptococcus thermophilus,2,0.0014568887659708318,256,27316
+18,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),329,Collinsella aerofaciens (Eubacterium aerofaciens),2,0.0003815781550668973,275,30955
+19,2135,L-Glycine (Glycine),119,Bacteroides caccae,3,0.004314761518988686,286,67336
+20,2046,Chenodeoxycholic acid (Chenodeoxycholate),460,Eubacterium siraeum,3,0.0037650780555432695,287,51966
+21,2119,Isobutyrate (2-Methylpropanoic acid),135,Bacteroides uniformis,3,0.0031123371362439256,291,64380
+22,2091,"Folic acid (Folate, Vitamin B9)",870,Prevotella copri,3,0.0002663452091097307,320,59941
+23,2046,Chenodeoxycholic acid (Chenodeoxycholate),457,Eubacterium rectale,3,0.011980941982037141,359,51965
+24,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),969,Ruminococcus torques,3,0.0003579711169579003,385,74812
+25,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",457,Eubacterium rectale,3,0.009474554101309263,410,80081
+26,2062,D-Fructuronate,570,Klebsiella pneumoniae,3,0.0006853381457662122,425,54353
+27,2141,"L-Lactate ([S]-Lactate, Lactate, D-Lactate, [R]-Lactate)",119,Bacteroides caccae,2,0.008893401642560916,439,24766
+28,2140,L-Isoleucine (Isoleucine),46,Akkermansia muciniphila,3,0.007498344289490366,447,68314
+29,2192,"Pelargonic acid (Pelargonate, Nonanoic acid)",952,Roseburia intestinalis,3,0.00013356815145271206,488,77972
+30,2049,Cholic acid (Cholate),464,Faecalibacterium prausnitzii,3,0.015869359412810757,489,52364
+31,2158,Linoleic acid (Omega-6 fatty acid),878,Prevotella salivae,3,-0.0010000000000000009,588,72024
+32,2103,Glycolithocholate,570,Klebsiella pneumoniae,3,0.00024071999011865408,610,61877
+33,2067,D-Glucosamine (Glucosamine),952,Roseburia intestinalis,3,0.00044487814006444193,622,55400
+34,2035,Biotin (Vitamin B7),214,Butyrivibrio crossotus,3,4.090778627330316e-05,684,50139
+35,2078,D-Turanose,421,Dorea longicatena,3,-0.0009690710150402904,699,57497
+36,2237,Uracil,155,Bifidobacterium dentium,3,-0.0003849349697631066,713,86169
+37,2046,Chenodeoxycholic acid (Chenodeoxycholate),814,Parabacteroides merdae,3,-9.696596969144267e-05,754,52008
+38,2158,Linoleic acid (Omega-6 fatty acid),570,Klebsiella pneumoniae,3,0.0014373389048810692,789,71975
+39,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",953,Roseburia inulinivorans,3,0.0004362652875069539,793,80151
+40,2083,Dichloromethane (Methylene chloride),54,Alistipes putredinis,2,-0.0010000000000000009,831,14657
+41,2158,Linoleic acid (Omega-6 fatty acid),159,Bilophila wadsworthia,3,-0.000529841613356119,852,71916
+42,2171,"Myristic acid (Tetradecanoic acid, Tetradecanoate)",54,Alistipes putredinis,2,-0.0010000000000000009,874,30299
+43,2159,Lithocholic acid,1043,Streptococcus agalactiae,3,-0.0010000150529152485,913,72246

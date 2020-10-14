@@ -1,0 +1,47 @@
+,metabolite ID,metabolite names,microbes ID,microbes names,edgeType,error reduced,step added,position in x
+0,2115,Indole-3-acetate (Indoleacetate),54,Alistipes putredinis,2,0.0007094473200102147,10,19805
+1,2201,Propanoate (Propionate),1099,Sutterella wadsworthensis,2,0.0014628521922299687,13,35833
+2,2212,Spermidine,54,Alistipes putredinis,2,0.0030621958007472916,28,37823
+3,2046,Chenodeoxycholic acid (Chenodeoxycholate),460,Eubacterium siraeum,3,0.0054893750143119036,30,51966
+4,2115,Indole-3-acetate (Indoleacetate),46,Akkermansia muciniphila,2,-0.00019848280204026736,53,19804
+5,2196,Phenylethylamine,1067,Streptococcus thermophilus,2,0.0013568165860133874,54,35038
+6,2062,D-Fructuronate,952,Roseburia intestinalis,3,0.008724616758078008,64,54410
+7,2050,Choline,159,Bilophila wadsworthia,3,0.001934548552605997,66,52512
+8,2216,"Stearic acid (Stearate, Octadecanoate)",133,Bacteroides stercoris,3,0.007230390549734733,103,82198
+9,2006,2-Aminobutyric acid (2-Aminobutyrate),136,Bacteroides vulgatus,3,0.0006656520325516446,162,44779
+10,2138,L-Idonate,952,Roseburia intestinalis,3,0.0004351661792575401,165,68072
+11,2015,"Acetoin (3-hydroxybutanone, acetyl methyl carbinol, [R]-Acetoin)",284,Chlorobium phaeobacteroides,2,-0.0010000000000000009,166,2821
+12,2081,Deoxycholic acid,129,Bacteroides ovatus,2,0.002552204680066561,175,14281
+13,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",570,Klebsiella pneumoniae,3,0.001032240413611274,189,67025
+14,2158,Linoleic acid (Omega-6 fatty acid),592,Lactobacillus gasseri,3,0.0005826514546446449,200,71983
+15,2211,Shikimate,137,Bacteroides xylanisolvens,3,5.570687422373766e-05,210,81410
+16,2212,Spermidine,952,Roseburia intestinalis,3,0.0017647091538556259,213,81734
+17,2134,"L-Glutamine (D-Glutamine, Glutamine)",438,Enterococcus faecalis (Streptococcus faecalis),2,-0.0010000000000000009,246,23446
+18,2204,"Pyridoxal (Vitamin B6, Pyridoxine, Pyridoxamine, Vitamin B6)",46,Akkermansia muciniphila,2,-0.0002681557886250463,282,36238
+19,2115,Indole-3-acetate (Indoleacetate),411,Dialister invisus,2,-3.463768951939006e-05,301,19875
+20,2162,Melibiose,123,Bacteroides dorei,3,-0.0002399437804802007,328,72686
+21,2195,Phenylacetate,969,Ruminococcus torques,3,0.0017149538661409558,345,78574
+22,2082,"Dextrin (Maltotriose, Maltodextrin, Maltohexaose, Maltotetraose, Maltooligosaccharide)",155,Bifidobacterium dentium,3,-0.0009171912617319533,357,58251
+23,2100,Glycocholate,55,Alistipes shahii,3,-0.0007229084489832616,398,61188
+24,2101,Glycodeoxycholate,159,Bilophila wadsworthia,3,0.012454163040032662,454,61422
+25,2165,Methane (CH4),411,Dialister invisus,2,-0.00028688212712491,457,29577
+26,2162,Melibiose,411,Dialister invisus,2,-0.00019382295076819656,465,28983
+27,2216,"Stearic acid (Stearate, Octadecanoate)",136,Bacteroides vulgatus,2,0.006612885606205543,489,38443
+28,2167,Methylamine (Monomethylamine),158,Bifidobacterium pseudocatenulatum,2,0.005761497241428271,490,29939
+29,2240,"Valerate (Pentanoic acid, Pentanoate)",54,Alistipes putredinis,3,0.003968432167841818,514,86729
+30,2174,N-Acetylgalactosamine (N-Acetyl-D-galactosamine),1059,Streptococcus parasanguinis,3,0.00016575028224441457,540,74831
+31,2081,Deoxycholic acid,54,Alistipes putredinis,2,-9.37863845074105e-05,581,14261
+32,2225,Taurolithocholate,54,Alistipes putredinis,3,0.009477170769494836,646,83957
+33,2176,N2,966,Ruminococcus gnavus,2,-0.0010000000000000009,656,31447
+34,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",314,Clostridium leptum,3,-0.0002902673361812047,759,66983
+35,2048,Cholecalciferol (Vitamin D3),587,Lactobacillus casei,3,-0.000993819036377519,840,52179
+36,2142,L-Leucine (Leucine),457,Eubacterium rectale,3,0.0005542669638550768,863,68795
+37,2005,"1,3-Propanediol",456,Eubacterium limosum,3,-0.0009725057009873916,960,44638
+38,2133,"L-Glutamate (L-Glutamic acid, Glutamate, D-Glutamate)",411,Dialister invisus,3,0.00028852357236752724,1010,66999
+39,2225,Taurolithocholate,119,Bacteroides caccae,3,0.005175604531931888,1025,83968
+40,2107,H2 (Hydrogen),54,Alistipes putredinis,2,0.0010539061896721602,1062,18815
+41,2070,D-Lyxose (L-Lyxose),870,Prevotella copri,3,0.00039721588191032886,1093,55981
+42,2201,Propanoate (Propionate),55,Alistipes shahii,2,0.0017872814203963028,1114,35646
+43,2197,Phylloquinone (Vitamin K1),876,Prevotella oris,2,-0.0010000000000000009,1149,35195
+44,2160,Malonate,33,Actinomyces urogenitalis,2,-0.0010000000000000009,1181,28514
+45,2046,Chenodeoxycholic acid (Chenodeoxycholate),551,Holdemania filiformis,2,-0.0008088150243675818,1197,8218
