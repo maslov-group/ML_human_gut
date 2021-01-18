@@ -35,8 +35,8 @@ df_microbes = pd.DataFrame.from_dict({'oldID': i_nonzero_microbes, 'newID':list(
 df_microbes.set_index('oldID', inplace=True)
 
 
-outgoingNodes = df_metabolites.loc[net['metabolites_ID'].values].values.flatten()
-ingoingNodesTemp = df_microbes.loc[net['microbes_ID'].values].values.flatten()
+outgoingNodes = df_metabolites.reindex(net['metabolites_ID'].values).values.flatten()
+ingoingNodesTemp = df_microbes.reindex(net['microbes_ID'].values).values.flatten()
 edge_types = net.iloc[~np.isnan(ingoingNodesTemp),2].values
 outgoingNodes = outgoingNodes[~np.isnan(ingoingNodesTemp)]
 ingoingNodes = ingoingNodesTemp[~np.isnan(ingoingNodesTemp)].astype(int)
@@ -49,14 +49,14 @@ net_temp['edgeType'][net_temp['edgeType']==5] = 3
 net = net.append(net_temp).drop_duplicates()
 net_ori = net.copy()
 
-metagenome_ID_reduced = df_microbes.loc[metagenome_ID].values.flatten()
+metagenome_ID_reduced = df_microbes.reindex(metagenome_ID).values.flatten()
 metagenome_ID = metagenome_ID_reduced[~np.isnan(metagenome_ID_reduced)].astype(int)
 
-metabolome_ID_reduced = df_metabolites.loc[metabolome_ID].values.flatten()
+metabolome_ID_reduced = df_metabolites.reindex(metabolome_ID).values.flatten()
 metabolome_ID = metabolome_ID_reduced[~np.isnan(metabolome_ID_reduced)].astype(int)
 
 
-i_selfish_reduced = df_microbes.loc[i_selfish].values.flatten()
+i_selfish_reduced = df_microbes.reindex(i_selfish).values.flatten()
 i_selfish = i_selfish_reduced[~np.isnan(i_selfish_reduced)].astype(int)
 
 i_intake_reduced = df_metabolites.loc[i_intake].values.flatten()
